@@ -1,0 +1,34 @@
+/*
+ * Problem #876: Middle of the Linked List
+ * Difficulty: Easy
+ * Submission: Try 3
+ * status: Accepted
+ * Language: cpp
+ * Date: 3/24/2026, 6:33:36 PM
+ * Link: https://leetcode.com/problems/middle-of-the-linked-list/
+ */
+
+/**
+ * Definition for singly-linked list.
+ * struct ListNode {
+ *     int val;
+ *     ListNode *next;
+ *     ListNode() : val(0), next(nullptr) {}
+ *     ListNode(int x) : val(x), next(nullptr) {}
+ *     ListNode(int x, ListNode *next) : val(x), next(next) {}
+ * };
+ */
+class Solution {
+public:
+    ListNode* middleNode(ListNode* head) {
+        ListNode* f=head;
+        ListNode* s=head;
+        while(f->next!=NULL&&f->next->next!=NULL){
+            f=f->next->next;
+            s=s->next;
+        }
+        if(f->next!=NULL)s=s->next;
+        return s;
+
+    }
+};
