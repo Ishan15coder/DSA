@@ -1,0 +1,33 @@
+/*
+ * Problem #104: Maximum Depth of Binary Tree
+ * Difficulty: Easy
+ * Submission: Try 1
+ * status: Accepted
+ * Language: cpp
+ * Date: 5/6/2025, 1:33:03 PM
+ * Link: https://leetcode.com/problems/maximum-depth-of-binary-tree/
+ */
+
+/**
+ * Definition for a binary tree node.
+ * struct TreeNode {
+ *     int val;
+ *     TreeNode *left;
+ *     TreeNode *right;
+ *     TreeNode() : val(0), left(nullptr), right(nullptr) {}
+ *     TreeNode(int x) : val(x), left(nullptr), right(nullptr) {}
+ *     TreeNode(int x, TreeNode *left, TreeNode *right) : val(x), left(left), right(right) {}
+ * };
+ */
+class Solution {
+public:
+    int maxDepth(TreeNode* root) {
+        if(root==NULL){
+            return 0;
+        }
+        int leftht=maxDepth(root->left);
+        int rightht=maxDepth(root->right);
+        int curr=max(leftht,rightht)+1;
+        return curr;
+    }
+};
