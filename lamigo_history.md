@@ -4,6 +4,8 @@ A complete history of all accepted submissions synced by L'Amigo.
 
 | Date | Platform | Problem | Language |
 | :--- | :--- | :--- | :--- |
+| 2026-07-05 | Codeforces | Simple Strings | C++23 (GCC 14-64, msys2) |
+| 2026-07-05 | Leetcode | Sum of Integers with Maximum Digit Range | cpp |
 | 2026-07-03 | Codeforces | Playing in a Casino | C++23 (GCC 14-64, msys2) |
 | 2026-07-03 | Codeforces | Contrast Value | C++23 (GCC 14-64, msys2) |
 | 2026-06-30 | Codeforces | Good times Good times | C++23 (GCC 14-64, msys2) |
