@@ -4,7 +4,7 @@ Showcasing my Data Structures, Algorithms, and Competitive Programming solutions
 
 <p align="center">
   <img src="https://img.shields.io/badge/LeetCode-205_Solved-FFA116?style=for-the-badge&logo=leetcode" alt="LeetCode" />
-  <img src="https://img.shields.io/badge/Codeforces-206_Solved-1F8ACB?style=for-the-badge&logo=codeforces" alt="Codeforces" />
+  <img src="https://img.shields.io/badge/Codeforces-207_Solved-1F8ACB?style=for-the-badge&logo=codeforces" alt="Codeforces" />
   <img src="https://img.shields.io/badge/CSES-0_Solved-000000?style=for-the-badge&logo=code" alt="CSES" />
   <img src="https://img.shields.io/badge/GeeksforGeeks-0_Solved-2F8D46?style=for-the-badge&logo=geeksforgeeks" alt="GeeksforGeeks" />
 </p>
@@ -14,10 +14,10 @@ Showcasing my Data Structures, Algorithms, and Competitive Programming solutions
 | Platform | Solved Count | Solutions Tracked |
 | :--- | :---: | :--- |
 | **LeetCode** | 205 | [ `/LeetCode`](./LeetCode) |
-| **Codeforces** | 206 | [ `/Codeforces`](./Codeforces) |
+| **Codeforces** | 207 | [ `/Codeforces`](./Codeforces) |
 | **CSES Problemset** | 0 | [ `/CSES`](./CSES) |
 | **GeeksforGeeks** | 0 | [ `/GeeksForGeeks`](./GeeksForGeeks) |
-| **Total Solved** | **411** | [ `submission_history.json`](./submission_history.json) |
+| **Total Solved** | **412** | [ `submission_history.json`](./submission_history.json) |
 
 ## Codeforces Rating Breakdown
 
@@ -29,7 +29,7 @@ Showcasing my Data Structures, Algorithms, and Competitive Programming solutions
 | **1400 - 1500** | 0 |
 | **1600 - 1800** | 0 |
 | **1900+** | 0 |
-| **Unrated** | 4 |
+| **Unrated** | 5 |
 
 ## LeetCode Progress Dashboard
 
@@ -39,8 +39,8 @@ Showcasing my Data Structures, Algorithms, and Competitive Programming solutions
 
 | Difficulty | Solved | Progress Bar |
 | :--- | :---: | :--- |
-| **Easy** | 95 | `[█████░░░░░]` (46.6%) |
-| **Medium** | 103 | `[█████░░░░░]` (50.5%) |
+| **Easy** | 96 | `[█████░░░░░]` (46.8%) |
+| **Medium** | 103 | `[█████░░░░░]` (50.2%) |
 | **Hard** | 6 | `[░░░░░░░░░░]` (2.9%) |
 
 ## Top LeetCode Topics
@@ -94,6 +94,7 @@ Showcasing my Data Structures, Algorithms, and Competitive Programming solutions
 | Codeforces | [Beautiful Year](https://codeforces.com/contest/271/problem/A) | C++20 (GCC 13-64) | [View Solution](./Codeforces/271/A) |
 | LeetCode | [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | cpp | [View Solution](./LeetCode/Easy/121-best-time-to-buy-and-sell-stock) |
 | LeetCode | [Best Time to Buy and Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/) | cpp | [View Solution](./LeetCode/Medium/122-best-time-to-buy-and-sell-stock-ii) |
+| Codeforces | [Bigrams](https://codeforces.com/contest/2242/problem/A) | C++23 (GCC 14-64, msys2) | [View Solution](./Codeforces/2242/A) |
 | LeetCode | [Binary Search](https://leetcode.com/problems/binary-search/) | cpp | [View Solution](./LeetCode/Easy/704-binary-search) |
 | LeetCode | [Binary Subarrays With Sum](https://leetcode.com/problems/binary-subarrays-with-sum/) | cpp | [View Solution](./LeetCode/Medium/930-binary-subarrays-with-sum) |
 | LeetCode | [Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/) | cpp | [View Solution](./LeetCode/Easy/94-binary-tree-inorder-traversal) |
