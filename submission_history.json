@@ -1,6 +1,17 @@
 [
   {
     "difficulty": "Easy",
+    "id": "382242584",
+    "lang": "C++23 (GCC 14-64, msys2)",
+    "platform": "codeforces",
+    "rating": 0,
+    "statusDisplay": "Accepted",
+    "timestamp": 1783867563000,
+    "title": "farmpiggie and Subset Sum",
+    "titleSlug": "2246/A"
+  },
+  {
+    "difficulty": "Easy",
     "id": "381506256",
     "lang": "C++23 (GCC 14-64, msys2)",
     "platform": "codeforces",
@@ -4160,12 +4171,12 @@
     "titleSlug": "valid-anagram"
   },
   {
-    "title": "farmpiggie and Subset Sum",
-    "titleSlug": "2246/A",
-    "timestamp": 1783867563000,
+    "title": "ezraft and Array",
+    "titleSlug": "2246/B",
+    "timestamp": 1783868162000,
     "statusDisplay": "Accepted",
     "lang": "C++23 (GCC 14-64, msys2)",
-    "id": "382242584",
+    "id": "382251325",
     "platform": "codeforces",
     "difficulty": "Easy",
     "rating": 0
