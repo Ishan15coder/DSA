@@ -4,7 +4,7 @@ Showcasing my Data Structures, Algorithms, and Competitive Programming solutions
 
 <p align="center">
   <img src="https://img.shields.io/badge/LeetCode-205_Solved-FFA116?style=for-the-badge&logo=leetcode" alt="LeetCode" />
-  <img src="https://img.shields.io/badge/Codeforces-207_Solved-1F8ACB?style=for-the-badge&logo=codeforces" alt="Codeforces" />
+  <img src="https://img.shields.io/badge/Codeforces-209_Solved-1F8ACB?style=for-the-badge&logo=codeforces" alt="Codeforces" />
   <img src="https://img.shields.io/badge/CSES-0_Solved-000000?style=for-the-badge&logo=code" alt="CSES" />
   <img src="https://img.shields.io/badge/GeeksforGeeks-0_Solved-2F8D46?style=for-the-badge&logo=geeksforgeeks" alt="GeeksforGeeks" />
 </p>
@@ -14,10 +14,10 @@ Showcasing my Data Structures, Algorithms, and Competitive Programming solutions
 | Platform | Solved Count | Solutions Tracked |
 | :--- | :---: | :--- |
 | **LeetCode** | 205 | [ `/LeetCode`](./LeetCode) |
-| **Codeforces** | 207 | [ `/Codeforces`](./Codeforces) |
+| **Codeforces** | 209 | [ `/Codeforces`](./Codeforces) |
 | **CSES Problemset** | 0 | [ `/CSES`](./CSES) |
 | **GeeksforGeeks** | 0 | [ `/GeeksForGeeks`](./GeeksForGeeks) |
-| **Total Solved** | **412** | [ `submission_history.json`](./submission_history.json) |
+| **Total Solved** | **414** | [ `submission_history.json`](./submission_history.json) |
 
 ## Codeforces Rating Breakdown
 
@@ -29,7 +29,7 @@ Showcasing my Data Structures, Algorithms, and Competitive Programming solutions
 | **1400 - 1500** | 0 |
 | **1600 - 1800** | 0 |
 | **1900+** | 0 |
-| **Unrated** | 5 |
+| **Unrated** | 7 |
 
 ## LeetCode Progress Dashboard
 
@@ -170,6 +170,7 @@ Showcasing my Data Structures, Algorithms, and Competitive Programming solutions
 | Codeforces | [Exciting Bets](https://codeforces.com/contest/1543/problem/A) | C++23 (GCC 14-64, msys2) | [View Solution](./Codeforces/1543/A) |
 | Codeforces | [Extremely Round](https://codeforces.com/contest/1766/problem/A) | C++20 (GCC 13-64) | [View Solution](./Codeforces/1766/A) |
 | Codeforces | [Fair Numbers](https://codeforces.com/contest/1411/problem/B) | C++23 (GCC 14-64, msys2) | [View Solution](./Codeforces/1411/B) |
+| Codeforces | [farmpiggie and Subset Sum](https://codeforces.com/contest/2246/problem/A) | C++23 (GCC 14-64, msys2) | [View Solution](./Codeforces/2246/A) |
 | Codeforces | [Feed the cat](https://codeforces.com/contest/955/problem/A) | C++23 (GCC 14-64, msys2) | [View Solution](./Codeforces/955/A) |
 | LeetCode | [Fibonacci Number](https://leetcode.com/problems/fibonacci-number/) | cpp | [View Solution](./LeetCode/Easy/509-fibonacci-number) |
 | LeetCode | [Find All Anagrams in a String](https://leetcode.com/problems/find-all-anagrams-in-a-string/) | cpp | [View Solution](./LeetCode/Medium/438-find-all-anagrams-in-a-string) |
@@ -342,6 +343,7 @@ Showcasing my Data Structures, Algorithms, and Competitive Programming solutions
 | LeetCode | [Pow(x, n)](https://leetcode.com/problems/powx-n/) | cpp | [View Solution](./LeetCode/Medium/50-powx-n) |
 | LeetCode | [Power of Four](https://leetcode.com/problems/power-of-four/) | cpp | [View Solution](./LeetCode/Easy/342-power-of-four) |
 | LeetCode | [Power of Two](https://leetcode.com/problems/power-of-two/) | cpp | [View Solution](./LeetCode/Easy/231-power-of-two) |
+| Codeforces | [Predominant Frequency Division](https://codeforces.com/contest/2242/problem/B) | C++23 (GCC 14-64, msys2) | [View Solution](./Codeforces/2242/B) |
 | Codeforces | [Prefix Max](https://codeforces.com/contest/2185/problem/B) | C++23 (GCC 14-64, msys2) | [View Solution](./Codeforces/2185/B) |
 | Codeforces | [Prepend and Append](https://codeforces.com/contest/1791/problem/C) | C++20 (GCC 13-64) | [View Solution](./Codeforces/1791/C) |
 | Codeforces | [Product of Three Numbers](https://codeforces.com/contest/1294/problem/C) | C++23 (GCC 14-64, msys2) | [View Solution](./Codeforces/1294/C) |
