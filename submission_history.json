@@ -1,5 +1,27 @@
 [
   {
+    "difficulty": "Easy",
+    "id": "381506256",
+    "lang": "C++23 (GCC 14-64, msys2)",
+    "platform": "codeforces",
+    "rating": 0,
+    "statusDisplay": "Accepted",
+    "timestamp": 1783354075000,
+    "title": "Predominant Frequency Division",
+    "titleSlug": "2242/B"
+  },
+  {
+    "difficulty": "Easy",
+    "id": "381464021",
+    "lang": "C++23 (GCC 14-64, msys2)",
+    "platform": "codeforces",
+    "rating": 0,
+    "statusDisplay": "Accepted",
+    "timestamp": 1783349175000,
+    "title": "Bigrams",
+    "titleSlug": "2242/A"
+  },
+  {
     "difficulty": "Medium",
     "id": "381292206",
     "lang": "C++23 (GCC 14-64, msys2)",
@@ -4138,12 +4160,12 @@
     "titleSlug": "valid-anagram"
   },
   {
-    "title": "Bigrams",
-    "titleSlug": "2242/A",
-    "timestamp": 1783349175000,
+    "title": "farmpiggie and Subset Sum",
+    "titleSlug": "2246/A",
+    "timestamp": 1783867563000,
     "statusDisplay": "Accepted",
     "lang": "C++23 (GCC 14-64, msys2)",
-    "id": "381464021",
+    "id": "382242584",
     "platform": "codeforces",
     "difficulty": "Easy",
     "rating": 0
