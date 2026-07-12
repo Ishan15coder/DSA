@@ -4,7 +4,7 @@ Showcasing my Data Structures, Algorithms, and Competitive Programming solutions
 
 <p align="center">
   <img src="https://img.shields.io/badge/LeetCode-205_Solved-FFA116?style=for-the-badge&logo=leetcode" alt="LeetCode" />
-  <img src="https://img.shields.io/badge/Codeforces-209_Solved-1F8ACB?style=for-the-badge&logo=codeforces" alt="Codeforces" />
+  <img src="https://img.shields.io/badge/Codeforces-210_Solved-1F8ACB?style=for-the-badge&logo=codeforces" alt="Codeforces" />
   <img src="https://img.shields.io/badge/CSES-0_Solved-000000?style=for-the-badge&logo=code" alt="CSES" />
   <img src="https://img.shields.io/badge/GeeksforGeeks-0_Solved-2F8D46?style=for-the-badge&logo=geeksforgeeks" alt="GeeksforGeeks" />
 </p>
@@ -14,10 +14,10 @@ Showcasing my Data Structures, Algorithms, and Competitive Programming solutions
 | Platform | Solved Count | Solutions Tracked |
 | :--- | :---: | :--- |
 | **LeetCode** | 205 | [ `/LeetCode`](./LeetCode) |
-| **Codeforces** | 209 | [ `/Codeforces`](./Codeforces) |
+| **Codeforces** | 210 | [ `/Codeforces`](./Codeforces) |
 | **CSES Problemset** | 0 | [ `/CSES`](./CSES) |
 | **GeeksforGeeks** | 0 | [ `/GeeksForGeeks`](./GeeksForGeeks) |
-| **Total Solved** | **414** | [ `submission_history.json`](./submission_history.json) |
+| **Total Solved** | **415** | [ `submission_history.json`](./submission_history.json) |
 
 ## Codeforces Rating Breakdown
 
@@ -29,7 +29,7 @@ Showcasing my Data Structures, Algorithms, and Competitive Programming solutions
 | **1400 - 1500** | 0 |
 | **1600 - 1800** | 0 |
 | **1900+** | 0 |
-| **Unrated** | 7 |
+| **Unrated** | 8 |
 
 ## LeetCode Progress Dashboard
 
@@ -169,6 +169,7 @@ Showcasing my Data Structures, Algorithms, and Competitive Programming solutions
 | Codeforces | [Everybody Likes Good Arrays!](https://codeforces.com/contest/1777/problem/A) | C++20 (GCC 13-64) | [View Solution](./Codeforces/1777/A) |
 | Codeforces | [Exciting Bets](https://codeforces.com/contest/1543/problem/A) | C++23 (GCC 14-64, msys2) | [View Solution](./Codeforces/1543/A) |
 | Codeforces | [Extremely Round](https://codeforces.com/contest/1766/problem/A) | C++20 (GCC 13-64) | [View Solution](./Codeforces/1766/A) |
+| Codeforces | [ezraft and Array](https://codeforces.com/contest/2246/problem/B) | C++23 (GCC 14-64, msys2) | [View Solution](./Codeforces/2246/B) |
 | Codeforces | [Fair Numbers](https://codeforces.com/contest/1411/problem/B) | C++23 (GCC 14-64, msys2) | [View Solution](./Codeforces/1411/B) |
 | Codeforces | [farmpiggie and Subset Sum](https://codeforces.com/contest/2246/problem/A) | C++23 (GCC 14-64, msys2) | [View Solution](./Codeforces/2246/A) |
 | Codeforces | [Feed the cat](https://codeforces.com/contest/955/problem/A) | C++23 (GCC 14-64, msys2) | [View Solution](./Codeforces/955/A) |
