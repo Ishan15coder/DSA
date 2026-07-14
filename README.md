@@ -4,7 +4,7 @@ Showcasing my Data Structures, Algorithms, and Competitive Programming solutions
 
 <p align="center">
   <img src="https://img.shields.io/badge/LeetCode-205_Solved-FFA116?style=for-the-badge&logo=leetcode" alt="LeetCode" />
-  <img src="https://img.shields.io/badge/Codeforces-210_Solved-1F8ACB?style=for-the-badge&logo=codeforces" alt="Codeforces" />
+  <img src="https://img.shields.io/badge/Codeforces-211_Solved-1F8ACB?style=for-the-badge&logo=codeforces" alt="Codeforces" />
   <img src="https://img.shields.io/badge/CSES-0_Solved-000000?style=for-the-badge&logo=code" alt="CSES" />
   <img src="https://img.shields.io/badge/GeeksforGeeks-0_Solved-2F8D46?style=for-the-badge&logo=geeksforgeeks" alt="GeeksforGeeks" />
 </p>
@@ -14,10 +14,10 @@ Showcasing my Data Structures, Algorithms, and Competitive Programming solutions
 | Platform | Solved Count | Solutions Tracked |
 | :--- | :---: | :--- |
 | **LeetCode** | 205 | [ `/LeetCode`](./LeetCode) |
-| **Codeforces** | 210 | [ `/Codeforces`](./Codeforces) |
+| **Codeforces** | 211 | [ `/Codeforces`](./Codeforces) |
 | **CSES Problemset** | 0 | [ `/CSES`](./CSES) |
 | **GeeksforGeeks** | 0 | [ `/GeeksForGeeks`](./GeeksForGeeks) |
-| **Total Solved** | **415** | [ `submission_history.json`](./submission_history.json) |
+| **Total Solved** | **416** | [ `submission_history.json`](./submission_history.json) |
 
 ## Codeforces Rating Breakdown
 
@@ -29,7 +29,7 @@ Showcasing my Data Structures, Algorithms, and Competitive Programming solutions
 | **1400 - 1500** | 0 |
 | **1600 - 1800** | 0 |
 | **1900+** | 0 |
-| **Unrated** | 8 |
+| **Unrated** | 9 |
 
 ## LeetCode Progress Dashboard
 
@@ -221,6 +221,7 @@ Showcasing my Data Structures, Algorithms, and Competitive Programming solutions
 | Codeforces | [IQ test](https://codeforces.com/contest/25/problem/A) | C++23 (GCC 14-64, msys2) | [View Solution](./Codeforces/25/A) |
 | LeetCode | [Is Graph Bipartite?](https://leetcode.com/problems/is-graph-bipartite/) | cpp | [View Solution](./LeetCode/Medium/785-is-graph-bipartite) |
 | Codeforces | [Isamatdin and His Magic Wand!](https://codeforces.com/contest/2167/problem/C) | C++23 (GCC 14-64, msys2) | [View Solution](./Codeforces/2167/C) |
+| Codeforces | [Iskander and Drawings](https://codeforces.com/contest/2244/problem/A) | C++23 (GCC 14-64, msys2) | [View Solution](./Codeforces/2244/A) |
 | LeetCode | [Isomorphic Strings](https://leetcode.com/problems/isomorphic-strings/) | cpp | [View Solution](./LeetCode/Easy/205-isomorphic-strings) |
 | Codeforces | [Jagged Swaps](https://codeforces.com/contest/1896/problem/A) | C++20 (GCC 13-64) | [View Solution](./Codeforces/1896/A) |
 | Codeforces | [Jellyfish and Undertale](https://codeforces.com/contest/1875/problem/A) | C++23 (GCC 14-64, msys2) | [View Solution](./Codeforces/1875/A) |
