@@ -4,6 +4,7 @@ A complete history of all accepted submissions synced by L'Amigo.
 
 | Date | Platform | Problem | Language |
 | :--- | :--- | :--- | :--- |
+| 2026-07-14 | Codeforces | Iskander and Drawings | C++23 (GCC 14-64, msys2) |
 | 2026-07-12 | Codeforces | ezraft and Array | C++23 (GCC 14-64, msys2) |
 | 2026-07-12 | Codeforces | farmpiggie and Subset Sum | C++23 (GCC 14-64, msys2) |
 | 2026-07-06 | Codeforces | Predominant Frequency Division | C++23 (GCC 14-64, msys2) |
