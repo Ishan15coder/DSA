@@ -4,7 +4,7 @@ Showcasing my Data Structures, Algorithms, and Competitive Programming solutions
 
 <p align="center">
   <img src="https://img.shields.io/badge/LeetCode-205_Solved-FFA116?style=for-the-badge&logo=leetcode" alt="LeetCode" />
-  <img src="https://img.shields.io/badge/Codeforces-214_Solved-1F8ACB?style=for-the-badge&logo=codeforces" alt="Codeforces" />
+  <img src="https://img.shields.io/badge/Codeforces-215_Solved-1F8ACB?style=for-the-badge&logo=codeforces" alt="Codeforces" />
   <img src="https://img.shields.io/badge/CSES-0_Solved-000000?style=for-the-badge&logo=code" alt="CSES" />
   <img src="https://img.shields.io/badge/GeeksforGeeks-0_Solved-2F8D46?style=for-the-badge&logo=geeksforgeeks" alt="GeeksforGeeks" />
 </p>
@@ -14,10 +14,10 @@ Showcasing my Data Structures, Algorithms, and Competitive Programming solutions
 | Platform | Solved Count | Solutions Tracked |
 | :--- | :---: | :--- |
 | **LeetCode** | 205 | [ `/LeetCode`](./LeetCode) |
-| **Codeforces** | 214 | [ `/Codeforces`](./Codeforces) |
+| **Codeforces** | 215 | [ `/Codeforces`](./Codeforces) |
 | **CSES Problemset** | 0 | [ `/CSES`](./CSES) |
 | **GeeksforGeeks** | 0 | [ `/GeeksForGeeks`](./GeeksForGeeks) |
-| **Total Solved** | **419** | [ `submission_history.json`](./submission_history.json) |
+| **Total Solved** | **420** | [ `submission_history.json`](./submission_history.json) |
 
 ## Codeforces Rating Breakdown
 
@@ -29,7 +29,7 @@ Showcasing my Data Structures, Algorithms, and Competitive Programming solutions
 | **1400 - 1500** | 0 |
 | **1600 - 1800** | 0 |
 | **1900+** | 0 |
-| **Unrated** | 12 |
+| **Unrated** | 13 |
 
 ## LeetCode Progress Dashboard
 
@@ -139,6 +139,7 @@ Showcasing my Data Structures, Algorithms, and Competitive Programming solutions
 | Codeforces | [Cover in Water](https://codeforces.com/contest/1900/problem/A) | C++20 (GCC 13-64) | [View Solution](./Codeforces/1900/A) |
 | Codeforces | [DBMB and the Array](https://codeforces.com/contest/2193/problem/A) | C++23 (GCC 14-64, msys2) | [View Solution](./Codeforces/2193/A) |
 | Codeforces | [Deja Vu](https://codeforces.com/contest/1891/problem/B) | C++23 (GCC 14-64, msys2) | [View Solution](./Codeforces/1891/B) |
+| Codeforces | [Delete and Concatenate](https://codeforces.com/contest/2245/problem/B) | C++23 (GCC 14-64, msys2) | [View Solution](./Codeforces/2245/B) |
 | LeetCode | [Delete Node in a BST](https://leetcode.com/problems/delete-node-in-a-bst/) | cpp | [View Solution](./LeetCode/Medium/450-delete-node-in-a-bst) |
 | LeetCode | [Delete Node in a Linked List](https://leetcode.com/problems/delete-node-in-a-linked-list/) | cpp | [View Solution](./LeetCode/Medium/237-delete-node-in-a-linked-list) |
 | LeetCode | [Delete the Middle Node of a Linked List](https://leetcode.com/problems/delete-the-middle-node-of-a-linked-list/) | cpp | [View Solution](./LeetCode/Medium/2095-delete-the-middle-node-of-a-linked-list) |
