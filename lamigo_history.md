@@ -4,6 +4,7 @@ A complete history of all accepted submissions synced by L'Amigo.
 
 | Date | Platform | Problem | Language |
 | :--- | :--- | :--- | :--- |
+| 2026-07-16 | Codeforces | Delete and Concatenate | C++23 (GCC 14-64, msys2) |
 | 2026-07-16 | Codeforces | Who Watches the Watchpig? | C++23 (GCC 14-64, msys2) |
 | 2026-07-14 | Codeforces | Stepan and Permutation | C++23 (GCC 14-64, msys2) |
 | 2026-07-14 | Codeforces | Nikita and Books | C++23 (GCC 14-64, msys2) |
