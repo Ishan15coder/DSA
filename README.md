@@ -4,7 +4,7 @@ Showcasing my Data Structures, Algorithms, and Competitive Programming solutions
 
 <p align="center">
   <img src="https://img.shields.io/badge/LeetCode-205_Solved-FFA116?style=for-the-badge&logo=leetcode" alt="LeetCode" />
-  <img src="https://img.shields.io/badge/Codeforces-213_Solved-1F8ACB?style=for-the-badge&logo=codeforces" alt="Codeforces" />
+  <img src="https://img.shields.io/badge/Codeforces-214_Solved-1F8ACB?style=for-the-badge&logo=codeforces" alt="Codeforces" />
   <img src="https://img.shields.io/badge/CSES-0_Solved-000000?style=for-the-badge&logo=code" alt="CSES" />
   <img src="https://img.shields.io/badge/GeeksforGeeks-0_Solved-2F8D46?style=for-the-badge&logo=geeksforgeeks" alt="GeeksforGeeks" />
 </p>
@@ -14,10 +14,10 @@ Showcasing my Data Structures, Algorithms, and Competitive Programming solutions
 | Platform | Solved Count | Solutions Tracked |
 | :--- | :---: | :--- |
 | **LeetCode** | 205 | [ `/LeetCode`](./LeetCode) |
-| **Codeforces** | 213 | [ `/Codeforces`](./Codeforces) |
+| **Codeforces** | 214 | [ `/Codeforces`](./Codeforces) |
 | **CSES Problemset** | 0 | [ `/CSES`](./CSES) |
 | **GeeksforGeeks** | 0 | [ `/GeeksForGeeks`](./GeeksForGeeks) |
-| **Total Solved** | **418** | [ `submission_history.json`](./submission_history.json) |
+| **Total Solved** | **419** | [ `submission_history.json`](./submission_history.json) |
 
 ## Codeforces Rating Breakdown
 
@@ -29,7 +29,7 @@ Showcasing my Data Structures, Algorithms, and Competitive Programming solutions
 | **1400 - 1500** | 0 |
 | **1600 - 1800** | 0 |
 | **1900+** | 0 |
-| **Unrated** | 11 |
+| **Unrated** | 12 |
 
 ## LeetCode Progress Dashboard
 
@@ -473,6 +473,7 @@ Showcasing my Data Structures, Algorithms, and Competitive Programming solutions
 | Codeforces | [Way Too Long Words](https://codeforces.com/contest/71/problem/A) | C++20 (GCC 13-64) | [View Solution](./Codeforces/71/A) |
 | Codeforces | [We Need the Zero](https://codeforces.com/contest/1805/problem/A) | C++20 (GCC 13-64) | [View Solution](./Codeforces/1805/A) |
 | LeetCode | [Weighted Word Mapping](https://leetcode.com/problems/weighted-word-mapping/) | cpp | [View Solution](./LeetCode/Easy/3838-weighted-word-mapping) |
+| Codeforces | [Who Watches the Watchpig?](https://codeforces.com/contest/2245/problem/A) | C++23 (GCC 14-64, msys2) | [View Solution](./Codeforces/2245/A) |
 | LeetCode | [Word Break](https://leetcode.com/problems/word-break/) | cpp | [View Solution](./LeetCode/Medium/139-word-break) |
 | LeetCode | [Word Ladder](https://leetcode.com/problems/word-ladder/) | cpp | [View Solution](./LeetCode/Hard/127-word-ladder) |
 | Codeforces | [XORinacci](https://codeforces.com/contest/1208/problem/A) | C++23 (GCC 14-64, msys2) | [View Solution](./Codeforces/1208/A) |
