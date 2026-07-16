@@ -1,5 +1,16 @@
 [
   {
+    "difficulty": "Easy",
+    "id": "382967110",
+    "lang": "C++23 (GCC 14-64, msys2)",
+    "platform": "codeforces",
+    "rating": 0,
+    "statusDisplay": "Accepted",
+    "timestamp": 1784214234000,
+    "title": "Who Watches the Watchpig?",
+    "titleSlug": "2245/A"
+  },
+  {
     "difficulty": "Medium",
     "id": "382660057",
     "lang": "C++23 (GCC 14-64, msys2)",
@@ -4215,12 +4226,12 @@
     "titleSlug": "valid-anagram"
   },
   {
-    "title": "Who Watches the Watchpig?",
-    "titleSlug": "2245/A",
-    "timestamp": 1784214234000,
+    "title": "Delete and Concatenate",
+    "titleSlug": "2245/B",
+    "timestamp": 1784216443000,
     "statusDisplay": "Accepted",
     "lang": "C++23 (GCC 14-64, msys2)",
-    "id": "382967110",
+    "id": "382983893",
     "platform": "codeforces",
     "difficulty": "Easy",
     "rating": 0
