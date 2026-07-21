@@ -1,5 +1,13 @@
 [
   {
+    "id": "2074790844",
+    "lang": "cpp",
+    "statusDisplay": "Accepted",
+    "timestamp": 1784563725000,
+    "title": "Valid Parentheses",
+    "titleSlug": "valid-parentheses"
+  },
+  {
     "difficulty": "Easy",
     "id": "382983893",
     "lang": "C++23 (GCC 14-64, msys2)",
@@ -4237,10 +4245,18 @@
     "titleSlug": "valid-anagram"
   },
   {
-    "id": "2074790844",
-    "title": "Valid Parentheses",
-    "titleSlug": "valid-parentheses",
-    "timestamp": 1784563725000,
+    "id": "2075236770",
+    "title": "Next Greater Element II",
+    "titleSlug": "next-greater-element-ii",
+    "timestamp": 1784605295000,
+    "lang": "cpp",
+    "statusDisplay": "Accepted"
+  },
+  {
+    "id": "2075198358",
+    "title": "Next Greater Element I",
+    "titleSlug": "next-greater-element-i",
+    "timestamp": 1784601168000,
     "lang": "cpp",
     "statusDisplay": "Accepted"
   }
