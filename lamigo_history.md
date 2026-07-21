@@ -4,6 +4,8 @@ A complete history of all accepted submissions synced by L'Amigo.
 
 | Date | Platform | Problem | Language |
 | :--- | :--- | :--- | :--- |
+| 2026-07-21 | Leetcode | Next Greater Element II | cpp |
+| 2026-07-21 | Leetcode | Next Greater Element I | cpp |
 | 2026-07-20 | Leetcode | Valid Parentheses | cpp |
 | 2026-07-16 | Codeforces | Delete and Concatenate | C++23 (GCC 14-64, msys2) |
 | 2026-07-16 | Codeforces | Who Watches the Watchpig? | C++23 (GCC 14-64, msys2) |
