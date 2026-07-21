@@ -3,7 +3,7 @@
 Showcasing my Data Structures, Algorithms, and Competitive Programming solutions synced automatically by [L'Amigo](https://github.com/FTS18/l-amigo).
 
 <p align="center">
-  <img src="https://img.shields.io/badge/LeetCode-205_Solved-FFA116?style=for-the-badge&logo=leetcode" alt="LeetCode" />
+  <img src="https://img.shields.io/badge/LeetCode-207_Solved-FFA116?style=for-the-badge&logo=leetcode" alt="LeetCode" />
   <img src="https://img.shields.io/badge/Codeforces-215_Solved-1F8ACB?style=for-the-badge&logo=codeforces" alt="Codeforces" />
   <img src="https://img.shields.io/badge/CSES-0_Solved-000000?style=for-the-badge&logo=code" alt="CSES" />
   <img src="https://img.shields.io/badge/GeeksforGeeks-0_Solved-2F8D46?style=for-the-badge&logo=geeksforgeeks" alt="GeeksforGeeks" />
@@ -13,11 +13,11 @@ Showcasing my Data Structures, Algorithms, and Competitive Programming solutions
 
 | Platform | Solved Count | Solutions Tracked |
 | :--- | :---: | :--- |
-| **LeetCode** | 205 | [ `/LeetCode`](./LeetCode) |
+| **LeetCode** | 207 | [ `/LeetCode`](./LeetCode) |
 | **Codeforces** | 215 | [ `/Codeforces`](./Codeforces) |
 | **CSES Problemset** | 0 | [ `/CSES`](./CSES) |
 | **GeeksforGeeks** | 0 | [ `/GeeksForGeeks`](./GeeksForGeeks) |
-| **Total Solved** | **420** | [ `submission_history.json`](./submission_history.json) |
+| **Total Solved** | **422** | [ `submission_history.json`](./submission_history.json) |
 
 ## Codeforces Rating Breakdown
 
@@ -39,17 +39,17 @@ Showcasing my Data Structures, Algorithms, and Competitive Programming solutions
 
 | Difficulty | Solved | Progress Bar |
 | :--- | :---: | :--- |
-| **Easy** | 96 | `[█████░░░░░]` (46.8%) |
-| **Medium** | 103 | `[█████░░░░░]` (50.2%) |
+| **Easy** | 97 | `[█████░░░░░]` (47.1%) |
+| **Medium** | 103 | `[█████░░░░░]` (50.0%) |
 | **Hard** | 6 | `[░░░░░░░░░░]` (2.9%) |
 
 ## Top LeetCode Topics
 
 | Topic | Solved |
 | :--- | :--- |
-| Array | 116 |
+| Array | 117 |
 | String | 46 |
-| Hash Table | 43 |
+| Hash Table | 44 |
 | Two Pointers | 34 |
 | Math | 31 |
 | Binary Search | 29 |
@@ -306,6 +306,8 @@ Showcasing my Data Structures, Algorithms, and Competitive Programming solutions
 | LeetCode | [Move Zeroes](https://leetcode.com/problems/move-zeroes/) | cpp | [View Solution](./LeetCode/Easy/283-move-zeroes) |
 | Codeforces | [Multiply by 2, divide by 6](https://codeforces.com/contest/1374/problem/B) | C++23 (GCC 14-64, msys2) | [View Solution](./Codeforces/1374/B) |
 | Codeforces | [Negatives and Positives](https://codeforces.com/contest/1791/problem/E) | C++23 (GCC 14-64, msys2) | [View Solution](./Codeforces/1791/E) |
+| LeetCode | [Next Greater Element I](https://leetcode.com/problems/next-greater-element-i/) | cpp | [View Solution](./LeetCode/Unknown/next-greater-element-i) |
+| LeetCode | [Next Greater Element II](https://leetcode.com/problems/next-greater-element-ii/) | cpp | [View Solution](./LeetCode/Medium/503-next-greater-element-ii) |
 | LeetCode | [Next Permutation](https://leetcode.com/problems/next-permutation/) | cpp | [View Solution](./LeetCode/Medium/31-next-permutation) |
 | Codeforces | [Nikita and Books](https://codeforces.com/contest/2244/problem/B) | C++23 (GCC 14-64, msys2) | [View Solution](./Codeforces/2244/B) |
 | Codeforces | [NIT Destroys the Universe](https://codeforces.com/contest/1696/problem/B) | C++23 (GCC 14-64, msys2) | [View Solution](./Codeforces/1696/B) |
