@@ -4,6 +4,7 @@ A complete history of all accepted submissions synced by L'Amigo.
 
 | Date | Platform | Problem | Language |
 | :--- | :--- | :--- | :--- |
+| 2026-07-21 | Leetcode | Trapping Rain Water | cpp |
 | 2026-07-21 | Leetcode | Next Greater Element II | cpp |
 | 2026-07-21 | Leetcode | Next Greater Element I | cpp |
 | 2026-07-20 | Leetcode | Valid Parentheses | cpp |
