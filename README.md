@@ -4,7 +4,7 @@ Showcasing my Data Structures, Algorithms, and Competitive Programming solutions
 
 <p align="center">
   <img src="https://img.shields.io/badge/LeetCode-209_Solved-FFA116?style=for-the-badge&logo=leetcode" alt="LeetCode" />
-  <img src="https://img.shields.io/badge/Codeforces-216_Solved-1F8ACB?style=for-the-badge&logo=codeforces" alt="Codeforces" />
+  <img src="https://img.shields.io/badge/Codeforces-217_Solved-1F8ACB?style=for-the-badge&logo=codeforces" alt="Codeforces" />
   <img src="https://img.shields.io/badge/CSES-0_Solved-000000?style=for-the-badge&logo=code" alt="CSES" />
   <img src="https://img.shields.io/badge/GeeksforGeeks-0_Solved-2F8D46?style=for-the-badge&logo=geeksforgeeks" alt="GeeksforGeeks" />
 </p>
@@ -14,10 +14,10 @@ Showcasing my Data Structures, Algorithms, and Competitive Programming solutions
 | Platform | Solved Count | Solutions Tracked |
 | :--- | :---: | :--- |
 | **LeetCode** | 209 | [ `/LeetCode`](./LeetCode) |
-| **Codeforces** | 216 | [ `/Codeforces`](./Codeforces) |
+| **Codeforces** | 217 | [ `/Codeforces`](./Codeforces) |
 | **CSES Problemset** | 0 | [ `/CSES`](./CSES) |
 | **GeeksforGeeks** | 0 | [ `/GeeksForGeeks`](./GeeksForGeeks) |
-| **Total Solved** | **425** | [ `submission_history.json`](./submission_history.json) |
+| **Total Solved** | **426** | [ `submission_history.json`](./submission_history.json) |
 
 ## Codeforces Rating Breakdown
 
@@ -29,7 +29,7 @@ Showcasing my Data Structures, Algorithms, and Competitive Programming solutions
 | **1400 - 1500** | 0 |
 | **1600 - 1800** | 0 |
 | **1900+** | 0 |
-| **Unrated** | 14 |
+| **Unrated** | 15 |
 
 ## LeetCode Progress Dashboard
 
@@ -425,6 +425,7 @@ Showcasing my Data Structures, Algorithms, and Competitive Programming solutions
 | LeetCode | [Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/) | cpp | [View Solution](./LeetCode/Easy/977-squares-of-a-sorted-array) |
 | Codeforces | [Stepan and Permutation](https://codeforces.com/contest/2244/problem/C) | C++23 (GCC 14-64, msys2) | [View Solution](./Codeforces/2244/C) |
 | Codeforces | [Strange Partition](https://codeforces.com/contest/1471/problem/A) | C++23 (GCC 14-64, msys2) | [View Solution](./Codeforces/1471/A) |
+| Codeforces | [String Construction](https://codeforces.com/contest/2250/problem/B) | C++23 (GCC 14-64, msys2) | [View Solution](./Codeforces/2250/B) |
 | Codeforces | [String Task](https://codeforces.com/contest/118/problem/A) | C++20 (GCC 13-64) | [View Solution](./Codeforces/118/A) |
 | LeetCode | [String to Integer (atoi)](https://leetcode.com/problems/string-to-integer-atoi/) | cpp | [View Solution](./LeetCode/Medium/8-string-to-integer-atoi) |
 | LeetCode | [Subarray Product Less Than K](https://leetcode.com/problems/subarray-product-less-than-k/) | cpp | [View Solution](./LeetCode/Medium/713-subarray-product-less-than-k) |
