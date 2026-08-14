@@ -1,0 +1,183 @@
+{
+  "darkMode": true,
+  "friend_identities_v2": [
+    {
+      "accounts": [
+        {
+          "handle": "ananaydubey",
+          "lastFetched": 1782304772161,
+          "platform": "codeforces",
+          "status": "active"
+        }
+      ],
+      "addedAt": 1782304772161,
+      "aliases": [],
+      "displayName": "ananaydubey",
+      "id": "474c7da6-10da-4336-b6e9-303489edfc6d",
+      "updatedAt": 1782304772161
+    },
+    {
+      "accounts": [
+        {
+          "handle": "akgvs",
+          "lastFetched": 1782304916194,
+          "platform": "leetcode",
+          "status": "active"
+        },
+        {
+          "handle": "Aditya_Kumar_Gupta",
+          "lastFetched": 1782304916194,
+          "platform": "codeforces",
+          "status": "active"
+        }
+      ],
+      "addedAt": 1782304881885,
+      "aliases": [],
+      "displayName": "Aditya",
+      "id": "80738fc2-34be-48cd-a711-2aad5bcc405a",
+      "updatedAt": 1782304916195
+    },
+    {
+      "accounts": [
+        {
+          "handle": "shikharyadav07",
+          "lastFetched": 1782305192243,
+          "platform": "leetcode",
+          "status": "active"
+        },
+        {
+          "handle": "Shikharyadav595",
+          "lastFetched": 1782305192243,
+          "platform": "codeforces",
+          "status": "active"
+        }
+      ],
+      "addedAt": 1782305192243,
+      "aliases": [],
+      "displayName": "shikharyadav07",
+      "id": "ceffbbfa-2fed-4a83-b121-ff784fd063b9",
+      "updatedAt": 1782305192243
+    },
+    {
+      "accounts": [
+        {
+          "handle": "Ishan15_45",
+          "lastFetched": 1782305526488,
+          "platform": "codeforces",
+          "status": "active"
+        }
+      ],
+      "addedAt": 1782305526488,
+      "aliases": [],
+      "displayName": "Ishan15_45",
+      "id": "a12b83e2-d49d-489b-b6a2-d10c7eba50a6",
+      "updatedAt": 1782305526488
+    },
+    {
+      "accounts": [
+        {
+          "handle": "AV_PIKACHU",
+          "lastFetched": 1786723191064,
+          "platform": "codeforces",
+          "status": "active"
+        }
+      ],
+      "addedAt": 1786723191064,
+      "aliases": [],
+      "displayName": "AV_PIKACHU",
+      "id": "dd1ee334-030c-4ed1-bf69-b26355ae3de0",
+      "updatedAt": 1786723191064
+    }
+  ],
+  "own_codeforces_handle": "ishan15_45",
+  "own_username": "9ki7hjbrkp",
+  "sync_history": [
+    {
+      "problems": [
+        "String Construction",
+        "Threshold Movement"
+      ],
+      "problemsSynced": 2,
+      "status": "success",
+      "timestamp": 1785079471987
+    },
+    {
+      "problems": [
+        "Asteroid Collision"
+      ],
+      "problemsSynced": 1,
+      "status": "success",
+      "timestamp": 1785078657237
+    },
+    {
+      "problems": [
+        "Trapping Rain Water"
+      ],
+      "problemsSynced": 1,
+      "status": "success",
+      "timestamp": 1784696522145
+    },
+    {
+      "problems": [
+        "Next Greater Element I"
+      ],
+      "problemsSynced": 1,
+      "status": "success",
+      "timestamp": 1784608593566
+    },
+    {
+      "problems": [
+        "Next Greater Element II"
+      ],
+      "problemsSynced": 1,
+      "status": "success",
+      "timestamp": 1784605317989
+    },
+    {
+      "problems": [
+        "Valid Parentheses"
+      ],
+      "problemsSynced": 1,
+      "status": "success",
+      "timestamp": 1784567605080
+    },
+    {
+      "problems": [
+        "Delete and Concatenate"
+      ],
+      "problemsSynced": 1,
+      "status": "success",
+      "timestamp": 1784216574686
+    },
+    {
+      "problems": [
+        "Who Watches the Watchpig?",
+        "Bit++"
+      ],
+      "problemsSynced": 2,
+      "status": "success",
+      "timestamp": 1784214290453
+    },
+    {
+      "problems": [
+        "Prefix Max",
+        "Alternating Series",
+        "Stepan and Permutation"
+      ],
+      "problemsSynced": 3,
+      "status": "success",
+      "timestamp": 1784044948625
+    },
+    {
+      "problems": [
+        "Sublime Sequence",
+        "Iskander and Drawings",
+        "AvtoBus",
+        "Nikita and Books"
+      ],
+      "problemsSynced": 4,
+      "status": "success",
+      "timestamp": 1784042709043
+    }
+  ]
+}
