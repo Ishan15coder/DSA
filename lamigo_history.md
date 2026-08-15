@@ -4,6 +4,7 @@ A complete history of all accepted submissions synced by L'Amigo.
 
 | Date | Platform | Problem | Language |
 | :--- | :--- | :--- | :--- |
+| 2026-08-15 | Leetcode | Minimum Window Substring | cpp |
 | 2026-07-26 | Codeforces | String Construction | C++23 (GCC 14-64, msys2) |
 | 2026-07-26 | Codeforces | Threshold Movement | C++23 (GCC 14-64, msys2) |
 | 2026-07-22 | Leetcode | Asteroid Collision | cpp |
