@@ -87,11 +87,34 @@
       "displayName": "AV_PIKACHU",
       "id": "dd1ee334-030c-4ed1-bf69-b26355ae3de0",
       "updatedAt": 1786723191064
+    },
+    {
+      "accounts": [
+        {
+          "handle": "xo4jaitok2",
+          "lastFetched": 1786883713597,
+          "platform": "leetcode",
+          "status": "active"
+        }
+      ],
+      "addedAt": 1786883713597,
+      "aliases": [],
+      "displayName": "xo4jaitok2",
+      "id": "36e3df9d-88c2-47ad-99ed-17f195ea4add",
+      "updatedAt": 1786883713597
     }
   ],
   "own_codeforces_handle": "ishan15_45",
   "own_username": "9ki7hjbrkp",
   "sync_history": [
+    {
+      "problems": [
+        "Minimum Window Substring"
+      ],
+      "problemsSynced": 1,
+      "status": "success",
+      "timestamp": 1786799331657
+    },
     {
       "problems": [
         "String Construction",
@@ -167,17 +190,6 @@
       "problemsSynced": 3,
       "status": "success",
       "timestamp": 1784044948625
-    },
-    {
-      "problems": [
-        "Sublime Sequence",
-        "Iskander and Drawings",
-        "AvtoBus",
-        "Nikita and Books"
-      ],
-      "problemsSynced": 4,
-      "status": "success",
-      "timestamp": 1784042709043
     }
   ]
 }
