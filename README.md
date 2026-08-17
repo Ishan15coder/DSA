@@ -4,7 +4,7 @@ Showcasing my Data Structures, Algorithms, and Competitive Programming solutions
 
 <p align="center">
   <img src="https://img.shields.io/badge/LeetCode-209_Solved-FFA116?style=for-the-badge&logo=leetcode" alt="LeetCode" />
-  <img src="https://img.shields.io/badge/Codeforces-217_Solved-1F8ACB?style=for-the-badge&logo=codeforces" alt="Codeforces" />
+  <img src="https://img.shields.io/badge/Codeforces-219_Solved-1F8ACB?style=for-the-badge&logo=codeforces" alt="Codeforces" />
   <img src="https://img.shields.io/badge/CSES-0_Solved-000000?style=for-the-badge&logo=code" alt="CSES" />
   <img src="https://img.shields.io/badge/GeeksforGeeks-0_Solved-2F8D46?style=for-the-badge&logo=geeksforgeeks" alt="GeeksforGeeks" />
 </p>
@@ -14,10 +14,10 @@ Showcasing my Data Structures, Algorithms, and Competitive Programming solutions
 | Platform | Solved Count | Solutions Tracked |
 | :--- | :---: | :--- |
 | **LeetCode** | 209 | [ `/LeetCode`](./LeetCode) |
-| **Codeforces** | 217 | [ `/Codeforces`](./Codeforces) |
+| **Codeforces** | 219 | [ `/Codeforces`](./Codeforces) |
 | **CSES Problemset** | 0 | [ `/CSES`](./CSES) |
 | **GeeksforGeeks** | 0 | [ `/GeeksForGeeks`](./GeeksForGeeks) |
-| **Total Solved** | **426** | [ `submission_history.json`](./submission_history.json) |
+| **Total Solved** | **428** | [ `submission_history.json`](./submission_history.json) |
 
 ## Codeforces Rating Breakdown
 
@@ -29,7 +29,7 @@ Showcasing my Data Structures, Algorithms, and Competitive Programming solutions
 | **1400 - 1500** | 0 |
 | **1600 - 1800** | 0 |
 | **1900+** | 0 |
-| **Unrated** | 15 |
+| **Unrated** | 17 |
 
 ## LeetCode Progress Dashboard
 
@@ -138,6 +138,7 @@ Showcasing my Data Structures, Algorithms, and Competitive Programming solutions
 | LeetCode | [Count Primes](https://leetcode.com/problems/count-primes/) | cpp | [View Solution](./LeetCode/Medium/204-count-primes) |
 | LeetCode | [Count Unguarded Cells in the Grid](https://leetcode.com/problems/count-unguarded-cells-in-the-grid/) | cpp | [View Solution](./LeetCode/Medium/2257-count-unguarded-cells-in-the-grid) |
 | Codeforces | [Cover in Water](https://codeforces.com/contest/1900/problem/A) | C++20 (GCC 13-64) | [View Solution](./Codeforces/1900/A) |
+| Codeforces | [Creating Abbreviations](https://codeforces.com/contest/2257/problem/A) | C++23 (GCC 14-64, msys2) | [View Solution](./Codeforces/2257/A) |
 | Codeforces | [DBMB and the Array](https://codeforces.com/contest/2193/problem/A) | C++23 (GCC 14-64, msys2) | [View Solution](./Codeforces/2193/A) |
 | Codeforces | [Deja Vu](https://codeforces.com/contest/1891/problem/B) | C++23 (GCC 14-64, msys2) | [View Solution](./Codeforces/1891/B) |
 | Codeforces | [Delete and Concatenate](https://codeforces.com/contest/2245/problem/B) | C++23 (GCC 14-64, msys2) | [View Solution](./Codeforces/2245/B) |
@@ -204,6 +205,7 @@ Showcasing my Data Structures, Algorithms, and Competitive Programming solutions
 | Codeforces | [Game with Integers](https://codeforces.com/contest/1899/problem/A) | C++20 (GCC 13-64) | [View Solution](./Codeforces/1899/A) |
 | Codeforces | [GCD Partition](https://codeforces.com/contest/1780/problem/B) | C++23 (GCC 14-64, msys2) | [View Solution](./Codeforces/1780/B) |
 | Codeforces | [George and Accommodation](https://codeforces.com/contest/467/problem/A) | C++20 (GCC 13-64) | [View Solution](./Codeforces/467/A) |
+| Codeforces | [Gigantomachy](https://codeforces.com/contest/2257/problem/B) | C++23 (GCC 14-64, msys2) | [View Solution](./Codeforces/2257/B) |
 | Codeforces | [Goals of Victory](https://codeforces.com/contest/1877/problem/A) | C++20 (GCC 13-64) | [View Solution](./Codeforces/1877/A) |
 | Codeforces | [Good times Good times](https://codeforces.com/contest/2241/problem/B) | C++23 (GCC 14-64, msys2) | [View Solution](./Codeforces/2241/B) |
 | Codeforces | [Gotta Catch Em' All!](https://codeforces.com/contest/757/problem/A) | C++23 (GCC 14-64, msys2) | [View Solution](./Codeforces/757/A) |
