@@ -76,21 +76,6 @@
     {
       "accounts": [
         {
-          "handle": "AV_PIKACHU",
-          "lastFetched": 1786723191064,
-          "platform": "codeforces",
-          "status": "active"
-        }
-      ],
-      "addedAt": 1786723191064,
-      "aliases": [],
-      "displayName": "AV_PIKACHU",
-      "id": "dd1ee334-030c-4ed1-bf69-b26355ae3de0",
-      "updatedAt": 1786723191064
-    },
-    {
-      "accounts": [
-        {
           "handle": "xo4jaitok2",
           "lastFetched": 1786883713597,
           "platform": "leetcode",
