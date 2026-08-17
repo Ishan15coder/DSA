@@ -1,6 +1,33 @@
 [
   {
     "difficulty": "Easy",
+    "id": "387411016",
+    "lang": "C++23 (GCC 14-64, msys2)",
+    "platform": "codeforces",
+    "rating": 0,
+    "statusDisplay": "Accepted",
+    "timestamp": 1786978104000,
+    "title": "Creating Abbreviations",
+    "titleSlug": "2257/A"
+  },
+  {
+    "id": "2110217107",
+    "lang": "cpp",
+    "statusDisplay": "Accepted",
+    "timestamp": 1786975773000,
+    "title": "Subsets",
+    "titleSlug": "subsets"
+  },
+  {
+    "id": "2107502255",
+    "lang": "cpp",
+    "statusDisplay": "Accepted",
+    "timestamp": 1786788283000,
+    "title": "Minimum Window Substring",
+    "titleSlug": "minimum-window-substring"
+  },
+  {
+    "difficulty": "Easy",
     "id": "384387521",
     "lang": "C++23 (GCC 14-64, msys2)",
     "platform": "codeforces",
@@ -4299,11 +4326,14 @@
     "titleSlug": "valid-anagram"
   },
   {
-    "id": "2107502255",
-    "title": "Minimum Window Substring",
-    "titleSlug": "minimum-window-substring",
-    "timestamp": 1786788283000,
-    "lang": "cpp",
-    "statusDisplay": "Accepted"
+    "title": "Gigantomachy",
+    "titleSlug": "2257/B",
+    "timestamp": 1786983649000,
+    "statusDisplay": "Accepted",
+    "lang": "C++23 (GCC 14-64, msys2)",
+    "id": "387458724",
+    "platform": "codeforces",
+    "difficulty": "Easy",
+    "rating": 0
   }
 ]
