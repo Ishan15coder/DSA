@@ -3,7 +3,7 @@
 Showcasing my Data Structures, Algorithms, and Competitive Programming solutions synced automatically by [L'Amigo](https://github.com/FTS18/l-amigo).
 
 <p align="center">
-  <img src="https://img.shields.io/badge/LeetCode-209_Solved-FFA116?style=for-the-badge&logo=leetcode" alt="LeetCode" />
+  <img src="https://img.shields.io/badge/LeetCode-210_Solved-FFA116?style=for-the-badge&logo=leetcode" alt="LeetCode" />
   <img src="https://img.shields.io/badge/Codeforces-219_Solved-1F8ACB?style=for-the-badge&logo=codeforces" alt="Codeforces" />
   <img src="https://img.shields.io/badge/CSES-0_Solved-000000?style=for-the-badge&logo=code" alt="CSES" />
   <img src="https://img.shields.io/badge/GeeksforGeeks-0_Solved-2F8D46?style=for-the-badge&logo=geeksforgeeks" alt="GeeksforGeeks" />
@@ -13,11 +13,11 @@ Showcasing my Data Structures, Algorithms, and Competitive Programming solutions
 
 | Platform | Solved Count | Solutions Tracked |
 | :--- | :---: | :--- |
-| **LeetCode** | 209 | [ `/LeetCode`](./LeetCode) |
+| **LeetCode** | 210 | [ `/LeetCode`](./LeetCode) |
 | **Codeforces** | 219 | [ `/Codeforces`](./Codeforces) |
 | **CSES Problemset** | 0 | [ `/CSES`](./CSES) |
 | **GeeksforGeeks** | 0 | [ `/GeeksForGeeks`](./GeeksForGeeks) |
-| **Total Solved** | **428** | [ `submission_history.json`](./submission_history.json) |
+| **Total Solved** | **429** | [ `submission_history.json`](./submission_history.json) |
 
 ## Codeforces Rating Breakdown
 
@@ -39,8 +39,8 @@ Showcasing my Data Structures, Algorithms, and Competitive Programming solutions
 
 | Difficulty | Solved | Progress Bar |
 | :--- | :---: | :--- |
-| **Easy** | 96 | `[█████░░░░░]` (45.9%) |
-| **Medium** | 106 | `[█████░░░░░]` (50.7%) |
+| **Easy** | 96 | `[█████░░░░░]` (45.7%) |
+| **Medium** | 107 | `[█████░░░░░]` (51.0%) |
 | **Hard** | 7 | `[░░░░░░░░░░]` (3.3%) |
 
 ## Top LeetCode Topics
@@ -48,7 +48,7 @@ Showcasing my Data Structures, Algorithms, and Competitive Programming solutions
 | Topic | Solved |
 | :--- | :--- |
 | Array | 120 |
-| String | 46 |
+| String | 47 |
 | Hash Table | 44 |
 | Two Pointers | 35 |
 | Math | 31 |
@@ -435,6 +435,7 @@ Showcasing my Data Structures, Algorithms, and Competitive Programming solutions
 | LeetCode | [Subarrays with K Different Integers](https://leetcode.com/problems/subarrays-with-k-different-integers/) | cpp | [View Solution](./LeetCode/Hard/992-subarrays-with-k-different-integers) |
 | Codeforces | [Sublime Sequence](https://codeforces.com/contest/2148/problem/A) | C++23 (GCC 14-64, msys2) | [View Solution](./Codeforces/2148/A) |
 | LeetCode | [Subsets](https://leetcode.com/problems/subsets/) | cpp | [View Solution](./LeetCode/Medium/78-subsets) |
+| LeetCode | [Subsets II](https://leetcode.com/problems/subsets-ii/) | cpp | [View Solution](./LeetCode/Medium/90-subsets-ii) |
 | LeetCode | [Substrings of Size Three with Distinct Characters](https://leetcode.com/problems/substrings-of-size-three-with-distinct-characters/) | cpp | [View Solution](./LeetCode/Easy/1876-substrings-of-size-three-with-distinct-characters) |
 | LeetCode | [Sum of Beauty of All Substrings](https://leetcode.com/problems/sum-of-beauty-of-all-substrings/) | cpp | [View Solution](./LeetCode/Medium/1781-sum-of-beauty-of-all-substrings) |
 | LeetCode | [Sum of Integers with Maximum Digit Range](https://leetcode.com/problems/sum-of-integers-with-maximum-digit-range/) | cpp | [View Solution](./LeetCode/Easy/3982-sum-of-integers-with-maximum-digit-range) |
