@@ -87,11 +87,60 @@
       "displayName": "xo4jaitok2",
       "id": "36e3df9d-88c2-47ad-99ed-17f195ea4add",
       "updatedAt": 1786883713597
+    },
+    {
+      "accounts": [
+        {
+          "handle": "thakur_abhay",
+          "lastFetched": 1787416352435,
+          "platform": "leetcode",
+          "status": "active"
+        }
+      ],
+      "addedAt": 1787416352435,
+      "aliases": [],
+      "displayName": "thakur_abhay",
+      "id": "aab0ac02-294c-4f3c-be5c-401cc7ff2908",
+      "updatedAt": 1787416352435
     }
   ],
   "own_codeforces_handle": "ishan15_45",
   "own_username": "9ki7hjbrkp",
   "sync_history": [
+    {
+      "problems": [
+        "Combinations"
+      ],
+      "problemsSynced": 1,
+      "status": "success",
+      "timestamp": 1787331422892
+    },
+    {
+      "problems": [
+        "Subsets II"
+      ],
+      "problemsSynced": 1,
+      "status": "success",
+      "timestamp": 1787221616897
+    },
+    {
+      "problems": [
+        "Creating Abbreviations",
+        "Find All Anagrams in a String"
+      ],
+      "problemsSynced": 2,
+      "status": "success",
+      "timestamp": 1787043553232
+    },
+    {
+      "problems": [
+        "Subsets",
+        "Gigantomachy"
+      ],
+      "problemsSynced": 2,
+      "status": "success",
+      "timestamp": 1786983702585
+    },
     {
       "problems": [
         "Minimum Window Substring"
@@ -140,41 +189,6 @@
       "problemsSynced": 1,
       "status": "success",
       "timestamp": 1784605317989
-    },
-    {
-      "problems": [
-        "Valid Parentheses"
-      ],
-      "problemsSynced": 1,
-      "status": "success",
-      "timestamp": 1784567605080
-    },
-    {
-      "problems": [
-        "Delete and Concatenate"
-      ],
-      "problemsSynced": 1,
-      "status": "success",
-      "timestamp": 1784216574686
-    },
-    {
-      "problems": [
-        "Who Watches the Watchpig?",
-        "Bit++"
-      ],
-      "problemsSynced": 2,
-      "status": "success",
-      "timestamp": 1784214290453
-    },
-    {
-      "problems": [
-        "Prefix Max",
-        "Alternating Series",
-        "Stepan and Permutation"
-      ],
-      "problemsSynced": 3,
-      "status": "success",
-      "timestamp": 1784044948625
     }
   ]
 }
