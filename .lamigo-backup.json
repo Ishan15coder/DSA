@@ -132,6 +132,21 @@
       "displayName": "Jatin",
       "id": "1a1fdc42-7bbd-4d69-af54-2a30c9c642f7",
       "updatedAt": 1787554151823
+    },
+    {
+      "accounts": [
+        {
+          "handle": "cuvclmjxlt",
+          "lastFetched": 1787555014924,
+          "platform": "leetcode",
+          "status": "active"
+        }
+      ],
+      "addedAt": 1787555014924,
+      "aliases": [],
+      "displayName": "cuvclmjxlt",
+      "id": "fce6102a-1a9a-4367-96ff-33c63e7d9f5c",
+      "updatedAt": 1787555014924
     }
   ],
   "own_codeforces_handle": "ishan15_45",
