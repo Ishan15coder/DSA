@@ -4,6 +4,8 @@ A complete history of all accepted submissions synced by L'Amigo.
 
 | Date | Platform | Problem | Language |
 | :--- | :--- | :--- | :--- |
+| 2026-08-24 | Leetcode | Combination Sum | cpp |
+| 2026-08-21 | Leetcode | Combinations | cpp |
 | 2026-08-20 | Leetcode | Subsets II | cpp |
 | 2026-08-18 | Leetcode | Find All Anagrams in a String | cpp |
 | 2026-08-17 | Codeforces | Gigantomachy | C++23 (GCC 14-64, msys2) |
