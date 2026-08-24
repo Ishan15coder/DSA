@@ -117,6 +117,21 @@
       "displayName": "J",
       "id": "4dd6653d-608e-4c64-a5ab-6cd9ad2f3dee",
       "updatedAt": 1787553986867
+    },
+    {
+      "accounts": [
+        {
+          "handle": "jatin9026",
+          "lastFetched": 1787554151823,
+          "platform": "leetcode",
+          "status": "active"
+        }
+      ],
+      "addedAt": 1787554151823,
+      "aliases": [],
+      "displayName": "Jatin",
+      "id": "1a1fdc42-7bbd-4d69-af54-2a30c9c642f7",
+      "updatedAt": 1787554151823
     }
   ],
   "own_codeforces_handle": "ishan15_45",
