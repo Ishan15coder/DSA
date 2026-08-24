@@ -3,7 +3,7 @@
 Showcasing my Data Structures, Algorithms, and Competitive Programming solutions synced automatically by [L'Amigo](https://github.com/FTS18/l-amigo).
 
 <p align="center">
-  <img src="https://img.shields.io/badge/LeetCode-212_Solved-FFA116?style=for-the-badge&logo=leetcode" alt="LeetCode" />
+  <img src="https://img.shields.io/badge/LeetCode-213_Solved-FFA116?style=for-the-badge&logo=leetcode" alt="LeetCode" />
   <img src="https://img.shields.io/badge/Codeforces-219_Solved-1F8ACB?style=for-the-badge&logo=codeforces" alt="Codeforces" />
   <img src="https://img.shields.io/badge/CSES-0_Solved-000000?style=for-the-badge&logo=code" alt="CSES" />
   <img src="https://img.shields.io/badge/GeeksforGeeks-0_Solved-2F8D46?style=for-the-badge&logo=geeksforgeeks" alt="GeeksforGeeks" />
@@ -13,11 +13,11 @@ Showcasing my Data Structures, Algorithms, and Competitive Programming solutions
 
 | Platform | Solved Count | Solutions Tracked |
 | :--- | :---: | :--- |
-| **LeetCode** | 212 | [ `/LeetCode`](./LeetCode) |
+| **LeetCode** | 213 | [ `/LeetCode`](./LeetCode) |
 | **Codeforces** | 219 | [ `/Codeforces`](./Codeforces) |
 | **CSES Problemset** | 0 | [ `/CSES`](./CSES) |
 | **GeeksforGeeks** | 0 | [ `/GeeksForGeeks`](./GeeksForGeeks) |
-| **Total Solved** | **431** | [ `submission_history.json`](./submission_history.json) |
+| **Total Solved** | **432** | [ `submission_history.json`](./submission_history.json) |
 
 ## Codeforces Rating Breakdown
 
@@ -39,8 +39,8 @@ Showcasing my Data Structures, Algorithms, and Competitive Programming solutions
 
 | Difficulty | Solved | Progress Bar |
 | :--- | :---: | :--- |
-| **Easy** | 96 | `[████░░░░░░]` (44.9%) |
-| **Medium** | 111 | `[█████░░░░░]` (51.9%) |
+| **Easy** | 96 | `[████░░░░░░]` (44.7%) |
+| **Medium** | 112 | `[█████░░░░░]` (52.1%) |
 | **Hard** | 7 | `[░░░░░░░░░░]` (3.3%) |
 
 ## Top LeetCode Topics
@@ -48,13 +48,13 @@ Showcasing my Data Structures, Algorithms, and Competitive Programming solutions
 | Topic | Solved |
 | :--- | :--- |
 | Array | 124 |
-| String | 47 |
+| String | 48 |
 | Hash Table | 44 |
 | Two Pointers | 35 |
 | Math | 32 |
 | Binary Search | 29 |
 | Sorting | 24 |
-| Dynamic Programming | 22 |
+| Dynamic Programming | 23 |
 | Sliding Window | 22 |
 | Linked List | 16 |
 
@@ -206,6 +206,7 @@ Showcasing my Data Structures, Algorithms, and Competitive Programming solutions
 | LeetCode | [Fruit Into Baskets](https://leetcode.com/problems/fruit-into-baskets/) | cpp | [View Solution](./LeetCode/Medium/904-fruit-into-baskets) |
 | Codeforces | [Game with Integers](https://codeforces.com/contest/1899/problem/A) | C++20 (GCC 13-64) | [View Solution](./Codeforces/1899/A) |
 | Codeforces | [GCD Partition](https://codeforces.com/contest/1780/problem/B) | C++23 (GCC 14-64, msys2) | [View Solution](./Codeforces/1780/B) |
+| LeetCode | [Generate Parentheses](https://leetcode.com/problems/generate-parentheses/) | cpp | [View Solution](./LeetCode/Medium/22-generate-parentheses) |
 | Codeforces | [George and Accommodation](https://codeforces.com/contest/467/problem/A) | C++20 (GCC 13-64) | [View Solution](./Codeforces/467/A) |
 | Codeforces | [Gigantomachy](https://codeforces.com/contest/2257/problem/B) | C++23 (GCC 14-64, msys2) | [View Solution](./Codeforces/2257/B) |
 | Codeforces | [Goals of Victory](https://codeforces.com/contest/1877/problem/A) | C++20 (GCC 13-64) | [View Solution](./Codeforces/1877/A) |
