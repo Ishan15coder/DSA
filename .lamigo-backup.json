@@ -102,6 +102,21 @@
       "displayName": "thakur_abhay",
       "id": "aab0ac02-294c-4f3c-be5c-401cc7ff2908",
       "updatedAt": 1787416352435
+    },
+    {
+      "accounts": [
+        {
+          "handle": "kyro77",
+          "lastFetched": 1787553986867,
+          "platform": "leetcode",
+          "status": "active"
+        }
+      ],
+      "addedAt": 1787553986867,
+      "aliases": [],
+      "displayName": "J",
+      "id": "4dd6653d-608e-4c64-a5ab-6cd9ad2f3dee",
+      "updatedAt": 1787553986867
     }
   ],
   "own_codeforces_handle": "ishan15_45",
