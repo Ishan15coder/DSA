@@ -147,11 +147,42 @@
       "displayName": "cuvclmjxlt",
       "id": "fce6102a-1a9a-4367-96ff-33c63e7d9f5c",
       "updatedAt": 1787555014924
+    },
+    {
+      "accounts": [
+        {
+          "handle": "krishnakumar2024",
+          "lastFetched": 1788085237451,
+          "platform": "leetcode",
+          "status": "active"
+        }
+      ],
+      "addedAt": 1788085237451,
+      "aliases": [],
+      "displayName": "krishnakumar2024",
+      "id": "c66afc11-2f74-4150-bb2b-61bca7b0aaa5",
+      "updatedAt": 1788085237451
     }
   ],
   "own_codeforces_handle": "ishan15_45",
   "own_username": "9ki7hjbrkp",
   "sync_history": [
+    {
+      "problems": [
+        "Generate Parentheses"
+      ],
+      "problemsSynced": 1,
+      "status": "success",
+      "timestamp": 1787592022216
+    },
+    {
+      "problems": [
+        "Combination Sum"
+      ],
+      "problemsSynced": 1,
+      "status": "success",
+      "timestamp": 1787565643421
+    },
     {
       "problems": [
         "Combinations"
@@ -218,22 +249,6 @@
       "problemsSynced": 1,
       "status": "success",
       "timestamp": 1784696522145
-    },
-    {
-      "problems": [
-        "Next Greater Element I"
-      ],
-      "problemsSynced": 1,
-      "status": "success",
-      "timestamp": 1784608593566
-    },
-    {
-      "problems": [
-        "Next Greater Element II"
-      ],
-      "problemsSynced": 1,
-      "status": "success",
-      "timestamp": 1784605317989
     }
   ]
 }
