@@ -3,7 +3,7 @@
 Showcasing my Data Structures, Algorithms, and Competitive Programming solutions synced automatically by [L'Amigo](https://github.com/FTS18/l-amigo).
 
 <p align="center">
-  <img src="https://img.shields.io/badge/LeetCode-213_Solved-FFA116?style=for-the-badge&logo=leetcode" alt="LeetCode" />
+  <img src="https://img.shields.io/badge/LeetCode-214_Solved-FFA116?style=for-the-badge&logo=leetcode" alt="LeetCode" />
   <img src="https://img.shields.io/badge/Codeforces-219_Solved-1F8ACB?style=for-the-badge&logo=codeforces" alt="Codeforces" />
   <img src="https://img.shields.io/badge/CSES-0_Solved-000000?style=for-the-badge&logo=code" alt="CSES" />
   <img src="https://img.shields.io/badge/GeeksforGeeks-0_Solved-2F8D46?style=for-the-badge&logo=geeksforgeeks" alt="GeeksforGeeks" />
@@ -13,11 +13,11 @@ Showcasing my Data Structures, Algorithms, and Competitive Programming solutions
 
 | Platform | Solved Count | Solutions Tracked |
 | :--- | :---: | :--- |
-| **LeetCode** | 213 | [ `/LeetCode`](./LeetCode) |
+| **LeetCode** | 214 | [ `/LeetCode`](./LeetCode) |
 | **Codeforces** | 219 | [ `/Codeforces`](./Codeforces) |
 | **CSES Problemset** | 0 | [ `/CSES`](./CSES) |
 | **GeeksforGeeks** | 0 | [ `/GeeksForGeeks`](./GeeksForGeeks) |
-| **Total Solved** | **432** | [ `submission_history.json`](./submission_history.json) |
+| **Total Solved** | **433** | [ `submission_history.json`](./submission_history.json) |
 
 ## Codeforces Rating Breakdown
 
@@ -39,15 +39,15 @@ Showcasing my Data Structures, Algorithms, and Competitive Programming solutions
 
 | Difficulty | Solved | Progress Bar |
 | :--- | :---: | :--- |
-| **Easy** | 96 | `[████░░░░░░]` (44.7%) |
-| **Medium** | 112 | `[█████░░░░░]` (52.1%) |
-| **Hard** | 7 | `[░░░░░░░░░░]` (3.3%) |
+| **Easy** | 96 | `[████░░░░░░]` (44.4%) |
+| **Medium** | 113 | `[█████░░░░░]` (52.3%) |
+| **Hard** | 7 | `[░░░░░░░░░░]` (3.2%) |
 
 ## Top LeetCode Topics
 
 | Topic | Solved |
 | :--- | :--- |
-| Array | 124 |
+| Array | 125 |
 | String | 48 |
 | Hash Table | 44 |
 | Two Pointers | 35 |
@@ -123,6 +123,7 @@ Showcasing my Data Structures, Algorithms, and Competitive Programming solutions
 | Codeforces | [Coins](https://codeforces.com/contest/1814/problem/A) | C++20 (GCC 13-64) | [View Solution](./Codeforces/1814/A) |
 | Codeforces | [Collecting Game](https://codeforces.com/contest/1904/problem/B) | C++23 (GCC 14-64, msys2) | [View Solution](./Codeforces/1904/B) |
 | LeetCode | [Combination Sum](https://leetcode.com/problems/combination-sum/) | cpp | [View Solution](./LeetCode/Medium/39-combination-sum) |
+| LeetCode | [Combination Sum III](https://leetcode.com/problems/combination-sum-iii/) | cpp | [View Solution](./LeetCode/Medium/216-combination-sum-iii) |
 | LeetCode | [Combinations](https://leetcode.com/problems/combinations/) | cpp | [View Solution](./LeetCode/Medium/77-combinations) |
 | Codeforces | [Comparison String](https://codeforces.com/contest/1837/problem/B) | C++23 (GCC 14-64, msys2) | [View Solution](./Codeforces/1837/B) |
 | LeetCode | [Concatenate Array With Reverse](https://leetcode.com/problems/concatenate-array-with-reverse/) | cpp | [View Solution](./LeetCode/Easy/3925-concatenate-array-with-reverse) |
