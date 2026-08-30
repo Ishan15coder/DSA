@@ -4,6 +4,7 @@ A complete history of all accepted submissions synced by L'Amigo.
 
 | Date | Platform | Problem | Language |
 | :--- | :--- | :--- | :--- |
+| 2026-08-30 | Leetcode | Combination Sum III | cpp |
 | 2026-08-24 | Leetcode | Generate Parentheses | cpp |
 | 2026-08-24 | Leetcode | Combination Sum | cpp |
 | 2026-08-21 | Leetcode | Combinations | cpp |
