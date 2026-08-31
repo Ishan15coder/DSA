@@ -3,7 +3,7 @@
 Showcasing my Data Structures, Algorithms, and Competitive Programming solutions synced automatically by [L'Amigo](https://github.com/FTS18/l-amigo).
 
 <p align="center">
-  <img src="https://img.shields.io/badge/LeetCode-215_Solved-FFA116?style=for-the-badge&logo=leetcode" alt="LeetCode" />
+  <img src="https://img.shields.io/badge/LeetCode-216_Solved-FFA116?style=for-the-badge&logo=leetcode" alt="LeetCode" />
   <img src="https://img.shields.io/badge/Codeforces-219_Solved-1F8ACB?style=for-the-badge&logo=codeforces" alt="Codeforces" />
   <img src="https://img.shields.io/badge/CSES-0_Solved-000000?style=for-the-badge&logo=code" alt="CSES" />
   <img src="https://img.shields.io/badge/GeeksforGeeks-0_Solved-2F8D46?style=for-the-badge&logo=geeksforgeeks" alt="GeeksforGeeks" />
@@ -13,11 +13,11 @@ Showcasing my Data Structures, Algorithms, and Competitive Programming solutions
 
 | Platform | Solved Count | Solutions Tracked |
 | :--- | :---: | :--- |
-| **LeetCode** | 215 | [ `/LeetCode`](./LeetCode) |
+| **LeetCode** | 216 | [ `/LeetCode`](./LeetCode) |
 | **Codeforces** | 219 | [ `/Codeforces`](./Codeforces) |
 | **CSES Problemset** | 0 | [ `/CSES`](./CSES) |
 | **GeeksforGeeks** | 0 | [ `/GeeksForGeeks`](./GeeksForGeeks) |
-| **Total Solved** | **434** | [ `submission_history.json`](./submission_history.json) |
+| **Total Solved** | **435** | [ `submission_history.json`](./submission_history.json) |
 
 ## Codeforces Rating Breakdown
 
@@ -375,6 +375,7 @@ Showcasing my Data Structures, Algorithms, and Competitive Programming solutions
 | LeetCode | [Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/) | cpp | [View Solution](./LeetCode/Medium/19-remove-nth-node-from-end-of-list) |
 | LeetCode | [Remove Outermost Parentheses](https://leetcode.com/problems/remove-outermost-parentheses/) | cpp | [View Solution](./LeetCode/Easy/1021-remove-outermost-parentheses) |
 | Codeforces | [RemovevomeR](https://codeforces.com/contest/2241/problem/C) | C++23 (GCC 14-64, msys2) | [View Solution](./Codeforces/2241/C) |
+| LeetCode | [Restore IP Addresses](https://leetcode.com/problems/restore-ip-addresses/) | cpp | [View Solution](./LeetCode/Medium/93-restore-ip-addresses) |
 | Codeforces | [Restricted Sorting](https://codeforces.com/contest/2188/problem/C) | C++23 (GCC 14-64, msys2) | [View Solution](./Codeforces/2188/C) |
 | Codeforces | [Reverse a Permutation](https://codeforces.com/contest/2193/problem/B) | C++23 (GCC 14-64, msys2) | [View Solution](./Codeforces/2193/B) |
 | Codeforces | [Reverse a Substring](https://codeforces.com/contest/1155/problem/A) | C++23 (GCC 14-64, msys2) | [View Solution](./Codeforces/1155/A) |
