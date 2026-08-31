@@ -3,7 +3,7 @@
 Showcasing my Data Structures, Algorithms, and Competitive Programming solutions synced automatically by [L'Amigo](https://github.com/FTS18/l-amigo).
 
 <p align="center">
-  <img src="https://img.shields.io/badge/LeetCode-214_Solved-FFA116?style=for-the-badge&logo=leetcode" alt="LeetCode" />
+  <img src="https://img.shields.io/badge/LeetCode-215_Solved-FFA116?style=for-the-badge&logo=leetcode" alt="LeetCode" />
   <img src="https://img.shields.io/badge/Codeforces-219_Solved-1F8ACB?style=for-the-badge&logo=codeforces" alt="Codeforces" />
   <img src="https://img.shields.io/badge/CSES-0_Solved-000000?style=for-the-badge&logo=code" alt="CSES" />
   <img src="https://img.shields.io/badge/GeeksforGeeks-0_Solved-2F8D46?style=for-the-badge&logo=geeksforgeeks" alt="GeeksforGeeks" />
@@ -13,11 +13,11 @@ Showcasing my Data Structures, Algorithms, and Competitive Programming solutions
 
 | Platform | Solved Count | Solutions Tracked |
 | :--- | :---: | :--- |
-| **LeetCode** | 214 | [ `/LeetCode`](./LeetCode) |
+| **LeetCode** | 215 | [ `/LeetCode`](./LeetCode) |
 | **Codeforces** | 219 | [ `/Codeforces`](./Codeforces) |
 | **CSES Problemset** | 0 | [ `/CSES`](./CSES) |
 | **GeeksforGeeks** | 0 | [ `/GeeksForGeeks`](./GeeksForGeeks) |
-| **Total Solved** | **433** | [ `submission_history.json`](./submission_history.json) |
+| **Total Solved** | **434** | [ `submission_history.json`](./submission_history.json) |
 
 ## Codeforces Rating Breakdown
 
@@ -39,8 +39,8 @@ Showcasing my Data Structures, Algorithms, and Competitive Programming solutions
 
 | Difficulty | Solved | Progress Bar |
 | :--- | :---: | :--- |
-| **Easy** | 96 | `[████░░░░░░]` (44.4%) |
-| **Medium** | 113 | `[█████░░░░░]` (52.3%) |
+| **Easy** | 96 | `[████░░░░░░]` (44.2%) |
+| **Medium** | 114 | `[█████░░░░░]` (52.5%) |
 | **Hard** | 7 | `[░░░░░░░░░░]` (3.2%) |
 
 ## Top LeetCode Topics
@@ -48,13 +48,13 @@ Showcasing my Data Structures, Algorithms, and Competitive Programming solutions
 | Topic | Solved |
 | :--- | :--- |
 | Array | 125 |
-| String | 48 |
+| String | 49 |
 | Hash Table | 44 |
 | Two Pointers | 35 |
 | Math | 32 |
 | Binary Search | 29 |
+| Dynamic Programming | 24 |
 | Sorting | 24 |
-| Dynamic Programming | 23 |
 | Sliding Window | 22 |
 | Linked List | 16 |
 
@@ -340,6 +340,7 @@ Showcasing my Data Structures, Algorithms, and Competitive Programming solutions
 | Codeforces | [Paint the Numbers](https://codeforces.com/contest/1209/problem/A) | C++23 (GCC 14-64, msys2) | [View Solution](./Codeforces/1209/A) |
 | LeetCode | [Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list/) | cpp | [View Solution](./LeetCode/Easy/234-palindrome-linked-list) |
 | LeetCode | [Palindrome Number](https://leetcode.com/problems/palindrome-number/) | cpp | [View Solution](./LeetCode/Easy/9-palindrome-number) |
+| LeetCode | [Palindrome Partitioning](https://leetcode.com/problems/palindrome-partitioning/) | cpp | [View Solution](./LeetCode/Medium/131-palindrome-partitioning) |
 | Codeforces | [Parallelepiped](https://codeforces.com/contest/224/problem/A) | C++20 (GCC 13-64) | [View Solution](./Codeforces/224/A) |
 | Codeforces | [Parkour Design](https://codeforces.com/contest/2202/problem/A) | C++23 (GCC 14-64, msys2) | [View Solution](./Codeforces/2202/A) |
 | LeetCode | [Partition Equal Subset Sum](https://leetcode.com/problems/partition-equal-subset-sum/) | cpp | [View Solution](./LeetCode/Medium/416-partition-equal-subset-sum) |
