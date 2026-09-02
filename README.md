@@ -3,7 +3,7 @@
 Showcasing my Data Structures, Algorithms, and Competitive Programming solutions synced automatically by [L'Amigo](https://github.com/FTS18/l-amigo).
 
 <p align="center">
-  <img src="https://img.shields.io/badge/LeetCode-216_Solved-FFA116?style=for-the-badge&logo=leetcode" alt="LeetCode" />
+  <img src="https://img.shields.io/badge/LeetCode-218_Solved-FFA116?style=for-the-badge&logo=leetcode" alt="LeetCode" />
   <img src="https://img.shields.io/badge/Codeforces-219_Solved-1F8ACB?style=for-the-badge&logo=codeforces" alt="Codeforces" />
   <img src="https://img.shields.io/badge/CSES-0_Solved-000000?style=for-the-badge&logo=code" alt="CSES" />
   <img src="https://img.shields.io/badge/GeeksforGeeks-0_Solved-2F8D46?style=for-the-badge&logo=geeksforgeeks" alt="GeeksforGeeks" />
@@ -13,11 +13,11 @@ Showcasing my Data Structures, Algorithms, and Competitive Programming solutions
 
 | Platform | Solved Count | Solutions Tracked |
 | :--- | :---: | :--- |
-| **LeetCode** | 216 | [ `/LeetCode`](./LeetCode) |
+| **LeetCode** | 218 | [ `/LeetCode`](./LeetCode) |
 | **Codeforces** | 219 | [ `/Codeforces`](./Codeforces) |
 | **CSES Problemset** | 0 | [ `/CSES`](./CSES) |
 | **GeeksforGeeks** | 0 | [ `/GeeksForGeeks`](./GeeksForGeeks) |
-| **Total Solved** | **435** | [ `submission_history.json`](./submission_history.json) |
+| **Total Solved** | **437** | [ `submission_history.json`](./submission_history.json) |
 
 ## Codeforces Rating Breakdown
 
@@ -39,8 +39,8 @@ Showcasing my Data Structures, Algorithms, and Competitive Programming solutions
 
 | Difficulty | Solved | Progress Bar |
 | :--- | :---: | :--- |
-| **Easy** | 96 | `[████░░░░░░]` (44.2%) |
-| **Medium** | 114 | `[█████░░░░░]` (52.5%) |
+| **Easy** | 96 | `[████░░░░░░]` (43.6%) |
+| **Medium** | 117 | `[█████░░░░░]` (53.2%) |
 | **Hard** | 7 | `[░░░░░░░░░░]` (3.2%) |
 
 ## Top LeetCode Topics
@@ -48,8 +48,8 @@ Showcasing my Data Structures, Algorithms, and Competitive Programming solutions
 | Topic | Solved |
 | :--- | :--- |
 | Array | 125 |
-| String | 49 |
-| Hash Table | 44 |
+| String | 52 |
+| Hash Table | 45 |
 | Two Pointers | 35 |
 | Math | 32 |
 | Binary Search | 29 |
@@ -427,7 +427,9 @@ Showcasing my Data Structures, Algorithms, and Competitive Programming solutions
 | LeetCode | [Sort List](https://leetcode.com/problems/sort-list/) | cpp | [View Solution](./LeetCode/Medium/148-sort-list) |
 | Codeforces | [Sort the Array](https://codeforces.com/contest/451/problem/B) | C++23 (GCC 14-64, msys2) | [View Solution](./Codeforces/451/B) |
 | LeetCode | [Spiral Matrix](https://leetcode.com/problems/spiral-matrix/) | cpp | [View Solution](./LeetCode/Medium/54-spiral-matrix) |
+| LeetCode | [Split a String Into the Max Number of Unique Substrings](https://leetcode.com/problems/split-a-string-into-the-max-number-of-unique-substrings/) | cpp | [View Solution](./LeetCode/Medium/1593-split-a-string-into-the-max-number-of-unique-substrings) |
 | LeetCode | [Split Array Largest Sum](https://leetcode.com/problems/split-array-largest-sum/) | cpp | [View Solution](./LeetCode/Hard/410-split-array-largest-sum) |
+| LeetCode | [Splitting a String Into Descending Consecutive Values](https://leetcode.com/problems/splitting-a-string-into-descending-consecutive-values/) | cpp | [View Solution](./LeetCode/Unknown/splitting-a-string-into-descending-consecutive-values) |
 | LeetCode | [Sqrt(x)](https://leetcode.com/problems/sqrtx/) | cpp | [View Solution](./LeetCode/Easy/69-sqrtx) |
 | Codeforces | [Square?](https://codeforces.com/contest/2167/problem/A) | C++23 (GCC 14-64, msys2) | [View Solution](./Codeforces/2167/A) |
 | LeetCode | [Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/) | cpp | [View Solution](./LeetCode/Easy/977-squares-of-a-sorted-array) |
