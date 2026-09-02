@@ -3,7 +3,7 @@
 Showcasing my Data Structures, Algorithms, and Competitive Programming solutions synced automatically by [L'Amigo](https://github.com/FTS18/l-amigo).
 
 <p align="center">
-  <img src="https://img.shields.io/badge/LeetCode-218_Solved-FFA116?style=for-the-badge&logo=leetcode" alt="LeetCode" />
+  <img src="https://img.shields.io/badge/LeetCode-219_Solved-FFA116?style=for-the-badge&logo=leetcode" alt="LeetCode" />
   <img src="https://img.shields.io/badge/Codeforces-219_Solved-1F8ACB?style=for-the-badge&logo=codeforces" alt="Codeforces" />
   <img src="https://img.shields.io/badge/CSES-0_Solved-000000?style=for-the-badge&logo=code" alt="CSES" />
   <img src="https://img.shields.io/badge/GeeksforGeeks-0_Solved-2F8D46?style=for-the-badge&logo=geeksforgeeks" alt="GeeksforGeeks" />
@@ -13,11 +13,11 @@ Showcasing my Data Structures, Algorithms, and Competitive Programming solutions
 
 | Platform | Solved Count | Solutions Tracked |
 | :--- | :---: | :--- |
-| **LeetCode** | 218 | [ `/LeetCode`](./LeetCode) |
+| **LeetCode** | 219 | [ `/LeetCode`](./LeetCode) |
 | **Codeforces** | 219 | [ `/Codeforces`](./Codeforces) |
 | **CSES Problemset** | 0 | [ `/CSES`](./CSES) |
 | **GeeksforGeeks** | 0 | [ `/GeeksForGeeks`](./GeeksForGeeks) |
-| **Total Solved** | **437** | [ `submission_history.json`](./submission_history.json) |
+| **Total Solved** | **438** | [ `submission_history.json`](./submission_history.json) |
 
 ## Codeforces Rating Breakdown
 
@@ -351,6 +351,7 @@ Showcasing my Data Structures, Algorithms, and Competitive Programming solutions
 | Codeforces | [Perfect Root](https://codeforces.com/contest/2185/problem/A) | C++23 (GCC 14-64, msys2) | [View Solution](./Codeforces/2185/A) |
 | LeetCode | [Permutation in String](https://leetcode.com/problems/permutation-in-string/) | cpp | [View Solution](./LeetCode/Medium/567-permutation-in-string) |
 | Codeforces | [Permutation Swap](https://codeforces.com/contest/1828/problem/B) | C++23 (GCC 14-64, msys2) | [View Solution](./Codeforces/1828/B) |
+| LeetCode | [Permutations](https://leetcode.com/problems/permutations/) | cpp | [View Solution](./LeetCode/Unknown/permutations) |
 | Codeforces | [Petr and Book](https://codeforces.com/contest/139/problem/A) | C++20 (GCC 13-64) | [View Solution](./Codeforces/139/A) |
 | Codeforces | [Playing in a Casino](https://codeforces.com/contest/1808/problem/B) | C++23 (GCC 14-64, msys2) | [View Solution](./Codeforces/1808/B) |
 | Codeforces | [Polycarp Recovers the Permutation](https://codeforces.com/contest/1611/problem/C) | C++23 (GCC 14-64, msys2) | [View Solution](./Codeforces/1611/C) |
@@ -429,7 +430,7 @@ Showcasing my Data Structures, Algorithms, and Competitive Programming solutions
 | LeetCode | [Spiral Matrix](https://leetcode.com/problems/spiral-matrix/) | cpp | [View Solution](./LeetCode/Medium/54-spiral-matrix) |
 | LeetCode | [Split a String Into the Max Number of Unique Substrings](https://leetcode.com/problems/split-a-string-into-the-max-number-of-unique-substrings/) | cpp | [View Solution](./LeetCode/Medium/1593-split-a-string-into-the-max-number-of-unique-substrings) |
 | LeetCode | [Split Array Largest Sum](https://leetcode.com/problems/split-array-largest-sum/) | cpp | [View Solution](./LeetCode/Hard/410-split-array-largest-sum) |
-| LeetCode | [Splitting a String Into Descending Consecutive Values](https://leetcode.com/problems/splitting-a-string-into-descending-consecutive-values/) | cpp | [View Solution](./LeetCode/Unknown/splitting-a-string-into-descending-consecutive-values) |
+| LeetCode | [Splitting a String Into Descending Consecutive Values](https://leetcode.com/problems/splitting-a-string-into-descending-consecutive-values/) | cpp | [View Solution](./LeetCode/Medium/1849-splitting-a-string-into-descending-consecutive-values) |
 | LeetCode | [Sqrt(x)](https://leetcode.com/problems/sqrtx/) | cpp | [View Solution](./LeetCode/Easy/69-sqrtx) |
 | Codeforces | [Square?](https://codeforces.com/contest/2167/problem/A) | C++23 (GCC 14-64, msys2) | [View Solution](./Codeforces/2167/A) |
 | LeetCode | [Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/) | cpp | [View Solution](./LeetCode/Easy/977-squares-of-a-sorted-array) |
