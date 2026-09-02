@@ -1,5 +1,13 @@
 [
   {
+    "id": "2128662065",
+    "lang": "cpp",
+    "statusDisplay": "Accepted",
+    "timestamp": 1788365624000,
+    "title": "Permutations",
+    "titleSlug": "permutations"
+  },
+  {
     "id": "2127234392",
     "lang": "cpp",
     "statusDisplay": "Accepted",
@@ -4433,10 +4441,10 @@
     "titleSlug": "valid-anagram"
   },
   {
-    "id": "2128662065",
-    "title": "Permutations",
-    "titleSlug": "permutations",
-    "timestamp": 1788365624000,
+    "id": "2128698678",
+    "title": "Permutations II",
+    "titleSlug": "permutations-ii",
+    "timestamp": 1788367285000,
     "lang": "cpp",
     "statusDisplay": "Accepted"
   }
