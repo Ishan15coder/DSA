@@ -4,6 +4,10 @@ A complete history of all accepted submissions synced by L'Amigo.
 
 | Date | Platform | Problem | Language |
 | :--- | :--- | :--- | :--- |
+| 2026-09-01 | Leetcode | Splitting a String Into Descending Consecutive Values | cpp |
+| 2026-09-01 | Leetcode | Split a String Into the Max Number of Unique Substrings | cpp |
+| 2026-09-01 | Leetcode | Split a String Into the Max Number of Unique Substrings | cpp |
+| 2026-09-01 | Leetcode | Palindrome Partitioning | cpp |
 | 2026-08-31 | Leetcode | Restore IP Addresses | cpp |
 | 2026-08-30 | Leetcode | Palindrome Partitioning | cpp |
 | 2026-08-30 | Leetcode | Combination Sum III | cpp |
