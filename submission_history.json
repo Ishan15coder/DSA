@@ -1,5 +1,13 @@
 [
   {
+    "id": "2125984677",
+    "lang": "cpp",
+    "statusDisplay": "Accepted",
+    "timestamp": 1788172235000,
+    "title": "Restore IP Addresses",
+    "titleSlug": "restore-ip-addresses"
+  },
+  {
     "id": "2125296673",
     "lang": "cpp",
     "statusDisplay": "Accepted",
@@ -4393,10 +4401,34 @@
     "titleSlug": "valid-anagram"
   },
   {
-    "id": "2125984677",
-    "title": "Restore IP Addresses",
-    "titleSlug": "restore-ip-addresses",
-    "timestamp": 1788172235000,
+    "id": "2127234392",
+    "title": "Splitting a String Into Descending Consecutive Values",
+    "titleSlug": "splitting-a-string-into-descending-consecutive-values",
+    "timestamp": 1788268163000,
+    "lang": "cpp",
+    "statusDisplay": "Accepted"
+  },
+  {
+    "id": "2127156026",
+    "title": "Split a String Into the Max Number of Unique Substrings",
+    "titleSlug": "split-a-string-into-the-max-number-of-unique-substrings",
+    "timestamp": 1788262360000,
+    "lang": "cpp",
+    "statusDisplay": "Accepted"
+  },
+  {
+    "id": "2127151559",
+    "title": "Split a String Into the Max Number of Unique Substrings",
+    "titleSlug": "split-a-string-into-the-max-number-of-unique-substrings",
+    "timestamp": 1788262011000,
+    "lang": "cpp",
+    "statusDisplay": "Accepted"
+  },
+  {
+    "id": "2126822483",
+    "title": "Palindrome Partitioning",
+    "titleSlug": "palindrome-partitioning",
+    "timestamp": 1788239688000,
     "lang": "cpp",
     "statusDisplay": "Accepted"
   }
