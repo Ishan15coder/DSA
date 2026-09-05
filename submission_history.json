@@ -1,5 +1,13 @@
 [
   {
+    "id": "2130677066",
+    "lang": "cpp",
+    "statusDisplay": "Accepted",
+    "timestamp": 1788524461000,
+    "title": "Total Distance Traveled",
+    "titleSlug": "total-distance-traveled"
+  },
+  {
     "id": "2128698678",
     "lang": "cpp",
     "statusDisplay": "Accepted",
@@ -4449,10 +4457,10 @@
     "titleSlug": "valid-anagram"
   },
   {
-    "id": "2130677066",
-    "title": "Total Distance Traveled",
-    "titleSlug": "total-distance-traveled",
-    "timestamp": 1788524461000,
+    "id": "2131417334",
+    "title": "Build an Array With Stack Operations",
+    "titleSlug": "build-an-array-with-stack-operations",
+    "timestamp": 1788591248000,
     "lang": "cpp",
     "statusDisplay": "Accepted"
   }
