@@ -4,6 +4,7 @@ A complete history of all accepted submissions synced by L'Amigo.
 
 | Date | Platform | Problem | Language |
 | :--- | :--- | :--- | :--- |
+| 2026-09-04 | Leetcode | Total Distance Traveled | cpp |
 | 2026-09-02 | Leetcode | Permutations II | cpp |
 | 2026-09-02 | Leetcode | Permutations | cpp |
 | 2026-09-01 | Leetcode | Splitting a String Into Descending Consecutive Values | cpp |
