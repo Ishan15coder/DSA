@@ -1,5 +1,13 @@
 [
   {
+    "id": "2131417334",
+    "lang": "cpp",
+    "statusDisplay": "Accepted",
+    "timestamp": 1788591248000,
+    "title": "Build an Array With Stack Operations",
+    "titleSlug": "build-an-array-with-stack-operations"
+  },
+  {
     "id": "2130677066",
     "lang": "cpp",
     "statusDisplay": "Accepted",
@@ -4457,10 +4465,10 @@
     "titleSlug": "valid-anagram"
   },
   {
-    "id": "2131417334",
-    "title": "Build an Array With Stack Operations",
-    "titleSlug": "build-an-array-with-stack-operations",
-    "timestamp": 1788591248000,
+    "id": "2131909556",
+    "title": "Removing Stars From a String",
+    "titleSlug": "removing-stars-from-a-string",
+    "timestamp": 1788624954000,
     "lang": "cpp",
     "statusDisplay": "Accepted"
   }
