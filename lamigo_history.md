@@ -4,6 +4,7 @@ A complete history of all accepted submissions synced by L'Amigo.
 
 | Date | Platform | Problem | Language |
 | :--- | :--- | :--- | :--- |
+| 2026-09-08 | Codeforces | Dreaming of Freedom | C++23 (GCC 14-64, msys2) |
 | 2026-09-05 | Leetcode | Removing Stars From a String | cpp |
 | 2026-09-05 | Leetcode | Build an Array With Stack Operations | cpp |
 | 2026-09-04 | Leetcode | Total Distance Traveled | cpp |
