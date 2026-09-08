@@ -4,7 +4,7 @@ Showcasing my Data Structures, Algorithms, and Competitive Programming solutions
 
 <p align="center">
   <img src="https://img.shields.io/badge/LeetCode-223_Solved-FFA116?style=for-the-badge&logo=leetcode" alt="LeetCode" />
-  <img src="https://img.shields.io/badge/Codeforces-220_Solved-1F8ACB?style=for-the-badge&logo=codeforces" alt="Codeforces" />
+  <img src="https://img.shields.io/badge/Codeforces-221_Solved-1F8ACB?style=for-the-badge&logo=codeforces" alt="Codeforces" />
   <img src="https://img.shields.io/badge/CSES-0_Solved-000000?style=for-the-badge&logo=code" alt="CSES" />
   <img src="https://img.shields.io/badge/GeeksforGeeks-0_Solved-2F8D46?style=for-the-badge&logo=geeksforgeeks" alt="GeeksforGeeks" />
 </p>
@@ -14,10 +14,10 @@ Showcasing my Data Structures, Algorithms, and Competitive Programming solutions
 | Platform | Solved Count | Solutions Tracked |
 | :--- | :---: | :--- |
 | **LeetCode** | 223 | [ `/LeetCode`](./LeetCode) |
-| **Codeforces** | 220 | [ `/Codeforces`](./Codeforces) |
+| **Codeforces** | 221 | [ `/Codeforces`](./Codeforces) |
 | **CSES Problemset** | 0 | [ `/CSES`](./CSES) |
 | **GeeksforGeeks** | 0 | [ `/GeeksForGeeks`](./GeeksForGeeks) |
-| **Total Solved** | **443** | [ `submission_history.json`](./submission_history.json) |
+| **Total Solved** | **444** | [ `submission_history.json`](./submission_history.json) |
 
 ## Codeforces Rating Breakdown
 
@@ -29,7 +29,7 @@ Showcasing my Data Structures, Algorithms, and Competitive Programming solutions
 | **1400 - 1500** | 0 |
 | **1600 - 1800** | 0 |
 | **1900+** | 0 |
-| **Unrated** | 17 |
+| **Unrated** | 18 |
 
 ## LeetCode Progress Dashboard
 
@@ -310,6 +310,7 @@ Showcasing my Data Structures, Algorithms, and Competitive Programming solutions
 | Codeforces | [Mislove Has Lost an Array](https://codeforces.com/contest/1204/problem/B) | C++23 (GCC 14-64, msys2) | [View Solution](./Codeforces/1204/B) |
 | LeetCode | [Missing Number](https://leetcode.com/problems/missing-number/) | cpp | [View Solution](./LeetCode/Easy/268-missing-number) |
 | Codeforces | [Mocha and Math](https://codeforces.com/contest/1559/problem/A) | C++23 (GCC 14-64, msys2) | [View Solution](./Codeforces/1559/A) |
+| Codeforces | [Monocarp and Projects](https://codeforces.com/contest/2260/problem/B) | C++23 (GCC 14-64, msys2) | [View Solution](./Codeforces/2260/B) |
 | Codeforces | [Monsters](https://codeforces.com/contest/1849/problem/B) | C++23 (GCC 14-64, msys2) | [View Solution](./Codeforces/1849/B) |
 | Codeforces | [Move Brackets](https://codeforces.com/contest/1374/problem/C) | C++23 (GCC 14-64, msys2) | [View Solution](./Codeforces/1374/C) |
 | LeetCode | [Move Zeroes](https://leetcode.com/problems/move-zeroes/) | cpp | [View Solution](./LeetCode/Easy/283-move-zeroes) |
