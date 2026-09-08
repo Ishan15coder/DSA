@@ -4,7 +4,7 @@ Showcasing my Data Structures, Algorithms, and Competitive Programming solutions
 
 <p align="center">
   <img src="https://img.shields.io/badge/LeetCode-223_Solved-FFA116?style=for-the-badge&logo=leetcode" alt="LeetCode" />
-  <img src="https://img.shields.io/badge/Codeforces-219_Solved-1F8ACB?style=for-the-badge&logo=codeforces" alt="Codeforces" />
+  <img src="https://img.shields.io/badge/Codeforces-220_Solved-1F8ACB?style=for-the-badge&logo=codeforces" alt="Codeforces" />
   <img src="https://img.shields.io/badge/CSES-0_Solved-000000?style=for-the-badge&logo=code" alt="CSES" />
   <img src="https://img.shields.io/badge/GeeksforGeeks-0_Solved-2F8D46?style=for-the-badge&logo=geeksforgeeks" alt="GeeksforGeeks" />
 </p>
@@ -14,10 +14,10 @@ Showcasing my Data Structures, Algorithms, and Competitive Programming solutions
 | Platform | Solved Count | Solutions Tracked |
 | :--- | :---: | :--- |
 | **LeetCode** | 223 | [ `/LeetCode`](./LeetCode) |
-| **Codeforces** | 219 | [ `/Codeforces`](./Codeforces) |
+| **Codeforces** | 220 | [ `/Codeforces`](./Codeforces) |
 | **CSES Problemset** | 0 | [ `/CSES`](./CSES) |
 | **GeeksforGeeks** | 0 | [ `/GeeksForGeeks`](./GeeksForGeeks) |
-| **Total Solved** | **442** | [ `submission_history.json`](./submission_history.json) |
+| **Total Solved** | **443** | [ `submission_history.json`](./submission_history.json) |
 
 ## Codeforces Rating Breakdown
 
@@ -25,7 +25,7 @@ Showcasing my Data Structures, Algorithms, and Competitive Programming solutions
 | :--- | :---: |
 | **<= 900** | 125 |
 | **1000 - 1100** | 61 |
-| **1200 - 1300** | 16 |
+| **1200 - 1300** | 17 |
 | **1400 - 1500** | 0 |
 | **1600 - 1800** | 0 |
 | **1900+** | 0 |
@@ -166,6 +166,7 @@ Showcasing my Data Structures, Algorithms, and Competitive Programming solutions
 | Codeforces | [Don't Try to Count](https://codeforces.com/contest/1881/problem/A) | C++20 (GCC 13-64) | [View Solution](./Codeforces/1881/A) |
 | Codeforces | [Doremy's Paint 3](https://codeforces.com/contest/1890/problem/A) | C++20 (GCC 13-64) | [View Solution](./Codeforces/1890/A) |
 | Codeforces | [Double-ended Strings](https://codeforces.com/contest/1506/problem/C) | C++23 (GCC 14-64, msys2) | [View Solution](./Codeforces/1506/C) |
+| Codeforces | [Dreaming of Freedom](https://codeforces.com/contest/1826/problem/C) | C++23 (GCC 14-64, msys2) | [View Solution](./Codeforces/1826/C) |
 | Codeforces | [Duck Surplus](https://codeforces.com/contest/2237/problem/C) | C++23 (GCC 14-64, msys2) | [View Solution](./Codeforces/2237/C) |
 | Codeforces | [Effective Approach](https://codeforces.com/contest/227/problem/B) | C++20 (GCC 13-64) | [View Solution](./Codeforces/227/B) |
 | Codeforces | [Elephant](https://codeforces.com/contest/617/problem/A) | C++20 (GCC 13-64) | [View Solution](./Codeforces/617/A) |
