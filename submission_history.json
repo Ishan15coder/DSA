@@ -1,5 +1,13 @@
 [
   {
+    "id": "2131909556",
+    "lang": "cpp",
+    "statusDisplay": "Accepted",
+    "timestamp": 1788624954000,
+    "title": "Removing Stars From a String",
+    "titleSlug": "removing-stars-from-a-string"
+  },
+  {
     "id": "2131417334",
     "lang": "cpp",
     "statusDisplay": "Accepted",
@@ -4465,11 +4473,14 @@
     "titleSlug": "valid-anagram"
   },
   {
-    "id": "2131909556",
-    "title": "Removing Stars From a String",
-    "titleSlug": "removing-stars-from-a-string",
-    "timestamp": 1788624954000,
-    "lang": "cpp",
-    "statusDisplay": "Accepted"
+    "title": "Dreaming of Freedom",
+    "titleSlug": "1826/C",
+    "timestamp": 1788874808000,
+    "statusDisplay": "Accepted",
+    "lang": "C++23 (GCC 14-64, msys2)",
+    "id": "389876899",
+    "platform": "codeforces",
+    "difficulty": "Medium",
+    "rating": 1300
   }
 ]
