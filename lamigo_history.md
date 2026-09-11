@@ -4,6 +4,7 @@ A complete history of all accepted submissions synced by L'Amigo.
 
 | Date | Platform | Problem | Language |
 | :--- | :--- | :--- | :--- |
+| 2026-09-11 | Leetcode | Count Vowel Strings in Ranges | cpp |
 | 2026-09-09 | Codeforces | Friends and the Restaurant | C++23 (GCC 14-64, msys2) |
 | 2026-09-08 | Codeforces | Monocarp and Projects | C++23 (GCC 14-64, msys2) |
 | 2026-09-08 | Codeforces | Dreaming of Freedom | C++23 (GCC 14-64, msys2) |
