@@ -3,7 +3,7 @@
 Showcasing my Data Structures, Algorithms, and Competitive Programming solutions synced automatically by [L'Amigo](https://github.com/FTS18/l-amigo).
 
 <p align="center">
-  <img src="https://img.shields.io/badge/LeetCode-224_Solved-FFA116?style=for-the-badge&logo=leetcode" alt="LeetCode" />
+  <img src="https://img.shields.io/badge/LeetCode-225_Solved-FFA116?style=for-the-badge&logo=leetcode" alt="LeetCode" />
   <img src="https://img.shields.io/badge/Codeforces-222_Solved-1F8ACB?style=for-the-badge&logo=codeforces" alt="Codeforces" />
   <img src="https://img.shields.io/badge/CSES-0_Solved-000000?style=for-the-badge&logo=code" alt="CSES" />
   <img src="https://img.shields.io/badge/GeeksforGeeks-0_Solved-2F8D46?style=for-the-badge&logo=geeksforgeeks" alt="GeeksforGeeks" />
@@ -13,11 +13,11 @@ Showcasing my Data Structures, Algorithms, and Competitive Programming solutions
 
 | Platform | Solved Count | Solutions Tracked |
 | :--- | :---: | :--- |
-| **LeetCode** | 224 | [ `/LeetCode`](./LeetCode) |
+| **LeetCode** | 225 | [ `/LeetCode`](./LeetCode) |
 | **Codeforces** | 222 | [ `/Codeforces`](./Codeforces) |
 | **CSES Problemset** | 0 | [ `/CSES`](./CSES) |
 | **GeeksforGeeks** | 0 | [ `/GeeksForGeeks`](./GeeksForGeeks) |
-| **Total Solved** | **446** | [ `submission_history.json`](./submission_history.json) |
+| **Total Solved** | **447** | [ `submission_history.json`](./submission_history.json) |
 
 ## Codeforces Rating Breakdown
 
@@ -39,17 +39,17 @@ Showcasing my Data Structures, Algorithms, and Competitive Programming solutions
 
 | Difficulty | Solved | Progress Bar |
 | :--- | :---: | :--- |
-| **Easy** | 98 | `[████░░░░░░]` (43.4%) |
-| **Medium** | 121 | `[█████░░░░░]` (53.5%) |
+| **Easy** | 98 | `[████░░░░░░]` (43.0%) |
+| **Medium** | 123 | `[█████░░░░░]` (53.9%) |
 | **Hard** | 7 | `[░░░░░░░░░░]` (3.1%) |
 
 ## Top LeetCode Topics
 
 | Topic | Solved |
 | :--- | :--- |
-| Array | 129 |
-| String | 53 |
-| Hash Table | 45 |
+| Array | 130 |
+| String | 55 |
+| Hash Table | 46 |
 | Two Pointers | 35 |
 | Math | 34 |
 | Binary Search | 29 |
@@ -140,6 +140,7 @@ Showcasing my Data Structures, Algorithms, and Competitive Programming solutions
 | LeetCode | [Count Good Numbers](https://leetcode.com/problems/count-good-numbers/) | cpp | [View Solution](./LeetCode/Medium/1922-count-good-numbers) |
 | LeetCode | [Count Number of Nice Subarrays](https://leetcode.com/problems/count-number-of-nice-subarrays/) | cpp | [View Solution](./LeetCode/Medium/1248-count-number-of-nice-subarrays) |
 | LeetCode | [Count Primes](https://leetcode.com/problems/count-primes/) | cpp | [View Solution](./LeetCode/Medium/204-count-primes) |
+| LeetCode | [Count the Number of Special Characters II](https://leetcode.com/problems/count-the-number-of-special-characters-ii/) | cpp | [View Solution](./LeetCode/Medium/3121-count-the-number-of-special-characters-ii) |
 | LeetCode | [Count Unguarded Cells in the Grid](https://leetcode.com/problems/count-unguarded-cells-in-the-grid/) | cpp | [View Solution](./LeetCode/Medium/2257-count-unguarded-cells-in-the-grid) |
 | LeetCode | [Count Vowel Strings in Ranges](https://leetcode.com/problems/count-vowel-strings-in-ranges/) | cpp | [View Solution](./LeetCode/Medium/2559-count-vowel-strings-in-ranges) |
 | Codeforces | [Cover in Water](https://codeforces.com/contest/1900/problem/A) | C++20 (GCC 13-64) | [View Solution](./Codeforces/1900/A) |
