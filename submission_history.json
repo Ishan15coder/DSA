@@ -1,5 +1,13 @@
 [
   {
+    "id": "2138631406",
+    "lang": "cpp",
+    "statusDisplay": "Accepted",
+    "timestamp": 1789136827000,
+    "title": "Count Vowel Strings in Ranges",
+    "titleSlug": "count-vowel-strings-in-ranges"
+  },
+  {
     "difficulty": "Easy",
     "id": "390096574",
     "lang": "C++23 (GCC 14-64, msys2)",
@@ -4506,10 +4514,10 @@
     "titleSlug": "valid-anagram"
   },
   {
-    "id": "2138631406",
-    "title": "Count Vowel Strings in Ranges",
-    "titleSlug": "count-vowel-strings-in-ranges",
-    "timestamp": 1789136827000,
+    "id": "2139562020",
+    "title": "Count the Number of Special Characters II",
+    "titleSlug": "count-the-number-of-special-characters-ii",
+    "timestamp": 1789222633000,
     "lang": "cpp",
     "statusDisplay": "Accepted"
   }
