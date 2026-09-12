@@ -4,6 +4,7 @@ A complete history of all accepted submissions synced by L'Amigo.
 
 | Date | Platform | Problem | Language |
 | :--- | :--- | :--- | :--- |
+| 2026-09-12 | Codeforces | Min Matrices | C++23 (GCC 14-64, msys2) |
 | 2026-09-12 | Codeforces | Min Max Game | C++23 (GCC 14-64, msys2) |
 | 2026-09-12 | Leetcode | Count the Number of Special Characters II | cpp |
 | 2026-09-11 | Leetcode | Count Vowel Strings in Ranges | cpp |
