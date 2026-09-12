@@ -4,7 +4,7 @@ Showcasing my Data Structures, Algorithms, and Competitive Programming solutions
 
 <p align="center">
   <img src="https://img.shields.io/badge/LeetCode-225_Solved-FFA116?style=for-the-badge&logo=leetcode" alt="LeetCode" />
-  <img src="https://img.shields.io/badge/Codeforces-223_Solved-1F8ACB?style=for-the-badge&logo=codeforces" alt="Codeforces" />
+  <img src="https://img.shields.io/badge/Codeforces-224_Solved-1F8ACB?style=for-the-badge&logo=codeforces" alt="Codeforces" />
   <img src="https://img.shields.io/badge/CSES-0_Solved-000000?style=for-the-badge&logo=code" alt="CSES" />
   <img src="https://img.shields.io/badge/GeeksforGeeks-0_Solved-2F8D46?style=for-the-badge&logo=geeksforgeeks" alt="GeeksforGeeks" />
 </p>
@@ -14,10 +14,10 @@ Showcasing my Data Structures, Algorithms, and Competitive Programming solutions
 | Platform | Solved Count | Solutions Tracked |
 | :--- | :---: | :--- |
 | **LeetCode** | 225 | [ `/LeetCode`](./LeetCode) |
-| **Codeforces** | 223 | [ `/Codeforces`](./Codeforces) |
+| **Codeforces** | 224 | [ `/Codeforces`](./Codeforces) |
 | **CSES Problemset** | 0 | [ `/CSES`](./CSES) |
 | **GeeksforGeeks** | 0 | [ `/GeeksForGeeks`](./GeeksForGeeks) |
-| **Total Solved** | **448** | [ `submission_history.json`](./submission_history.json) |
+| **Total Solved** | **449** | [ `submission_history.json`](./submission_history.json) |
 
 ## Codeforces Rating Breakdown
 
@@ -29,7 +29,7 @@ Showcasing my Data Structures, Algorithms, and Competitive Programming solutions
 | **1400 - 1500** | 0 |
 | **1600 - 1800** | 0 |
 | **1900+** | 0 |
-| **Unrated** | 19 |
+| **Unrated** | 20 |
 
 ## LeetCode Progress Dashboard
 
@@ -300,6 +300,7 @@ Showcasing my Data Structures, Algorithms, and Competitive Programming solutions
 | Codeforces | [MEX rose](https://codeforces.com/contest/2149/problem/C) | C++23 (GCC 14-64, msys2) | [View Solution](./Codeforces/2149/C) |
 | Codeforces | [MEXor Mixup](https://codeforces.com/contest/1567/problem/B) | C++23 (GCC 14-64, msys2) | [View Solution](./Codeforces/1567/B) |
 | LeetCode | [Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/) | cpp | [View Solution](./LeetCode/Easy/876-middle-of-the-linked-list) |
+| Codeforces | [Min Matrices](https://codeforces.com/contest/2263/problem/B) | C++23 (GCC 14-64, msys2) | [View Solution](./Codeforces/2263/B) |
 | Codeforces | [Min Max Game](https://codeforces.com/contest/2263/problem/A) | C++23 (GCC 14-64, msys2) | [View Solution](./Codeforces/2263/A) |
 | LeetCode | [Min Stack](https://leetcode.com/problems/min-stack/) | cpp | [View Solution](./LeetCode/Medium/155-min-stack) |
 | LeetCode | [Minimum Absolute Difference Between Two Values](https://leetcode.com/problems/minimum-absolute-difference-between-two-values/) | cpp | [View Solution](./LeetCode/Easy/3880-minimum-absolute-difference-between-two-values) |
