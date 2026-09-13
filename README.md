@@ -4,7 +4,7 @@ Showcasing my Data Structures, Algorithms, and Competitive Programming solutions
 
 <p align="center">
   <img src="https://img.shields.io/badge/LeetCode-225_Solved-FFA116?style=for-the-badge&logo=leetcode" alt="LeetCode" />
-  <img src="https://img.shields.io/badge/Codeforces-224_Solved-1F8ACB?style=for-the-badge&logo=codeforces" alt="Codeforces" />
+  <img src="https://img.shields.io/badge/Codeforces-225_Solved-1F8ACB?style=for-the-badge&logo=codeforces" alt="Codeforces" />
   <img src="https://img.shields.io/badge/CSES-0_Solved-000000?style=for-the-badge&logo=code" alt="CSES" />
   <img src="https://img.shields.io/badge/GeeksforGeeks-0_Solved-2F8D46?style=for-the-badge&logo=geeksforgeeks" alt="GeeksforGeeks" />
 </p>
@@ -14,10 +14,10 @@ Showcasing my Data Structures, Algorithms, and Competitive Programming solutions
 | Platform | Solved Count | Solutions Tracked |
 | :--- | :---: | :--- |
 | **LeetCode** | 225 | [ `/LeetCode`](./LeetCode) |
-| **Codeforces** | 224 | [ `/Codeforces`](./Codeforces) |
+| **Codeforces** | 225 | [ `/Codeforces`](./Codeforces) |
 | **CSES Problemset** | 0 | [ `/CSES`](./CSES) |
 | **GeeksforGeeks** | 0 | [ `/GeeksForGeeks`](./GeeksForGeeks) |
-| **Total Solved** | **449** | [ `submission_history.json`](./submission_history.json) |
+| **Total Solved** | **450** | [ `submission_history.json`](./submission_history.json) |
 
 ## Codeforces Rating Breakdown
 
@@ -29,7 +29,7 @@ Showcasing my Data Structures, Algorithms, and Competitive Programming solutions
 | **1400 - 1500** | 0 |
 | **1600 - 1800** | 0 |
 | **1900+** | 0 |
-| **Unrated** | 20 |
+| **Unrated** | 21 |
 
 ## LeetCode Progress Dashboard
 
@@ -404,6 +404,7 @@ Showcasing my Data Structures, Algorithms, and Competitive Programming solutions
 | LeetCode | [Rotate List](https://leetcode.com/problems/rotate-list/) | cpp | [View Solution](./LeetCode/Medium/61-rotate-list) |
 | LeetCode | [Rotate String](https://leetcode.com/problems/rotate-string/) | cpp | [View Solution](./LeetCode/Easy/796-rotate-string) |
 | LeetCode | [Rotting Oranges](https://leetcode.com/problems/rotting-oranges/) | cpp | [View Solution](./LeetCode/Medium/994-rotting-oranges) |
+| Codeforces | [Rumb Needs a Hand](https://codeforces.com/contest/2264/problem/A) | C++23 (GCC 14-64, msys2) | [View Solution](./Codeforces/2264/A) |
 | LeetCode | [Running Sum of 1d Array](https://leetcode.com/problems/running-sum-of-1d-array/) | cpp | [View Solution](./LeetCode/Easy/1480-running-sum-of-1d-array) |
 | Codeforces | [Sail](https://codeforces.com/contest/298/problem/B) | C++23 (GCC 14-64, msys2) | [View Solution](./Codeforces/298/B) |
 | Codeforces | [Same Differences](https://codeforces.com/contest/1520/problem/D) | C++23 (GCC 14-64, msys2) | [View Solution](./Codeforces/1520/D) |
