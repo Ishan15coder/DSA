@@ -177,26 +177,73 @@
       "displayName": "mukul__sharma8840",
       "id": "4c2318f6-5ca2-4244-bdc8-b2442537cee6",
       "updatedAt": 1788173164854
-    },
-    {
-      "accounts": [
-        {
-          "handle": "krishna_cp",
-          "lastFetched": 1788874893363,
-          "platform": "codeforces",
-          "status": "active"
-        }
-      ],
-      "addedAt": 1788874893363,
-      "aliases": [],
-      "displayName": "krishna_cp",
-      "id": "2d7e0965-27e1-4cb4-a182-d4b77e407428",
-      "updatedAt": 1788874893363
     }
   ],
   "own_codeforces_handle": "ishan15_45",
   "own_username": "9ki7hjbrkp",
   "sync_history": [
+    {
+      "problems": [],
+      "problemsSynced": 0,
+      "status": "success",
+      "timestamp": 1789319936065
+    },
+    {
+      "problems": [
+        "Rumb Needs a Hand"
+      ],
+      "problemsSynced": 1,
+      "status": "success",
+      "timestamp": 1789319931943
+    },
+    {
+      "problems": [
+        "Min Matrices"
+      ],
+      "problemsSynced": 1,
+      "status": "success",
+      "timestamp": 1789226257961
+    },
+    {
+      "problems": [
+        "Min Max Game"
+      ],
+      "problemsSynced": 1,
+      "status": "success",
+      "timestamp": 1789224047772
+    },
+    {
+      "problems": [
+        "Count the Number of Special Characters II"
+      ],
+      "problemsSynced": 1,
+      "status": "success",
+      "timestamp": 1789223312316
+    },
+    {
+      "problems": [
+        "Count Vowel Strings in Ranges"
+      ],
+      "problemsSynced": 1,
+      "status": "success",
+      "timestamp": 1789136915290
+    },
+    {
+      "problems": [
+        "Friends and the Restaurant"
+      ],
+      "problemsSynced": 1,
+      "status": "success",
+      "timestamp": 1788962722953
+    },
+    {
+      "problems": [
+        "Monocarp and Projects"
+      ],
+      "problemsSynced": 1,
+      "status": "success",
+      "timestamp": 1788882247593
+    },
     {
       "problems": [
         "Removing Stars From a String",
@@ -213,72 +260,6 @@
       "problemsSynced": 1,
       "status": "success",
       "timestamp": 1788660345482
-    },
-    {
-      "problems": [
-        "Total Distance Traveled"
-      ],
-      "problemsSynced": 1,
-      "status": "success",
-      "timestamp": 1788595515865
-    },
-    {
-      "problems": [
-        "Permutations"
-      ],
-      "problemsSynced": 1,
-      "status": "success",
-      "timestamp": 1788573956990
-    },
-    {
-      "problems": [
-        "Splitting a String Into Descending Consecutive Values",
-        "Permutations II"
-      ],
-      "problemsSynced": 2,
-      "status": "success",
-      "timestamp": 1788367354202
-    },
-    {
-      "problems": [
-        "Split a String Into the Max Number of Unique Substrings"
-      ],
-      "problemsSynced": 1,
-      "status": "success",
-      "timestamp": 1788365869272
-    },
-    {
-      "problems": [
-        "Split a String Into the Max Number of Unique Substrings",
-        "Palindrome Partitioning"
-      ],
-      "problemsSynced": 2,
-      "status": "success",
-      "timestamp": 1788320558233
-    },
-    {
-      "problems": [
-        "Restore IP Addresses"
-      ],
-      "problemsSynced": 1,
-      "status": "success",
-      "timestamp": 1788172664329
-    },
-    {
-      "problems": [
-        "Palindrome Partitioning"
-      ],
-      "problemsSynced": 1,
-      "status": "success",
-      "timestamp": 1788147776919
-    },
-    {
-      "problems": [
-        "Combination Sum III"
-      ],
-      "problemsSynced": 1,
-      "status": "success",
-      "timestamp": 1788107894197
     }
   ]
 }
