@@ -152,8 +152,14 @@
       "accounts": [
         {
           "handle": "krishnakumar2024",
-          "lastFetched": 1788085237451,
+          "lastFetched": 1789417214095,
           "platform": "leetcode",
+          "status": "active"
+        },
+        {
+          "handle": "krishna_cp",
+          "lastFetched": 1789417214095,
+          "platform": "codeforces",
           "status": "active"
         }
       ],
@@ -161,7 +167,7 @@
       "aliases": [],
       "displayName": "krishnakumar2024",
       "id": "c66afc11-2f74-4150-bb2b-61bca7b0aaa5",
-      "updatedAt": 1788085237451
+      "updatedAt": 1789417214095
     },
     {
       "accounts": [
