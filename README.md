@@ -4,7 +4,7 @@ Showcasing my Data Structures, Algorithms, and Competitive Programming solutions
 
 <p align="center">
   <img src="https://img.shields.io/badge/LeetCode-227_Solved-FFA116?style=for-the-badge&logo=leetcode" alt="LeetCode" />
-  <img src="https://img.shields.io/badge/Codeforces-225_Solved-1F8ACB?style=for-the-badge&logo=codeforces" alt="Codeforces" />
+  <img src="https://img.shields.io/badge/Codeforces-226_Solved-1F8ACB?style=for-the-badge&logo=codeforces" alt="Codeforces" />
   <img src="https://img.shields.io/badge/CSES-0_Solved-000000?style=for-the-badge&logo=code" alt="CSES" />
   <img src="https://img.shields.io/badge/GeeksforGeeks-0_Solved-2F8D46?style=for-the-badge&logo=geeksforgeeks" alt="GeeksforGeeks" />
 </p>
@@ -14,10 +14,10 @@ Showcasing my Data Structures, Algorithms, and Competitive Programming solutions
 | Platform | Solved Count | Solutions Tracked |
 | :--- | :---: | :--- |
 | **LeetCode** | 227 | [ `/LeetCode`](./LeetCode) |
-| **Codeforces** | 225 | [ `/Codeforces`](./Codeforces) |
+| **Codeforces** | 226 | [ `/Codeforces`](./Codeforces) |
 | **CSES Problemset** | 0 | [ `/CSES`](./CSES) |
 | **GeeksforGeeks** | 0 | [ `/GeeksForGeeks`](./GeeksForGeeks) |
-| **Total Solved** | **452** | [ `submission_history.json`](./submission_history.json) |
+| **Total Solved** | **453** | [ `submission_history.json`](./submission_history.json) |
 
 ## Codeforces Rating Breakdown
 
@@ -26,7 +26,7 @@ Showcasing my Data Structures, Algorithms, and Competitive Programming solutions
 | **<= 900** | 125 |
 | **1000 - 1100** | 61 |
 | **1200 - 1300** | 18 |
-| **1400 - 1500** | 0 |
+| **1400 - 1500** | 1 |
 | **1600 - 1800** | 0 |
 | **1900+** | 0 |
 | **Unrated** | 21 |
@@ -114,6 +114,7 @@ Showcasing my Data Structures, Algorithms, and Competitive Programming solutions
 | Codeforces | [Buying Shovels](https://codeforces.com/contest/1360/problem/D) | C++23 (GCC 14-64, msys2) | [View Solution](./Codeforces/1360/D) |
 | Codeforces | [Buying Torches](https://codeforces.com/contest/1418/problem/A) | C++23 (GCC 14-64, msys2) | [View Solution](./Codeforces/1418/A) |
 | LeetCode | [Capacity To Ship Packages Within D Days](https://leetcode.com/problems/capacity-to-ship-packages-within-d-days/) | cpp | [View Solution](./LeetCode/Medium/1011-capacity-to-ship-packages-within-d-days) |
+| Codeforces | [Cellular Network](https://codeforces.com/contest/702/problem/C) | C++23 (GCC 14-64, msys2) | [View Solution](./Codeforces/702/C) |
 | Codeforces | [Cheap Travel](https://codeforces.com/contest/466/problem/A) | C++23 (GCC 14-64, msys2) | [View Solution](./Codeforces/466/A) |
 | LeetCode | [Check If a String Contains All Binary Codes of Size K](https://leetcode.com/problems/check-if-a-string-contains-all-binary-codes-of-size-k/) | cpp | [View Solution](./LeetCode/Medium/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | LeetCode | [Check if Array Is Sorted and Rotated](https://leetcode.com/problems/check-if-array-is-sorted-and-rotated/) | cpp | [View Solution](./LeetCode/Easy/1752-check-if-array-is-sorted-and-rotated) |
