@@ -3,7 +3,7 @@
 Showcasing my Data Structures, Algorithms, and Competitive Programming solutions synced automatically by [L'Amigo](https://github.com/FTS18/l-amigo).
 
 <p align="center">
-  <img src="https://img.shields.io/badge/LeetCode-225_Solved-FFA116?style=for-the-badge&logo=leetcode" alt="LeetCode" />
+  <img src="https://img.shields.io/badge/LeetCode-227_Solved-FFA116?style=for-the-badge&logo=leetcode" alt="LeetCode" />
   <img src="https://img.shields.io/badge/Codeforces-225_Solved-1F8ACB?style=for-the-badge&logo=codeforces" alt="Codeforces" />
   <img src="https://img.shields.io/badge/CSES-0_Solved-000000?style=for-the-badge&logo=code" alt="CSES" />
   <img src="https://img.shields.io/badge/GeeksforGeeks-0_Solved-2F8D46?style=for-the-badge&logo=geeksforgeeks" alt="GeeksforGeeks" />
@@ -13,11 +13,11 @@ Showcasing my Data Structures, Algorithms, and Competitive Programming solutions
 
 | Platform | Solved Count | Solutions Tracked |
 | :--- | :---: | :--- |
-| **LeetCode** | 225 | [ `/LeetCode`](./LeetCode) |
+| **LeetCode** | 227 | [ `/LeetCode`](./LeetCode) |
 | **Codeforces** | 225 | [ `/Codeforces`](./Codeforces) |
 | **CSES Problemset** | 0 | [ `/CSES`](./CSES) |
 | **GeeksforGeeks** | 0 | [ `/GeeksForGeeks`](./GeeksForGeeks) |
-| **Total Solved** | **450** | [ `submission_history.json`](./submission_history.json) |
+| **Total Solved** | **452** | [ `submission_history.json`](./submission_history.json) |
 
 ## Codeforces Rating Breakdown
 
@@ -39,24 +39,24 @@ Showcasing my Data Structures, Algorithms, and Competitive Programming solutions
 
 | Difficulty | Solved | Progress Bar |
 | :--- | :---: | :--- |
-| **Easy** | 98 | `[████░░░░░░]` (43.0%) |
-| **Medium** | 123 | `[█████░░░░░]` (53.9%) |
-| **Hard** | 7 | `[░░░░░░░░░░]` (3.1%) |
+| **Easy** | 98 | `[████░░░░░░]` (42.6%) |
+| **Medium** | 125 | `[█████░░░░░]` (54.3%) |
+| **Hard** | 7 | `[░░░░░░░░░░]` (3.0%) |
 
 ## Top LeetCode Topics
 
 | Topic | Solved |
 | :--- | :--- |
-| Array | 130 |
-| String | 55 |
+| Array | 131 |
+| String | 56 |
 | Hash Table | 46 |
+| Math | 35 |
 | Two Pointers | 35 |
-| Math | 34 |
 | Binary Search | 29 |
 | Sorting | 25 |
 | Dynamic Programming | 24 |
 | Sliding Window | 22 |
-| Stack | 17 |
+| Stack | 18 |
 
 
 ## Synced Solutions Index
@@ -320,6 +320,7 @@ Showcasing my Data Structures, Algorithms, and Competitive Programming solutions
 | Codeforces | [Move Brackets](https://codeforces.com/contest/1374/problem/C) | C++23 (GCC 14-64, msys2) | [View Solution](./Codeforces/1374/C) |
 | LeetCode | [Move Zeroes](https://leetcode.com/problems/move-zeroes/) | cpp | [View Solution](./LeetCode/Easy/283-move-zeroes) |
 | Codeforces | [Multiply by 2, divide by 6](https://codeforces.com/contest/1374/problem/B) | C++23 (GCC 14-64, msys2) | [View Solution](./Codeforces/1374/B) |
+| LeetCode | [Multiply Strings](https://leetcode.com/problems/multiply-strings/) | cpp | [View Solution](./LeetCode/Unknown/multiply-strings) |
 | Codeforces | [Negatives and Positives](https://codeforces.com/contest/1791/problem/E) | C++23 (GCC 14-64, msys2) | [View Solution](./Codeforces/1791/E) |
 | LeetCode | [Next Greater Element I](https://leetcode.com/problems/next-greater-element-i/) | cpp | [View Solution](./LeetCode/Unknown/next-greater-element-i) |
 | LeetCode | [Next Greater Element II](https://leetcode.com/problems/next-greater-element-ii/) | cpp | [View Solution](./LeetCode/Medium/503-next-greater-element-ii) |
@@ -460,6 +461,7 @@ Showcasing my Data Structures, Algorithms, and Competitive Programming solutions
 | LeetCode | [Sum of Beauty of All Substrings](https://leetcode.com/problems/sum-of-beauty-of-all-substrings/) | cpp | [View Solution](./LeetCode/Medium/1781-sum-of-beauty-of-all-substrings) |
 | LeetCode | [Sum of Integers with Maximum Digit Range](https://leetcode.com/problems/sum-of-integers-with-maximum-digit-range/) | cpp | [View Solution](./LeetCode/Easy/3982-sum-of-integers-with-maximum-digit-range) |
 | Codeforces | [Sum of Medians](https://codeforces.com/contest/1440/problem/B) | C++23 (GCC 14-64, msys2) | [View Solution](./Codeforces/1440/B) |
+| LeetCode | [Sum of Subarray Ranges](https://leetcode.com/problems/sum-of-subarray-ranges/) | cpp | [View Solution](./LeetCode/Medium/2104-sum-of-subarray-ranges) |
 | Codeforces | [Supercentral Point](https://codeforces.com/contest/165/problem/A) | C++20 (GCC 13-64) | [View Solution](./Codeforces/165/A) |
 | LeetCode | [Surrounded Regions](https://leetcode.com/problems/surrounded-regions/) | cpp | [View Solution](./LeetCode/Medium/130-surrounded-regions) |
 | Codeforces | [Sushi for Two](https://codeforces.com/contest/1138/problem/A) | C++23 (GCC 14-64, msys2) | [View Solution](./Codeforces/1138/A) |
