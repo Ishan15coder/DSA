@@ -4,6 +4,7 @@ A complete history of all accepted submissions synced by L'Amigo.
 
 | Date | Platform | Problem | Language |
 | :--- | :--- | :--- | :--- |
+| 2026-09-15 | Leetcode | Reconstruct Original Digits from English | cpp |
 | 2026-09-15 | Codeforces | Cellular Network | C++23 (GCC 14-64, msys2) |
 | 2026-09-14 | Leetcode | Sum of Subarray Ranges | cpp |
 | 2026-09-14 | Leetcode | Multiply Strings | cpp |
