@@ -3,7 +3,7 @@
 Showcasing my Data Structures, Algorithms, and Competitive Programming solutions synced automatically by [L'Amigo](https://github.com/FTS18/l-amigo).
 
 <p align="center">
-  <img src="https://img.shields.io/badge/LeetCode-227_Solved-FFA116?style=for-the-badge&logo=leetcode" alt="LeetCode" />
+  <img src="https://img.shields.io/badge/LeetCode-228_Solved-FFA116?style=for-the-badge&logo=leetcode" alt="LeetCode" />
   <img src="https://img.shields.io/badge/Codeforces-226_Solved-1F8ACB?style=for-the-badge&logo=codeforces" alt="Codeforces" />
   <img src="https://img.shields.io/badge/CSES-0_Solved-000000?style=for-the-badge&logo=code" alt="CSES" />
   <img src="https://img.shields.io/badge/GeeksforGeeks-0_Solved-2F8D46?style=for-the-badge&logo=geeksforgeeks" alt="GeeksforGeeks" />
@@ -13,11 +13,11 @@ Showcasing my Data Structures, Algorithms, and Competitive Programming solutions
 
 | Platform | Solved Count | Solutions Tracked |
 | :--- | :---: | :--- |
-| **LeetCode** | 227 | [ `/LeetCode`](./LeetCode) |
+| **LeetCode** | 228 | [ `/LeetCode`](./LeetCode) |
 | **Codeforces** | 226 | [ `/Codeforces`](./Codeforces) |
 | **CSES Problemset** | 0 | [ `/CSES`](./CSES) |
 | **GeeksforGeeks** | 0 | [ `/GeeksForGeeks`](./GeeksForGeeks) |
-| **Total Solved** | **453** | [ `submission_history.json`](./submission_history.json) |
+| **Total Solved** | **454** | [ `submission_history.json`](./submission_history.json) |
 
 ## Codeforces Rating Breakdown
 
@@ -39,8 +39,8 @@ Showcasing my Data Structures, Algorithms, and Competitive Programming solutions
 
 | Difficulty | Solved | Progress Bar |
 | :--- | :---: | :--- |
-| **Easy** | 98 | `[████░░░░░░]` (42.6%) |
-| **Medium** | 125 | `[█████░░░░░]` (54.3%) |
+| **Easy** | 98 | `[████░░░░░░]` (42.4%) |
+| **Medium** | 126 | `[█████░░░░░]` (54.5%) |
 | **Hard** | 7 | `[░░░░░░░░░░]` (3.0%) |
 
 ## Top LeetCode Topics
@@ -48,9 +48,9 @@ Showcasing my Data Structures, Algorithms, and Competitive Programming solutions
 | Topic | Solved |
 | :--- | :--- |
 | Array | 131 |
-| String | 56 |
-| Hash Table | 46 |
-| Math | 35 |
+| String | 57 |
+| Hash Table | 47 |
+| Math | 36 |
 | Two Pointers | 35 |
 | Binary Search | 29 |
 | Sorting | 25 |
@@ -378,6 +378,7 @@ Showcasing my Data Structures, Algorithms, and Competitive Programming solutions
 | Codeforces | [Raspberries](https://codeforces.com/contest/1883/problem/C) | C++23 (GCC 14-64, msys2) | [View Solution](./Codeforces/1883/C) |
 | LeetCode | [Rearrange Array Elements by Sign](https://leetcode.com/problems/rearrange-array-elements-by-sign/) | cpp | [View Solution](./LeetCode/Medium/2149-rearrange-array-elements-by-sign) |
 | Codeforces | [Reconnaissance 2](https://codeforces.com/contest/34/problem/A) | C++20 (GCC 13-64) | [View Solution](./Codeforces/34/A) |
+| LeetCode | [Reconstruct Original Digits from English](https://leetcode.com/problems/reconstruct-original-digits-from-english/) | cpp | [View Solution](./LeetCode/Medium/423-reconstruct-original-digits-from-english) |
 | Codeforces | [Red Versus Blue](https://codeforces.com/contest/1659/problem/A) | C++23 (GCC 14-64, msys2) | [View Solution](./Codeforces/1659/A) |
 | Codeforces | [Registration System](https://codeforces.com/contest/4/problem/C) | C++23 (GCC 14-64, msys2) | [View Solution](./Codeforces/4/C) |
 | LeetCode | [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) | cpp | [View Solution](./LeetCode/Easy/26-remove-duplicates-from-sorted-array) |
