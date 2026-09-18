@@ -231,6 +231,21 @@
       "displayName": "Ikshank",
       "id": "49d958af-f08a-47d2-9eff-b842a677c846",
       "updatedAt": 1789712958952
+    },
+    {
+      "accounts": [
+        {
+          "handle": "harshitharshit",
+          "lastFetched": 1789713916375,
+          "platform": "leetcode",
+          "status": "active"
+        }
+      ],
+      "addedAt": 1789713916375,
+      "aliases": [],
+      "displayName": "harshitharshit",
+      "id": "a02b5d90-9271-4e8c-8721-9f3924a645b7",
+      "updatedAt": 1789713916375
     }
   ],
   "own_codechef_handle": "ishan1545",
