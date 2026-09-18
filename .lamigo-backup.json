@@ -219,6 +219,21 @@
       "displayName": "HIrdesh",
       "id": "b74563b7-4f95-466e-bef1-2a9f3a9930ce",
       "updatedAt": 1789712931611
+    },
+    {
+      "accounts": [
+        {
+          "handle": "ikshank_123",
+          "lastFetched": 1789712958952,
+          "platform": "leetcode",
+          "status": "active"
+        }
+      ],
+      "addedAt": 1789712958952,
+      "aliases": [],
+      "displayName": "Ikshank",
+      "id": "49d958af-f08a-47d2-9eff-b842a677c846",
+      "updatedAt": 1789712958952
     }
   ],
   "own_codeforces_handle": "ishan15_45",
