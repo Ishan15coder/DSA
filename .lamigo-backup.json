@@ -187,21 +187,6 @@
     {
       "accounts": [
         {
-          "handle": "MKS_23",
-          "lastFetched": 1789712541790,
-          "platform": "codeforces",
-          "status": "active"
-        }
-      ],
-      "addedAt": 1789712541790,
-      "aliases": [],
-      "displayName": "MKS_23",
-      "id": "5ead3a4c-e2a4-4547-8287-c88b30c6bd21",
-      "updatedAt": 1789712541790
-    },
-    {
-      "accounts": [
-        {
           "handle": "hirdeshds",
           "lastFetched": 1789712931610,
           "platform": "leetcode",
