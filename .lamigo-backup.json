@@ -198,6 +198,27 @@
       "displayName": "MKS_23",
       "id": "5ead3a4c-e2a4-4547-8287-c88b30c6bd21",
       "updatedAt": 1789712541790
+    },
+    {
+      "accounts": [
+        {
+          "handle": "hirdeshds",
+          "lastFetched": 1789712931610,
+          "platform": "leetcode",
+          "status": "active"
+        },
+        {
+          "handle": "hirdeshds",
+          "lastFetched": 1789712931610,
+          "platform": "codeforces",
+          "status": "active"
+        }
+      ],
+      "addedAt": 1789712931611,
+      "aliases": [],
+      "displayName": "HIrdesh",
+      "id": "b74563b7-4f95-466e-bef1-2a9f3a9930ce",
+      "updatedAt": 1789712931611
     }
   ],
   "own_codeforces_handle": "ishan15_45",
