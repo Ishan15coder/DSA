@@ -173,8 +173,14 @@
       "accounts": [
         {
           "handle": "mukul__sharma8840",
-          "lastFetched": 1788173164853,
+          "lastFetched": 1789713001835,
           "platform": "leetcode",
+          "status": "active"
+        },
+        {
+          "handle": "MKS_23",
+          "lastFetched": 1789713001835,
+          "platform": "codeforces",
           "status": "active"
         }
       ],
@@ -182,7 +188,7 @@
       "aliases": [],
       "displayName": "mukul__sharma8840",
       "id": "4c2318f6-5ca2-4244-bdc8-b2442537cee6",
-      "updatedAt": 1788173164854
+      "updatedAt": 1789713001835
     },
     {
       "accounts": [
