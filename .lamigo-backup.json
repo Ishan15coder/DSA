@@ -77,16 +77,22 @@
       "accounts": [
         {
           "handle": "xo4jaitok2",
-          "lastFetched": 1786883713597,
+          "lastFetched": 1789713661722,
           "platform": "leetcode",
+          "status": "active"
+        },
+        {
+          "handle": "real-Subrat",
+          "lastFetched": 1789713661722,
+          "platform": "codeforces",
           "status": "active"
         }
       ],
       "addedAt": 1786883713597,
       "aliases": [],
-      "displayName": "xo4jaitok2",
+      "displayName": "Subrat",
       "id": "36e3df9d-88c2-47ad-99ed-17f195ea4add",
-      "updatedAt": 1786883713597
+      "updatedAt": 1789713661723
     },
     {
       "accounts": [
