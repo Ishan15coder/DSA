@@ -1,5 +1,16 @@
 [
   {
+    "difficulty": "Medium",
+    "id": "391312386",
+    "lang": "C++23 (GCC 14-64, msys2)",
+    "platform": "codeforces",
+    "rating": 1400,
+    "statusDisplay": "Accepted",
+    "timestamp": 1789899759000,
+    "title": "Maximum Median",
+    "titleSlug": "1201/C"
+  },
+  {
     "id": "2145086878",
     "lang": "cpp",
     "statusDisplay": "Accepted",
@@ -4598,14 +4609,87 @@
     "titleSlug": "valid-anagram"
   },
   {
-    "title": "Maximum Median",
-    "titleSlug": "1201/C",
-    "timestamp": 1789899759000,
+    "title": "CSES Task 1621",
+    "titleSlug": "1621",
+    "timestamp": 1789913750065,
     "statusDisplay": "Accepted",
-    "lang": "C++23 (GCC 14-64, msys2)",
-    "id": "391312386",
-    "platform": "codeforces",
-    "difficulty": "Medium",
-    "rating": 1400
+    "lang": "C++",
+    "id": "cses-1621",
+    "platform": "cses",
+    "difficulty": "Unknown",
+    "rating": 0,
+    "code": "#include <bits/stdc++.h>\nusing namespace std;\n\nint main() {\n\t// your code goes here\n\tint n;\n\tcin>>n;\n\tvector<int>a(n);\n\tfor(int i=0;i<n;i++){\n\t    cin>>a[i];\n\t}\n\tset<int>b;\n\tfor(int i=0;i<n;i++){\n\t    b.insert(a[i]);\n\t}\n\tcout<<b.size()<<endl;\n\n\n}\n"
+  },
+  {
+    "title": "CSES Task 1090",
+    "titleSlug": "1090",
+    "timestamp": 1789913750137,
+    "statusDisplay": "Accepted",
+    "lang": "C++",
+    "id": "cses-1090",
+    "platform": "cses",
+    "difficulty": "Unknown",
+    "rating": 0,
+    "code": "input/code.cpp: In function 'int main()':\ninput/code.cpp:12:15: warning: unused variable 'c' [-Wunused-variable]\n   12 |     long long c=0;\n      |               ^"
+  },
+  {
+    "title": "CSES Task 1629",
+    "titleSlug": "1629",
+    "timestamp": 1789913750375,
+    "statusDisplay": "Accepted",
+    "lang": "C++",
+    "id": "cses-1629",
+    "platform": "cses",
+    "difficulty": "Unknown",
+    "rating": 0,
+    "code": "#include<bits/stdc++.h>\r\nusing namespace std;\r\nusing ll=long long;\r\n#define v(a,n) for(int i=0;i<n;i++)cin>>a[i];\r\n\r\nint main(){\r\n   \r\n    \r\n        ll n;\r\n        cin>>n;\r\n        vector<pair<ll,ll>>a;\r\n        \r\n        for(int i=0;i<n;i++){\r\n            int x,y;\r\n            cin>>x>>y;\r\n            a.push_back({y,x});\r\n        }\r\n        sort(a.begin(),a.end());\r\n        // reverse(a.begin(),a.end());\r\n        int cnt=1;\r\n        int prev=a[0].first;\r\n        for(int i=1;i<n;i++){\r\n            if(a[i].second>=prev){\r\n                cnt++;\r\n                prev=a[i].first;\r\n            }\r\n        }\r\n        cout<<cnt<<endl;\r\n\r\n\r\n    return 0;\r\n}"
+  },
+  {
+    "title": "CSES Task 1640",
+    "titleSlug": "1640",
+    "timestamp": 1789913750647,
+    "statusDisplay": "Accepted",
+    "lang": "C++",
+    "id": "cses-1640",
+    "platform": "cses",
+    "difficulty": "Unknown",
+    "rating": 0,
+    "code": "#include<bits/stdc++.h>\r\nusing namespace std;\r\n\r\nint main(){\r\n    long long n, s;\r\n    cin >> n >> s;\r\n\r\n    vector<pair<long long,long long>> a(n);\r\n\r\n    for(long long i = 0; i < n; i++){\r\n        cin >> a[i].first;     // value\r\n        a[i].second = i + 1;   // original index\r\n    }\r\n\r\n    sort(a.begin(), a.end());\r\n\r\n    long long l = 0, r = n - 1;\r\n\r\n    while(l < r){\r\n        long long sum = a[l].first + a[r].first;\r\n\r\n        if(sum == s){\r\n            cout << a[l].second << \" \" << a[r].second;\r\n            return 0;\r\n        }\r\n        else if(sum < s){\r\n            l++;\r\n        }\r\n        else{\r\n            r--;\r\n        }\r\n    }\r\n\r\n    cout << \"IMPOSSIBLE\";\r\n    return 0;\r\n}\r\n"
+  },
+  {
+    "title": "CSES Task 1074",
+    "titleSlug": "1074",
+    "timestamp": 1789913750550,
+    "statusDisplay": "Accepted",
+    "lang": "C++",
+    "id": "cses-1074",
+    "platform": "cses",
+    "difficulty": "Unknown",
+    "rating": 0,
+    "code": "#include <bits/stdc++.h>\nusing namespace std;\n\nint main() {\n\t// your code goes here\n    long long n;\n\tcin>>n;\n\tvector<long long>a(n);\n\tfor(long long i=0;i<n;i++)cin>>a[i];\n\tsort(a.begin(),a.end());\n    long long k=n/2;\n    long long ans=0;\n    for(long long i=0;i<n;i++){\n        ans+=abs(a[i]-a[k]);\n    }\n    cout<<ans<<endl;\n\n}\n"
+  },
+  {
+    "title": "CSES Task 2183",
+    "titleSlug": "2183",
+    "timestamp": 1789913751843,
+    "statusDisplay": "Accepted",
+    "lang": "C++",
+    "id": "cses-2183",
+    "platform": "cses",
+    "difficulty": "Unknown",
+    "rating": 0,
+    "code": "#include<bits/stdc++.h>\r\nusing namespace std;\r\nusing ll=long long;\r\n#define v(a,n) for(int i=0;i<n;i++)cin>>a[i];\r\n\r\nint main(){\r\n    \r\n        ll n;\r\n        cin>>n;\r\n        vector<ll>a(n);\r\n        v(a,n);\r\n        sort(a.begin(),a.end());\r\n\r\n        ll l=0;\r\n        ll ans=-1;\r\n        for(int i=0;i<n;i++){\r\n            if(a[i]>l+1){\r\n                ans=l+1;\r\n                break;\r\n            }\r\n            else{\r\n                l+=a[i];\r\n            }  \r\n        }\r\n        ans=l+1;\r\n        cout<<ans<<endl;\r\n\r\n\r\n    return 0;\r\n}"
+  },
+  {
+    "title": "CSES Task 1630",
+    "titleSlug": "1630",
+    "timestamp": 1789913751899,
+    "statusDisplay": "Accepted",
+    "lang": "C++",
+    "id": "cses-1630",
+    "platform": "cses",
+    "difficulty": "Unknown",
+    "rating": 0,
+    "code": "#include<bits/stdc++.h>\nusing namespace std;\nusing ll=long long;\n#define v(a,n) for(int i=0;i<n;i++)cin>>a[i];\n\nint main(){\n    ll n;\n    cin>>n;\n    vector<pair<ll,ll>>a;\n   for(ll i=0;i<n;i++){\n        ll du,de;\n        cin>>du>>de;\n        a.push_back({du,de});\n    }\n    sort(a.begin(),a.end());\n    ll t=0;\n    ll ans=0;\n    for(ll i=0;i<n;i++){\n        t+=a[i].first;\n        ans+=a[i].second-t;\n    }\n    cout<<ans<<endl;\n\n\n\n    return 0;\n}"
   }
 ]
