@@ -3,8 +3,8 @@
 Showcasing my Data Structures, Algorithms, and Competitive Programming solutions synced automatically by [L'Amigo](https://github.com/FTS18/l-amigo).
 
 <p align="center">
-  <img src="https://img.shields.io/badge/LeetCode-228_Solved-FFA116?style=for-the-badge&logo=leetcode" alt="LeetCode" />
-  <img src="https://img.shields.io/badge/Codeforces-226_Solved-1F8ACB?style=for-the-badge&logo=codeforces" alt="Codeforces" />
+  <img src="https://img.shields.io/badge/LeetCode-229_Solved-FFA116?style=for-the-badge&logo=leetcode" alt="LeetCode" />
+  <img src="https://img.shields.io/badge/Codeforces-227_Solved-1F8ACB?style=for-the-badge&logo=codeforces" alt="Codeforces" />
   <img src="https://img.shields.io/badge/CSES-0_Solved-000000?style=for-the-badge&logo=code" alt="CSES" />
   <img src="https://img.shields.io/badge/GeeksforGeeks-0_Solved-2F8D46?style=for-the-badge&logo=geeksforgeeks" alt="GeeksforGeeks" />
 </p>
@@ -13,11 +13,11 @@ Showcasing my Data Structures, Algorithms, and Competitive Programming solutions
 
 | Platform | Solved Count | Solutions Tracked |
 | :--- | :---: | :--- |
-| **LeetCode** | 228 | [ `/LeetCode`](./LeetCode) |
-| **Codeforces** | 226 | [ `/Codeforces`](./Codeforces) |
+| **LeetCode** | 229 | [ `/LeetCode`](./LeetCode) |
+| **Codeforces** | 227 | [ `/Codeforces`](./Codeforces) |
 | **CSES Problemset** | 0 | [ `/CSES`](./CSES) |
 | **GeeksforGeeks** | 0 | [ `/GeeksForGeeks`](./GeeksForGeeks) |
-| **Total Solved** | **454** | [ `submission_history.json`](./submission_history.json) |
+| **Total Solved** | **456** | [ `submission_history.json`](./submission_history.json) |
 
 ## Codeforces Rating Breakdown
 
@@ -26,7 +26,7 @@ Showcasing my Data Structures, Algorithms, and Competitive Programming solutions
 | **<= 900** | 125 |
 | **1000 - 1100** | 61 |
 | **1200 - 1300** | 18 |
-| **1400 - 1500** | 1 |
+| **1400 - 1500** | 2 |
 | **1600 - 1800** | 0 |
 | **1900+** | 0 |
 | **Unrated** | 21 |
@@ -39,20 +39,20 @@ Showcasing my Data Structures, Algorithms, and Competitive Programming solutions
 
 | Difficulty | Solved | Progress Bar |
 | :--- | :---: | :--- |
-| **Easy** | 98 | `[████░░░░░░]` (42.4%) |
-| **Medium** | 126 | `[█████░░░░░]` (54.5%) |
-| **Hard** | 7 | `[░░░░░░░░░░]` (3.0%) |
+| **Easy** | 98 | `[████░░░░░░]` (42.2%) |
+| **Medium** | 126 | `[█████░░░░░]` (54.3%) |
+| **Hard** | 8 | `[░░░░░░░░░░]` (3.4%) |
 
 ## Top LeetCode Topics
 
 | Topic | Solved |
 | :--- | :--- |
-| Array | 131 |
+| Array | 132 |
 | String | 57 |
 | Hash Table | 47 |
 | Math | 36 |
 | Two Pointers | 35 |
-| Binary Search | 29 |
+| Binary Search | 30 |
 | Sorting | 25 |
 | Dynamic Programming | 24 |
 | Sliding Window | 22 |
@@ -287,6 +287,7 @@ Showcasing my Data Structures, Algorithms, and Competitive Programming solutions
 | LeetCode | [Maximum Difference Between Adjacent Elements in a Circular Array](https://leetcode.com/problems/maximum-difference-between-adjacent-elements-in-a-circular-array/) | cpp | [View Solution](./LeetCode/Easy/3423-maximum-difference-between-adjacent-elements-in-a-circular-array) |
 | LeetCode | [Maximum Length of Pair Chain](https://leetcode.com/problems/maximum-length-of-pair-chain/) | cpp | [View Solution](./LeetCode/Medium/646-maximum-length-of-pair-chain) |
 | LeetCode | [Maximum Matching of Players With Trainers](https://leetcode.com/problems/maximum-matching-of-players-with-trainers/) | cpp | [View Solution](./LeetCode/Medium/2410-maximum-matching-of-players-with-trainers) |
+| Codeforces | [Maximum Median](https://codeforces.com/contest/1201/problem/C) | C++23 (GCC 14-64, msys2) | [View Solution](./Codeforces/1201/C) |
 | LeetCode | [Maximum Nesting Depth of the Parentheses](https://leetcode.com/problems/maximum-nesting-depth-of-the-parentheses/) | cpp | [View Solution](./LeetCode/Easy/1614-maximum-nesting-depth-of-the-parentheses) |
 | LeetCode | [Maximum Points You Can Obtain from Cards](https://leetcode.com/problems/maximum-points-you-can-obtain-from-cards/) | cpp | [View Solution](./LeetCode/Medium/1423-maximum-points-you-can-obtain-from-cards) |
 | LeetCode | [Maximum Product Subarray](https://leetcode.com/problems/maximum-product-subarray/) | cpp | [View Solution](./LeetCode/Medium/152-maximum-product-subarray) |
@@ -345,6 +346,7 @@ Showcasing my Data Structures, Algorithms, and Competitive Programming solutions
 | Codeforces | [Odd Queries](https://codeforces.com/contest/1807/problem/D) | C++23 (GCC 14-64, msys2) | [View Solution](./Codeforces/1807/D) |
 | Codeforces | [Olya and Game with Arrays](https://codeforces.com/contest/1859/problem/B) | C++23 (GCC 14-64, msys2) | [View Solution](./Codeforces/1859/B) |
 | Codeforces | [One and Two](https://codeforces.com/contest/1788/problem/A) | C++20 (GCC 13-64) | [View Solution](./Codeforces/1788/A) |
+| LeetCode | [Online Majority Element In Subarray](https://leetcode.com/problems/online-majority-element-in-subarray/) | cpp | [View Solution](./LeetCode/Hard/1157-online-majority-element-in-subarray) |
 | Codeforces | [Only One Digit](https://codeforces.com/contest/2126/problem/A) | C++20 (GCC 13-64) | [View Solution](./Codeforces/2126/A) |
 | Codeforces | [Pacer](https://codeforces.com/contest/2148/problem/C) | C++23 (GCC 14-64, msys2) | [View Solution](./Codeforces/2148/C) |
 | Codeforces | [Paint the Numbers](https://codeforces.com/contest/1209/problem/A) | C++23 (GCC 14-64, msys2) | [View Solution](./Codeforces/1209/A) |
