@@ -5,7 +5,13 @@
       "accounts": [
         {
           "handle": "ananaydubey",
-          "lastFetched": 1782304772161,
+          "lastFetched": 1789893480179,
+          "platform": "leetcode",
+          "status": "active"
+        },
+        {
+          "handle": "ananaydubey",
+          "lastFetched": 1789893480179,
           "platform": "codeforces",
           "status": "active"
         }
@@ -14,7 +20,7 @@
       "aliases": [],
       "displayName": "ananaydubey",
       "id": "474c7da6-10da-4336-b6e9-303489edfc6d",
-      "updatedAt": 1782304772161
+      "updatedAt": 1789893480179
     },
     {
       "accounts": [
