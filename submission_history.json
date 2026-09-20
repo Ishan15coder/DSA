@@ -1,5 +1,21 @@
 [
   {
+    "id": "2145086878",
+    "lang": "cpp",
+    "statusDisplay": "Accepted",
+    "timestamp": 1789670704000,
+    "title": "Online Majority Element In Subarray",
+    "titleSlug": "online-majority-element-in-subarray"
+  },
+  {
+    "id": "2142718368",
+    "lang": "cpp",
+    "statusDisplay": "Accepted",
+    "timestamp": 1789484420000,
+    "title": "Reconstruct Original Digits from English",
+    "titleSlug": "reconstruct-original-digits-from-english"
+  },
+  {
     "difficulty": "Medium",
     "id": "390835107",
     "lang": "C++23 (GCC 14-64, msys2)",
@@ -4582,11 +4598,14 @@
     "titleSlug": "valid-anagram"
   },
   {
-    "id": "2142718368",
-    "title": "Reconstruct Original Digits from English",
-    "titleSlug": "reconstruct-original-digits-from-english",
-    "timestamp": 1789484420000,
-    "lang": "cpp",
-    "statusDisplay": "Accepted"
+    "title": "Maximum Median",
+    "titleSlug": "1201/C",
+    "timestamp": 1789899759000,
+    "statusDisplay": "Accepted",
+    "lang": "C++23 (GCC 14-64, msys2)",
+    "id": "391312386",
+    "platform": "codeforces",
+    "difficulty": "Medium",
+    "rating": 1400
   }
 ]
