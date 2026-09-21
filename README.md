@@ -4,7 +4,7 @@ Showcasing my Data Structures, Algorithms, and Competitive Programming solutions
 
 <p align="center">
   <img src="https://img.shields.io/badge/LeetCode-229_Solved-FFA116?style=for-the-badge&logo=leetcode" alt="LeetCode" />
-  <img src="https://img.shields.io/badge/Codeforces-229_Solved-1F8ACB?style=for-the-badge&logo=codeforces" alt="Codeforces" />
+  <img src="https://img.shields.io/badge/Codeforces-230_Solved-1F8ACB?style=for-the-badge&logo=codeforces" alt="Codeforces" />
   <img src="https://img.shields.io/badge/CSES-0_Solved-000000?style=for-the-badge&logo=code" alt="CSES" />
   <img src="https://img.shields.io/badge/GeeksforGeeks-0_Solved-2F8D46?style=for-the-badge&logo=geeksforgeeks" alt="GeeksforGeeks" />
 </p>
@@ -14,10 +14,10 @@ Showcasing my Data Structures, Algorithms, and Competitive Programming solutions
 | Platform | Solved Count | Solutions Tracked |
 | :--- | :---: | :--- |
 | **LeetCode** | 229 | [ `/LeetCode`](./LeetCode) |
-| **Codeforces** | 229 | [ `/Codeforces`](./Codeforces) |
+| **Codeforces** | 230 | [ `/Codeforces`](./Codeforces) |
 | **CSES Problemset** | 0 | [ `/CSES`](./CSES) |
 | **GeeksforGeeks** | 0 | [ `/GeeksForGeeks`](./GeeksForGeeks) |
-| **Total Solved** | **458** | [ `submission_history.json`](./submission_history.json) |
+| **Total Solved** | **459** | [ `submission_history.json`](./submission_history.json) |
 
 ## Codeforces Rating Breakdown
 
@@ -29,7 +29,7 @@ Showcasing my Data Structures, Algorithms, and Competitive Programming solutions
 | **1400 - 1500** | 2 |
 | **1600 - 1800** | 0 |
 | **1900+** | 0 |
-| **Unrated** | 23 |
+| **Unrated** | 24 |
 
 ## LeetCode Progress Dashboard
 
@@ -78,6 +78,7 @@ Showcasing my Data Structures, Algorithms, and Competitive Programming solutions
 | Codeforces | [Alternating Series](https://codeforces.com/contest/2131/problem/B) | C++23 (GCC 14-64, msys2) | [View Solution](./Codeforces/2131/B) |
 | Codeforces | [Ambitious Kid](https://codeforces.com/contest/1866/problem/A) | C++20 (GCC 13-64) | [View Solution](./Codeforces/1866/A) |
 | Codeforces | [An Alternative Way](https://codeforces.com/contest/2241/problem/D) | C++23 (GCC 14-64, msys2) | [View Solution](./Codeforces/2241/D) |
+| Codeforces | [AND, OR, Sort!](https://codeforces.com/contest/2266/problem/C) | C++23 (GCC 14-64, msys2) | [View Solution](./Codeforces/2266/C) |
 | Codeforces | [Array Cloning Technique](https://codeforces.com/contest/1665/problem/B) | C++23 (GCC 14-64, msys2) | [View Solution](./Codeforces/1665/B) |
 | Codeforces | [Array Coloring](https://codeforces.com/contest/1857/problem/A) | C++20 (GCC 13-64) | [View Solution](./Codeforces/1857/A) |
 | Codeforces | [Array merging](https://codeforces.com/contest/1831/problem/B) | C++23 (GCC 14-64, msys2) | [View Solution](./Codeforces/1831/B) |
