@@ -4,8 +4,8 @@ Showcasing my Data Structures, Algorithms, and Competitive Programming solutions
 
 <p align="center">
   <img src="https://img.shields.io/badge/LeetCode-229_Solved-FFA116?style=for-the-badge&logo=leetcode" alt="LeetCode" />
-  <img src="https://img.shields.io/badge/Codeforces-227_Solved-1F8ACB?style=for-the-badge&logo=codeforces" alt="Codeforces" />
-  <img src="https://img.shields.io/badge/CSES-7_Solved-000000?style=for-the-badge&logo=code" alt="CSES" />
+  <img src="https://img.shields.io/badge/Codeforces-228_Solved-1F8ACB?style=for-the-badge&logo=codeforces" alt="Codeforces" />
+  <img src="https://img.shields.io/badge/CSES-0_Solved-000000?style=for-the-badge&logo=code" alt="CSES" />
   <img src="https://img.shields.io/badge/GeeksforGeeks-0_Solved-2F8D46?style=for-the-badge&logo=geeksforgeeks" alt="GeeksforGeeks" />
 </p>
 
@@ -14,10 +14,10 @@ Showcasing my Data Structures, Algorithms, and Competitive Programming solutions
 | Platform | Solved Count | Solutions Tracked |
 | :--- | :---: | :--- |
 | **LeetCode** | 229 | [ `/LeetCode`](./LeetCode) |
-| **Codeforces** | 227 | [ `/Codeforces`](./Codeforces) |
-| **CSES Problemset** | 7 | [ `/CSES`](./CSES) |
+| **Codeforces** | 228 | [ `/Codeforces`](./Codeforces) |
+| **CSES Problemset** | 0 | [ `/CSES`](./CSES) |
 | **GeeksforGeeks** | 0 | [ `/GeeksForGeeks`](./GeeksForGeeks) |
-| **Total Solved** | **463** | [ `submission_history.json`](./submission_history.json) |
+| **Total Solved** | **457** | [ `submission_history.json`](./submission_history.json) |
 
 ## Codeforces Rating Breakdown
 
@@ -29,7 +29,7 @@ Showcasing my Data Structures, Algorithms, and Competitive Programming solutions
 | **1400 - 1500** | 2 |
 | **1600 - 1800** | 0 |
 | **1900+** | 0 |
-| **Unrated** | 21 |
+| **Unrated** | 22 |
 
 ## LeetCode Progress Dashboard
 
@@ -146,13 +146,6 @@ Showcasing my Data Structures, Algorithms, and Competitive Programming solutions
 | LeetCode | [Count Vowel Strings in Ranges](https://leetcode.com/problems/count-vowel-strings-in-ranges/) | cpp | [View Solution](./LeetCode/Medium/2559-count-vowel-strings-in-ranges) |
 | Codeforces | [Cover in Water](https://codeforces.com/contest/1900/problem/A) | C++20 (GCC 13-64) | [View Solution](./Codeforces/1900/A) |
 | Codeforces | [Creating Abbreviations](https://codeforces.com/contest/2257/problem/A) | C++23 (GCC 14-64, msys2) | [View Solution](./Codeforces/2257/A) |
-| CSES | [CSES Task 1074](https://cses.fi/problemset/task/1074) | C++ | [View Solution](./CSES/1074) |
-| CSES | [CSES Task 1090](https://cses.fi/problemset/task/1090) | C++ | [View Solution](./CSES/1090) |
-| CSES | [CSES Task 1621](https://cses.fi/problemset/task/1621) | C++ | [View Solution](./CSES/1621) |
-| CSES | [CSES Task 1629](https://cses.fi/problemset/task/1629) | C++ | [View Solution](./CSES/1629) |
-| CSES | [CSES Task 1630](https://cses.fi/problemset/task/1630) | C++ | [View Solution](./CSES/1630) |
-| CSES | [CSES Task 1640](https://cses.fi/problemset/task/1640) | C++ | [View Solution](./CSES/1640) |
-| CSES | [CSES Task 2183](https://cses.fi/problemset/task/2183) | C++ | [View Solution](./CSES/2183) |
 | Codeforces | [DBMB and the Array](https://codeforces.com/contest/2193/problem/A) | C++23 (GCC 14-64, msys2) | [View Solution](./Codeforces/2193/A) |
 | Codeforces | [Deja Vu](https://codeforces.com/contest/1891/problem/B) | C++23 (GCC 14-64, msys2) | [View Solution](./Codeforces/1891/B) |
 | Codeforces | [Delete and Concatenate](https://codeforces.com/contest/2245/problem/B) | C++23 (GCC 14-64, msys2) | [View Solution](./Codeforces/2245/B) |
@@ -224,6 +217,7 @@ Showcasing my Data Structures, Algorithms, and Competitive Programming solutions
 | Codeforces | [George and Accommodation](https://codeforces.com/contest/467/problem/A) | C++20 (GCC 13-64) | [View Solution](./Codeforces/467/A) |
 | Codeforces | [Gigantomachy](https://codeforces.com/contest/2257/problem/B) | C++23 (GCC 14-64, msys2) | [View Solution](./Codeforces/2257/B) |
 | Codeforces | [Goals of Victory](https://codeforces.com/contest/1877/problem/A) | C++20 (GCC 13-64) | [View Solution](./Codeforces/1877/A) |
+| Codeforces | [Good Contest](https://codeforces.com/contest/2266/problem/A) | C++23 (GCC 14-64, msys2) | [View Solution](./Codeforces/2266/A) |
 | Codeforces | [Good times Good times](https://codeforces.com/contest/2241/problem/B) | C++23 (GCC 14-64, msys2) | [View Solution](./Codeforces/2241/B) |
 | Codeforces | [Gotta Catch Em' All!](https://codeforces.com/contest/757/problem/A) | C++23 (GCC 14-64, msys2) | [View Solution](./Codeforces/757/A) |
 | Codeforces | [Grasshopper on a Line](https://codeforces.com/contest/1837/problem/A) | C++20 (GCC 13-64) | [View Solution](./Codeforces/1837/A) |
