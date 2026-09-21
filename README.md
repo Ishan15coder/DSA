@@ -4,7 +4,7 @@ Showcasing my Data Structures, Algorithms, and Competitive Programming solutions
 
 <p align="center">
   <img src="https://img.shields.io/badge/LeetCode-229_Solved-FFA116?style=for-the-badge&logo=leetcode" alt="LeetCode" />
-  <img src="https://img.shields.io/badge/Codeforces-228_Solved-1F8ACB?style=for-the-badge&logo=codeforces" alt="Codeforces" />
+  <img src="https://img.shields.io/badge/Codeforces-229_Solved-1F8ACB?style=for-the-badge&logo=codeforces" alt="Codeforces" />
   <img src="https://img.shields.io/badge/CSES-0_Solved-000000?style=for-the-badge&logo=code" alt="CSES" />
   <img src="https://img.shields.io/badge/GeeksforGeeks-0_Solved-2F8D46?style=for-the-badge&logo=geeksforgeeks" alt="GeeksforGeeks" />
 </p>
@@ -14,10 +14,10 @@ Showcasing my Data Structures, Algorithms, and Competitive Programming solutions
 | Platform | Solved Count | Solutions Tracked |
 | :--- | :---: | :--- |
 | **LeetCode** | 229 | [ `/LeetCode`](./LeetCode) |
-| **Codeforces** | 228 | [ `/Codeforces`](./Codeforces) |
+| **Codeforces** | 229 | [ `/Codeforces`](./Codeforces) |
 | **CSES Problemset** | 0 | [ `/CSES`](./CSES) |
 | **GeeksforGeeks** | 0 | [ `/GeeksForGeeks`](./GeeksForGeeks) |
-| **Total Solved** | **457** | [ `submission_history.json`](./submission_history.json) |
+| **Total Solved** | **458** | [ `submission_history.json`](./submission_history.json) |
 
 ## Codeforces Rating Breakdown
 
@@ -29,7 +29,7 @@ Showcasing my Data Structures, Algorithms, and Competitive Programming solutions
 | **1400 - 1500** | 2 |
 | **1600 - 1800** | 0 |
 | **1900+** | 0 |
-| **Unrated** | 22 |
+| **Unrated** | 23 |
 
 ## LeetCode Progress Dashboard
 
@@ -483,6 +483,7 @@ Showcasing my Data Structures, Algorithms, and Competitive Programming solutions
 | LeetCode | [The Two Sneaky Numbers of Digitville](https://leetcode.com/problems/the-two-sneaky-numbers-of-digitville/) | cpp | [View Solution](./LeetCode/Easy/3289-the-two-sneaky-numbers-of-digitville) |
 | LeetCode | [Three Consecutive Odds](https://leetcode.com/problems/three-consecutive-odds/) | cpp | [View Solution](./LeetCode/Easy/1550-three-consecutive-odds) |
 | Codeforces | [Three Indices](https://codeforces.com/contest/1380/problem/A) | C++23 (GCC 14-64, msys2) | [View Solution](./Codeforces/1380/A) |
+| Codeforces | [Three Piles](https://codeforces.com/contest/2266/problem/B) | C++23 (GCC 14-64, msys2) | [View Solution](./Codeforces/2266/B) |
 | Codeforces | [Threshold Movement](https://codeforces.com/contest/2250/problem/A) | C++23 (GCC 14-64, msys2) | [View Solution](./Codeforces/2250/A) |
 | LeetCode | [Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/) | cpp | [View Solution](./LeetCode/Medium/347-top-k-frequent-elements) |
 | LeetCode | [Total Distance Traveled](https://leetcode.com/problems/total-distance-traveled/) | cpp | [View Solution](./LeetCode/Unknown/total-distance-traveled) |
