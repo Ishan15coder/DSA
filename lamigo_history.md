@@ -4,6 +4,7 @@ A complete history of all accepted submissions synced by L'Amigo.
 
 | Date | Platform | Problem | Language |
 | :--- | :--- | :--- | :--- |
+| 2026-09-25 | Codeforces | Fashionable Array | C++23 (GCC 14-64, msys2) |
 | 2026-09-25 | Codeforces | Turn Into a Palindrome | C++23 (GCC 14-64, msys2) |
 | 2026-09-21 | Codeforces | AND, OR, Sort! | C++23 (GCC 14-64, msys2) |
 | 2026-09-21 | Codeforces | Three Piles | C++23 (GCC 14-64, msys2) |
