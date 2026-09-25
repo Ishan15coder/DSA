@@ -4,7 +4,7 @@ Showcasing my Data Structures, Algorithms, and Competitive Programming solutions
 
 <p align="center">
   <img src="https://img.shields.io/badge/LeetCode-229_Solved-FFA116?style=for-the-badge&logo=leetcode" alt="LeetCode" />
-  <img src="https://img.shields.io/badge/Codeforces-230_Solved-1F8ACB?style=for-the-badge&logo=codeforces" alt="Codeforces" />
+  <img src="https://img.shields.io/badge/Codeforces-231_Solved-1F8ACB?style=for-the-badge&logo=codeforces" alt="Codeforces" />
   <img src="https://img.shields.io/badge/CSES-0_Solved-000000?style=for-the-badge&logo=code" alt="CSES" />
   <img src="https://img.shields.io/badge/GeeksforGeeks-0_Solved-2F8D46?style=for-the-badge&logo=geeksforgeeks" alt="GeeksforGeeks" />
 </p>
@@ -14,10 +14,10 @@ Showcasing my Data Structures, Algorithms, and Competitive Programming solutions
 | Platform | Solved Count | Solutions Tracked |
 | :--- | :---: | :--- |
 | **LeetCode** | 229 | [ `/LeetCode`](./LeetCode) |
-| **Codeforces** | 230 | [ `/Codeforces`](./Codeforces) |
+| **Codeforces** | 231 | [ `/Codeforces`](./Codeforces) |
 | **CSES Problemset** | 0 | [ `/CSES`](./CSES) |
 | **GeeksforGeeks** | 0 | [ `/GeeksForGeeks`](./GeeksForGeeks) |
-| **Total Solved** | **459** | [ `submission_history.json`](./submission_history.json) |
+| **Total Solved** | **460** | [ `submission_history.json`](./submission_history.json) |
 
 ## Codeforces Rating Breakdown
 
@@ -29,7 +29,7 @@ Showcasing my Data Structures, Algorithms, and Competitive Programming solutions
 | **1400 - 1500** | 2 |
 | **1600 - 1800** | 0 |
 | **1900+** | 0 |
-| **Unrated** | 24 |
+| **Unrated** | 25 |
 
 ## LeetCode Progress Dashboard
 
@@ -493,6 +493,7 @@ Showcasing my Data Structures, Algorithms, and Competitive Programming solutions
 | LeetCode | [Traffic Signal Color](https://leetcode.com/problems/traffic-signal-color/) | cpp | [View Solution](./LeetCode/Easy/3894-traffic-signal-color) |
 | LeetCode | [Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/) | cpp | [View Solution](./LeetCode/Hard/42-trapping-rain-water) |
 | Codeforces | [Triangles on a Rectangle](https://codeforces.com/contest/1620/problem/B) | C++23 (GCC 14-64, msys2) | [View Solution](./Codeforces/1620/B) |
+| Codeforces | [Turn Into a Palindrome](https://codeforces.com/contest/2267/problem/A) | C++23 (GCC 14-64, msys2) | [View Solution](./Codeforces/2267/A) |
 | Codeforces | [Twin Permutations](https://codeforces.com/contest/1831/problem/A) | C++20 (GCC 13-64) | [View Solution](./Codeforces/1831/A) |
 | Codeforces | [Two Permutations](https://codeforces.com/contest/1761/problem/A) | C++20 (GCC 13-64) | [View Solution](./Codeforces/1761/A) |
 | LeetCode | [Two Sum](https://leetcode.com/problems/two-sum/) | cpp | [View Solution](./LeetCode/Easy/1-two-sum) |
