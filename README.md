@@ -4,7 +4,7 @@ Showcasing my Data Structures, Algorithms, and Competitive Programming solutions
 
 <p align="center">
   <img src="https://img.shields.io/badge/LeetCode-229_Solved-FFA116?style=for-the-badge&logo=leetcode" alt="LeetCode" />
-  <img src="https://img.shields.io/badge/Codeforces-231_Solved-1F8ACB?style=for-the-badge&logo=codeforces" alt="Codeforces" />
+  <img src="https://img.shields.io/badge/Codeforces-232_Solved-1F8ACB?style=for-the-badge&logo=codeforces" alt="Codeforces" />
   <img src="https://img.shields.io/badge/CSES-0_Solved-000000?style=for-the-badge&logo=code" alt="CSES" />
   <img src="https://img.shields.io/badge/GeeksforGeeks-0_Solved-2F8D46?style=for-the-badge&logo=geeksforgeeks" alt="GeeksforGeeks" />
 </p>
@@ -14,10 +14,10 @@ Showcasing my Data Structures, Algorithms, and Competitive Programming solutions
 | Platform | Solved Count | Solutions Tracked |
 | :--- | :---: | :--- |
 | **LeetCode** | 229 | [ `/LeetCode`](./LeetCode) |
-| **Codeforces** | 231 | [ `/Codeforces`](./Codeforces) |
+| **Codeforces** | 232 | [ `/Codeforces`](./Codeforces) |
 | **CSES Problemset** | 0 | [ `/CSES`](./CSES) |
 | **GeeksforGeeks** | 0 | [ `/GeeksForGeeks`](./GeeksForGeeks) |
-| **Total Solved** | **460** | [ `submission_history.json`](./submission_history.json) |
+| **Total Solved** | **461** | [ `submission_history.json`](./submission_history.json) |
 
 ## Codeforces Rating Breakdown
 
@@ -29,7 +29,7 @@ Showcasing my Data Structures, Algorithms, and Competitive Programming solutions
 | **1400 - 1500** | 2 |
 | **1600 - 1800** | 0 |
 | **1900+** | 0 |
-| **Unrated** | 25 |
+| **Unrated** | 26 |
 
 ## LeetCode Progress Dashboard
 
@@ -184,6 +184,7 @@ Showcasing my Data Structures, Algorithms, and Competitive Programming solutions
 | Codeforces | [ezraft and Array](https://codeforces.com/contest/2246/problem/B) | C++23 (GCC 14-64, msys2) | [View Solution](./Codeforces/2246/B) |
 | Codeforces | [Fair Numbers](https://codeforces.com/contest/1411/problem/B) | C++23 (GCC 14-64, msys2) | [View Solution](./Codeforces/1411/B) |
 | Codeforces | [farmpiggie and Subset Sum](https://codeforces.com/contest/2246/problem/A) | C++23 (GCC 14-64, msys2) | [View Solution](./Codeforces/2246/A) |
+| Codeforces | [Fashionable Array](https://codeforces.com/contest/2267/problem/B) | C++23 (GCC 14-64, msys2) | [View Solution](./Codeforces/2267/B) |
 | Codeforces | [Feed the cat](https://codeforces.com/contest/955/problem/A) | C++23 (GCC 14-64, msys2) | [View Solution](./Codeforces/955/A) |
 | LeetCode | [Fibonacci Number](https://leetcode.com/problems/fibonacci-number/) | cpp | [View Solution](./LeetCode/Easy/509-fibonacci-number) |
 | LeetCode | [Find All Anagrams in a String](https://leetcode.com/problems/find-all-anagrams-in-a-string/) | cpp | [View Solution](./LeetCode/Medium/438-find-all-anagrams-in-a-string) |
