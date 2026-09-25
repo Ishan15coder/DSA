@@ -1,6 +1,17 @@
 [
   {
     "difficulty": "Easy",
+    "id": "392013236",
+    "lang": "C++23 (GCC 14-64, msys2)",
+    "platform": "codeforces",
+    "rating": 0,
+    "statusDisplay": "Accepted",
+    "timestamp": 1790347888000,
+    "title": "Fashionable Array",
+    "titleSlug": "2267/B"
+  },
+  {
+    "difficulty": "Easy",
     "id": "392001795",
     "lang": "C++23 (GCC 14-64, msys2)",
     "platform": "codeforces",
@@ -4653,14 +4664,14 @@
     "titleSlug": "valid-anagram"
   },
   {
-    "title": "Fashionable Array",
-    "titleSlug": "2267/B",
-    "timestamp": 1790347888000,
+    "title": "GCD Treasury",
+    "titleSlug": "2267/C",
+    "timestamp": 1790354079000,
     "statusDisplay": "Accepted",
     "lang": "C++23 (GCC 14-64, msys2)",
-    "id": "392013236",
+    "id": "392065209",
     "platform": "codeforces",
-    "difficulty": "Easy",
+    "difficulty": "Medium",
     "rating": 0
   }
 ]
