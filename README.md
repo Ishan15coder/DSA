@@ -4,7 +4,7 @@ Showcasing my Data Structures, Algorithms, and Competitive Programming solutions
 
 <p align="center">
   <img src="https://img.shields.io/badge/LeetCode-229_Solved-FFA116?style=for-the-badge&logo=leetcode" alt="LeetCode" />
-  <img src="https://img.shields.io/badge/Codeforces-233_Solved-1F8ACB?style=for-the-badge&logo=codeforces" alt="Codeforces" />
+  <img src="https://img.shields.io/badge/Codeforces-234_Solved-1F8ACB?style=for-the-badge&logo=codeforces" alt="Codeforces" />
   <img src="https://img.shields.io/badge/CSES-0_Solved-000000?style=for-the-badge&logo=code" alt="CSES" />
   <img src="https://img.shields.io/badge/GeeksforGeeks-0_Solved-2F8D46?style=for-the-badge&logo=geeksforgeeks" alt="GeeksforGeeks" />
 </p>
@@ -14,10 +14,10 @@ Showcasing my Data Structures, Algorithms, and Competitive Programming solutions
 | Platform | Solved Count | Solutions Tracked |
 | :--- | :---: | :--- |
 | **LeetCode** | 229 | [ `/LeetCode`](./LeetCode) |
-| **Codeforces** | 233 | [ `/Codeforces`](./Codeforces) |
+| **Codeforces** | 234 | [ `/Codeforces`](./Codeforces) |
 | **CSES Problemset** | 0 | [ `/CSES`](./CSES) |
 | **GeeksforGeeks** | 0 | [ `/GeeksForGeeks`](./GeeksForGeeks) |
-| **Total Solved** | **462** | [ `submission_history.json`](./submission_history.json) |
+| **Total Solved** | **463** | [ `submission_history.json`](./submission_history.json) |
 
 ## Codeforces Rating Breakdown
 
@@ -29,7 +29,7 @@ Showcasing my Data Structures, Algorithms, and Competitive Programming solutions
 | **1400 - 1500** | 2 |
 | **1600 - 1800** | 0 |
 | **1900+** | 0 |
-| **Unrated** | 27 |
+| **Unrated** | 28 |
 
 ## LeetCode Progress Dashboard
 
@@ -417,6 +417,7 @@ Showcasing my Data Structures, Algorithms, and Competitive Programming solutions
 | LeetCode | [Running Sum of 1d Array](https://leetcode.com/problems/running-sum-of-1d-array/) | cpp | [View Solution](./LeetCode/Easy/1480-running-sum-of-1d-array) |
 | Codeforces | [Sail](https://codeforces.com/contest/298/problem/B) | C++23 (GCC 14-64, msys2) | [View Solution](./Codeforces/298/B) |
 | Codeforces | [Same Differences](https://codeforces.com/contest/1520/problem/D) | C++23 (GCC 14-64, msys2) | [View Solution](./Codeforces/1520/D) |
+| Codeforces | [SauSaGe Bank](https://codeforces.com/contest/2269/problem/A) | C++23 (GCC 14-64, msys2) | [View Solution](./Codeforces/2269/A) |
 | LeetCode | [Score Validator](https://leetcode.com/problems/score-validator/) | cpp | [View Solution](./LeetCode/Easy/3921-score-validator) |
 | LeetCode | [Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/) | cpp | [View Solution](./LeetCode/Medium/74-search-a-2d-matrix) |
 | LeetCode | [Search a 2D Matrix II](https://leetcode.com/problems/search-a-2d-matrix-ii/) | cpp | [View Solution](./LeetCode/Medium/240-search-a-2d-matrix-ii) |
