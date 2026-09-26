@@ -4,7 +4,7 @@ Showcasing my Data Structures, Algorithms, and Competitive Programming solutions
 
 <p align="center">
   <img src="https://img.shields.io/badge/LeetCode-229_Solved-FFA116?style=for-the-badge&logo=leetcode" alt="LeetCode" />
-  <img src="https://img.shields.io/badge/Codeforces-234_Solved-1F8ACB?style=for-the-badge&logo=codeforces" alt="Codeforces" />
+  <img src="https://img.shields.io/badge/Codeforces-235_Solved-1F8ACB?style=for-the-badge&logo=codeforces" alt="Codeforces" />
   <img src="https://img.shields.io/badge/CSES-0_Solved-000000?style=for-the-badge&logo=code" alt="CSES" />
   <img src="https://img.shields.io/badge/GeeksforGeeks-0_Solved-2F8D46?style=for-the-badge&logo=geeksforgeeks" alt="GeeksforGeeks" />
 </p>
@@ -14,10 +14,10 @@ Showcasing my Data Structures, Algorithms, and Competitive Programming solutions
 | Platform | Solved Count | Solutions Tracked |
 | :--- | :---: | :--- |
 | **LeetCode** | 229 | [ `/LeetCode`](./LeetCode) |
-| **Codeforces** | 234 | [ `/Codeforces`](./Codeforces) |
+| **Codeforces** | 235 | [ `/Codeforces`](./Codeforces) |
 | **CSES Problemset** | 0 | [ `/CSES`](./CSES) |
 | **GeeksforGeeks** | 0 | [ `/GeeksForGeeks`](./GeeksForGeeks) |
-| **Total Solved** | **463** | [ `submission_history.json`](./submission_history.json) |
+| **Total Solved** | **464** | [ `submission_history.json`](./submission_history.json) |
 
 ## Codeforces Rating Breakdown
 
@@ -29,7 +29,7 @@ Showcasing my Data Structures, Algorithms, and Competitive Programming solutions
 | **1400 - 1500** | 2 |
 | **1600 - 1800** | 0 |
 | **1900+** | 0 |
-| **Unrated** | 28 |
+| **Unrated** | 29 |
 
 ## LeetCode Progress Dashboard
 
@@ -248,6 +248,7 @@ Showcasing my Data Structures, Algorithms, and Competitive Programming solutions
 | LeetCode | [Jump Game II](https://leetcode.com/problems/jump-game-ii/) | cpp | [View Solution](./LeetCode/Medium/45-jump-game-ii) |
 | Codeforces | [Jzzhu and Children](https://codeforces.com/contest/450/problem/A) | C++20 (GCC 13-64) | [View Solution](./Codeforces/450/A) |
 | LeetCode | [K Closest Points to Origin](https://leetcode.com/problems/k-closest-points-to-origin/) | cpp | [View Solution](./LeetCode/Medium/973-k-closest-points-to-origin) |
+| Codeforces | [KiaKio and Squared Numbers](https://codeforces.com/contest/2269/problem/B) | C++23 (GCC 14-64, msys2) | [View Solution](./Codeforces/2269/B) |
 | LeetCode | [Koko Eating Bananas](https://leetcode.com/problems/koko-eating-bananas/) | cpp | [View Solution](./LeetCode/Medium/875-koko-eating-bananas) |
 | Codeforces | [Koshary](https://codeforces.com/contest/2227/problem/A) | C++23 (GCC 14-64, msys2) | [View Solution](./Codeforces/2227/A) |
 | LeetCode | [Kth Missing Positive Number](https://leetcode.com/problems/kth-missing-positive-number/) | cpp | [View Solution](./LeetCode/Easy/1539-kth-missing-positive-number) |
