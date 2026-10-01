@@ -1,6 +1,17 @@
 [
   {
     "difficulty": "Easy",
+    "id": "392556510",
+    "lang": "C++23 (GCC 14-64, msys2)",
+    "platform": "codeforces",
+    "rating": 1100,
+    "statusDisplay": "Accepted",
+    "timestamp": 1790662459000,
+    "title": "Kill Demodogs",
+    "titleSlug": "1731/B"
+  },
+  {
+    "difficulty": "Easy",
     "id": "392215403",
     "lang": "C++23 (GCC 14-64, msys2)",
     "platform": "codeforces",
@@ -4697,12 +4708,12 @@
     "titleSlug": "valid-anagram"
   },
   {
-    "title": "Kill Demodogs",
-    "titleSlug": "1731/B",
-    "timestamp": 1790662459000,
+    "title": "JoJo's Incredible Adventures",
+    "titleSlug": "1820/B",
+    "timestamp": 1790831120000,
     "statusDisplay": "Accepted",
     "lang": "C++23 (GCC 14-64, msys2)",
-    "id": "392556510",
+    "id": "392789537",
     "platform": "codeforces",
     "difficulty": "Easy",
     "rating": 1100
