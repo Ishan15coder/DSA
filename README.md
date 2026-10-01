@@ -4,7 +4,7 @@ Showcasing my Data Structures, Algorithms, and Competitive Programming solutions
 
 <p align="center">
   <img src="https://img.shields.io/badge/LeetCode-229_Solved-FFA116?style=for-the-badge&logo=leetcode" alt="LeetCode" />
-  <img src="https://img.shields.io/badge/Codeforces-236_Solved-1F8ACB?style=for-the-badge&logo=codeforces" alt="Codeforces" />
+  <img src="https://img.shields.io/badge/Codeforces-237_Solved-1F8ACB?style=for-the-badge&logo=codeforces" alt="Codeforces" />
   <img src="https://img.shields.io/badge/CSES-0_Solved-000000?style=for-the-badge&logo=code" alt="CSES" />
   <img src="https://img.shields.io/badge/GeeksforGeeks-0_Solved-2F8D46?style=for-the-badge&logo=geeksforgeeks" alt="GeeksforGeeks" />
 </p>
@@ -14,17 +14,17 @@ Showcasing my Data Structures, Algorithms, and Competitive Programming solutions
 | Platform | Solved Count | Solutions Tracked |
 | :--- | :---: | :--- |
 | **LeetCode** | 229 | [ `/LeetCode`](./LeetCode) |
-| **Codeforces** | 236 | [ `/Codeforces`](./Codeforces) |
+| **Codeforces** | 237 | [ `/Codeforces`](./Codeforces) |
 | **CSES Problemset** | 0 | [ `/CSES`](./CSES) |
 | **GeeksforGeeks** | 0 | [ `/GeeksForGeeks`](./GeeksForGeeks) |
-| **Total Solved** | **465** | [ `submission_history.json`](./submission_history.json) |
+| **Total Solved** | **466** | [ `submission_history.json`](./submission_history.json) |
 
 ## Codeforces Rating Breakdown
 
 | Rating Bracket | Problems Solved |
 | :--- | :---: |
 | **<= 900** | 125 |
-| **1000 - 1100** | 62 |
+| **1000 - 1100** | 63 |
 | **1200 - 1300** | 18 |
 | **1400 - 1500** | 2 |
 | **1600 - 1800** | 0 |
@@ -244,6 +244,7 @@ Showcasing my Data Structures, Algorithms, and Competitive Programming solutions
 | Codeforces | [Jagged Swaps](https://codeforces.com/contest/1896/problem/A) | C++20 (GCC 13-64) | [View Solution](./Codeforces/1896/A) |
 | Codeforces | [Jellyfish and Undertale](https://codeforces.com/contest/1875/problem/A) | C++23 (GCC 14-64, msys2) | [View Solution](./Codeforces/1875/A) |
 | Codeforces | [Johnny and Ancient Computer](https://codeforces.com/contest/1362/problem/A) | C++23 (GCC 14-64, msys2) | [View Solution](./Codeforces/1362/A) |
+| Codeforces | [JoJo's Incredible Adventures](https://codeforces.com/contest/1820/problem/B) | C++23 (GCC 14-64, msys2) | [View Solution](./Codeforces/1820/B) |
 | LeetCode | [Jump Game](https://leetcode.com/problems/jump-game/) | cpp | [View Solution](./LeetCode/Medium/55-jump-game) |
 | LeetCode | [Jump Game II](https://leetcode.com/problems/jump-game-ii/) | cpp | [View Solution](./LeetCode/Medium/45-jump-game-ii) |
 | Codeforces | [Jzzhu and Children](https://codeforces.com/contest/450/problem/A) | C++20 (GCC 13-64) | [View Solution](./Codeforces/450/A) |
