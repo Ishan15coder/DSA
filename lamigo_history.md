@@ -4,15 +4,7 @@ A complete history of all accepted submissions synced by L'Amigo.
 
 | Date | Platform | Problem | Language |
 | :--- | :--- | :--- | :--- |
-| 2026-10-02 | Cses | CSES Task 1620 | C++ |
-| 2026-10-02 | Cses | CSES Task 2183 | C++ |
-| 2026-10-02 | Cses | CSES Task 1630 | C++ |
-| 2026-10-02 | Cses | CSES Task 1085 | C++ |
-| 2026-10-02 | Cses | CSES Task 1074 | C++ |
-| 2026-10-02 | Cses | CSES Task 1629 | C++ |
-| 2026-10-02 | Cses | CSES Task 1640 | C++ |
-| 2026-10-02 | Cses | CSES Task 1621 | C++ |
-| 2026-10-02 | Cses | CSES Task 1090 | C++ |
+| 2026-10-05 | Codeforces | Li Hua and Pattern | C++23 (GCC 14-64, msys2) |
 | 2026-10-01 | Leetcode | Valid Parentheses | cpp |
 | 2026-10-01 | Codeforces | JoJo's Incredible Adventures | C++23 (GCC 14-64, msys2) |
 | 2026-09-29 | Codeforces | Kill Demodogs | C++23 (GCC 14-64, msys2) |
