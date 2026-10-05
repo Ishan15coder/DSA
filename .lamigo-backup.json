@@ -149,16 +149,16 @@
       "accounts": [
         {
           "handle": "cuvclmjxlt",
-          "lastFetched": 1787555014924,
+          "lastFetched": 1791191408844,
           "platform": "leetcode",
           "status": "active"
         }
       ],
       "addedAt": 1787555014924,
       "aliases": [],
-      "displayName": "cuvclmjxlt",
+      "displayName": "krate",
       "id": "fce6102a-1a9a-4367-96ff-33c63e7d9f5c",
-      "updatedAt": 1787555014924
+      "updatedAt": 1791191408844
     },
     {
       "accounts": [
@@ -260,82 +260,84 @@
   "sync_history": [
     {
       "problems": [
-        "Reconstruct Original Digits from English"
-      ],
-      "problemsSynced": 1,
-      "status": "success",
-      "timestamp": 1789530325822
-    },
-    {
-      "problems": [
-        "Sum of Subarray Ranges",
-        "Cellular Network"
+        "CSES Task 1621",
+        "CSES Task 1085"
       ],
       "problemsSynced": 2,
       "status": "success",
-      "timestamp": 1789482390769
+      "timestamp": 1790950663867
     },
     {
       "problems": [
-        "Multiply Strings"
+        "Valid Parentheses"
       ],
       "problemsSynced": 1,
       "status": "success",
-      "timestamp": 1789447234688
-    },
-    {
-      "problems": [],
-      "problemsSynced": 0,
-      "status": "success",
-      "timestamp": 1789319936065
+      "timestamp": 1790869976627
     },
     {
       "problems": [
-        "Rumb Needs a Hand"
+        "JoJo's Incredible Adventures"
       ],
       "problemsSynced": 1,
       "status": "success",
-      "timestamp": 1789319931943
+      "timestamp": 1790832408529
     },
     {
       "problems": [
-        "Min Matrices"
+        "Kill Demodogs"
       ],
       "problemsSynced": 1,
       "status": "success",
-      "timestamp": 1789226257961
+      "timestamp": 1790665459125
     },
     {
       "problems": [
-        "Min Max Game"
+        "KiaKio and Squared Numbers"
       ],
       "problemsSynced": 1,
       "status": "success",
-      "timestamp": 1789224047772
+      "timestamp": 1790438285077
     },
     {
       "problems": [
-        "Count the Number of Special Characters II"
+        "SauSaGe Bank"
       ],
       "problemsSynced": 1,
       "status": "success",
-      "timestamp": 1789223312316
+      "timestamp": 1790433838276
     },
     {
       "problems": [
-        "Count Vowel Strings in Ranges"
+        "GCD Treasury"
       ],
       "problemsSynced": 1,
       "status": "success",
-      "timestamp": 1789136915290
+      "timestamp": 1790354177004
     },
     {
       "problems": [
-        "Friends and the Restaurant"
+        "Fashionable Array"
       ],
       "problemsSynced": 1,
       "status": "success",
-      "timestamp": 1788962722953
+      "timestamp": 1790347934861
+    },
+    {
+      "problems": [
+        "Turn Into a Palindrome"
+      ],
+      "problemsSynced": 1,
+      "status": "success",
+      "timestamp": 1790347251609
+    },
+    {
+      "problems": [
+        "AND, OR, Sort!"
+      ],
+      "problemsSynced": 1,
+      "status": "success",
+      "timestamp": 1790004673070
     }
   ]
 }
