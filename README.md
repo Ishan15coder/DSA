@@ -3,7 +3,7 @@
 Showcasing my Data Structures, Algorithms, and Competitive Programming solutions synced automatically by [L'Amigo](https://github.com/FTS18/l-amigo).
 
 <p align="center">
-  <img src="https://img.shields.io/badge/LeetCode-229_Solved-FFA116?style=for-the-badge&logo=leetcode" alt="LeetCode" />
+  <img src="https://img.shields.io/badge/LeetCode-230_Solved-FFA116?style=for-the-badge&logo=leetcode" alt="LeetCode" />
   <img src="https://img.shields.io/badge/Codeforces-238_Solved-1F8ACB?style=for-the-badge&logo=codeforces" alt="Codeforces" />
   <img src="https://img.shields.io/badge/CSES-0_Solved-000000?style=for-the-badge&logo=code" alt="CSES" />
   <img src="https://img.shields.io/badge/GeeksforGeeks-0_Solved-2F8D46?style=for-the-badge&logo=geeksforgeeks" alt="GeeksforGeeks" />
@@ -13,11 +13,11 @@ Showcasing my Data Structures, Algorithms, and Competitive Programming solutions
 
 | Platform | Solved Count | Solutions Tracked |
 | :--- | :---: | :--- |
-| **LeetCode** | 229 | [ `/LeetCode`](./LeetCode) |
+| **LeetCode** | 230 | [ `/LeetCode`](./LeetCode) |
 | **Codeforces** | 238 | [ `/Codeforces`](./Codeforces) |
 | **CSES Problemset** | 0 | [ `/CSES`](./CSES) |
 | **GeeksforGeeks** | 0 | [ `/GeeksForGeeks`](./GeeksForGeeks) |
-| **Total Solved** | **467** | [ `submission_history.json`](./submission_history.json) |
+| **Total Solved** | **468** | [ `submission_history.json`](./submission_history.json) |
 
 ## Codeforces Rating Breakdown
 
@@ -39,15 +39,15 @@ Showcasing my Data Structures, Algorithms, and Competitive Programming solutions
 
 | Difficulty | Solved | Progress Bar |
 | :--- | :---: | :--- |
-| **Easy** | 99 | `[████░░░░░░]` (42.5%) |
-| **Medium** | 126 | `[█████░░░░░]` (54.1%) |
+| **Easy** | 99 | `[████░░░░░░]` (42.3%) |
+| **Medium** | 127 | `[█████░░░░░]` (54.3%) |
 | **Hard** | 8 | `[░░░░░░░░░░]` (3.4%) |
 
 ## Top LeetCode Topics
 
 | Topic | Solved |
 | :--- | :--- |
-| Array | 132 |
+| Array | 133 |
 | String | 58 |
 | Hash Table | 47 |
 | Math | 36 |
@@ -56,7 +56,7 @@ Showcasing my Data Structures, Algorithms, and Competitive Programming solutions
 | Sorting | 25 |
 | Dynamic Programming | 24 |
 | Sliding Window | 22 |
-| Simulation | 18 |
+| Stack | 19 |
 
 
 ## Synced Solutions Index
@@ -147,6 +147,7 @@ Showcasing my Data Structures, Algorithms, and Competitive Programming solutions
 | LeetCode | [Count Vowel Strings in Ranges](https://leetcode.com/problems/count-vowel-strings-in-ranges/) | cpp | [View Solution](./LeetCode/Medium/2559-count-vowel-strings-in-ranges) |
 | Codeforces | [Cover in Water](https://codeforces.com/contest/1900/problem/A) | C++20 (GCC 13-64) | [View Solution](./Codeforces/1900/A) |
 | Codeforces | [Creating Abbreviations](https://codeforces.com/contest/2257/problem/A) | C++23 (GCC 14-64, msys2) | [View Solution](./Codeforces/2257/A) |
+| LeetCode | [Daily Temperatures](https://leetcode.com/problems/daily-temperatures/) | cpp | [View Solution](./LeetCode/Medium/739-daily-temperatures) |
 | Codeforces | [DBMB and the Array](https://codeforces.com/contest/2193/problem/A) | C++23 (GCC 14-64, msys2) | [View Solution](./Codeforces/2193/A) |
 | Codeforces | [Deja Vu](https://codeforces.com/contest/1891/problem/B) | C++23 (GCC 14-64, msys2) | [View Solution](./Codeforces/1891/B) |
 | Codeforces | [Delete and Concatenate](https://codeforces.com/contest/2245/problem/B) | C++23 (GCC 14-64, msys2) | [View Solution](./Codeforces/2245/B) |
