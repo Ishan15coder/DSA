@@ -4,6 +4,7 @@ A complete history of all accepted submissions synced by L'Amigo.
 
 | Date | Platform | Problem | Language |
 | :--- | :--- | :--- | :--- |
+| 2026-10-06 | Leetcode | Valid Parentheses | cpp |
 | 2026-10-05 | Codeforces | Li Hua and Pattern | C++23 (GCC 14-64, msys2) |
 | 2026-10-01 | Leetcode | Valid Parentheses | cpp |
 | 2026-10-01 | Codeforces | JoJo's Incredible Adventures | C++23 (GCC 14-64, msys2) |
