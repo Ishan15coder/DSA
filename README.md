@@ -4,7 +4,7 @@ Showcasing my Data Structures, Algorithms, and Competitive Programming solutions
 
 <p align="center">
   <img src="https://img.shields.io/badge/LeetCode-230_Solved-FFA116?style=for-the-badge&logo=leetcode" alt="LeetCode" />
-  <img src="https://img.shields.io/badge/Codeforces-239_Solved-1F8ACB?style=for-the-badge&logo=codeforces" alt="Codeforces" />
+  <img src="https://img.shields.io/badge/Codeforces-240_Solved-1F8ACB?style=for-the-badge&logo=codeforces" alt="Codeforces" />
   <img src="https://img.shields.io/badge/CSES-0_Solved-000000?style=for-the-badge&logo=code" alt="CSES" />
   <img src="https://img.shields.io/badge/GeeksforGeeks-0_Solved-2F8D46?style=for-the-badge&logo=geeksforgeeks" alt="GeeksforGeeks" />
 </p>
@@ -14,10 +14,10 @@ Showcasing my Data Structures, Algorithms, and Competitive Programming solutions
 | Platform | Solved Count | Solutions Tracked |
 | :--- | :---: | :--- |
 | **LeetCode** | 230 | [ `/LeetCode`](./LeetCode) |
-| **Codeforces** | 239 | [ `/Codeforces`](./Codeforces) |
+| **Codeforces** | 240 | [ `/Codeforces`](./Codeforces) |
 | **CSES Problemset** | 0 | [ `/CSES`](./CSES) |
 | **GeeksforGeeks** | 0 | [ `/GeeksForGeeks`](./GeeksForGeeks) |
-| **Total Solved** | **469** | [ `submission_history.json`](./submission_history.json) |
+| **Total Solved** | **470** | [ `submission_history.json`](./submission_history.json) |
 
 ## Codeforces Rating Breakdown
 
@@ -29,7 +29,7 @@ Showcasing my Data Structures, Algorithms, and Competitive Programming solutions
 | **1400 - 1500** | 2 |
 | **1600 - 1800** | 0 |
 | **1900+** | 0 |
-| **Unrated** | 30 |
+| **Unrated** | 31 |
 
 ## LeetCode Progress Dashboard
 
@@ -159,6 +159,7 @@ Showcasing my Data Structures, Algorithms, and Competitive Programming solutions
 | Codeforces | [Destroying Towers](https://codeforces.com/contest/2237/problem/A) | C++23 (GCC 14-64, msys2) | [View Solution](./Codeforces/2237/A) |
 | Codeforces | [Destruction of the Dandelion Fields](https://codeforces.com/contest/2148/problem/D) | C++23 (GCC 14-64, msys2) | [View Solution](./Codeforces/2148/D) |
 | LeetCode | [Diameter of Binary Tree](https://leetcode.com/problems/diameter-of-binary-tree/) | cpp | [View Solution](./LeetCode/Easy/543-diameter-of-binary-tree) |
+| Codeforces | [Did Not Go to Print](https://codeforces.com/contest/2275/problem/B) | C++23 (GCC 14-64, msys2) | [View Solution](./Codeforces/2275/B) |
 | Codeforces | [Different Divisors](https://codeforces.com/contest/1474/problem/B) | C++23 (GCC 14-64, msys2) | [View Solution](./Codeforces/1474/B) |
 | Codeforces | [Dima and Friends](https://codeforces.com/contest/272/problem/A) | C++20 (GCC 13-64) | [View Solution](./Codeforces/272/A) |
 | Codeforces | [Distinct Split](https://codeforces.com/contest/1791/problem/D) | C++23 (GCC 14-64, msys2) | [View Solution](./Codeforces/1791/D) |
