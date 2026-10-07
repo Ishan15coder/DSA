@@ -1,5 +1,13 @@
 [
   {
+    "id": "2164454774",
+    "lang": "cpp",
+    "statusDisplay": "Accepted",
+    "timestamp": 1791303980000,
+    "title": "Implement Queue using Stacks",
+    "titleSlug": "implement-queue-using-stacks"
+  },
+  {
     "id": "2164306604",
     "lang": "cpp",
     "statusDisplay": "Accepted",
@@ -4754,11 +4762,14 @@
     "titleSlug": "valid-anagram"
   },
   {
-    "id": "2164454774",
-    "title": "Implement Queue using Stacks",
-    "titleSlug": "implement-queue-using-stacks",
-    "timestamp": 1791303980000,
-    "lang": "cpp",
-    "statusDisplay": "Accepted"
+    "title": "In Search of Convenience",
+    "titleSlug": "2275/A",
+    "timestamp": 1791385083000,
+    "statusDisplay": "Accepted",
+    "lang": "C++23 (GCC 14-64, msys2)",
+    "id": "393535350",
+    "platform": "codeforces",
+    "difficulty": "Easy",
+    "rating": 0
   }
 ]
