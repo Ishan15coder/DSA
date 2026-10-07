@@ -4,7 +4,7 @@ Showcasing my Data Structures, Algorithms, and Competitive Programming solutions
 
 <p align="center">
   <img src="https://img.shields.io/badge/LeetCode-230_Solved-FFA116?style=for-the-badge&logo=leetcode" alt="LeetCode" />
-  <img src="https://img.shields.io/badge/Codeforces-240_Solved-1F8ACB?style=for-the-badge&logo=codeforces" alt="Codeforces" />
+  <img src="https://img.shields.io/badge/Codeforces-241_Solved-1F8ACB?style=for-the-badge&logo=codeforces" alt="Codeforces" />
   <img src="https://img.shields.io/badge/CSES-0_Solved-000000?style=for-the-badge&logo=code" alt="CSES" />
   <img src="https://img.shields.io/badge/GeeksforGeeks-0_Solved-2F8D46?style=for-the-badge&logo=geeksforgeeks" alt="GeeksforGeeks" />
 </p>
@@ -14,10 +14,10 @@ Showcasing my Data Structures, Algorithms, and Competitive Programming solutions
 | Platform | Solved Count | Solutions Tracked |
 | :--- | :---: | :--- |
 | **LeetCode** | 230 | [ `/LeetCode`](./LeetCode) |
-| **Codeforces** | 240 | [ `/Codeforces`](./Codeforces) |
+| **Codeforces** | 241 | [ `/Codeforces`](./Codeforces) |
 | **CSES Problemset** | 0 | [ `/CSES`](./CSES) |
 | **GeeksforGeeks** | 0 | [ `/GeeksForGeeks`](./GeeksForGeeks) |
-| **Total Solved** | **470** | [ `submission_history.json`](./submission_history.json) |
+| **Total Solved** | **471** | [ `submission_history.json`](./submission_history.json) |
 
 ## Codeforces Rating Breakdown
 
@@ -29,7 +29,7 @@ Showcasing my Data Structures, Algorithms, and Competitive Programming solutions
 | **1400 - 1500** | 2 |
 | **1600 - 1800** | 0 |
 | **1900+** | 0 |
-| **Unrated** | 31 |
+| **Unrated** | 32 |
 
 ## LeetCode Progress Dashboard
 
@@ -512,6 +512,7 @@ Showcasing my Data Structures, Algorithms, and Competitive Programming solutions
 | Codeforces | [Unconventional Pairs](https://codeforces.com/contest/2149/problem/B) | C++23 (GCC 14-64, msys2) | [View Solution](./Codeforces/2149/B) |
 | Codeforces | [Unit Array](https://codeforces.com/contest/1834/problem/A) | C++20 (GCC 13-64) | [View Solution](./Codeforces/1834/A) |
 | Codeforces | [United We Stand](https://codeforces.com/contest/1859/problem/A) | C++20 (GCC 13-64) | [View Solution](./Codeforces/1859/A) |
+| Codeforces | [Unrequited Love](https://codeforces.com/contest/2275/problem/C) | C++23 (GCC 14-64, msys2) | [View Solution](./Codeforces/2275/C) |
 | Codeforces | [Valerii Against Everyone](https://codeforces.com/contest/1438/problem/B) | C++23 (GCC 14-64, msys2) | [View Solution](./Codeforces/1438/B) |
 | LeetCode | [Valid Anagram](https://leetcode.com/problems/valid-anagram/) | cpp | [View Solution](./LeetCode/Easy/242-valid-anagram) |
 | LeetCode | [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/) | cpp | [View Solution](./LeetCode/Easy/125-valid-palindrome) |
