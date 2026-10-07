@@ -4,7 +4,7 @@ Showcasing my Data Structures, Algorithms, and Competitive Programming solutions
 
 <p align="center">
   <img src="https://img.shields.io/badge/LeetCode-230_Solved-FFA116?style=for-the-badge&logo=leetcode" alt="LeetCode" />
-  <img src="https://img.shields.io/badge/Codeforces-238_Solved-1F8ACB?style=for-the-badge&logo=codeforces" alt="Codeforces" />
+  <img src="https://img.shields.io/badge/Codeforces-239_Solved-1F8ACB?style=for-the-badge&logo=codeforces" alt="Codeforces" />
   <img src="https://img.shields.io/badge/CSES-0_Solved-000000?style=for-the-badge&logo=code" alt="CSES" />
   <img src="https://img.shields.io/badge/GeeksforGeeks-0_Solved-2F8D46?style=for-the-badge&logo=geeksforgeeks" alt="GeeksforGeeks" />
 </p>
@@ -14,10 +14,10 @@ Showcasing my Data Structures, Algorithms, and Competitive Programming solutions
 | Platform | Solved Count | Solutions Tracked |
 | :--- | :---: | :--- |
 | **LeetCode** | 230 | [ `/LeetCode`](./LeetCode) |
-| **Codeforces** | 238 | [ `/Codeforces`](./Codeforces) |
+| **Codeforces** | 239 | [ `/Codeforces`](./Codeforces) |
 | **CSES Problemset** | 0 | [ `/CSES`](./CSES) |
 | **GeeksforGeeks** | 0 | [ `/GeeksForGeeks`](./GeeksForGeeks) |
-| **Total Solved** | **468** | [ `submission_history.json`](./submission_history.json) |
+| **Total Solved** | **469** | [ `submission_history.json`](./submission_history.json) |
 
 ## Codeforces Rating Breakdown
 
@@ -29,7 +29,7 @@ Showcasing my Data Structures, Algorithms, and Competitive Programming solutions
 | **1400 - 1500** | 2 |
 | **1600 - 1800** | 0 |
 | **1900+** | 0 |
-| **Unrated** | 29 |
+| **Unrated** | 30 |
 
 ## LeetCode Progress Dashboard
 
@@ -234,6 +234,7 @@ Showcasing my Data Structures, Algorithms, and Competitive Programming solutions
 | Codeforces | [I Will Definitely Make It](https://codeforces.com/contest/2126/problem/C) | C++20 (GCC 13-64) | [View Solution](./Codeforces/2126/C) |
 | LeetCode | [Implement Queue using Stacks](https://leetcode.com/problems/implement-queue-using-stacks/) | cpp | [View Solution](./LeetCode/Easy/232-implement-queue-using-stacks) |
 | LeetCode | [Implement Stack using Queues](https://leetcode.com/problems/implement-stack-using-queues/) | cpp | [View Solution](./LeetCode/Easy/225-implement-stack-using-queues) |
+| Codeforces | [In Search of Convenience](https://codeforces.com/contest/2275/problem/A) | C++23 (GCC 14-64, msys2) | [View Solution](./Codeforces/2275/A) |
 | LeetCode | [Insert into a Binary Search Tree](https://leetcode.com/problems/insert-into-a-binary-search-tree/) | cpp | [View Solution](./LeetCode/Medium/701-insert-into-a-binary-search-tree) |
 | Codeforces | [Insomnia cure](https://codeforces.com/contest/148/problem/A) | C++20 (GCC 13-64) | [View Solution](./Codeforces/148/A) |
 | LeetCode | [Intersection of Two Linked Lists](https://leetcode.com/problems/intersection-of-two-linked-lists/) | cpp | [View Solution](./LeetCode/Easy/160-intersection-of-two-linked-lists) |
