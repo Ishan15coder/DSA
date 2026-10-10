@@ -4,7 +4,7 @@ Showcasing my Data Structures, Algorithms, and Competitive Programming solutions
 
 <p align="center">
   <img src="https://img.shields.io/badge/LeetCode-232_Solved-FFA116?style=for-the-badge&logo=leetcode" alt="LeetCode" />
-  <img src="https://img.shields.io/badge/Codeforces-243_Solved-1F8ACB?style=for-the-badge&logo=codeforces" alt="Codeforces" />
+  <img src="https://img.shields.io/badge/Codeforces-244_Solved-1F8ACB?style=for-the-badge&logo=codeforces" alt="Codeforces" />
   <img src="https://img.shields.io/badge/CSES-0_Solved-000000?style=for-the-badge&logo=code" alt="CSES" />
   <img src="https://img.shields.io/badge/GeeksforGeeks-0_Solved-2F8D46?style=for-the-badge&logo=geeksforgeeks" alt="GeeksforGeeks" />
 </p>
@@ -14,10 +14,10 @@ Showcasing my Data Structures, Algorithms, and Competitive Programming solutions
 | Platform | Solved Count | Solutions Tracked |
 | :--- | :---: | :--- |
 | **LeetCode** | 232 | [ `/LeetCode`](./LeetCode) |
-| **Codeforces** | 243 | [ `/Codeforces`](./Codeforces) |
+| **Codeforces** | 244 | [ `/Codeforces`](./Codeforces) |
 | **CSES Problemset** | 0 | [ `/CSES`](./CSES) |
 | **GeeksforGeeks** | 0 | [ `/GeeksForGeeks`](./GeeksForGeeks) |
-| **Total Solved** | **475** | [ `submission_history.json`](./submission_history.json) |
+| **Total Solved** | **476** | [ `submission_history.json`](./submission_history.json) |
 
 ## Codeforces Rating Breakdown
 
@@ -29,7 +29,7 @@ Showcasing my Data Structures, Algorithms, and Competitive Programming solutions
 | **1400 - 1500** | 2 |
 | **1600 - 1800** | 0 |
 | **1900+** | 0 |
-| **Unrated** | 34 |
+| **Unrated** | 35 |
 
 ## LeetCode Progress Dashboard
 
@@ -532,6 +532,7 @@ Showcasing my Data Structures, Algorithms, and Competitive Programming solutions
 | Codeforces | [Who Watches the Watchpig?](https://codeforces.com/contest/2245/problem/A) | C++23 (GCC 14-64, msys2) | [View Solution](./Codeforces/2245/A) |
 | LeetCode | [Word Break](https://leetcode.com/problems/word-break/) | cpp | [View Solution](./LeetCode/Medium/139-word-break) |
 | LeetCode | [Word Ladder](https://leetcode.com/problems/word-ladder/) | cpp | [View Solution](./LeetCode/Hard/127-word-ladder) |
+| Codeforces | [XOR Problem](https://codeforces.com/contest/2271/problem/C) | C++23 (GCC 14-64, msys2) | [View Solution](./Codeforces/2271/C) |
 | Codeforces | [XORinacci](https://codeforces.com/contest/1208/problem/A) | C++23 (GCC 14-64, msys2) | [View Solution](./Codeforces/1208/A) |
 | Codeforces | [Yarik and Array](https://codeforces.com/contest/1899/problem/C) | C++23 (GCC 14-64, msys2) | [View Solution](./Codeforces/1899/C) |
 | Codeforces | [Yaroslav and Permutations](https://codeforces.com/contest/296/problem/A) | C++23 (GCC 14-64, msys2) | [View Solution](./Codeforces/296/A) |
