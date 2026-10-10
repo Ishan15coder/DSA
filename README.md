@@ -3,7 +3,7 @@
 Showcasing my Data Structures, Algorithms, and Competitive Programming solutions synced automatically by [L'Amigo](https://github.com/FTS18/l-amigo).
 
 <p align="center">
-  <img src="https://img.shields.io/badge/LeetCode-230_Solved-FFA116?style=for-the-badge&logo=leetcode" alt="LeetCode" />
+  <img src="https://img.shields.io/badge/LeetCode-231_Solved-FFA116?style=for-the-badge&logo=leetcode" alt="LeetCode" />
   <img src="https://img.shields.io/badge/Codeforces-241_Solved-1F8ACB?style=for-the-badge&logo=codeforces" alt="Codeforces" />
   <img src="https://img.shields.io/badge/CSES-0_Solved-000000?style=for-the-badge&logo=code" alt="CSES" />
   <img src="https://img.shields.io/badge/GeeksforGeeks-0_Solved-2F8D46?style=for-the-badge&logo=geeksforgeeks" alt="GeeksforGeeks" />
@@ -13,11 +13,11 @@ Showcasing my Data Structures, Algorithms, and Competitive Programming solutions
 
 | Platform | Solved Count | Solutions Tracked |
 | :--- | :---: | :--- |
-| **LeetCode** | 230 | [ `/LeetCode`](./LeetCode) |
+| **LeetCode** | 231 | [ `/LeetCode`](./LeetCode) |
 | **Codeforces** | 241 | [ `/Codeforces`](./Codeforces) |
 | **CSES Problemset** | 0 | [ `/CSES`](./CSES) |
 | **GeeksforGeeks** | 0 | [ `/GeeksForGeeks`](./GeeksForGeeks) |
-| **Total Solved** | **471** | [ `submission_history.json`](./submission_history.json) |
+| **Total Solved** | **472** | [ `submission_history.json`](./submission_history.json) |
 
 ## Codeforces Rating Breakdown
 
@@ -39,8 +39,8 @@ Showcasing my Data Structures, Algorithms, and Competitive Programming solutions
 
 | Difficulty | Solved | Progress Bar |
 | :--- | :---: | :--- |
-| **Easy** | 99 | `[████░░░░░░]` (42.3%) |
-| **Medium** | 127 | `[█████░░░░░]` (54.3%) |
+| **Easy** | 99 | `[████░░░░░░]` (42.1%) |
+| **Medium** | 128 | `[█████░░░░░]` (54.5%) |
 | **Hard** | 8 | `[░░░░░░░░░░]` (3.4%) |
 
 ## Top LeetCode Topics
@@ -48,7 +48,7 @@ Showcasing my Data Structures, Algorithms, and Competitive Programming solutions
 | Topic | Solved |
 | :--- | :--- |
 | Array | 133 |
-| String | 58 |
+| String | 59 |
 | Hash Table | 47 |
 | Math | 36 |
 | Two Pointers | 35 |
@@ -56,7 +56,7 @@ Showcasing my Data Structures, Algorithms, and Competitive Programming solutions
 | Sorting | 25 |
 | Dynamic Programming | 24 |
 | Sliding Window | 22 |
-| Stack | 19 |
+| Stack | 20 |
 
 
 ## Synced Solutions Index
@@ -318,6 +318,7 @@ Showcasing my Data Structures, Algorithms, and Competitive Programming solutions
 | LeetCode | [Min Stack](https://leetcode.com/problems/min-stack/) | cpp | [View Solution](./LeetCode/Medium/155-min-stack) |
 | LeetCode | [Minimum Absolute Difference Between Two Values](https://leetcode.com/problems/minimum-absolute-difference-between-two-values/) | cpp | [View Solution](./LeetCode/Easy/3880-minimum-absolute-difference-between-two-values) |
 | LeetCode | [Minimum Bit Flips to Convert Number](https://leetcode.com/problems/minimum-bit-flips-to-convert-number/) | cpp | [View Solution](./LeetCode/Easy/2220-minimum-bit-flips-to-convert-number) |
+| LeetCode | [Minimum Insertions to Balance a Parentheses String](https://leetcode.com/problems/minimum-insertions-to-balance-a-parentheses-string/) | cpp | [View Solution](./LeetCode/Medium/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | Codeforces | [Minimum LCM](https://codeforces.com/contest/1765/problem/M) | C++23 (GCC 14-64, msys2) | [View Solution](./Codeforces/1765/M) |
 | LeetCode | [Minimum Number of Days to Make m Bouquets](https://leetcode.com/problems/minimum-number-of-days-to-make-m-bouquets/) | cpp | [View Solution](./LeetCode/Medium/1482-minimum-number-of-days-to-make-m-bouquets) |
 | LeetCode | [Minimum Operations to Transform Array into Alternating Prime](https://leetcode.com/problems/minimum-operations-to-transform-array-into-alternating-prime/) | cpp | [View Solution](./LeetCode/Medium/3896-minimum-operations-to-transform-array-into-alternating-prime) |
