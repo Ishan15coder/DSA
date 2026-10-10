@@ -1,5 +1,13 @@
 [
   {
+    "id": "2167435457",
+    "lang": "cpp",
+    "statusDisplay": "Accepted",
+    "timestamp": 1791561252000,
+    "title": "Minimum Insertions to Balance a Parentheses String",
+    "titleSlug": "minimum-insertions-to-balance-a-parentheses-string"
+  },
+  {
     "difficulty": "Medium",
     "id": "393595650",
     "lang": "C++23 (GCC 14-64, msys2)",
@@ -4795,10 +4803,10 @@
     "titleSlug": "valid-anagram"
   },
   {
-    "id": "2167435457",
-    "title": "Minimum Insertions to Balance a Parentheses String",
-    "titleSlug": "minimum-insertions-to-balance-a-parentheses-string",
-    "timestamp": 1791561252000,
+    "id": "2168210994",
+    "title": "Sliding Window Maximum",
+    "titleSlug": "sliding-window-maximum",
+    "timestamp": 1791641485000,
     "lang": "cpp",
     "statusDisplay": "Accepted"
   }
