@@ -4,7 +4,7 @@ Showcasing my Data Structures, Algorithms, and Competitive Programming solutions
 
 <p align="center">
   <img src="https://img.shields.io/badge/LeetCode-232_Solved-FFA116?style=for-the-badge&logo=leetcode" alt="LeetCode" />
-  <img src="https://img.shields.io/badge/Codeforces-242_Solved-1F8ACB?style=for-the-badge&logo=codeforces" alt="Codeforces" />
+  <img src="https://img.shields.io/badge/Codeforces-243_Solved-1F8ACB?style=for-the-badge&logo=codeforces" alt="Codeforces" />
   <img src="https://img.shields.io/badge/CSES-0_Solved-000000?style=for-the-badge&logo=code" alt="CSES" />
   <img src="https://img.shields.io/badge/GeeksforGeeks-0_Solved-2F8D46?style=for-the-badge&logo=geeksforgeeks" alt="GeeksforGeeks" />
 </p>
@@ -14,10 +14,10 @@ Showcasing my Data Structures, Algorithms, and Competitive Programming solutions
 | Platform | Solved Count | Solutions Tracked |
 | :--- | :---: | :--- |
 | **LeetCode** | 232 | [ `/LeetCode`](./LeetCode) |
-| **Codeforces** | 242 | [ `/Codeforces`](./Codeforces) |
+| **Codeforces** | 243 | [ `/Codeforces`](./Codeforces) |
 | **CSES Problemset** | 0 | [ `/CSES`](./CSES) |
 | **GeeksforGeeks** | 0 | [ `/GeeksForGeeks`](./GeeksForGeeks) |
-| **Total Solved** | **474** | [ `submission_history.json`](./submission_history.json) |
+| **Total Solved** | **475** | [ `submission_history.json`](./submission_history.json) |
 
 ## Codeforces Rating Breakdown
 
@@ -29,7 +29,7 @@ Showcasing my Data Structures, Algorithms, and Competitive Programming solutions
 | **1400 - 1500** | 2 |
 | **1600 - 1800** | 0 |
 | **1900+** | 0 |
-| **Unrated** | 33 |
+| **Unrated** | 34 |
 
 ## LeetCode Progress Dashboard
 
@@ -309,6 +309,7 @@ Showcasing my Data Structures, Algorithms, and Competitive Programming solutions
 | LeetCode | [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/) | cpp | [View Solution](./LeetCode/Easy/88-merge-sorted-array) |
 | LeetCode | [Merge Strings Alternately](https://leetcode.com/problems/merge-strings-alternately/) | cpp | [View Solution](./LeetCode/Easy/1768-merge-strings-alternately) |
 | LeetCode | [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/) | cpp | [View Solution](./LeetCode/Easy/21-merge-two-sorted-lists) |
+| Codeforces | [MEX Game](https://codeforces.com/contest/2271/problem/B) | C++23 (GCC 14-64, msys2) | [View Solution](./Codeforces/2271/B) |
 | Codeforces | [MEX Partition](https://codeforces.com/contest/2160/problem/A) | C++23 (GCC 14-64, msys2) | [View Solution](./Codeforces/2160/A) |
 | Codeforces | [MEX rose](https://codeforces.com/contest/2149/problem/C) | C++23 (GCC 14-64, msys2) | [View Solution](./Codeforces/2149/C) |
 | Codeforces | [MEXor Mixup](https://codeforces.com/contest/1567/problem/B) | C++23 (GCC 14-64, msys2) | [View Solution](./Codeforces/1567/B) |
