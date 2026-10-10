@@ -3,7 +3,7 @@
 Showcasing my Data Structures, Algorithms, and Competitive Programming solutions synced automatically by [L'Amigo](https://github.com/FTS18/l-amigo).
 
 <p align="center">
-  <img src="https://img.shields.io/badge/LeetCode-231_Solved-FFA116?style=for-the-badge&logo=leetcode" alt="LeetCode" />
+  <img src="https://img.shields.io/badge/LeetCode-232_Solved-FFA116?style=for-the-badge&logo=leetcode" alt="LeetCode" />
   <img src="https://img.shields.io/badge/Codeforces-241_Solved-1F8ACB?style=for-the-badge&logo=codeforces" alt="Codeforces" />
   <img src="https://img.shields.io/badge/CSES-0_Solved-000000?style=for-the-badge&logo=code" alt="CSES" />
   <img src="https://img.shields.io/badge/GeeksforGeeks-0_Solved-2F8D46?style=for-the-badge&logo=geeksforgeeks" alt="GeeksforGeeks" />
@@ -13,11 +13,11 @@ Showcasing my Data Structures, Algorithms, and Competitive Programming solutions
 
 | Platform | Solved Count | Solutions Tracked |
 | :--- | :---: | :--- |
-| **LeetCode** | 231 | [ `/LeetCode`](./LeetCode) |
+| **LeetCode** | 232 | [ `/LeetCode`](./LeetCode) |
 | **Codeforces** | 241 | [ `/Codeforces`](./Codeforces) |
 | **CSES Problemset** | 0 | [ `/CSES`](./CSES) |
 | **GeeksforGeeks** | 0 | [ `/GeeksForGeeks`](./GeeksForGeeks) |
-| **Total Solved** | **472** | [ `submission_history.json`](./submission_history.json) |
+| **Total Solved** | **473** | [ `submission_history.json`](./submission_history.json) |
 
 ## Codeforces Rating Breakdown
 
@@ -39,15 +39,15 @@ Showcasing my Data Structures, Algorithms, and Competitive Programming solutions
 
 | Difficulty | Solved | Progress Bar |
 | :--- | :---: | :--- |
-| **Easy** | 99 | `[████░░░░░░]` (42.1%) |
-| **Medium** | 128 | `[█████░░░░░]` (54.5%) |
-| **Hard** | 8 | `[░░░░░░░░░░]` (3.4%) |
+| **Easy** | 99 | `[████░░░░░░]` (41.9%) |
+| **Medium** | 128 | `[█████░░░░░]` (54.2%) |
+| **Hard** | 9 | `[░░░░░░░░░░]` (3.8%) |
 
 ## Top LeetCode Topics
 
 | Topic | Solved |
 | :--- | :--- |
-| Array | 133 |
+| Array | 134 |
 | String | 59 |
 | Hash Table | 47 |
 | Math | 36 |
@@ -55,7 +55,7 @@ Showcasing my Data Structures, Algorithms, and Competitive Programming solutions
 | Binary Search | 30 |
 | Sorting | 25 |
 | Dynamic Programming | 24 |
-| Sliding Window | 22 |
+| Sliding Window | 23 |
 | Stack | 20 |
 
 
@@ -446,6 +446,7 @@ Showcasing my Data Structures, Algorithms, and Competitive Programming solutions
 | LeetCode | [Single Element in a Sorted Array](https://leetcode.com/problems/single-element-in-a-sorted-array/) | cpp | [View Solution](./LeetCode/Medium/540-single-element-in-a-sorted-array) |
 | LeetCode | [Single Number](https://leetcode.com/problems/single-number/) | cpp | [View Solution](./LeetCode/Easy/136-single-number) |
 | Codeforces | [Ski Resort](https://codeforces.com/contest/1840/problem/C) | C++23 (GCC 14-64, msys2) | [View Solution](./Codeforces/1840/C) |
+| LeetCode | [Sliding Window Maximum](https://leetcode.com/problems/sliding-window-maximum/) | cpp | [View Solution](./LeetCode/Hard/239-sliding-window-maximum) |
 | LeetCode | [Smallest Even Multiple](https://leetcode.com/problems/smallest-even-multiple/) | cpp | [View Solution](./LeetCode/Easy/2413-smallest-even-multiple) |
 | LeetCode | [Smallest Pair With Different Frequencies](https://leetcode.com/problems/smallest-pair-with-different-frequencies/) | cpp | [View Solution](./LeetCode/Easy/3852-smallest-pair-with-different-frequencies) |
 | Codeforces | [Snowball](https://codeforces.com/contest/1099/problem/A) | C++23 (GCC 14-64, msys2) | [View Solution](./Codeforces/1099/A) |
