@@ -1,6 +1,17 @@
 [
   {
     "difficulty": "Easy",
+    "id": "394014714",
+    "lang": "C++23 (GCC 14-64, msys2)",
+    "platform": "codeforces",
+    "rating": 0,
+    "statusDisplay": "Accepted",
+    "timestamp": 1791649555000,
+    "title": "MEX Game",
+    "titleSlug": "2271/B"
+  },
+  {
+    "difficulty": "Easy",
     "id": "394007533",
     "lang": "C++23 (GCC 14-64, msys2)",
     "platform": "codeforces",
@@ -4822,14 +4833,14 @@
     "titleSlug": "valid-anagram"
   },
   {
-    "title": "MEX Game",
-    "titleSlug": "2271/B",
-    "timestamp": 1791649555000,
+    "title": "XOR Problem",
+    "titleSlug": "2271/C",
+    "timestamp": 1791653217000,
     "statusDisplay": "Accepted",
     "lang": "C++23 (GCC 14-64, msys2)",
-    "id": "394014714",
+    "id": "394031777",
     "platform": "codeforces",
-    "difficulty": "Easy",
+    "difficulty": "Medium",
     "rating": 0
   }
 ]
