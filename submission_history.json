@@ -1,5 +1,16 @@
 [
   {
+    "difficulty": "Easy",
+    "id": "394007533",
+    "lang": "C++23 (GCC 14-64, msys2)",
+    "platform": "codeforces",
+    "rating": 0,
+    "statusDisplay": "Accepted",
+    "timestamp": 1791648393000,
+    "title": "Robot Odd Moves",
+    "titleSlug": "2271/A"
+  },
+  {
     "id": "2168210994",
     "lang": "cpp",
     "statusDisplay": "Accepted",
@@ -4811,12 +4822,12 @@
     "titleSlug": "valid-anagram"
   },
   {
-    "title": "Robot Odd Moves",
-    "titleSlug": "2271/A",
-    "timestamp": 1791648393000,
+    "title": "MEX Game",
+    "titleSlug": "2271/B",
+    "timestamp": 1791649555000,
     "statusDisplay": "Accepted",
     "lang": "C++23 (GCC 14-64, msys2)",
-    "id": "394007533",
+    "id": "394014714",
     "platform": "codeforces",
     "difficulty": "Easy",
     "rating": 0
