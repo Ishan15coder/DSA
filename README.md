@@ -4,7 +4,7 @@ Showcasing my Data Structures, Algorithms, and Competitive Programming solutions
 
 <p align="center">
   <img src="https://img.shields.io/badge/LeetCode-232_Solved-FFA116?style=for-the-badge&logo=leetcode" alt="LeetCode" />
-  <img src="https://img.shields.io/badge/Codeforces-241_Solved-1F8ACB?style=for-the-badge&logo=codeforces" alt="Codeforces" />
+  <img src="https://img.shields.io/badge/Codeforces-242_Solved-1F8ACB?style=for-the-badge&logo=codeforces" alt="Codeforces" />
   <img src="https://img.shields.io/badge/CSES-0_Solved-000000?style=for-the-badge&logo=code" alt="CSES" />
   <img src="https://img.shields.io/badge/GeeksforGeeks-0_Solved-2F8D46?style=for-the-badge&logo=geeksforgeeks" alt="GeeksforGeeks" />
 </p>
@@ -14,10 +14,10 @@ Showcasing my Data Structures, Algorithms, and Competitive Programming solutions
 | Platform | Solved Count | Solutions Tracked |
 | :--- | :---: | :--- |
 | **LeetCode** | 232 | [ `/LeetCode`](./LeetCode) |
-| **Codeforces** | 241 | [ `/Codeforces`](./Codeforces) |
+| **Codeforces** | 242 | [ `/Codeforces`](./Codeforces) |
 | **CSES Problemset** | 0 | [ `/CSES`](./CSES) |
 | **GeeksforGeeks** | 0 | [ `/GeeksForGeeks`](./GeeksForGeeks) |
-| **Total Solved** | **473** | [ `submission_history.json`](./submission_history.json) |
+| **Total Solved** | **474** | [ `submission_history.json`](./submission_history.json) |
 
 ## Codeforces Rating Breakdown
 
@@ -29,7 +29,7 @@ Showcasing my Data Structures, Algorithms, and Competitive Programming solutions
 | **1400 - 1500** | 2 |
 | **1600 - 1800** | 0 |
 | **1900+** | 0 |
-| **Unrated** | 32 |
+| **Unrated** | 33 |
 
 ## LeetCode Progress Dashboard
 
@@ -413,6 +413,7 @@ Showcasing my Data Structures, Algorithms, and Competitive Programming solutions
 | LeetCode | [Reverse String Prefix](https://leetcode.com/problems/reverse-string-prefix/) | cpp | [View Solution](./LeetCode/Easy/3794-reverse-string-prefix) |
 | LeetCode | [Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string/) | cpp | [View Solution](./LeetCode/Medium/151-reverse-words-in-a-string) |
 | LeetCode | [Richest Customer Wealth](https://leetcode.com/problems/richest-customer-wealth/) | cpp | [View Solution](./LeetCode/Easy/1672-richest-customer-wealth) |
+| Codeforces | [Robot Odd Moves](https://codeforces.com/contest/2271/problem/A) | C++23 (GCC 14-64, msys2) | [View Solution](./Codeforces/2271/A) |
 | LeetCode | [Robot Return to Origin](https://leetcode.com/problems/robot-return-to-origin/) | cpp | [View Solution](./LeetCode/Easy/657-robot-return-to-origin) |
 | LeetCode | [Roman to Integer](https://leetcode.com/problems/roman-to-integer/) | cpp | [View Solution](./LeetCode/Easy/13-roman-to-integer) |
 | Codeforces | [Roof Construction](https://codeforces.com/contest/1632/problem/B) | C++23 (GCC 14-64, msys2) | [View Solution](./Codeforces/1632/B) |
