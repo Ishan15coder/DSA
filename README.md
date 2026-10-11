@@ -3,7 +3,7 @@
 Showcasing my Data Structures, Algorithms, and Competitive Programming solutions synced automatically by [L'Amigo](https://github.com/FTS18/l-amigo).
 
 <p align="center">
-  <img src="https://img.shields.io/badge/LeetCode-232_Solved-FFA116?style=for-the-badge&logo=leetcode" alt="LeetCode" />
+  <img src="https://img.shields.io/badge/LeetCode-233_Solved-FFA116?style=for-the-badge&logo=leetcode" alt="LeetCode" />
   <img src="https://img.shields.io/badge/Codeforces-244_Solved-1F8ACB?style=for-the-badge&logo=codeforces" alt="Codeforces" />
   <img src="https://img.shields.io/badge/CSES-0_Solved-000000?style=for-the-badge&logo=code" alt="CSES" />
   <img src="https://img.shields.io/badge/GeeksforGeeks-0_Solved-2F8D46?style=for-the-badge&logo=geeksforgeeks" alt="GeeksforGeeks" />
@@ -13,11 +13,11 @@ Showcasing my Data Structures, Algorithms, and Competitive Programming solutions
 
 | Platform | Solved Count | Solutions Tracked |
 | :--- | :---: | :--- |
-| **LeetCode** | 232 | [ `/LeetCode`](./LeetCode) |
+| **LeetCode** | 233 | [ `/LeetCode`](./LeetCode) |
 | **Codeforces** | 244 | [ `/Codeforces`](./Codeforces) |
 | **CSES Problemset** | 0 | [ `/CSES`](./CSES) |
 | **GeeksforGeeks** | 0 | [ `/GeeksForGeeks`](./GeeksForGeeks) |
-| **Total Solved** | **476** | [ `submission_history.json`](./submission_history.json) |
+| **Total Solved** | **477** | [ `submission_history.json`](./submission_history.json) |
 
 ## Codeforces Rating Breakdown
 
@@ -121,6 +121,7 @@ Showcasing my Data Structures, Algorithms, and Competitive Programming solutions
 | LeetCode | [Check if Array Is Sorted and Rotated](https://leetcode.com/problems/check-if-array-is-sorted-and-rotated/) | cpp | [View Solution](./LeetCode/Easy/1752-check-if-array-is-sorted-and-rotated) |
 | Codeforces | [Chemistry](https://codeforces.com/contest/1883/problem/B) | C++23 (GCC 14-64, msys2) | [View Solution](./Codeforces/1883/B) |
 | Codeforces | [Chewbaсca and Number](https://codeforces.com/contest/514/problem/A) | C++23 (GCC 14-64, msys2) | [View Solution](./Codeforces/514/A) |
+| LeetCode | [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/) | cpp | [View Solution](./LeetCode/Easy/70-climbing-stairs) |
 | LeetCode | [Coin Change](https://leetcode.com/problems/coin-change/) | cpp | [View Solution](./LeetCode/Medium/322-coin-change) |
 | LeetCode | [Coin Change II](https://leetcode.com/problems/coin-change-ii/) | cpp | [View Solution](./LeetCode/Medium/518-coin-change-ii) |
 | Codeforces | [Coins](https://codeforces.com/contest/1814/problem/A) | C++20 (GCC 13-64) | [View Solution](./Codeforces/1814/A) |
