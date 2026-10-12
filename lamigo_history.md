@@ -4,6 +4,7 @@ A complete history of all accepted submissions synced by L'Amigo.
 
 | Date | Platform | Problem | Language |
 | :--- | :--- | :--- | :--- |
+| 2026-10-12 | Leetcode | Longest Common Subsequence | cpp |
 | 2026-10-12 | Leetcode | Score of Parentheses | cpp |
 | 2026-10-12 | Leetcode | Frog Jump | cpp |
 | 2026-10-11 | Leetcode | Climbing Stairs | cpp |
