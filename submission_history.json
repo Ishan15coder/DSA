@@ -1,5 +1,13 @@
 [
   {
+    "id": "2170480302",
+    "lang": "cpp",
+    "statusDisplay": "Accepted",
+    "timestamp": 1791827911000,
+    "title": "Longest Common Subsequence",
+    "titleSlug": "longest-common-subsequence"
+  },
+  {
     "id": "2170105143",
     "lang": "cpp",
     "statusDisplay": "Accepted",
@@ -4868,11 +4876,14 @@
     "titleSlug": "valid-anagram"
   },
   {
-    "id": "2170480302",
-    "title": "Longest Common Subsequence",
-    "titleSlug": "longest-common-subsequence",
-    "timestamp": 1791827911000,
-    "lang": "cpp",
-    "statusDisplay": "Accepted"
+    "title": "Exams",
+    "titleSlug": "479/C",
+    "timestamp": 1791977627000,
+    "statusDisplay": "Accepted",
+    "lang": "C++23 (GCC 14-64, msys2)",
+    "id": "394507120",
+    "platform": "codeforces",
+    "difficulty": "Medium",
+    "rating": 1400
   }
 ]
