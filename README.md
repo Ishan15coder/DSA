@@ -4,7 +4,7 @@ Showcasing my Data Structures, Algorithms, and Competitive Programming solutions
 
 <p align="center">
   <img src="https://img.shields.io/badge/LeetCode-235_Solved-FFA116?style=for-the-badge&logo=leetcode" alt="LeetCode" />
-  <img src="https://img.shields.io/badge/Codeforces-248_Solved-1F8ACB?style=for-the-badge&logo=codeforces" alt="Codeforces" />
+  <img src="https://img.shields.io/badge/Codeforces-249_Solved-1F8ACB?style=for-the-badge&logo=codeforces" alt="Codeforces" />
   <img src="https://img.shields.io/badge/CSES-0_Solved-000000?style=for-the-badge&logo=code" alt="CSES" />
   <img src="https://img.shields.io/badge/GeeksforGeeks-0_Solved-2F8D46?style=for-the-badge&logo=geeksforgeeks" alt="GeeksforGeeks" />
 </p>
@@ -14,10 +14,10 @@ Showcasing my Data Structures, Algorithms, and Competitive Programming solutions
 | Platform | Solved Count | Solutions Tracked |
 | :--- | :---: | :--- |
 | **LeetCode** | 235 | [ `/LeetCode`](./LeetCode) |
-| **Codeforces** | 248 | [ `/Codeforces`](./Codeforces) |
+| **Codeforces** | 249 | [ `/Codeforces`](./Codeforces) |
 | **CSES Problemset** | 0 | [ `/CSES`](./CSES) |
 | **GeeksforGeeks** | 0 | [ `/GeeksForGeeks`](./GeeksForGeeks) |
-| **Total Solved** | **483** | [ `submission_history.json`](./submission_history.json) |
+| **Total Solved** | **484** | [ `submission_history.json`](./submission_history.json) |
 
 ## Codeforces Rating Breakdown
 
@@ -25,7 +25,7 @@ Showcasing my Data Structures, Algorithms, and Competitive Programming solutions
 | :--- | :---: |
 | **<= 900** | 125 |
 | **1000 - 1100** | 64 |
-| **1200 - 1300** | 19 |
+| **1200 - 1300** | 20 |
 | **1400 - 1500** | 3 |
 | **1600 - 1800** | 0 |
 | **1900+** | 0 |
@@ -167,6 +167,7 @@ Showcasing my Data Structures, Algorithms, and Competitive Programming solutions
 | Codeforces | [Divan and a New Project ](https://codeforces.com/contest/1614/problem/B) | C++23 (GCC 14-64, msys2) | [View Solution](./Codeforces/1614/B) |
 | LeetCode | [Divide a String Into Groups of Size k](https://leetcode.com/problems/divide-a-string-into-groups-of-size-k/) | cpp | [View Solution](./LeetCode/Easy/2138-divide-a-string-into-groups-of-size-k) |
 | Codeforces | [Divide and Conquer](https://codeforces.com/contest/2241/problem/A) | C++23 (GCC 14-64, msys2) | [View Solution](./Codeforces/2241/A) |
+| Codeforces | [Divide and Equalize](https://codeforces.com/contest/1881/problem/D) | C++23 (GCC 14-64, msys2) | [View Solution](./Codeforces/1881/D) |
 | LeetCode | [Divide Two Integers](https://leetcode.com/problems/divide-two-integers/) | cpp | [View Solution](./LeetCode/Medium/29-divide-two-integers) |
 | LeetCode | [Divisible and Non-divisible Sums Difference](https://leetcode.com/problems/divisible-and-non-divisible-sums-difference/) | cpp | [View Solution](./LeetCode/Easy/2894-divisible-and-non-divisible-sums-difference) |
 | Codeforces | [Divisible Permutation](https://codeforces.com/contest/2188/problem/A) | C++23 (GCC 14-64, msys2) | [View Solution](./Codeforces/2188/A) |
