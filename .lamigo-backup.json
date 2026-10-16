@@ -252,6 +252,21 @@
       "displayName": "harshitharshit",
       "id": "a02b5d90-9271-4e8c-8721-9f3924a645b7",
       "updatedAt": 1789713916375
+    },
+    {
+      "accounts": [
+        {
+          "handle": "Ashu_Aditya",
+          "lastFetched": 1792132820283,
+          "platform": "codeforces",
+          "status": "active"
+        }
+      ],
+      "addedAt": 1792132820283,
+      "aliases": [],
+      "displayName": "Ashu_Aditya",
+      "id": "97367b2a-5555-4fb3-82d7-76a6a9a846d8",
+      "updatedAt": 1792132820283
     }
   ],
   "own_codechef_handle": "ishan1545",
@@ -260,84 +275,83 @@
   "sync_history": [
     {
       "problems": [
-        "CSES Task 1621",
-        "CSES Task 1085"
-      ],
-      "problemsSynced": 2,
-      "status": "success",
-      "timestamp": 1790950663867
-    },
-    {
-      "problems": [
-        "Valid Parentheses"
+        "Divide and Equalize"
       ],
       "problemsSynced": 1,
       "status": "success",
-      "timestamp": 1790869976627
+      "timestamp": 1792045955809
     },
     {
       "problems": [
-        "JoJo's Incredible Adventures"
+        "Queue"
       ],
       "problemsSynced": 1,
       "status": "success",
-      "timestamp": 1790832408529
+      "timestamp": 1792036624346
     },
     {
       "problems": [
-        "Kill Demodogs"
+        "Subarrays"
       ],
       "problemsSynced": 1,
       "status": "success",
-      "timestamp": 1790665459125
+      "timestamp": 1791995315388
     },
     {
       "problems": [
-        "KiaKio and Squared Numbers"
+        "Replace and Compress"
       ],
       "problemsSynced": 1,
       "status": "success",
-      "timestamp": 1790438285077
+      "timestamp": 1791993637793
     },
     {
       "problems": [
-        "SauSaGe Bank"
+        "Exams"
       ],
       "problemsSynced": 1,
       "status": "success",
-      "timestamp": 1790433838276
+      "timestamp": 1791981145213
     },
     {
       "problems": [
-        "GCD Treasury"
+        "Longest Common Subsequence"
       ],
       "problemsSynced": 1,
       "status": "success",
-      "timestamp": 1790354177004
+      "timestamp": 1791829527794
     },
     {
       "problems": [
-        "Fashionable Array"
+        "Score of Parentheses"
       ],
       "problemsSynced": 1,
       "status": "success",
-      "timestamp": 1790347934861
+      "timestamp": 1791808381961
     },
     {
       "problems": [
-        "Turn Into a Palindrome"
+        "Frog Jump"
       ],
       "problemsSynced": 1,
       "status": "success",
-      "timestamp": 1790347251609
+      "timestamp": 1791785517716
     },
     {
       "problems": [
-        "AND, OR, Sort!"
+        "Climbing Stairs"
       ],
       "problemsSynced": 1,
       "status": "success",
-      "timestamp": 1790004673070
+      "timestamp": 1791741135485
+    },
+    {
+      "problems": [
+        "XOR Problem"
+      ],
+      "problemsSynced": 1,
+      "status": "success",
+      "timestamp": 1791653279028
     }
   ]
 }
