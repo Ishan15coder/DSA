@@ -4,7 +4,7 @@ Showcasing my Data Structures, Algorithms, and Competitive Programming solutions
 
 <p align="center">
   <img src="https://img.shields.io/badge/LeetCode-235_Solved-FFA116?style=for-the-badge&logo=leetcode" alt="LeetCode" />
-  <img src="https://img.shields.io/badge/Codeforces-249_Solved-1F8ACB?style=for-the-badge&logo=codeforces" alt="Codeforces" />
+  <img src="https://img.shields.io/badge/Codeforces-250_Solved-1F8ACB?style=for-the-badge&logo=codeforces" alt="Codeforces" />
   <img src="https://img.shields.io/badge/CSES-0_Solved-000000?style=for-the-badge&logo=code" alt="CSES" />
   <img src="https://img.shields.io/badge/GeeksforGeeks-0_Solved-2F8D46?style=for-the-badge&logo=geeksforgeeks" alt="GeeksforGeeks" />
 </p>
@@ -14,17 +14,17 @@ Showcasing my Data Structures, Algorithms, and Competitive Programming solutions
 | Platform | Solved Count | Solutions Tracked |
 | :--- | :---: | :--- |
 | **LeetCode** | 235 | [ `/LeetCode`](./LeetCode) |
-| **Codeforces** | 249 | [ `/Codeforces`](./Codeforces) |
+| **Codeforces** | 250 | [ `/Codeforces`](./Codeforces) |
 | **CSES Problemset** | 0 | [ `/CSES`](./CSES) |
 | **GeeksforGeeks** | 0 | [ `/GeeksForGeeks`](./GeeksForGeeks) |
-| **Total Solved** | **484** | [ `submission_history.json`](./submission_history.json) |
+| **Total Solved** | **485** | [ `submission_history.json`](./submission_history.json) |
 
 ## Codeforces Rating Breakdown
 
 | Rating Bracket | Problems Solved |
 | :--- | :---: |
 | **<= 900** | 125 |
-| **1000 - 1100** | 64 |
+| **1000 - 1100** | 65 |
 | **1200 - 1300** | 20 |
 | **1400 - 1500** | 3 |
 | **1600 - 1800** | 0 |
@@ -136,6 +136,7 @@ Showcasing my Data Structures, Algorithms, and Competitive Programming solutions
 | Codeforces | [Contrast Value](https://codeforces.com/contest/1832/problem/C) | C++23 (GCC 14-64, msys2) | [View Solution](./Codeforces/1832/C) |
 | LeetCode | [Convert Binary Number in a Linked List to Integer](https://leetcode.com/problems/convert-binary-number-in-a-linked-list-to-integer/) | cpp | [View Solution](./LeetCode/Easy/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | LeetCode | [Convert the Temperature](https://leetcode.com/problems/convert-the-temperature/) | cpp | [View Solution](./LeetCode/Easy/2469-convert-the-temperature) |
+| Codeforces | [Coprime](https://codeforces.com/contest/1742/problem/D) | C++23 (GCC 14-64, msys2) | [View Solution](./Codeforces/1742/D) |
 | LeetCode | [Count Complete Subarrays in an Array](https://leetcode.com/problems/count-complete-subarrays-in-an-array/) | cpp | [View Solution](./LeetCode/Medium/2799-count-complete-subarrays-in-an-array) |
 | LeetCode | [Count Complete Tree Nodes](https://leetcode.com/problems/count-complete-tree-nodes/) | cpp | [View Solution](./LeetCode/Easy/222-count-complete-tree-nodes) |
 | LeetCode | [Count Digit Appearances](https://leetcode.com/problems/count-digit-appearances/) | cpp | [View Solution](./LeetCode/Medium/3895-count-digit-appearances) |
