@@ -252,21 +252,6 @@
       "displayName": "harshitharshit",
       "id": "a02b5d90-9271-4e8c-8721-9f3924a645b7",
       "updatedAt": 1789713916375
-    },
-    {
-      "accounts": [
-        {
-          "handle": "Ashu_Aditya",
-          "lastFetched": 1792132820283,
-          "platform": "codeforces",
-          "status": "active"
-        }
-      ],
-      "addedAt": 1792132820283,
-      "aliases": [],
-      "displayName": "Ashu_Aditya",
-      "id": "97367b2a-5555-4fb3-82d7-76a6a9a846d8",
-      "updatedAt": 1792132820283
     }
   ],
   "own_codechef_handle": "ishan1545",
