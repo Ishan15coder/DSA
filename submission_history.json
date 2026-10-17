@@ -1,6 +1,39 @@
 [
   {
     "difficulty": "Medium",
+    "id": "395006340",
+    "lang": "C++23 (GCC 14-64, msys2)",
+    "platform": "codeforces",
+    "rating": 0,
+    "statusDisplay": "Accepted",
+    "timestamp": 1792252898000,
+    "title": "I Know About a Million Things",
+    "titleSlug": "2261/C"
+  },
+  {
+    "difficulty": "Easy",
+    "id": "394968418",
+    "lang": "C++23 (GCC 14-64, msys2)",
+    "platform": "codeforces",
+    "rating": 0,
+    "statusDisplay": "Accepted",
+    "timestamp": 1792248764000,
+    "title": "Hey, It's Me, Souvlakity",
+    "titleSlug": "2261/A"
+  },
+  {
+    "difficulty": "Easy",
+    "id": "394854048",
+    "lang": "C++23 (GCC 14-64, msys2)",
+    "platform": "codeforces",
+    "rating": 1100,
+    "statusDisplay": "Accepted",
+    "timestamp": 1792173409000,
+    "title": "Coprime",
+    "titleSlug": "1742/D"
+  },
+  {
+    "difficulty": "Medium",
     "id": "394647728",
     "lang": "C++23 (GCC 14-64, msys2)",
     "platform": "codeforces",
@@ -4931,14 +4964,14 @@
     "titleSlug": "valid-anagram"
   },
   {
-    "title": "Coprime",
-    "titleSlug": "1742/D",
-    "timestamp": 1792173409000,
+    "title": "What's the Capital of France?",
+    "titleSlug": "2261/B",
+    "timestamp": 1792254152000,
     "statusDisplay": "Accepted",
     "lang": "C++23 (GCC 14-64, msys2)",
-    "id": "394854048",
+    "id": "395013810",
     "platform": "codeforces",
     "difficulty": "Easy",
-    "rating": 1100
+    "rating": 0
   }
 ]
