@@ -4,6 +4,7 @@ A complete history of all accepted submissions synced by L'Amigo.
 
 | Date | Platform | Problem | Language |
 | :--- | :--- | :--- | :--- |
+| 2026-10-17 | Codeforces | Hey, It's Me, Souvlakity | C++23 (GCC 14-64, msys2) |
 | 2026-10-16 | Codeforces | Coprime | C++23 (GCC 14-64, msys2) |
 | 2026-10-15 | Codeforces | Divide and Equalize | C++23 (GCC 14-64, msys2) |
 | 2026-10-15 | Codeforces | Queue | C++23 (GCC 14-64, msys2) |
