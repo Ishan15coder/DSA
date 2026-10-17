@@ -4,7 +4,7 @@ Showcasing my Data Structures, Algorithms, and Competitive Programming solutions
 
 <p align="center">
   <img src="https://img.shields.io/badge/LeetCode-235_Solved-FFA116?style=for-the-badge&logo=leetcode" alt="LeetCode" />
-  <img src="https://img.shields.io/badge/Codeforces-250_Solved-1F8ACB?style=for-the-badge&logo=codeforces" alt="Codeforces" />
+  <img src="https://img.shields.io/badge/Codeforces-253_Solved-1F8ACB?style=for-the-badge&logo=codeforces" alt="Codeforces" />
   <img src="https://img.shields.io/badge/CSES-0_Solved-000000?style=for-the-badge&logo=code" alt="CSES" />
   <img src="https://img.shields.io/badge/GeeksforGeeks-0_Solved-2F8D46?style=for-the-badge&logo=geeksforgeeks" alt="GeeksforGeeks" />
 </p>
@@ -14,10 +14,10 @@ Showcasing my Data Structures, Algorithms, and Competitive Programming solutions
 | Platform | Solved Count | Solutions Tracked |
 | :--- | :---: | :--- |
 | **LeetCode** | 235 | [ `/LeetCode`](./LeetCode) |
-| **Codeforces** | 250 | [ `/Codeforces`](./Codeforces) |
+| **Codeforces** | 253 | [ `/Codeforces`](./Codeforces) |
 | **CSES Problemset** | 0 | [ `/CSES`](./CSES) |
 | **GeeksforGeeks** | 0 | [ `/GeeksForGeeks`](./GeeksForGeeks) |
-| **Total Solved** | **485** | [ `submission_history.json`](./submission_history.json) |
+| **Total Solved** | **488** | [ `submission_history.json`](./submission_history.json) |
 
 ## Codeforces Rating Breakdown
 
@@ -29,7 +29,7 @@ Showcasing my Data Structures, Algorithms, and Competitive Programming solutions
 | **1400 - 1500** | 3 |
 | **1600 - 1800** | 0 |
 | **1900+** | 0 |
-| **Unrated** | 37 |
+| **Unrated** | 40 |
 
 ## LeetCode Progress Dashboard
 
@@ -235,8 +235,10 @@ Showcasing my Data Structures, Algorithms, and Competitive Programming solutions
 | Codeforces | [Halloumi Boxes](https://codeforces.com/contest/1903/problem/A) | C++20 (GCC 13-64) | [View Solution](./Codeforces/1903/A) |
 | Codeforces | [Helmets in Night Light](https://codeforces.com/contest/1876/problem/A) | C++23 (GCC 14-64, msys2) | [View Solution](./Codeforces/1876/A) |
 | Codeforces | [Hexadecimal's theorem](https://codeforces.com/contest/199/problem/A) | C++20 (GCC 13-64) | [View Solution](./Codeforces/199/A) |
+| Codeforces | [Hey, It's Me, Souvlakity](https://codeforces.com/contest/2261/problem/A) | C++23 (GCC 14-64, msys2) | [View Solution](./Codeforces/2261/A) |
 | Codeforces | [Homework](https://codeforces.com/contest/2132/problem/A) | C++23 (GCC 14-64, msys2) | [View Solution](./Codeforces/2132/A) |
 | Codeforces | [How Much Does Daytona Cost?](https://codeforces.com/contest/1878/problem/A) | C++20 (GCC 13-64) | [View Solution](./Codeforces/1878/A) |
+| Codeforces | [I Know About a Million Things](https://codeforces.com/contest/2261/problem/C) | C++23 (GCC 14-64, msys2) | [View Solution](./Codeforces/2261/C) |
 | Codeforces | [I Will Definitely Make It](https://codeforces.com/contest/2126/problem/C) | C++20 (GCC 13-64) | [View Solution](./Codeforces/2126/C) |
 | LeetCode | [Implement Queue using Stacks](https://leetcode.com/problems/implement-queue-using-stacks/) | cpp | [View Solution](./LeetCode/Easy/232-implement-queue-using-stacks) |
 | LeetCode | [Implement Stack using Queues](https://leetcode.com/problems/implement-stack-using-queues/) | cpp | [View Solution](./LeetCode/Easy/225-implement-stack-using-queues) |
@@ -538,6 +540,7 @@ Showcasing my Data Structures, Algorithms, and Competitive Programming solutions
 | Codeforces | [Way Too Long Words](https://codeforces.com/contest/71/problem/A) | C++20 (GCC 13-64) | [View Solution](./Codeforces/71/A) |
 | Codeforces | [We Need the Zero](https://codeforces.com/contest/1805/problem/A) | C++20 (GCC 13-64) | [View Solution](./Codeforces/1805/A) |
 | LeetCode | [Weighted Word Mapping](https://leetcode.com/problems/weighted-word-mapping/) | cpp | [View Solution](./LeetCode/Easy/3838-weighted-word-mapping) |
+| Codeforces | [What's the Capital of France?](https://codeforces.com/contest/2261/problem/B) | C++23 (GCC 14-64, msys2) | [View Solution](./Codeforces/2261/B) |
 | Codeforces | [Who Watches the Watchpig?](https://codeforces.com/contest/2245/problem/A) | C++23 (GCC 14-64, msys2) | [View Solution](./Codeforces/2245/A) |
 | LeetCode | [Word Break](https://leetcode.com/problems/word-break/) | cpp | [View Solution](./LeetCode/Medium/139-word-break) |
 | LeetCode | [Word Ladder](https://leetcode.com/problems/word-ladder/) | cpp | [View Solution](./LeetCode/Hard/127-word-ladder) |
