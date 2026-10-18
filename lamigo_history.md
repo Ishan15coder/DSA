@@ -4,6 +4,7 @@ A complete history of all accepted submissions synced by L'Amigo.
 
 | Date | Platform | Problem | Language |
 | :--- | :--- | :--- | :--- |
+| 2026-10-18 | Leetcode | Binary Tree Level Order Traversal | cpp |
 | 2026-10-18 | Codeforces | Subsequence Addition (Hard Version) | C++23 (GCC 14-64, msys2) |
 | 2026-10-18 | Leetcode | Binary Tree Postorder Traversal | cpp |
 | 2026-10-18 | Leetcode | Binary Tree Preorder Traversal | cpp |
