@@ -4,6 +4,7 @@ A complete history of all accepted submissions synced by L'Amigo.
 
 | Date | Platform | Problem | Language |
 | :--- | :--- | :--- | :--- |
+| 2026-10-18 | Leetcode | Binary Tree Preorder Traversal | cpp |
 | 2026-10-17 | Codeforces | What's the Capital of France? | C++23 (GCC 14-64, msys2) |
 | 2026-10-17 | Codeforces | I Know About a Million Things | C++23 (GCC 14-64, msys2) |
 | 2026-10-17 | Codeforces | Hey, It's Me, Souvlakity | C++23 (GCC 14-64, msys2) |
