@@ -4,7 +4,7 @@ Showcasing my Data Structures, Algorithms, and Competitive Programming solutions
 
 <p align="center">
   <img src="https://img.shields.io/badge/LeetCode-235_Solved-FFA116?style=for-the-badge&logo=leetcode" alt="LeetCode" />
-  <img src="https://img.shields.io/badge/Codeforces-253_Solved-1F8ACB?style=for-the-badge&logo=codeforces" alt="Codeforces" />
+  <img src="https://img.shields.io/badge/Codeforces-254_Solved-1F8ACB?style=for-the-badge&logo=codeforces" alt="Codeforces" />
   <img src="https://img.shields.io/badge/CSES-0_Solved-000000?style=for-the-badge&logo=code" alt="CSES" />
   <img src="https://img.shields.io/badge/GeeksforGeeks-0_Solved-2F8D46?style=for-the-badge&logo=geeksforgeeks" alt="GeeksforGeeks" />
 </p>
@@ -14,17 +14,17 @@ Showcasing my Data Structures, Algorithms, and Competitive Programming solutions
 | Platform | Solved Count | Solutions Tracked |
 | :--- | :---: | :--- |
 | **LeetCode** | 235 | [ `/LeetCode`](./LeetCode) |
-| **Codeforces** | 253 | [ `/Codeforces`](./Codeforces) |
+| **Codeforces** | 254 | [ `/Codeforces`](./Codeforces) |
 | **CSES Problemset** | 0 | [ `/CSES`](./CSES) |
 | **GeeksforGeeks** | 0 | [ `/GeeksForGeeks`](./GeeksForGeeks) |
-| **Total Solved** | **488** | [ `submission_history.json`](./submission_history.json) |
+| **Total Solved** | **489** | [ `submission_history.json`](./submission_history.json) |
 
 ## Codeforces Rating Breakdown
 
 | Rating Bracket | Problems Solved |
 | :--- | :---: |
 | **<= 900** | 125 |
-| **1000 - 1100** | 65 |
+| **1000 - 1100** | 66 |
 | **1200 - 1300** | 20 |
 | **1400 - 1500** | 3 |
 | **1600 - 1800** | 0 |
@@ -486,6 +486,7 @@ Showcasing my Data Structures, Algorithms, and Competitive Programming solutions
 | Codeforces | [Subarrays](https://codeforces.com/contest/2276/problem/C) | C++23 (GCC 14-64, msys2) | [View Solution](./Codeforces/2276/C) |
 | LeetCode | [Subarrays with K Different Integers](https://leetcode.com/problems/subarrays-with-k-different-integers/) | cpp | [View Solution](./LeetCode/Hard/992-subarrays-with-k-different-integers) |
 | Codeforces | [Sublime Sequence](https://codeforces.com/contest/2148/problem/A) | C++23 (GCC 14-64, msys2) | [View Solution](./Codeforces/2148/A) |
+| Codeforces | [Subsequence Addition (Hard Version)](https://codeforces.com/contest/1807/problem/G2) | C++23 (GCC 14-64, msys2) | [View Solution](./Codeforces/1807/G2) |
 | LeetCode | [Subsets](https://leetcode.com/problems/subsets/) | cpp | [View Solution](./LeetCode/Medium/78-subsets) |
 | LeetCode | [Subsets II](https://leetcode.com/problems/subsets-ii/) | cpp | [View Solution](./LeetCode/Medium/90-subsets-ii) |
 | LeetCode | [Substrings of Size Three with Distinct Characters](https://leetcode.com/problems/substrings-of-size-three-with-distinct-characters/) | cpp | [View Solution](./LeetCode/Easy/1876-substrings-of-size-three-with-distinct-characters) |
