@@ -252,12 +252,71 @@
       "displayName": "harshitharshit",
       "id": "a02b5d90-9271-4e8c-8721-9f3924a645b7",
       "updatedAt": 1789713916375
+    },
+    {
+      "accounts": [
+        {
+          "handle": "Vedansh_Agarwal",
+          "lastFetched": 1792303835644,
+          "platform": "codeforces",
+          "status": "active"
+        }
+      ],
+      "addedAt": 1792303835644,
+      "aliases": [],
+      "displayName": "Vedansh_Agarwal",
+      "id": "b7db9da8-799c-44e6-9579-e788c08fbd46",
+      "updatedAt": 1792303835644
     }
   ],
   "own_codechef_handle": "ishan1545",
   "own_codeforces_handle": "ishan15_45",
   "own_username": "9ki7hjbrkp",
   "sync_history": [
+    {
+      "problems": [
+        "What's the Capital of France?"
+      ],
+      "problemsSynced": 1,
+      "status": "success",
+      "timestamp": 1792254200856
+    },
+    {
+      "problems": [],
+      "problemsSynced": 0,
+      "status": "success",
+      "timestamp": 1792252943994
+    },
+    {
+      "problems": [
+        "I Know About a Million Things"
+      ],
+      "problemsSynced": 1,
+      "status": "success",
+      "timestamp": 1792252943643
+    },
+    {
+      "problems": [],
+      "problemsSynced": 0,
+      "status": "success",
+      "timestamp": 1792248793432
+    },
+    {
+      "problems": [
+        "Hey, It's Me, Souvlakity"
+      ],
+      "problemsSynced": 1,
+      "status": "success",
+      "timestamp": 1792248793343
+    },
+    {
+      "problems": [
+        "Coprime"
+      ],
+      "problemsSynced": 1,
+      "status": "success",
+      "timestamp": 1792175541645
+    },
     {
       "problems": [
         "Divide and Equalize"
@@ -289,54 +348,6 @@
       "problemsSynced": 1,
       "status": "success",
       "timestamp": 1791993637793
-    },
-    {
-      "problems": [
-        "Exams"
-      ],
-      "problemsSynced": 1,
-      "status": "success",
-      "timestamp": 1791981145213
-    },
-    {
-      "problems": [
-        "Longest Common Subsequence"
-      ],
-      "problemsSynced": 1,
-      "status": "success",
-      "timestamp": 1791829527794
-    },
-    {
-      "problems": [
-        "Score of Parentheses"
-      ],
-      "problemsSynced": 1,
-      "status": "success",
-      "timestamp": 1791808381961
-    },
-    {
-      "problems": [
-        "Frog Jump"
-      ],
-      "problemsSynced": 1,
-      "status": "success",
-      "timestamp": 1791785517716
-    },
-    {
-      "problems": [
-        "Climbing Stairs"
-      ],
-      "problemsSynced": 1,
-      "status": "success",
-      "timestamp": 1791741135485
-    },
-    {
-      "problems": [
-        "XOR Problem"
-      ],
-      "problemsSynced": 1,
-      "status": "success",
-      "timestamp": 1791653279028
     }
   ]
 }
