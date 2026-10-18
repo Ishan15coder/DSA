@@ -252,21 +252,6 @@
       "displayName": "harshitharshit",
       "id": "a02b5d90-9271-4e8c-8721-9f3924a645b7",
       "updatedAt": 1789713916375
-    },
-    {
-      "accounts": [
-        {
-          "handle": "Vedansh_Agarwal",
-          "lastFetched": 1792303835644,
-          "platform": "codeforces",
-          "status": "active"
-        }
-      ],
-      "addedAt": 1792303835644,
-      "aliases": [],
-      "displayName": "Vedansh_Agarwal",
-      "id": "b7db9da8-799c-44e6-9579-e788c08fbd46",
-      "updatedAt": 1792303835644
     }
   ],
   "own_codechef_handle": "ishan1545",
