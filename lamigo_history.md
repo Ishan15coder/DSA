@@ -5,6 +5,7 @@ A complete history of all accepted submissions synced by L'Amigo.
 | Date | Platform | Problem | Language |
 | :--- | :--- | :--- | :--- |
 | 2026-10-19 | Leetcode | Balanced Binary Tree | cpp |
+| 2026-10-19 | Leetcode | Balanced Binary Tree | cpp |
 | 2026-10-19 | Leetcode | Same Tree | cpp |
 | 2026-10-18 | Leetcode | Maximum Depth of Binary Tree | cpp |
 | 2026-10-18 | Leetcode | Binary Tree Level Order Traversal | cpp |
