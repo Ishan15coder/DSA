@@ -1,5 +1,21 @@
 [
   {
+    "id": "2175473781",
+    "lang": "cpp",
+    "statusDisplay": "Accepted",
+    "timestamp": 1792334854000,
+    "title": "Maximum Depth of Binary Tree",
+    "titleSlug": "maximum-depth-of-binary-tree"
+  },
+  {
+    "id": "2175467027",
+    "lang": "cpp",
+    "statusDisplay": "Accepted",
+    "timestamp": 1792334299000,
+    "title": "Binary Tree Level Order Traversal",
+    "titleSlug": "binary-tree-level-order-traversal"
+  },
+  {
     "difficulty": "Easy",
     "id": "395101413",
     "lang": "C++23 (GCC 14-64, msys2)",
@@ -5002,10 +5018,10 @@
     "titleSlug": "valid-anagram"
   },
   {
-    "id": "2175467027",
-    "title": "Binary Tree Level Order Traversal",
-    "titleSlug": "binary-tree-level-order-traversal",
-    "timestamp": 1792334299000,
+    "id": "2176070164",
+    "title": "Same Tree",
+    "titleSlug": "same-tree",
+    "timestamp": 1792400557000,
     "lang": "cpp",
     "statusDisplay": "Accepted"
   }
