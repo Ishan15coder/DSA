@@ -39,8 +39,8 @@ Showcasing my Data Structures, Algorithms, and Competitive Programming solutions
 
 | Difficulty | Solved | Progress Bar |
 | :--- | :---: | :--- |
-| **Easy** | 101 | `[████░░░░░░]` (41.9%) |
-| **Medium** | 130 | `[█████░░░░░]` (53.9%) |
+| **Easy** | 102 | `[████░░░░░░]` (42.1%) |
+| **Medium** | 130 | `[█████░░░░░]` (53.7%) |
 | **Hard** | 10 | `[░░░░░░░░░░]` (4.1%) |
 
 ## Top LeetCode Topics
