@@ -4,6 +4,7 @@ A complete history of all accepted submissions synced by L'Amigo.
 
 | Date | Platform | Problem | Language |
 | :--- | :--- | :--- | :--- |
+| 2026-10-19 | Leetcode | Binary Tree Maximum Path Sum | cpp |
 | 2026-10-19 | Leetcode | Balanced Binary Tree | cpp |
 | 2026-10-19 | Leetcode | Balanced Binary Tree | cpp |
 | 2026-10-19 | Leetcode | Same Tree | cpp |
