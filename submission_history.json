@@ -1,5 +1,13 @@
 [
   {
+    "id": "2176070164",
+    "lang": "cpp",
+    "statusDisplay": "Accepted",
+    "timestamp": 1792400557000,
+    "title": "Same Tree",
+    "titleSlug": "same-tree"
+  },
+  {
     "id": "2175473781",
     "lang": "cpp",
     "statusDisplay": "Accepted",
@@ -5018,10 +5026,10 @@
     "titleSlug": "valid-anagram"
   },
   {
-    "id": "2176070164",
-    "title": "Same Tree",
-    "titleSlug": "same-tree",
-    "timestamp": 1792400557000,
+    "id": "2176081118",
+    "title": "Balanced Binary Tree",
+    "titleSlug": "balanced-binary-tree",
+    "timestamp": 1792401560000,
     "lang": "cpp",
     "statusDisplay": "Accepted"
   }
