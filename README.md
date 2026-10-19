@@ -4,7 +4,7 @@ Showcasing my Data Structures, Algorithms, and Competitive Programming solutions
 
 <p align="center">
   <img src="https://img.shields.io/badge/LeetCode-238_Solved-FFA116?style=for-the-badge&logo=leetcode" alt="LeetCode" />
-  <img src="https://img.shields.io/badge/Codeforces-254_Solved-1F8ACB?style=for-the-badge&logo=codeforces" alt="Codeforces" />
+  <img src="https://img.shields.io/badge/Codeforces-255_Solved-1F8ACB?style=for-the-badge&logo=codeforces" alt="Codeforces" />
   <img src="https://img.shields.io/badge/CSES-0_Solved-000000?style=for-the-badge&logo=code" alt="CSES" />
   <img src="https://img.shields.io/badge/GeeksforGeeks-0_Solved-2F8D46?style=for-the-badge&logo=geeksforgeeks" alt="GeeksforGeeks" />
 </p>
@@ -14,17 +14,17 @@ Showcasing my Data Structures, Algorithms, and Competitive Programming solutions
 | Platform | Solved Count | Solutions Tracked |
 | :--- | :---: | :--- |
 | **LeetCode** | 238 | [ `/LeetCode`](./LeetCode) |
-| **Codeforces** | 254 | [ `/Codeforces`](./Codeforces) |
+| **Codeforces** | 255 | [ `/Codeforces`](./Codeforces) |
 | **CSES Problemset** | 0 | [ `/CSES`](./CSES) |
 | **GeeksforGeeks** | 0 | [ `/GeeksForGeeks`](./GeeksForGeeks) |
-| **Total Solved** | **492** | [ `submission_history.json`](./submission_history.json) |
+| **Total Solved** | **493** | [ `submission_history.json`](./submission_history.json) |
 
 ## Codeforces Rating Breakdown
 
 | Rating Bracket | Problems Solved |
 | :--- | :---: |
 | **<= 900** | 125 |
-| **1000 - 1100** | 66 |
+| **1000 - 1100** | 67 |
 | **1200 - 1300** | 20 |
 | **1400 - 1500** | 3 |
 | **1600 - 1800** | 0 |
@@ -39,8 +39,8 @@ Showcasing my Data Structures, Algorithms, and Competitive Programming solutions
 
 | Difficulty | Solved | Progress Bar |
 | :--- | :---: | :--- |
-| **Easy** | 102 | `[████░░░░░░]` (42.0%) |
-| **Medium** | 130 | `[█████░░░░░]` (53.5%) |
+| **Easy** | 103 | `[████░░░░░░]` (42.2%) |
+| **Medium** | 130 | `[█████░░░░░]` (53.3%) |
 | **Hard** | 11 | `[░░░░░░░░░░]` (4.5%) |
 
 ## Top LeetCode Topics
@@ -507,6 +507,7 @@ Showcasing my Data Structures, Algorithms, and Competitive Programming solutions
 | LeetCode | [Target Sum](https://leetcode.com/problems/target-sum/) | cpp | [View Solution](./LeetCode/Medium/494-target-sum) |
 | Codeforces | [Team](https://codeforces.com/contest/231/problem/A) | C++20 (GCC 13-64) | [View Solution](./Codeforces/231/A) |
 | Codeforces | [Teleporters (Easy Version)](https://codeforces.com/contest/1791/problem/G1) | C++23 (GCC 14-64, msys2) | [View Solution](./Codeforces/1791/G1) |
+| Codeforces | [Tenzing and Books](https://codeforces.com/contest/1842/problem/B) | C++23 (GCC 14-64, msys2) | [View Solution](./Codeforces/1842/B) |
 | Codeforces | [The 67th 6-7 Integer Problem](https://codeforces.com/contest/2218/problem/B) | C++23 (GCC 14-64, msys2) | [View Solution](./Codeforces/2218/B) |
 | Codeforces | [The 67th Permutation Problem](https://codeforces.com/contest/2218/problem/C) | C++23 (GCC 14-64, msys2) | [View Solution](./Codeforces/2218/C) |
 | Codeforces | [The Equalizer](https://codeforces.com/contest/2217/problem/A) | C++23 (GCC 14-64, msys2) | [View Solution](./Codeforces/2217/A) |
