@@ -3,7 +3,7 @@
 Showcasing my Data Structures, Algorithms, and Competitive Programming solutions synced automatically by [L'Amigo](https://github.com/FTS18/l-amigo).
 
 <p align="center">
-  <img src="https://img.shields.io/badge/LeetCode-235_Solved-FFA116?style=for-the-badge&logo=leetcode" alt="LeetCode" />
+  <img src="https://img.shields.io/badge/LeetCode-236_Solved-FFA116?style=for-the-badge&logo=leetcode" alt="LeetCode" />
   <img src="https://img.shields.io/badge/Codeforces-254_Solved-1F8ACB?style=for-the-badge&logo=codeforces" alt="Codeforces" />
   <img src="https://img.shields.io/badge/CSES-0_Solved-000000?style=for-the-badge&logo=code" alt="CSES" />
   <img src="https://img.shields.io/badge/GeeksforGeeks-0_Solved-2F8D46?style=for-the-badge&logo=geeksforgeeks" alt="GeeksforGeeks" />
@@ -13,11 +13,11 @@ Showcasing my Data Structures, Algorithms, and Competitive Programming solutions
 
 | Platform | Solved Count | Solutions Tracked |
 | :--- | :---: | :--- |
-| **LeetCode** | 235 | [ `/LeetCode`](./LeetCode) |
+| **LeetCode** | 236 | [ `/LeetCode`](./LeetCode) |
 | **Codeforces** | 254 | [ `/Codeforces`](./Codeforces) |
 | **CSES Problemset** | 0 | [ `/CSES`](./CSES) |
 | **GeeksforGeeks** | 0 | [ `/GeeksForGeeks`](./GeeksForGeeks) |
-| **Total Solved** | **489** | [ `submission_history.json`](./submission_history.json) |
+| **Total Solved** | **490** | [ `submission_history.json`](./submission_history.json) |
 
 ## Codeforces Rating Breakdown
 
@@ -436,6 +436,7 @@ Showcasing my Data Structures, Algorithms, and Competitive Programming solutions
 | LeetCode | [Running Sum of 1d Array](https://leetcode.com/problems/running-sum-of-1d-array/) | cpp | [View Solution](./LeetCode/Easy/1480-running-sum-of-1d-array) |
 | Codeforces | [Sail](https://codeforces.com/contest/298/problem/B) | C++23 (GCC 14-64, msys2) | [View Solution](./Codeforces/298/B) |
 | Codeforces | [Same Differences](https://codeforces.com/contest/1520/problem/D) | C++23 (GCC 14-64, msys2) | [View Solution](./Codeforces/1520/D) |
+| LeetCode | [Same Tree](https://leetcode.com/problems/same-tree/) | cpp | [View Solution](./LeetCode/Easy/100-same-tree) |
 | Codeforces | [SauSaGe Bank](https://codeforces.com/contest/2269/problem/A) | C++23 (GCC 14-64, msys2) | [View Solution](./Codeforces/2269/A) |
 | LeetCode | [Score of Parentheses](https://leetcode.com/problems/score-of-parentheses/) | cpp | [View Solution](./LeetCode/Medium/856-score-of-parentheses) |
 | LeetCode | [Score Validator](https://leetcode.com/problems/score-validator/) | cpp | [View Solution](./LeetCode/Easy/3921-score-validator) |
