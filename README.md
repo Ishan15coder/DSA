@@ -3,7 +3,7 @@
 Showcasing my Data Structures, Algorithms, and Competitive Programming solutions synced automatically by [L'Amigo](https://github.com/FTS18/l-amigo).
 
 <p align="center">
-  <img src="https://img.shields.io/badge/LeetCode-236_Solved-FFA116?style=for-the-badge&logo=leetcode" alt="LeetCode" />
+  <img src="https://img.shields.io/badge/LeetCode-237_Solved-FFA116?style=for-the-badge&logo=leetcode" alt="LeetCode" />
   <img src="https://img.shields.io/badge/Codeforces-254_Solved-1F8ACB?style=for-the-badge&logo=codeforces" alt="Codeforces" />
   <img src="https://img.shields.io/badge/CSES-0_Solved-000000?style=for-the-badge&logo=code" alt="CSES" />
   <img src="https://img.shields.io/badge/GeeksforGeeks-0_Solved-2F8D46?style=for-the-badge&logo=geeksforgeeks" alt="GeeksforGeeks" />
@@ -13,11 +13,11 @@ Showcasing my Data Structures, Algorithms, and Competitive Programming solutions
 
 | Platform | Solved Count | Solutions Tracked |
 | :--- | :---: | :--- |
-| **LeetCode** | 236 | [ `/LeetCode`](./LeetCode) |
+| **LeetCode** | 237 | [ `/LeetCode`](./LeetCode) |
 | **Codeforces** | 254 | [ `/Codeforces`](./Codeforces) |
 | **CSES Problemset** | 0 | [ `/CSES`](./CSES) |
 | **GeeksforGeeks** | 0 | [ `/GeeksForGeeks`](./GeeksForGeeks) |
-| **Total Solved** | **490** | [ `submission_history.json`](./submission_history.json) |
+| **Total Solved** | **491** | [ `submission_history.json`](./submission_history.json) |
 
 ## Codeforces Rating Breakdown
 
@@ -39,9 +39,9 @@ Showcasing my Data Structures, Algorithms, and Competitive Programming solutions
 
 | Difficulty | Solved | Progress Bar |
 | :--- | :---: | :--- |
-| **Easy** | 100 | `[████░░░░░░]` (41.7%) |
-| **Medium** | 130 | `[█████░░░░░]` (54.2%) |
-| **Hard** | 10 | `[░░░░░░░░░░]` (4.2%) |
+| **Easy** | 101 | `[████░░░░░░]` (41.9%) |
+| **Medium** | 130 | `[█████░░░░░]` (53.9%) |
+| **Hard** | 10 | `[░░░░░░░░░░]` (4.1%) |
 
 ## Top LeetCode Topics
 
@@ -86,6 +86,7 @@ Showcasing my Data Structures, Algorithms, and Competitive Programming solutions
 | LeetCode | [Asteroid Collision](https://leetcode.com/problems/asteroid-collision/) | cpp | [View Solution](./LeetCode/Medium/735-asteroid-collision) |
 | Codeforces | [AvtoBus](https://codeforces.com/contest/1679/problem/A) | C++17 (GCC 7-32) | [View Solution](./Codeforces/1679/A) |
 | Codeforces | [Bad Boy](https://codeforces.com/contest/1537/problem/B) | C++23 (GCC 14-64, msys2) | [View Solution](./Codeforces/1537/B) |
+| LeetCode | [Balanced Binary Tree](https://leetcode.com/problems/balanced-binary-tree/) | cpp | [View Solution](./LeetCode/Easy/110-balanced-binary-tree) |
 | Codeforces | [Balanced Round](https://codeforces.com/contest/1850/problem/D) | C++23 (GCC 14-64, msys2) | [View Solution](./Codeforces/1850/D) |
 | Codeforces | [Basketball Together](https://codeforces.com/contest/1725/problem/B) | C++23 (GCC 14-64, msys2) | [View Solution](./Codeforces/1725/B) |
 | Codeforces | [Be Positive](https://codeforces.com/contest/2149/problem/A) | C++23 (GCC 14-64, msys2) | [View Solution](./Codeforces/2149/A) |
