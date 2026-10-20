@@ -3,7 +3,7 @@
 Showcasing my Data Structures, Algorithms, and Competitive Programming solutions synced automatically by [L'Amigo](https://github.com/FTS18/l-amigo).
 
 <p align="center">
-  <img src="https://img.shields.io/badge/LeetCode-238_Solved-FFA116?style=for-the-badge&logo=leetcode" alt="LeetCode" />
+  <img src="https://img.shields.io/badge/LeetCode-239_Solved-FFA116?style=for-the-badge&logo=leetcode" alt="LeetCode" />
   <img src="https://img.shields.io/badge/Codeforces-255_Solved-1F8ACB?style=for-the-badge&logo=codeforces" alt="Codeforces" />
   <img src="https://img.shields.io/badge/CSES-0_Solved-000000?style=for-the-badge&logo=code" alt="CSES" />
   <img src="https://img.shields.io/badge/GeeksforGeeks-0_Solved-2F8D46?style=for-the-badge&logo=geeksforgeeks" alt="GeeksforGeeks" />
@@ -13,11 +13,11 @@ Showcasing my Data Structures, Algorithms, and Competitive Programming solutions
 
 | Platform | Solved Count | Solutions Tracked |
 | :--- | :---: | :--- |
-| **LeetCode** | 238 | [ `/LeetCode`](./LeetCode) |
+| **LeetCode** | 239 | [ `/LeetCode`](./LeetCode) |
 | **Codeforces** | 255 | [ `/Codeforces`](./Codeforces) |
 | **CSES Problemset** | 0 | [ `/CSES`](./CSES) |
 | **GeeksforGeeks** | 0 | [ `/GeeksForGeeks`](./GeeksForGeeks) |
-| **Total Solved** | **493** | [ `submission_history.json`](./submission_history.json) |
+| **Total Solved** | **494** | [ `submission_history.json`](./submission_history.json) |
 
 ## Codeforces Rating Breakdown
 
@@ -39,8 +39,8 @@ Showcasing my Data Structures, Algorithms, and Competitive Programming solutions
 
 | Difficulty | Solved | Progress Bar |
 | :--- | :---: | :--- |
-| **Easy** | 103 | `[████░░░░░░]` (42.2%) |
-| **Medium** | 130 | `[█████░░░░░]` (53.3%) |
+| **Easy** | 103 | `[████░░░░░░]` (42.0%) |
+| **Medium** | 131 | `[█████░░░░░]` (53.5%) |
 | **Hard** | 11 | `[░░░░░░░░░░]` (4.5%) |
 
 ## Top LeetCode Topics
@@ -540,6 +540,7 @@ Showcasing my Data Structures, Algorithms, and Competitive Programming solutions
 | LeetCode | [Valid Parenthesis String](https://leetcode.com/problems/valid-parenthesis-string/) | cpp | [View Solution](./LeetCode/Medium/678-valid-parenthesis-string) |
 | LeetCode | [Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/) | cpp | [View Solution](./LeetCode/Medium/98-validate-binary-search-tree) |
 | Codeforces | [Vasilije in Cacak](https://codeforces.com/contest/1878/problem/C) | C++23 (GCC 14-64, msys2) | [View Solution](./Codeforces/1878/C) |
+| LeetCode | [Vertical Order Traversal of a Binary Tree](https://leetcode.com/problems/vertical-order-traversal-of-a-binary-tree/) | cpp | [View Solution](./LeetCode/Hard/987-vertical-order-traversal-of-a-binary-tree) |
 | Codeforces | [Walking Master](https://codeforces.com/contest/1806/problem/A) | C++20 (GCC 13-64) | [View Solution](./Codeforces/1806/A) |
 | Codeforces | [Watermelon](https://codeforces.com/contest/4/problem/A) | C++20 (GCC 13-64) | [View Solution](./Codeforces/4/A) |
 | Codeforces | [Way Too Long Words](https://codeforces.com/contest/71/problem/A) | C++20 (GCC 13-64) | [View Solution](./Codeforces/71/A) |
