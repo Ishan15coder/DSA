@@ -4,6 +4,7 @@ A complete history of all accepted submissions synced by L'Amigo.
 
 | Date | Platform | Problem | Language |
 | :--- | :--- | :--- | :--- |
+| 2026-10-20 | Leetcode | Binary Tree Right Side View | cpp |
 | 2026-10-20 | Leetcode | Vertical Order Traversal of a Binary Tree | cpp |
 | 2026-10-20 | Leetcode | Binary Tree Maximum Path Sum | cpp |
 | 2026-10-19 | Codeforces | Tenzing and Books | C++23 (GCC 14-64, msys2) |
