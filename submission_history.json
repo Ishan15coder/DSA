@@ -1,5 +1,13 @@
 [
   {
+    "id": "2177169659",
+    "lang": "cpp",
+    "statusDisplay": "Accepted",
+    "timestamp": 1792508380000,
+    "title": "Vertical Order Traversal of a Binary Tree",
+    "titleSlug": "vertical-order-traversal-of-a-binary-tree"
+  },
+  {
     "id": "2177066015",
     "lang": "cpp",
     "statusDisplay": "Accepted",
@@ -5069,10 +5077,10 @@
     "titleSlug": "valid-anagram"
   },
   {
-    "id": "2177169659",
-    "title": "Vertical Order Traversal of a Binary Tree",
-    "titleSlug": "vertical-order-traversal-of-a-binary-tree",
-    "timestamp": 1792508380000,
+    "id": "2177295991",
+    "title": "Binary Tree Right Side View",
+    "titleSlug": "binary-tree-right-side-view",
+    "timestamp": 1792517227000,
     "lang": "cpp",
     "statusDisplay": "Accepted"
   }
