@@ -3,7 +3,7 @@
 Showcasing my Data Structures, Algorithms, and Competitive Programming solutions synced automatically by [L'Amigo](https://github.com/FTS18/l-amigo).
 
 <p align="center">
-  <img src="https://img.shields.io/badge/LeetCode-240_Solved-FFA116?style=for-the-badge&logo=leetcode" alt="LeetCode" />
+  <img src="https://img.shields.io/badge/LeetCode-241_Solved-FFA116?style=for-the-badge&logo=leetcode" alt="LeetCode" />
   <img src="https://img.shields.io/badge/Codeforces-255_Solved-1F8ACB?style=for-the-badge&logo=codeforces" alt="Codeforces" />
   <img src="https://img.shields.io/badge/CSES-0_Solved-000000?style=for-the-badge&logo=code" alt="CSES" />
   <img src="https://img.shields.io/badge/GeeksforGeeks-0_Solved-2F8D46?style=for-the-badge&logo=geeksforgeeks" alt="GeeksforGeeks" />
@@ -13,11 +13,11 @@ Showcasing my Data Structures, Algorithms, and Competitive Programming solutions
 
 | Platform | Solved Count | Solutions Tracked |
 | :--- | :---: | :--- |
-| **LeetCode** | 240 | [ `/LeetCode`](./LeetCode) |
+| **LeetCode** | 241 | [ `/LeetCode`](./LeetCode) |
 | **Codeforces** | 255 | [ `/Codeforces`](./Codeforces) |
 | **CSES Problemset** | 0 | [ `/CSES`](./CSES) |
 | **GeeksforGeeks** | 0 | [ `/GeeksForGeeks`](./GeeksForGeeks) |
-| **Total Solved** | **495** | [ `submission_history.json`](./submission_history.json) |
+| **Total Solved** | **496** | [ `submission_history.json`](./submission_history.json) |
 
 ## Codeforces Rating Breakdown
 
@@ -39,9 +39,9 @@ Showcasing my Data Structures, Algorithms, and Competitive Programming solutions
 
 | Difficulty | Solved | Progress Bar |
 | :--- | :---: | :--- |
-| **Easy** | 103 | `[████░░░░░░]` (41.7%) |
-| **Medium** | 132 | `[█████░░░░░]` (53.4%) |
-| **Hard** | 12 | `[░░░░░░░░░░]` (4.9%) |
+| **Easy** | 103 | `[████░░░░░░]` (41.5%) |
+| **Medium** | 133 | `[█████░░░░░]` (53.6%) |
+| **Hard** | 12 | `[░░░░░░░░░░]` (4.8%) |
 
 ## Top LeetCode Topics
 
@@ -56,7 +56,7 @@ Showcasing my Data Structures, Algorithms, and Competitive Programming solutions
 | Dynamic Programming | 28 |
 | Sorting | 26 |
 | Sliding Window | 23 |
-| Stack | 21 |
+| Tree | 21 |
 
 
 ## Synced Solutions Index
@@ -313,6 +313,7 @@ Showcasing my Data Structures, Algorithms, and Competitive Programming solutions
 | LeetCode | [Maximum Points You Can Obtain from Cards](https://leetcode.com/problems/maximum-points-you-can-obtain-from-cards/) | cpp | [View Solution](./LeetCode/Medium/1423-maximum-points-you-can-obtain-from-cards) |
 | LeetCode | [Maximum Product Subarray](https://leetcode.com/problems/maximum-product-subarray/) | cpp | [View Solution](./LeetCode/Medium/152-maximum-product-subarray) |
 | LeetCode | [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/) | cpp | [View Solution](./LeetCode/Medium/53-maximum-subarray) |
+| LeetCode | [Maximum Width of Binary Tree](https://leetcode.com/problems/maximum-width-of-binary-tree/) | cpp | [View Solution](./LeetCode/Medium/662-maximum-width-of-binary-tree) |
 | LeetCode | [Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/) | cpp | [View Solution](./LeetCode/Hard/4-median-of-two-sorted-arrays) |
 | LeetCode | [Merge Close Characters](https://leetcode.com/problems/merge-close-characters/) | cpp | [View Solution](./LeetCode/Medium/3853-merge-close-characters) |
 | LeetCode | [Merge Intervals](https://leetcode.com/problems/merge-intervals/) | cpp | [View Solution](./LeetCode/Medium/56-merge-intervals) |
