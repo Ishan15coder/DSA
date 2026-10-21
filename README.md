@@ -3,7 +3,7 @@
 Showcasing my Data Structures, Algorithms, and Competitive Programming solutions synced automatically by [L'Amigo](https://github.com/FTS18/l-amigo).
 
 <p align="center">
-  <img src="https://img.shields.io/badge/LeetCode-239_Solved-FFA116?style=for-the-badge&logo=leetcode" alt="LeetCode" />
+  <img src="https://img.shields.io/badge/LeetCode-240_Solved-FFA116?style=for-the-badge&logo=leetcode" alt="LeetCode" />
   <img src="https://img.shields.io/badge/Codeforces-255_Solved-1F8ACB?style=for-the-badge&logo=codeforces" alt="Codeforces" />
   <img src="https://img.shields.io/badge/CSES-0_Solved-000000?style=for-the-badge&logo=code" alt="CSES" />
   <img src="https://img.shields.io/badge/GeeksforGeeks-0_Solved-2F8D46?style=for-the-badge&logo=geeksforgeeks" alt="GeeksforGeeks" />
@@ -13,11 +13,11 @@ Showcasing my Data Structures, Algorithms, and Competitive Programming solutions
 
 | Platform | Solved Count | Solutions Tracked |
 | :--- | :---: | :--- |
-| **LeetCode** | 239 | [ `/LeetCode`](./LeetCode) |
+| **LeetCode** | 240 | [ `/LeetCode`](./LeetCode) |
 | **Codeforces** | 255 | [ `/Codeforces`](./Codeforces) |
 | **CSES Problemset** | 0 | [ `/CSES`](./CSES) |
 | **GeeksforGeeks** | 0 | [ `/GeeksForGeeks`](./GeeksForGeeks) |
-| **Total Solved** | **494** | [ `submission_history.json`](./submission_history.json) |
+| **Total Solved** | **495** | [ `submission_history.json`](./submission_history.json) |
 
 ## Codeforces Rating Breakdown
 
@@ -39,9 +39,9 @@ Showcasing my Data Structures, Algorithms, and Competitive Programming solutions
 
 | Difficulty | Solved | Progress Bar |
 | :--- | :---: | :--- |
-| **Easy** | 103 | `[████░░░░░░]` (42.0%) |
-| **Medium** | 131 | `[█████░░░░░]` (53.5%) |
-| **Hard** | 11 | `[░░░░░░░░░░]` (4.5%) |
+| **Easy** | 103 | `[████░░░░░░]` (41.7%) |
+| **Medium** | 132 | `[█████░░░░░]` (53.4%) |
+| **Hard** | 12 | `[░░░░░░░░░░]` (4.9%) |
 
 ## Top LeetCode Topics
 
@@ -49,12 +49,12 @@ Showcasing my Data Structures, Algorithms, and Competitive Programming solutions
 | :--- | :--- |
 | Array | 136 |
 | String | 60 |
-| Hash Table | 47 |
+| Hash Table | 48 |
 | Math | 37 |
 | Two Pointers | 35 |
 | Binary Search | 30 |
 | Dynamic Programming | 28 |
-| Sorting | 25 |
+| Sorting | 26 |
 | Sliding Window | 23 |
 | Stack | 21 |
 
@@ -105,6 +105,7 @@ Showcasing my Data Structures, Algorithms, and Competitive Programming solutions
 | LeetCode | [Binary Tree Maximum Path Sum](https://leetcode.com/problems/binary-tree-maximum-path-sum/) | cpp | [View Solution](./LeetCode/Hard/124-binary-tree-maximum-path-sum) |
 | LeetCode | [Binary Tree Postorder Traversal](https://leetcode.com/problems/binary-tree-postorder-traversal/) | cpp | [View Solution](./LeetCode/Easy/145-binary-tree-postorder-traversal) |
 | LeetCode | [Binary Tree Preorder Traversal](https://leetcode.com/problems/binary-tree-preorder-traversal/) | cpp | [View Solution](./LeetCode/Easy/144-binary-tree-preorder-traversal) |
+| LeetCode | [Binary Tree Right Side View](https://leetcode.com/problems/binary-tree-right-side-view/) | cpp | [View Solution](./LeetCode/Medium/199-binary-tree-right-side-view) |
 | Codeforces | [Bit++](https://codeforces.com/contest/282/problem/A) | C++20 (GCC 13-64) | [View Solution](./Codeforces/282/A) |
 | Codeforces | [Black and White Stripe](https://codeforces.com/contest/1690/problem/D) | C++23 (GCC 14-64, msys2) | [View Solution](./Codeforces/1690/D) |
 | Codeforces | [Blank Space](https://codeforces.com/contest/1829/problem/B) | C++20 (GCC 13-64) | [View Solution](./Codeforces/1829/B) |
