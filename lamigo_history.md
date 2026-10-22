@@ -4,6 +4,7 @@ A complete history of all accepted submissions synced by L'Amigo.
 
 | Date | Platform | Problem | Language |
 | :--- | :--- | :--- | :--- |
+| 2026-10-22 | Leetcode | Maximum Width of Binary Tree | cpp |
 | 2026-10-21 | Leetcode | Maximum Width of Binary Tree | cpp |
 | 2026-10-21 | Leetcode | Lowest Common Ancestor of a Binary Tree | cpp |
 | 2026-10-20 | Leetcode | Binary Tree Right Side View | cpp |
