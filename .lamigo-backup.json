@@ -256,83 +256,88 @@
   ],
   "own_codechef_handle": "ishan1545",
   "own_codeforces_handle": "ishan15_45",
-  "own_username": "9ki7hjbrkp",
+  "own_username": "ishan15_45",
   "sync_history": [
     {
       "problems": [
-        "What's the Capital of France?"
+        "Count Complete Tree Nodes"
       ],
       "problemsSynced": 1,
       "status": "success",
-      "timestamp": 1792254200856
-    },
-    {
-      "problems": [],
-      "problemsSynced": 0,
-      "status": "success",
-      "timestamp": 1792252943994
+      "timestamp": 1792681333983
     },
     {
       "problems": [
-        "I Know About a Million Things"
+        "Maximum Width of Binary Tree"
       ],
       "problemsSynced": 1,
       "status": "success",
-      "timestamp": 1792252943643
-    },
-    {
-      "problems": [],
-      "problemsSynced": 0,
-      "status": "success",
-      "timestamp": 1792248793432
+      "timestamp": 1792678153496
     },
     {
       "problems": [
-        "Hey, It's Me, Souvlakity"
+        "Maximum Width of Binary Tree"
       ],
       "problemsSynced": 1,
       "status": "success",
-      "timestamp": 1792248793343
+      "timestamp": 1792600129935
     },
     {
       "problems": [
-        "Coprime"
+        "Lowest Common Ancestor of a Binary Tree"
       ],
       "problemsSynced": 1,
       "status": "success",
-      "timestamp": 1792175541645
+      "timestamp": 1792580169572
     },
     {
       "problems": [
-        "Divide and Equalize"
+        "Binary Tree Right Side View"
       ],
       "problemsSynced": 1,
       "status": "success",
-      "timestamp": 1792045955809
+      "timestamp": 1792556988455
     },
     {
       "problems": [
-        "Queue"
+        "Vertical Order Traversal of a Binary Tree"
       ],
       "problemsSynced": 1,
       "status": "success",
-      "timestamp": 1792036624346
+      "timestamp": 1792508927418
     },
     {
       "problems": [
-        "Subarrays"
+        "Binary Tree Maximum Path Sum"
       ],
       "problemsSynced": 1,
       "status": "success",
-      "timestamp": 1791995315388
+      "timestamp": 1792501364341
     },
     {
       "problems": [
-        "Replace and Compress"
+        "Binary Tree Maximum Path Sum",
+        "Tenzing and Books"
+      ],
+      "problemsSynced": 2,
+      "status": "success",
+      "timestamp": 1792415258262
+    },
+    {
+      "problems": [
+        "Balanced Binary Tree"
       ],
       "problemsSynced": 1,
       "status": "success",
-      "timestamp": 1791993637793
+      "timestamp": 1792408046614
+    },
+    {
+      "problems": [
+        "Balanced Binary Tree"
+      ],
+      "problemsSynced": 1,
+      "status": "success",
+      "timestamp": 1792402638931
     }
   ]
 }
