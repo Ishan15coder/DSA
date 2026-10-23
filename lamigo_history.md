@@ -4,6 +4,7 @@ A complete history of all accepted submissions synced by L'Amigo.
 
 | Date | Platform | Problem | Language |
 | :--- | :--- | :--- | :--- |
+| 2026-10-23 | Leetcode | Flatten Binary Tree to Linked List | cpp |
 | 2026-10-23 | Leetcode | Maximum Width of Binary Tree | cpp |
 | 2026-10-22 | Leetcode | Count Complete Tree Nodes | cpp |
 | 2026-10-22 | Leetcode | Maximum Width of Binary Tree | cpp |
