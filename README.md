@@ -3,7 +3,7 @@
 Showcasing my Data Structures, Algorithms, and Competitive Programming solutions synced automatically by [L'Amigo](https://github.com/FTS18/l-amigo).
 
 <p align="center">
-  <img src="https://img.shields.io/badge/LeetCode-241_Solved-FFA116?style=for-the-badge&logo=leetcode" alt="LeetCode" />
+  <img src="https://img.shields.io/badge/LeetCode-242_Solved-FFA116?style=for-the-badge&logo=leetcode" alt="LeetCode" />
   <img src="https://img.shields.io/badge/Codeforces-255_Solved-1F8ACB?style=for-the-badge&logo=codeforces" alt="Codeforces" />
   <img src="https://img.shields.io/badge/CSES-0_Solved-000000?style=for-the-badge&logo=code" alt="CSES" />
   <img src="https://img.shields.io/badge/GeeksforGeeks-0_Solved-2F8D46?style=for-the-badge&logo=geeksforgeeks" alt="GeeksforGeeks" />
@@ -13,11 +13,11 @@ Showcasing my Data Structures, Algorithms, and Competitive Programming solutions
 
 | Platform | Solved Count | Solutions Tracked |
 | :--- | :---: | :--- |
-| **LeetCode** | 241 | [ `/LeetCode`](./LeetCode) |
+| **LeetCode** | 242 | [ `/LeetCode`](./LeetCode) |
 | **Codeforces** | 255 | [ `/Codeforces`](./Codeforces) |
 | **CSES Problemset** | 0 | [ `/CSES`](./CSES) |
 | **GeeksforGeeks** | 0 | [ `/GeeksForGeeks`](./GeeksForGeeks) |
-| **Total Solved** | **496** | [ `submission_history.json`](./submission_history.json) |
+| **Total Solved** | **497** | [ `submission_history.json`](./submission_history.json) |
 
 ## Codeforces Rating Breakdown
 
@@ -39,8 +39,8 @@ Showcasing my Data Structures, Algorithms, and Competitive Programming solutions
 
 | Difficulty | Solved | Progress Bar |
 | :--- | :---: | :--- |
-| **Easy** | 103 | `[████░░░░░░]` (41.4%) |
-| **Medium** | 134 | `[█████░░░░░]` (53.8%) |
+| **Easy** | 103 | `[████░░░░░░]` (41.2%) |
+| **Medium** | 135 | `[█████░░░░░]` (54.0%) |
 | **Hard** | 12 | `[░░░░░░░░░░]` (4.8%) |
 
 ## Top LeetCode Topics
@@ -55,8 +55,8 @@ Showcasing my Data Structures, Algorithms, and Competitive Programming solutions
 | Binary Search | 30 |
 | Dynamic Programming | 28 |
 | Sorting | 26 |
-| Sliding Window | 23 |
-| Tree | 22 |
+| Tree | 23 |
+| Binary Tree | 23 |
 
 
 ## Synced Solutions Index
@@ -215,6 +215,7 @@ Showcasing my Data Structures, Algorithms, and Competitive Programming solutions
 | LeetCode | [First Bad Version](https://leetcode.com/problems/first-bad-version/) | cpp | [View Solution](./LeetCode/Easy/278-first-bad-version) |
 | LeetCode | [First Letter to Appear Twice](https://leetcode.com/problems/first-letter-to-appear-twice/) | cpp | [View Solution](./LeetCode/Easy/2351-first-letter-to-appear-twice) |
 | LeetCode | [First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string/) | cpp | [View Solution](./LeetCode/Easy/387-first-unique-character-in-a-string) |
+| LeetCode | [Flatten Binary Tree to Linked List](https://leetcode.com/problems/flatten-binary-tree-to-linked-list/) | cpp | [View Solution](./LeetCode/Medium/114-flatten-binary-tree-to-linked-list) |
 | Codeforces | [Flip Flops](https://codeforces.com/contest/2209/problem/A) | C++23 (GCC 14-64, msys2) | [View Solution](./Codeforces/2209/A) |
 | LeetCode | [Flood Fill](https://leetcode.com/problems/flood-fill/) | cpp | [View Solution](./LeetCode/Easy/733-flood-fill) |
 | Codeforces | [Forbidden Integer](https://codeforces.com/contest/1845/problem/A) | C++20 (GCC 13-64) | [View Solution](./Codeforces/1845/A) |
