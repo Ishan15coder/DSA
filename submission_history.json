@@ -1,5 +1,13 @@
 [
   {
+    "id": "2178909708",
+    "lang": "cpp",
+    "statusDisplay": "Accepted",
+    "timestamp": 1792681249000,
+    "title": "Count Complete Tree Nodes",
+    "titleSlug": "count-complete-tree-nodes"
+  },
+  {
     "id": "2178839361",
     "lang": "cpp",
     "statusDisplay": "Accepted",
@@ -5109,10 +5117,10 @@
     "titleSlug": "valid-anagram"
   },
   {
-    "id": "2178909708",
-    "title": "Count Complete Tree Nodes",
-    "titleSlug": "count-complete-tree-nodes",
-    "timestamp": 1792681249000,
+    "id": "2179689509",
+    "title": "Maximum Width of Binary Tree",
+    "titleSlug": "maximum-width-of-binary-tree",
+    "timestamp": 1792762683000,
     "lang": "cpp",
     "statusDisplay": "Accepted"
   }
