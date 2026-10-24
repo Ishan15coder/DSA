@@ -4,6 +4,7 @@ A complete history of all accepted submissions synced by L'Amigo.
 
 | Date | Platform | Problem | Language |
 | :--- | :--- | :--- | :--- |
+| 2026-10-24 | Codeforces | Subset Selecting | C++23 (GCC 14-64, msys2) |
 | 2026-10-24 | Leetcode | Construct Binary Tree from Preorder and Inorder Traversal | cpp |
 | 2026-10-24 | Leetcode | Construct Binary Tree from Preorder and Inorder Traversal | cpp |
 | 2026-10-23 | Leetcode | Flatten Binary Tree to Linked List | cpp |
