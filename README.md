@@ -4,7 +4,7 @@ Showcasing my Data Structures, Algorithms, and Competitive Programming solutions
 
 <p align="center">
   <img src="https://img.shields.io/badge/LeetCode-243_Solved-FFA116?style=for-the-badge&logo=leetcode" alt="LeetCode" />
-  <img src="https://img.shields.io/badge/Codeforces-256_Solved-1F8ACB?style=for-the-badge&logo=codeforces" alt="Codeforces" />
+  <img src="https://img.shields.io/badge/Codeforces-257_Solved-1F8ACB?style=for-the-badge&logo=codeforces" alt="Codeforces" />
   <img src="https://img.shields.io/badge/CSES-0_Solved-000000?style=for-the-badge&logo=code" alt="CSES" />
   <img src="https://img.shields.io/badge/GeeksforGeeks-0_Solved-2F8D46?style=for-the-badge&logo=geeksforgeeks" alt="GeeksforGeeks" />
 </p>
@@ -14,10 +14,10 @@ Showcasing my Data Structures, Algorithms, and Competitive Programming solutions
 | Platform | Solved Count | Solutions Tracked |
 | :--- | :---: | :--- |
 | **LeetCode** | 243 | [ `/LeetCode`](./LeetCode) |
-| **Codeforces** | 256 | [ `/Codeforces`](./Codeforces) |
+| **Codeforces** | 257 | [ `/Codeforces`](./Codeforces) |
 | **CSES Problemset** | 0 | [ `/CSES`](./CSES) |
 | **GeeksforGeeks** | 0 | [ `/GeeksForGeeks`](./GeeksForGeeks) |
-| **Total Solved** | **499** | [ `submission_history.json`](./submission_history.json) |
+| **Total Solved** | **500** | [ `submission_history.json`](./submission_history.json) |
 
 ## Codeforces Rating Breakdown
 
@@ -29,7 +29,7 @@ Showcasing my Data Structures, Algorithms, and Competitive Programming solutions
 | **1400 - 1500** | 3 |
 | **1600 - 1800** | 0 |
 | **1900+** | 0 |
-| **Unrated** | 41 |
+| **Unrated** | 42 |
 
 ## LeetCode Progress Dashboard
 
@@ -453,6 +453,7 @@ Showcasing my Data Structures, Algorithms, and Competitive Programming solutions
 | LeetCode | [Search in Rotated Sorted Array II](https://leetcode.com/problems/search-in-rotated-sorted-array-ii/) | cpp | [View Solution](./LeetCode/Medium/81-search-in-rotated-sorted-array-ii) |
 | LeetCode | [Search Insert Position](https://leetcode.com/problems/search-insert-position/) | cpp | [View Solution](./LeetCode/Easy/35-search-insert-position) |
 | Codeforces | [Sending Messages](https://codeforces.com/contest/1921/problem/C) | C++23 (GCC 14-64, msys2) | [View Solution](./Codeforces/1921/C) |
+| Codeforces | [Sequence Decreasing](https://codeforces.com/contest/2277/problem/B) | C++23 (GCC 14-64, msys2) | [View Solution](./Codeforces/2277/B) |
 | Codeforces | [Sequence Game](https://codeforces.com/contest/1862/problem/B) | C++20 (GCC 13-64) | [View Solution](./Codeforces/1862/B) |
 | Codeforces | [Serval and Mocha's Array](https://codeforces.com/contest/1789/problem/A) | C++20 (GCC 13-64) | [View Solution](./Codeforces/1789/A) |
 | LeetCode | [Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes/) | cpp | [View Solution](./LeetCode/Medium/73-set-matrix-zeroes) |
