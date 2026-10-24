@@ -4,7 +4,7 @@ Showcasing my Data Structures, Algorithms, and Competitive Programming solutions
 
 <p align="center">
   <img src="https://img.shields.io/badge/LeetCode-243_Solved-FFA116?style=for-the-badge&logo=leetcode" alt="LeetCode" />
-  <img src="https://img.shields.io/badge/Codeforces-255_Solved-1F8ACB?style=for-the-badge&logo=codeforces" alt="Codeforces" />
+  <img src="https://img.shields.io/badge/Codeforces-256_Solved-1F8ACB?style=for-the-badge&logo=codeforces" alt="Codeforces" />
   <img src="https://img.shields.io/badge/CSES-0_Solved-000000?style=for-the-badge&logo=code" alt="CSES" />
   <img src="https://img.shields.io/badge/GeeksforGeeks-0_Solved-2F8D46?style=for-the-badge&logo=geeksforgeeks" alt="GeeksforGeeks" />
 </p>
@@ -14,10 +14,10 @@ Showcasing my Data Structures, Algorithms, and Competitive Programming solutions
 | Platform | Solved Count | Solutions Tracked |
 | :--- | :---: | :--- |
 | **LeetCode** | 243 | [ `/LeetCode`](./LeetCode) |
-| **Codeforces** | 255 | [ `/Codeforces`](./Codeforces) |
+| **Codeforces** | 256 | [ `/Codeforces`](./Codeforces) |
 | **CSES Problemset** | 0 | [ `/CSES`](./CSES) |
 | **GeeksforGeeks** | 0 | [ `/GeeksForGeeks`](./GeeksForGeeks) |
-| **Total Solved** | **498** | [ `submission_history.json`](./submission_history.json) |
+| **Total Solved** | **499** | [ `submission_history.json`](./submission_history.json) |
 
 ## Codeforces Rating Breakdown
 
@@ -29,7 +29,7 @@ Showcasing my Data Structures, Algorithms, and Competitive Programming solutions
 | **1400 - 1500** | 3 |
 | **1600 - 1800** | 0 |
 | **1900+** | 0 |
-| **Unrated** | 40 |
+| **Unrated** | 41 |
 
 ## LeetCode Progress Dashboard
 
@@ -39,24 +39,24 @@ Showcasing my Data Structures, Algorithms, and Competitive Programming solutions
 
 | Difficulty | Solved | Progress Bar |
 | :--- | :---: | :--- |
-| **Easy** | 103 | `[████░░░░░░]` (41.2%) |
-| **Medium** | 135 | `[█████░░░░░]` (54.0%) |
+| **Easy** | 103 | `[████░░░░░░]` (41.0%) |
+| **Medium** | 136 | `[█████░░░░░]` (54.2%) |
 | **Hard** | 12 | `[░░░░░░░░░░]` (4.8%) |
 
 ## Top LeetCode Topics
 
 | Topic | Solved |
 | :--- | :--- |
-| Array | 136 |
+| Array | 137 |
 | String | 60 |
-| Hash Table | 49 |
+| Hash Table | 50 |
 | Math | 37 |
 | Two Pointers | 35 |
 | Binary Search | 30 |
 | Dynamic Programming | 28 |
 | Sorting | 26 |
-| Tree | 23 |
-| Binary Tree | 23 |
+| Tree | 24 |
+| Binary Tree | 24 |
 
 
 ## Synced Solutions Index
@@ -494,6 +494,7 @@ Showcasing my Data Structures, Algorithms, and Competitive Programming solutions
 | LeetCode | [Subarrays with K Different Integers](https://leetcode.com/problems/subarrays-with-k-different-integers/) | cpp | [View Solution](./LeetCode/Hard/992-subarrays-with-k-different-integers) |
 | Codeforces | [Sublime Sequence](https://codeforces.com/contest/2148/problem/A) | C++23 (GCC 14-64, msys2) | [View Solution](./Codeforces/2148/A) |
 | Codeforces | [Subsequence Addition (Hard Version)](https://codeforces.com/contest/1807/problem/G2) | C++23 (GCC 14-64, msys2) | [View Solution](./Codeforces/1807/G2) |
+| Codeforces | [Subset Selecting](https://codeforces.com/contest/2277/problem/A) | C++23 (GCC 14-64, msys2) | [View Solution](./Codeforces/2277/A) |
 | LeetCode | [Subsets](https://leetcode.com/problems/subsets/) | cpp | [View Solution](./LeetCode/Medium/78-subsets) |
 | LeetCode | [Subsets II](https://leetcode.com/problems/subsets-ii/) | cpp | [View Solution](./LeetCode/Medium/90-subsets-ii) |
 | LeetCode | [Substrings of Size Three with Distinct Characters](https://leetcode.com/problems/substrings-of-size-three-with-distinct-characters/) | cpp | [View Solution](./LeetCode/Easy/1876-substrings-of-size-three-with-distinct-characters) |
