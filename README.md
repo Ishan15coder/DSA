@@ -4,7 +4,7 @@ Showcasing my Data Structures, Algorithms, and Competitive Programming solutions
 
 <p align="center">
   <img src="https://img.shields.io/badge/LeetCode-244_Solved-FFA116?style=for-the-badge&logo=leetcode" alt="LeetCode" />
-  <img src="https://img.shields.io/badge/Codeforces-260_Solved-1F8ACB?style=for-the-badge&logo=codeforces" alt="Codeforces" />
+  <img src="https://img.shields.io/badge/Codeforces-261_Solved-1F8ACB?style=for-the-badge&logo=codeforces" alt="Codeforces" />
   <img src="https://img.shields.io/badge/CSES-0_Solved-000000?style=for-the-badge&logo=code" alt="CSES" />
   <img src="https://img.shields.io/badge/GeeksforGeeks-0_Solved-2F8D46?style=for-the-badge&logo=geeksforgeeks" alt="GeeksforGeeks" />
 </p>
@@ -14,10 +14,10 @@ Showcasing my Data Structures, Algorithms, and Competitive Programming solutions
 | Platform | Solved Count | Solutions Tracked |
 | :--- | :---: | :--- |
 | **LeetCode** | 244 | [ `/LeetCode`](./LeetCode) |
-| **Codeforces** | 260 | [ `/Codeforces`](./Codeforces) |
+| **Codeforces** | 261 | [ `/Codeforces`](./Codeforces) |
 | **CSES Problemset** | 0 | [ `/CSES`](./CSES) |
 | **GeeksforGeeks** | 0 | [ `/GeeksForGeeks`](./GeeksForGeeks) |
-| **Total Solved** | **504** | [ `submission_history.json`](./submission_history.json) |
+| **Total Solved** | **505** | [ `submission_history.json`](./submission_history.json) |
 
 ## Codeforces Rating Breakdown
 
@@ -29,7 +29,7 @@ Showcasing my Data Structures, Algorithms, and Competitive Programming solutions
 | **1400 - 1500** | 3 |
 | **1600 - 1800** | 0 |
 | **1900+** | 0 |
-| **Unrated** | 44 |
+| **Unrated** | 45 |
 
 ## LeetCode Progress Dashboard
 
@@ -565,6 +565,7 @@ Showcasing my Data Structures, Algorithms, and Competitive Programming solutions
 | Codeforces | [Yarik and Array](https://codeforces.com/contest/1899/problem/C) | C++23 (GCC 14-64, msys2) | [View Solution](./Codeforces/1899/C) |
 | Codeforces | [Yaroslav and Permutations](https://codeforces.com/contest/296/problem/A) | C++23 (GCC 14-64, msys2) | [View Solution](./Codeforces/296/A) |
 | Codeforces | [Yet Another Array Problem](https://codeforces.com/contest/2167/problem/D) | C++23 (GCC 14-64, msys2) | [View Solution](./Codeforces/2167/D) |
+| Codeforces | [Yet Another Black Cell Problem](https://codeforces.com/contest/2272/problem/C) | C++23 (GCC 14-64, msys2) | [View Solution](./Codeforces/2272/C) |
 | Codeforces | [Young Physicist](https://codeforces.com/contest/69/problem/A) | C++20 (GCC 13-64) | [View Solution](./Codeforces/69/A) |
 | Codeforces | [Your Name](https://codeforces.com/contest/2167/problem/B) | C++23 (GCC 14-64, msys2) | [View Solution](./Codeforces/2167/B) |
 
