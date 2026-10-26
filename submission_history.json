@@ -1,6 +1,17 @@
 [
   {
     "difficulty": "Easy",
+    "id": "396060563",
+    "lang": "C++23 (GCC 14-64, msys2)",
+    "platform": "codeforces",
+    "rating": 1100,
+    "statusDisplay": "Accepted",
+    "timestamp": 1792989257000,
+    "title": "2D Traveling",
+    "titleSlug": "1869/B"
+  },
+  {
+    "difficulty": "Easy",
     "id": "395847618",
     "lang": "C++23 (GCC 14-64, msys2)",
     "platform": "codeforces",
@@ -5171,14 +5182,11 @@
     "titleSlug": "valid-anagram"
   },
   {
-    "title": "2D Traveling",
-    "titleSlug": "1869/B",
-    "timestamp": 1792989257000,
-    "statusDisplay": "Accepted",
-    "lang": "C++23 (GCC 14-64, msys2)",
-    "id": "396060563",
-    "platform": "codeforces",
-    "difficulty": "Easy",
-    "rating": 1100
+    "id": "2181978175",
+    "title": "Construct Binary Tree from Preorder and Inorder Traversal",
+    "titleSlug": "construct-binary-tree-from-preorder-and-inorder-traversal",
+    "timestamp": 1792996509000,
+    "lang": "cpp",
+    "statusDisplay": "Accepted"
   }
 ]
