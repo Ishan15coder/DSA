@@ -3,8 +3,8 @@
 Showcasing my Data Structures, Algorithms, and Competitive Programming solutions synced automatically by [L'Amigo](https://github.com/FTS18/l-amigo).
 
 <p align="center">
-  <img src="https://img.shields.io/badge/LeetCode-243_Solved-FFA116?style=for-the-badge&logo=leetcode" alt="LeetCode" />
-  <img src="https://img.shields.io/badge/Codeforces-258_Solved-1F8ACB?style=for-the-badge&logo=codeforces" alt="Codeforces" />
+  <img src="https://img.shields.io/badge/LeetCode-244_Solved-FFA116?style=for-the-badge&logo=leetcode" alt="LeetCode" />
+  <img src="https://img.shields.io/badge/Codeforces-259_Solved-1F8ACB?style=for-the-badge&logo=codeforces" alt="Codeforces" />
   <img src="https://img.shields.io/badge/CSES-0_Solved-000000?style=for-the-badge&logo=code" alt="CSES" />
   <img src="https://img.shields.io/badge/GeeksforGeeks-0_Solved-2F8D46?style=for-the-badge&logo=geeksforgeeks" alt="GeeksforGeeks" />
 </p>
@@ -13,11 +13,11 @@ Showcasing my Data Structures, Algorithms, and Competitive Programming solutions
 
 | Platform | Solved Count | Solutions Tracked |
 | :--- | :---: | :--- |
-| **LeetCode** | 243 | [ `/LeetCode`](./LeetCode) |
-| **Codeforces** | 258 | [ `/Codeforces`](./Codeforces) |
+| **LeetCode** | 244 | [ `/LeetCode`](./LeetCode) |
+| **Codeforces** | 259 | [ `/Codeforces`](./Codeforces) |
 | **CSES Problemset** | 0 | [ `/CSES`](./CSES) |
 | **GeeksforGeeks** | 0 | [ `/GeeksForGeeks`](./GeeksForGeeks) |
-| **Total Solved** | **501** | [ `submission_history.json`](./submission_history.json) |
+| **Total Solved** | **503** | [ `submission_history.json`](./submission_history.json) |
 
 ## Codeforces Rating Breakdown
 
@@ -29,7 +29,7 @@ Showcasing my Data Structures, Algorithms, and Competitive Programming solutions
 | **1400 - 1500** | 3 |
 | **1600 - 1800** | 0 |
 | **1900+** | 0 |
-| **Unrated** | 42 |
+| **Unrated** | 43 |
 
 ## LeetCode Progress Dashboard
 
@@ -39,24 +39,24 @@ Showcasing my Data Structures, Algorithms, and Competitive Programming solutions
 
 | Difficulty | Solved | Progress Bar |
 | :--- | :---: | :--- |
-| **Easy** | 103 | `[████░░░░░░]` (41.0%) |
-| **Medium** | 136 | `[█████░░░░░]` (54.2%) |
-| **Hard** | 12 | `[░░░░░░░░░░]` (4.8%) |
+| **Easy** | 103 | `[████░░░░░░]` (40.7%) |
+| **Medium** | 137 | `[█████░░░░░]` (54.2%) |
+| **Hard** | 13 | `[█░░░░░░░░░]` (5.1%) |
 
 ## Top LeetCode Topics
 
 | Topic | Solved |
 | :--- | :--- |
-| Array | 137 |
-| String | 60 |
-| Hash Table | 50 |
+| Array | 138 |
+| String | 61 |
+| Hash Table | 51 |
 | Math | 37 |
 | Two Pointers | 35 |
 | Binary Search | 30 |
 | Dynamic Programming | 28 |
+| Tree | 26 |
+| Binary Tree | 26 |
 | Sorting | 26 |
-| Tree | 24 |
-| Binary Tree | 24 |
 
 
 ## Synced Solutions Index
@@ -305,6 +305,7 @@ Showcasing my Data Structures, Algorithms, and Competitive Programming solutions
 | Codeforces | [Make It Zero](https://codeforces.com/contest/1869/problem/A) | C++23 (GCC 14-64, msys2) | [View Solution](./Codeforces/1869/A) |
 | LeetCode | [Max Consecutive Ones](https://leetcode.com/problems/max-consecutive-ones/) | cpp | [View Solution](./LeetCode/Easy/485-max-consecutive-ones) |
 | LeetCode | [Max Consecutive Ones III](https://leetcode.com/problems/max-consecutive-ones-iii/) | cpp | [View Solution](./LeetCode/Medium/1004-max-consecutive-ones-iii) |
+| Codeforces | [Maximize One MEX](https://codeforces.com/contest/2272/problem/A) | C++23 (GCC 14-64, msys2) | [View Solution](./Codeforces/2272/A) |
 | LeetCode | [Maximum 69 Number](https://leetcode.com/problems/maximum-69-number/) | cpp | [View Solution](./LeetCode/Easy/1323-maximum-69-number) |
 | LeetCode | [Maximum Average Subarray I](https://leetcode.com/problems/maximum-average-subarray-i/) | cpp | [View Solution](./LeetCode/Easy/643-maximum-average-subarray-i) |
 | LeetCode | [Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/) | cpp | [View Solution](./LeetCode/Easy/104-maximum-depth-of-binary-tree) |
@@ -456,6 +457,7 @@ Showcasing my Data Structures, Algorithms, and Competitive Programming solutions
 | Codeforces | [Sending Messages](https://codeforces.com/contest/1921/problem/C) | C++23 (GCC 14-64, msys2) | [View Solution](./Codeforces/1921/C) |
 | Codeforces | [Sequence Decreasing](https://codeforces.com/contest/2277/problem/B) | C++23 (GCC 14-64, msys2) | [View Solution](./Codeforces/2277/B) |
 | Codeforces | [Sequence Game](https://codeforces.com/contest/1862/problem/B) | C++20 (GCC 13-64) | [View Solution](./Codeforces/1862/B) |
+| LeetCode | [Serialize and Deserialize Binary Tree](https://leetcode.com/problems/serialize-and-deserialize-binary-tree/) | cpp | [View Solution](./LeetCode/Hard/297-serialize-and-deserialize-binary-tree) |
 | Codeforces | [Serval and Mocha's Array](https://codeforces.com/contest/1789/problem/A) | C++20 (GCC 13-64) | [View Solution](./Codeforces/1789/A) |
 | LeetCode | [Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes/) | cpp | [View Solution](./LeetCode/Medium/73-set-matrix-zeroes) |
 | Codeforces | [Shell Game](https://codeforces.com/contest/777/problem/A) | C++23 (GCC 14-64, msys2) | [View Solution](./Codeforces/777/A) |
