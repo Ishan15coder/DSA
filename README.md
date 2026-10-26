@@ -4,7 +4,7 @@ Showcasing my Data Structures, Algorithms, and Competitive Programming solutions
 
 <p align="center">
   <img src="https://img.shields.io/badge/LeetCode-243_Solved-FFA116?style=for-the-badge&logo=leetcode" alt="LeetCode" />
-  <img src="https://img.shields.io/badge/Codeforces-257_Solved-1F8ACB?style=for-the-badge&logo=codeforces" alt="Codeforces" />
+  <img src="https://img.shields.io/badge/Codeforces-258_Solved-1F8ACB?style=for-the-badge&logo=codeforces" alt="Codeforces" />
   <img src="https://img.shields.io/badge/CSES-0_Solved-000000?style=for-the-badge&logo=code" alt="CSES" />
   <img src="https://img.shields.io/badge/GeeksforGeeks-0_Solved-2F8D46?style=for-the-badge&logo=geeksforgeeks" alt="GeeksforGeeks" />
 </p>
@@ -14,17 +14,17 @@ Showcasing my Data Structures, Algorithms, and Competitive Programming solutions
 | Platform | Solved Count | Solutions Tracked |
 | :--- | :---: | :--- |
 | **LeetCode** | 243 | [ `/LeetCode`](./LeetCode) |
-| **Codeforces** | 257 | [ `/Codeforces`](./Codeforces) |
+| **Codeforces** | 258 | [ `/Codeforces`](./Codeforces) |
 | **CSES Problemset** | 0 | [ `/CSES`](./CSES) |
 | **GeeksforGeeks** | 0 | [ `/GeeksForGeeks`](./GeeksForGeeks) |
-| **Total Solved** | **500** | [ `submission_history.json`](./submission_history.json) |
+| **Total Solved** | **501** | [ `submission_history.json`](./submission_history.json) |
 
 ## Codeforces Rating Breakdown
 
 | Rating Bracket | Problems Solved |
 | :--- | :---: |
 | **<= 900** | 125 |
-| **1000 - 1100** | 67 |
+| **1000 - 1100** | 68 |
 | **1200 - 1300** | 20 |
 | **1400 - 1500** | 3 |
 | **1600 - 1800** | 0 |
@@ -66,6 +66,7 @@ Showcasing my Data Structures, Algorithms, and Competitive Programming solutions
 | Codeforces | [01 Game](https://codeforces.com/contest/1373/problem/B) | C++23 (GCC 14-64, msys2) | [View Solution](./Codeforces/1373/B) |
 | LeetCode | [01 Matrix](https://leetcode.com/problems/01-matrix/) | cpp | [View Solution](./LeetCode/Medium/542-01-matrix) |
 | Codeforces | [250 Thousand Tons of TNT](https://codeforces.com/contest/1899/problem/B) | C++23 (GCC 14-64, msys2) | [View Solution](./Codeforces/1899/B) |
+| Codeforces | [2D Traveling](https://codeforces.com/contest/1869/problem/B) | C++23 (GCC 14-64, msys2) | [View Solution](./Codeforces/1869/B) |
 | Codeforces | [3-palindrome](https://codeforces.com/contest/805/problem/B) | C++23 (GCC 14-64, msys2) | [View Solution](./Codeforces/805/B) |
 | LeetCode | [3Sum](https://leetcode.com/problems/3sum/) | cpp | [View Solution](./LeetCode/Medium/15-3sum) |
 | LeetCode | [4Sum](https://leetcode.com/problems/4sum/) | cpp | [View Solution](./LeetCode/Medium/18-4sum) |
