@@ -1,6 +1,17 @@
 [
   {
     "difficulty": "Easy",
+    "id": "396138551",
+    "lang": "C++23 (GCC 14-64, msys2)",
+    "platform": "codeforces",
+    "rating": 0,
+    "statusDisplay": "Accepted",
+    "timestamp": 1793027491000,
+    "title": "Frogs Jump",
+    "titleSlug": "2272/B"
+  },
+  {
+    "difficulty": "Easy",
     "id": "396128710",
     "lang": "C++23 (GCC 14-64, msys2)",
     "platform": "codeforces",
@@ -5209,14 +5220,14 @@
     "titleSlug": "valid-anagram"
   },
   {
-    "title": "Frogs Jump",
-    "titleSlug": "2272/B",
-    "timestamp": 1793027491000,
+    "title": "Yet Another Black Cell Problem",
+    "titleSlug": "2272/C",
+    "timestamp": 1793031441000,
     "statusDisplay": "Accepted",
     "lang": "C++23 (GCC 14-64, msys2)",
-    "id": "396138551",
+    "id": "396167393",
     "platform": "codeforces",
-    "difficulty": "Easy",
+    "difficulty": "Medium",
     "rating": 0
   }
 ]
