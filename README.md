@@ -4,7 +4,7 @@ Showcasing my Data Structures, Algorithms, and Competitive Programming solutions
 
 <p align="center">
   <img src="https://img.shields.io/badge/LeetCode-244_Solved-FFA116?style=for-the-badge&logo=leetcode" alt="LeetCode" />
-  <img src="https://img.shields.io/badge/Codeforces-259_Solved-1F8ACB?style=for-the-badge&logo=codeforces" alt="Codeforces" />
+  <img src="https://img.shields.io/badge/Codeforces-260_Solved-1F8ACB?style=for-the-badge&logo=codeforces" alt="Codeforces" />
   <img src="https://img.shields.io/badge/CSES-0_Solved-000000?style=for-the-badge&logo=code" alt="CSES" />
   <img src="https://img.shields.io/badge/GeeksforGeeks-0_Solved-2F8D46?style=for-the-badge&logo=geeksforgeeks" alt="GeeksforGeeks" />
 </p>
@@ -14,10 +14,10 @@ Showcasing my Data Structures, Algorithms, and Competitive Programming solutions
 | Platform | Solved Count | Solutions Tracked |
 | :--- | :---: | :--- |
 | **LeetCode** | 244 | [ `/LeetCode`](./LeetCode) |
-| **Codeforces** | 259 | [ `/Codeforces`](./Codeforces) |
+| **Codeforces** | 260 | [ `/Codeforces`](./Codeforces) |
 | **CSES Problemset** | 0 | [ `/CSES`](./CSES) |
 | **GeeksforGeeks** | 0 | [ `/GeeksForGeeks`](./GeeksForGeeks) |
-| **Total Solved** | **503** | [ `submission_history.json`](./submission_history.json) |
+| **Total Solved** | **504** | [ `submission_history.json`](./submission_history.json) |
 
 ## Codeforces Rating Breakdown
 
@@ -29,7 +29,7 @@ Showcasing my Data Structures, Algorithms, and Competitive Programming solutions
 | **1400 - 1500** | 3 |
 | **1600 - 1800** | 0 |
 | **1900+** | 0 |
-| **Unrated** | 43 |
+| **Unrated** | 44 |
 
 ## LeetCode Progress Dashboard
 
@@ -225,6 +225,7 @@ Showcasing my Data Structures, Algorithms, and Competitive Programming solutions
 | Codeforces | [Fox And Snake](https://codeforces.com/contest/510/problem/A) | C++20 (GCC 13-64) | [View Solution](./Codeforces/510/A) |
 | Codeforces | [Friends and the Restaurant](https://codeforces.com/contest/1729/problem/D) | C++23 (GCC 14-64, msys2) | [View Solution](./Codeforces/1729/D) |
 | LeetCode | [Frog Jump](https://leetcode.com/problems/frog-jump/) | cpp | [View Solution](./LeetCode/Hard/403-frog-jump) |
+| Codeforces | [Frogs Jump](https://codeforces.com/contest/2272/problem/B) | C++23 (GCC 14-64, msys2) | [View Solution](./Codeforces/2272/B) |
 | LeetCode | [Fruit Into Baskets](https://leetcode.com/problems/fruit-into-baskets/) | cpp | [View Solution](./LeetCode/Medium/904-fruit-into-baskets) |
 | Codeforces | [Game with Integers](https://codeforces.com/contest/1899/problem/A) | C++20 (GCC 13-64) | [View Solution](./Codeforces/1899/A) |
 | Codeforces | [GCD Partition](https://codeforces.com/contest/1780/problem/B) | C++23 (GCC 14-64, msys2) | [View Solution](./Codeforces/1780/B) |
