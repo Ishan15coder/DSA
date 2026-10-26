@@ -1,5 +1,24 @@
 [
   {
+    "difficulty": "Easy",
+    "id": "396128710",
+    "lang": "C++23 (GCC 14-64, msys2)",
+    "platform": "codeforces",
+    "rating": 0,
+    "statusDisplay": "Accepted",
+    "timestamp": 1793026656000,
+    "title": "Maximize One MEX",
+    "titleSlug": "2272/A"
+  },
+  {
+    "id": "2182145611",
+    "lang": "cpp",
+    "statusDisplay": "Accepted",
+    "timestamp": 1793012330000,
+    "title": "Serialize and Deserialize Binary Tree",
+    "titleSlug": "serialize-and-deserialize-binary-tree"
+  },
+  {
     "id": "2181978175",
     "lang": "cpp",
     "statusDisplay": "Accepted",
@@ -5190,20 +5209,12 @@
     "titleSlug": "valid-anagram"
   },
   {
-    "id": "2182145611",
-    "title": "Serialize and Deserialize Binary Tree",
-    "titleSlug": "serialize-and-deserialize-binary-tree",
-    "timestamp": 1793012330000,
-    "lang": "cpp",
-    "statusDisplay": "Accepted"
-  },
-  {
-    "title": "Maximize One MEX",
-    "titleSlug": "2272/A",
-    "timestamp": 1793026656000,
+    "title": "Frogs Jump",
+    "titleSlug": "2272/B",
+    "timestamp": 1793027491000,
     "statusDisplay": "Accepted",
     "lang": "C++23 (GCC 14-64, msys2)",
-    "id": "396128710",
+    "id": "396138551",
     "platform": "codeforces",
     "difficulty": "Easy",
     "rating": 0
