@@ -4,6 +4,12 @@ A complete history of all accepted submissions synced by L'Amigo.
 
 | Date | Platform | Problem | Language |
 | :--- | :--- | :--- | :--- |
+| 2026-10-27 | Leetcode | Minimum Depth of Binary Tree | cpp |
+| 2026-10-27 | Leetcode | Binary Tree Level Order Traversal II | cpp |
+| 2026-10-27 | Leetcode | Populating Next Right Pointers in Each Node | cpp |
+| 2026-10-27 | Leetcode | Check Completeness of a Binary Tree | cpp |
+| 2026-10-27 | Leetcode | Binary Tree Preorder Traversal | cpp |
+| 2026-10-27 | Leetcode | Binary Tree Inorder Traversal | cpp |
 | 2026-10-26 | Codeforces | Yet Another Black Cell Problem | C++23 (GCC 14-64, msys2) |
 | 2026-10-26 | Codeforces | Frogs Jump | C++23 (GCC 14-64, msys2) |
 | 2026-10-26 | Codeforces | Maximize One MEX | C++23 (GCC 14-64, msys2) |
