@@ -3,7 +3,7 @@
 Showcasing my Data Structures, Algorithms, and Competitive Programming solutions synced automatically by [L'Amigo](https://github.com/FTS18/l-amigo).
 
 <p align="center">
-  <img src="https://img.shields.io/badge/LeetCode-244_Solved-FFA116?style=for-the-badge&logo=leetcode" alt="LeetCode" />
+  <img src="https://img.shields.io/badge/LeetCode-248_Solved-FFA116?style=for-the-badge&logo=leetcode" alt="LeetCode" />
   <img src="https://img.shields.io/badge/Codeforces-261_Solved-1F8ACB?style=for-the-badge&logo=codeforces" alt="Codeforces" />
   <img src="https://img.shields.io/badge/CSES-0_Solved-000000?style=for-the-badge&logo=code" alt="CSES" />
   <img src="https://img.shields.io/badge/GeeksforGeeks-0_Solved-2F8D46?style=for-the-badge&logo=geeksforgeeks" alt="GeeksforGeeks" />
@@ -13,11 +13,11 @@ Showcasing my Data Structures, Algorithms, and Competitive Programming solutions
 
 | Platform | Solved Count | Solutions Tracked |
 | :--- | :---: | :--- |
-| **LeetCode** | 244 | [ `/LeetCode`](./LeetCode) |
+| **LeetCode** | 248 | [ `/LeetCode`](./LeetCode) |
 | **Codeforces** | 261 | [ `/Codeforces`](./Codeforces) |
 | **CSES Problemset** | 0 | [ `/CSES`](./CSES) |
 | **GeeksforGeeks** | 0 | [ `/GeeksForGeeks`](./GeeksForGeeks) |
-| **Total Solved** | **505** | [ `submission_history.json`](./submission_history.json) |
+| **Total Solved** | **509** | [ `submission_history.json`](./submission_history.json) |
 
 ## Codeforces Rating Breakdown
 
@@ -39,8 +39,8 @@ Showcasing my Data Structures, Algorithms, and Competitive Programming solutions
 
 | Difficulty | Solved | Progress Bar |
 | :--- | :---: | :--- |
-| **Easy** | 103 | `[████░░░░░░]` (40.7%) |
-| **Medium** | 137 | `[█████░░░░░]` (54.2%) |
+| **Easy** | 104 | `[████░░░░░░]` (40.5%) |
+| **Medium** | 140 | `[█████░░░░░]` (54.5%) |
 | **Hard** | 13 | `[█░░░░░░░░░]` (5.1%) |
 
 ## Top LeetCode Topics
@@ -52,10 +52,10 @@ Showcasing my Data Structures, Algorithms, and Competitive Programming solutions
 | Hash Table | 51 |
 | Math | 37 |
 | Two Pointers | 35 |
+| Tree | 30 |
+| Binary Tree | 30 |
 | Binary Search | 30 |
 | Dynamic Programming | 28 |
-| Tree | 26 |
-| Binary Tree | 26 |
 | Sorting | 26 |
 
 
@@ -103,6 +103,7 @@ Showcasing my Data Structures, Algorithms, and Competitive Programming solutions
 | LeetCode | [Binary Subarrays With Sum](https://leetcode.com/problems/binary-subarrays-with-sum/) | cpp | [View Solution](./LeetCode/Medium/930-binary-subarrays-with-sum) |
 | LeetCode | [Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/) | cpp | [View Solution](./LeetCode/Easy/94-binary-tree-inorder-traversal) |
 | LeetCode | [Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/) | cpp | [View Solution](./LeetCode/Medium/102-binary-tree-level-order-traversal) |
+| LeetCode | [Binary Tree Level Order Traversal II](https://leetcode.com/problems/binary-tree-level-order-traversal-ii/) | cpp | [View Solution](./LeetCode/Unknown/binary-tree-level-order-traversal-ii) |
 | LeetCode | [Binary Tree Maximum Path Sum](https://leetcode.com/problems/binary-tree-maximum-path-sum/) | cpp | [View Solution](./LeetCode/Hard/124-binary-tree-maximum-path-sum) |
 | LeetCode | [Binary Tree Postorder Traversal](https://leetcode.com/problems/binary-tree-postorder-traversal/) | cpp | [View Solution](./LeetCode/Easy/145-binary-tree-postorder-traversal) |
 | LeetCode | [Binary Tree Preorder Traversal](https://leetcode.com/problems/binary-tree-preorder-traversal/) | cpp | [View Solution](./LeetCode/Easy/144-binary-tree-preorder-traversal) |
@@ -121,6 +122,7 @@ Showcasing my Data Structures, Algorithms, and Competitive Programming solutions
 | LeetCode | [Capacity To Ship Packages Within D Days](https://leetcode.com/problems/capacity-to-ship-packages-within-d-days/) | cpp | [View Solution](./LeetCode/Medium/1011-capacity-to-ship-packages-within-d-days) |
 | Codeforces | [Cellular Network](https://codeforces.com/contest/702/problem/C) | C++23 (GCC 14-64, msys2) | [View Solution](./Codeforces/702/C) |
 | Codeforces | [Cheap Travel](https://codeforces.com/contest/466/problem/A) | C++23 (GCC 14-64, msys2) | [View Solution](./Codeforces/466/A) |
+| LeetCode | [Check Completeness of a Binary Tree](https://leetcode.com/problems/check-completeness-of-a-binary-tree/) | cpp | [View Solution](./LeetCode/Medium/958-check-completeness-of-a-binary-tree) |
 | LeetCode | [Check If a String Contains All Binary Codes of Size K](https://leetcode.com/problems/check-if-a-string-contains-all-binary-codes-of-size-k/) | cpp | [View Solution](./LeetCode/Medium/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | LeetCode | [Check if Array Is Sorted and Rotated](https://leetcode.com/problems/check-if-array-is-sorted-and-rotated/) | cpp | [View Solution](./LeetCode/Easy/1752-check-if-array-is-sorted-and-rotated) |
 | Codeforces | [Chemistry](https://codeforces.com/contest/1883/problem/B) | C++23 (GCC 14-64, msys2) | [View Solution](./Codeforces/1883/B) |
@@ -335,6 +337,7 @@ Showcasing my Data Structures, Algorithms, and Competitive Programming solutions
 | LeetCode | [Min Stack](https://leetcode.com/problems/min-stack/) | cpp | [View Solution](./LeetCode/Medium/155-min-stack) |
 | LeetCode | [Minimum Absolute Difference Between Two Values](https://leetcode.com/problems/minimum-absolute-difference-between-two-values/) | cpp | [View Solution](./LeetCode/Easy/3880-minimum-absolute-difference-between-two-values) |
 | LeetCode | [Minimum Bit Flips to Convert Number](https://leetcode.com/problems/minimum-bit-flips-to-convert-number/) | cpp | [View Solution](./LeetCode/Easy/2220-minimum-bit-flips-to-convert-number) |
+| LeetCode | [Minimum Depth of Binary Tree](https://leetcode.com/problems/minimum-depth-of-binary-tree/) | cpp | [View Solution](./LeetCode/Unknown/minimum-depth-of-binary-tree) |
 | LeetCode | [Minimum Insertions to Balance a Parentheses String](https://leetcode.com/problems/minimum-insertions-to-balance-a-parentheses-string/) | cpp | [View Solution](./LeetCode/Medium/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | Codeforces | [Minimum LCM](https://codeforces.com/contest/1765/problem/M) | C++23 (GCC 14-64, msys2) | [View Solution](./Codeforces/1765/M) |
 | LeetCode | [Minimum Number of Days to Make m Bouquets](https://leetcode.com/problems/minimum-number-of-days-to-make-m-bouquets/) | cpp | [View Solution](./LeetCode/Medium/1482-minimum-number-of-days-to-make-m-bouquets) |
@@ -397,6 +400,7 @@ Showcasing my Data Structures, Algorithms, and Competitive Programming solutions
 | Codeforces | [Petr and Book](https://codeforces.com/contest/139/problem/A) | C++20 (GCC 13-64) | [View Solution](./Codeforces/139/A) |
 | Codeforces | [Playing in a Casino](https://codeforces.com/contest/1808/problem/B) | C++23 (GCC 14-64, msys2) | [View Solution](./Codeforces/1808/B) |
 | Codeforces | [Polycarp Recovers the Permutation](https://codeforces.com/contest/1611/problem/C) | C++23 (GCC 14-64, msys2) | [View Solution](./Codeforces/1611/C) |
+| LeetCode | [Populating Next Right Pointers in Each Node](https://leetcode.com/problems/populating-next-right-pointers-in-each-node/) | cpp | [View Solution](./LeetCode/Medium/116-populating-next-right-pointers-in-each-node) |
 | LeetCode | [Pow(x, n)](https://leetcode.com/problems/powx-n/) | cpp | [View Solution](./LeetCode/Medium/50-powx-n) |
 | LeetCode | [Power of Four](https://leetcode.com/problems/power-of-four/) | cpp | [View Solution](./LeetCode/Easy/342-power-of-four) |
 | LeetCode | [Power of Two](https://leetcode.com/problems/power-of-two/) | cpp | [View Solution](./LeetCode/Easy/231-power-of-two) |
