@@ -120,8 +120,14 @@
       "accounts": [
         {
           "handle": "kyro77",
-          "lastFetched": 1787553986867,
+          "lastFetched": 1793084645939,
           "platform": "leetcode",
+          "status": "active"
+        },
+        {
+          "handle": "Free_Guy1",
+          "lastFetched": 1793084645940,
+          "platform": "codeforces",
           "status": "active"
         }
       ],
@@ -129,7 +135,7 @@
       "aliases": [],
       "displayName": "J",
       "id": "4dd6653d-608e-4c64-a5ab-6cd9ad2f3dee",
-      "updatedAt": 1787553986867
+      "updatedAt": 1793084645940
     },
     {
       "accounts": [
