@@ -3,7 +3,7 @@
 Showcasing my Data Structures, Algorithms, and Competitive Programming solutions synced automatically by [L'Amigo](https://github.com/FTS18/l-amigo).
 
 <p align="center">
-  <img src="https://img.shields.io/badge/LeetCode-248_Solved-FFA116?style=for-the-badge&logo=leetcode" alt="LeetCode" />
+  <img src="https://img.shields.io/badge/LeetCode-249_Solved-FFA116?style=for-the-badge&logo=leetcode" alt="LeetCode" />
   <img src="https://img.shields.io/badge/Codeforces-261_Solved-1F8ACB?style=for-the-badge&logo=codeforces" alt="Codeforces" />
   <img src="https://img.shields.io/badge/CSES-0_Solved-000000?style=for-the-badge&logo=code" alt="CSES" />
   <img src="https://img.shields.io/badge/GeeksforGeeks-0_Solved-2F8D46?style=for-the-badge&logo=geeksforgeeks" alt="GeeksforGeeks" />
@@ -13,11 +13,11 @@ Showcasing my Data Structures, Algorithms, and Competitive Programming solutions
 
 | Platform | Solved Count | Solutions Tracked |
 | :--- | :---: | :--- |
-| **LeetCode** | 248 | [ `/LeetCode`](./LeetCode) |
+| **LeetCode** | 249 | [ `/LeetCode`](./LeetCode) |
 | **Codeforces** | 261 | [ `/Codeforces`](./Codeforces) |
 | **CSES Problemset** | 0 | [ `/CSES`](./CSES) |
 | **GeeksforGeeks** | 0 | [ `/GeeksForGeeks`](./GeeksForGeeks) |
-| **Total Solved** | **509** | [ `submission_history.json`](./submission_history.json) |
+| **Total Solved** | **510** | [ `submission_history.json`](./submission_history.json) |
 
 ## Codeforces Rating Breakdown
 
@@ -39,9 +39,9 @@ Showcasing my Data Structures, Algorithms, and Competitive Programming solutions
 
 | Difficulty | Solved | Progress Bar |
 | :--- | :---: | :--- |
-| **Easy** | 104 | `[████░░░░░░]` (40.5%) |
-| **Medium** | 140 | `[█████░░░░░]` (54.5%) |
-| **Hard** | 13 | `[█░░░░░░░░░]` (5.1%) |
+| **Easy** | 104 | `[████░░░░░░]` (40.3%) |
+| **Medium** | 141 | `[█████░░░░░]` (54.7%) |
+| **Hard** | 13 | `[█░░░░░░░░░]` (5.0%) |
 
 ## Top LeetCode Topics
 
@@ -52,11 +52,11 @@ Showcasing my Data Structures, Algorithms, and Competitive Programming solutions
 | Hash Table | 51 |
 | Math | 37 |
 | Two Pointers | 35 |
-| Tree | 30 |
-| Binary Tree | 30 |
+| Tree | 31 |
+| Binary Tree | 31 |
 | Binary Search | 30 |
 | Dynamic Programming | 28 |
-| Sorting | 26 |
+| Depth-First Search | 26 |
 
 
 ## Synced Solutions Index
@@ -273,6 +273,7 @@ Showcasing my Data Structures, Algorithms, and Competitive Programming solutions
 | LeetCode | [Koko Eating Bananas](https://leetcode.com/problems/koko-eating-bananas/) | cpp | [View Solution](./LeetCode/Medium/875-koko-eating-bananas) |
 | Codeforces | [Koshary](https://codeforces.com/contest/2227/problem/A) | C++23 (GCC 14-64, msys2) | [View Solution](./Codeforces/2227/A) |
 | LeetCode | [Kth Missing Positive Number](https://leetcode.com/problems/kth-missing-positive-number/) | cpp | [View Solution](./LeetCode/Easy/1539-kth-missing-positive-number) |
+| LeetCode | [Kth Smallest Element in a BST](https://leetcode.com/problems/kth-smallest-element-in-a-bst/) | cpp | [View Solution](./LeetCode/Medium/230-kth-smallest-element-in-a-bst) |
 | LeetCode | [Kth Smallest Element in a Sorted Matrix](https://leetcode.com/problems/kth-smallest-element-in-a-sorted-matrix/) | cpp | [View Solution](./LeetCode/Medium/378-kth-smallest-element-in-a-sorted-matrix) |
 | LeetCode | [Largest Odd Number in String](https://leetcode.com/problems/largest-odd-number-in-string/) | cpp | [View Solution](./LeetCode/Easy/1903-largest-odd-number-in-string) |
 | LeetCode | [Largest Perimeter Triangle](https://leetcode.com/problems/largest-perimeter-triangle/) | cpp | [View Solution](./LeetCode/Easy/976-largest-perimeter-triangle) |
