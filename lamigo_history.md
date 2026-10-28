@@ -4,6 +4,7 @@ A complete history of all accepted submissions synced by L'Amigo.
 
 | Date | Platform | Problem | Language |
 | :--- | :--- | :--- | :--- |
+| 2026-10-28 | Leetcode | Serialize and Deserialize Binary Tree | cpp |
 | 2026-10-27 | Leetcode | Minimum Depth of Binary Tree | cpp |
 | 2026-10-27 | Leetcode | Binary Tree Level Order Traversal II | cpp |
 | 2026-10-27 | Leetcode | Populating Next Right Pointers in Each Node | cpp |
