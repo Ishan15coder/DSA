@@ -1,5 +1,53 @@
 [
   {
+    "id": "2182889970",
+    "lang": "cpp",
+    "statusDisplay": "Accepted",
+    "timestamp": 1793085924000,
+    "title": "Minimum Depth of Binary Tree",
+    "titleSlug": "minimum-depth-of-binary-tree"
+  },
+  {
+    "id": "2182872197",
+    "lang": "cpp",
+    "statusDisplay": "Accepted",
+    "timestamp": 1793084241000,
+    "title": "Binary Tree Level Order Traversal II",
+    "titleSlug": "binary-tree-level-order-traversal-ii"
+  },
+  {
+    "id": "2182864586",
+    "lang": "cpp",
+    "statusDisplay": "Accepted",
+    "timestamp": 1793083606000,
+    "title": "Populating Next Right Pointers in Each Node",
+    "titleSlug": "populating-next-right-pointers-in-each-node"
+  },
+  {
+    "id": "2182857952",
+    "lang": "cpp",
+    "statusDisplay": "Accepted",
+    "timestamp": 1793083079000,
+    "title": "Check Completeness of a Binary Tree",
+    "titleSlug": "check-completeness-of-a-binary-tree"
+  },
+  {
+    "id": "2182789385",
+    "lang": "cpp",
+    "statusDisplay": "Accepted",
+    "timestamp": 1793077510000,
+    "title": "Binary Tree Preorder Traversal",
+    "titleSlug": "binary-tree-preorder-traversal"
+  },
+  {
+    "id": "2182784008",
+    "lang": "cpp",
+    "statusDisplay": "Accepted",
+    "timestamp": 1793077046000,
+    "title": "Binary Tree Inorder Traversal",
+    "titleSlug": "binary-tree-inorder-traversal"
+  },
+  {
     "difficulty": "Medium",
     "id": "396167393",
     "lang": "C++23 (GCC 14-64, msys2)",
@@ -5231,50 +5279,10 @@
     "titleSlug": "valid-anagram"
   },
   {
-    "id": "2182889970",
-    "title": "Minimum Depth of Binary Tree",
-    "titleSlug": "minimum-depth-of-binary-tree",
-    "timestamp": 1793085924000,
-    "lang": "cpp",
-    "statusDisplay": "Accepted"
-  },
-  {
-    "id": "2182872197",
-    "title": "Binary Tree Level Order Traversal II",
-    "titleSlug": "binary-tree-level-order-traversal-ii",
-    "timestamp": 1793084241000,
-    "lang": "cpp",
-    "statusDisplay": "Accepted"
-  },
-  {
-    "id": "2182864586",
-    "title": "Populating Next Right Pointers in Each Node",
-    "titleSlug": "populating-next-right-pointers-in-each-node",
-    "timestamp": 1793083606000,
-    "lang": "cpp",
-    "statusDisplay": "Accepted"
-  },
-  {
-    "id": "2182857952",
-    "title": "Check Completeness of a Binary Tree",
-    "titleSlug": "check-completeness-of-a-binary-tree",
-    "timestamp": 1793083079000,
-    "lang": "cpp",
-    "statusDisplay": "Accepted"
-  },
-  {
-    "id": "2182789385",
-    "title": "Binary Tree Preorder Traversal",
-    "titleSlug": "binary-tree-preorder-traversal",
-    "timestamp": 1793077510000,
-    "lang": "cpp",
-    "statusDisplay": "Accepted"
-  },
-  {
-    "id": "2182784008",
-    "title": "Binary Tree Inorder Traversal",
-    "titleSlug": "binary-tree-inorder-traversal",
-    "timestamp": 1793077046000,
+    "id": "2183595338",
+    "title": "Serialize and Deserialize Binary Tree",
+    "titleSlug": "serialize-and-deserialize-binary-tree",
+    "timestamp": 1793161691000,
     "lang": "cpp",
     "statusDisplay": "Accepted"
   }
