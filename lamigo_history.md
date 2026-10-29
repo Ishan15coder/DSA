@@ -4,6 +4,7 @@ A complete history of all accepted submissions synced by L'Amigo.
 
 | Date | Platform | Problem | Language |
 | :--- | :--- | :--- | :--- |
+| 2026-10-29 | Leetcode | Delete Node in a BST | cpp |
 | 2026-10-29 | Leetcode | Validate Binary Search Tree | cpp |
 | 2026-10-28 | Leetcode | Kth Smallest Element in a BST | cpp |
 | 2026-10-28 | Leetcode | Insert into a Binary Search Tree | cpp |
