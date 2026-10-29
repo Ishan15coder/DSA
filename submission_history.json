@@ -1,5 +1,13 @@
 [
   {
+    "id": "2184411980",
+    "lang": "cpp",
+    "statusDisplay": "Accepted",
+    "timestamp": 1793247848000,
+    "title": "Validate Binary Search Tree",
+    "titleSlug": "validate-binary-search-tree"
+  },
+  {
     "id": "2184085971",
     "lang": "cpp",
     "statusDisplay": "Accepted",
@@ -5303,10 +5311,10 @@
     "titleSlug": "valid-anagram"
   },
   {
-    "id": "2184411980",
-    "title": "Validate Binary Search Tree",
-    "titleSlug": "validate-binary-search-tree",
-    "timestamp": 1793247848000,
+    "id": "2184525912",
+    "title": "Delete Node in a BST",
+    "titleSlug": "delete-node-in-a-bst",
+    "timestamp": 1793258457000,
     "lang": "cpp",
     "statusDisplay": "Accepted"
   }
