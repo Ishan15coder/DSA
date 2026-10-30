@@ -3,7 +3,7 @@
 Showcasing my Data Structures, Algorithms, and Competitive Programming solutions synced automatically by [L'Amigo](https://github.com/FTS18/l-amigo).
 
 <p align="center">
-  <img src="https://img.shields.io/badge/LeetCode-249_Solved-FFA116?style=for-the-badge&logo=leetcode" alt="LeetCode" />
+  <img src="https://img.shields.io/badge/LeetCode-250_Solved-FFA116?style=for-the-badge&logo=leetcode" alt="LeetCode" />
   <img src="https://img.shields.io/badge/Codeforces-261_Solved-1F8ACB?style=for-the-badge&logo=codeforces" alt="Codeforces" />
   <img src="https://img.shields.io/badge/CSES-0_Solved-000000?style=for-the-badge&logo=code" alt="CSES" />
   <img src="https://img.shields.io/badge/GeeksforGeeks-0_Solved-2F8D46?style=for-the-badge&logo=geeksforgeeks" alt="GeeksforGeeks" />
@@ -13,11 +13,11 @@ Showcasing my Data Structures, Algorithms, and Competitive Programming solutions
 
 | Platform | Solved Count | Solutions Tracked |
 | :--- | :---: | :--- |
-| **LeetCode** | 249 | [ `/LeetCode`](./LeetCode) |
+| **LeetCode** | 250 | [ `/LeetCode`](./LeetCode) |
 | **Codeforces** | 261 | [ `/Codeforces`](./Codeforces) |
 | **CSES Problemset** | 0 | [ `/CSES`](./CSES) |
 | **GeeksforGeeks** | 0 | [ `/GeeksForGeeks`](./GeeksForGeeks) |
-| **Total Solved** | **510** | [ `submission_history.json`](./submission_history.json) |
+| **Total Solved** | **511** | [ `submission_history.json`](./submission_history.json) |
 
 ## Codeforces Rating Breakdown
 
@@ -39,21 +39,21 @@ Showcasing my Data Structures, Algorithms, and Competitive Programming solutions
 
 | Difficulty | Solved | Progress Bar |
 | :--- | :---: | :--- |
-| **Easy** | 104 | `[████░░░░░░]` (40.3%) |
-| **Medium** | 141 | `[█████░░░░░]` (54.7%) |
+| **Easy** | 104 | `[████░░░░░░]` (40.2%) |
+| **Medium** | 142 | `[█████░░░░░]` (54.8%) |
 | **Hard** | 13 | `[█░░░░░░░░░]` (5.0%) |
 
 ## Top LeetCode Topics
 
 | Topic | Solved |
 | :--- | :--- |
-| Array | 138 |
+| Array | 139 |
 | String | 61 |
 | Hash Table | 51 |
 | Math | 37 |
 | Two Pointers | 35 |
-| Tree | 31 |
-| Binary Tree | 31 |
+| Tree | 32 |
+| Binary Tree | 32 |
 | Binary Search | 30 |
 | Dynamic Programming | 28 |
 | Depth-First Search | 26 |
@@ -138,6 +138,7 @@ Showcasing my Data Structures, Algorithms, and Competitive Programming solutions
 | Codeforces | [Comparison String](https://codeforces.com/contest/1837/problem/B) | C++23 (GCC 14-64, msys2) | [View Solution](./Codeforces/1837/B) |
 | LeetCode | [Concatenate Array With Reverse](https://leetcode.com/problems/concatenate-array-with-reverse/) | cpp | [View Solution](./LeetCode/Easy/3925-concatenate-array-with-reverse) |
 | LeetCode | [Concatenation of Array](https://leetcode.com/problems/concatenation-of-array/) | cpp | [View Solution](./LeetCode/Easy/1929-concatenation-of-array) |
+| LeetCode | [Construct Binary Search Tree from Preorder Traversal](https://leetcode.com/problems/construct-binary-search-tree-from-preorder-traversal/) | cpp | [View Solution](./LeetCode/Medium/1008-construct-binary-search-tree-from-preorder-traversal) |
 | LeetCode | [Construct Binary Tree from Preorder and Inorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/) | cpp | [View Solution](./LeetCode/Medium/105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | LeetCode | [Contains Duplicate II](https://leetcode.com/problems/contains-duplicate-ii/) | cpp | [View Solution](./LeetCode/Easy/219-contains-duplicate-ii) |
 | Codeforces | [Contrast Value](https://codeforces.com/contest/1832/problem/C) | C++23 (GCC 14-64, msys2) | [View Solution](./Codeforces/1832/C) |
