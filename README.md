@@ -3,7 +3,7 @@
 Showcasing my Data Structures, Algorithms, and Competitive Programming solutions synced automatically by [L'Amigo](https://github.com/FTS18/l-amigo).
 
 <p align="center">
-  <img src="https://img.shields.io/badge/LeetCode-250_Solved-FFA116?style=for-the-badge&logo=leetcode" alt="LeetCode" />
+  <img src="https://img.shields.io/badge/LeetCode-251_Solved-FFA116?style=for-the-badge&logo=leetcode" alt="LeetCode" />
   <img src="https://img.shields.io/badge/Codeforces-261_Solved-1F8ACB?style=for-the-badge&logo=codeforces" alt="Codeforces" />
   <img src="https://img.shields.io/badge/CSES-0_Solved-000000?style=for-the-badge&logo=code" alt="CSES" />
   <img src="https://img.shields.io/badge/GeeksforGeeks-0_Solved-2F8D46?style=for-the-badge&logo=geeksforgeeks" alt="GeeksforGeeks" />
@@ -13,11 +13,11 @@ Showcasing my Data Structures, Algorithms, and Competitive Programming solutions
 
 | Platform | Solved Count | Solutions Tracked |
 | :--- | :---: | :--- |
-| **LeetCode** | 250 | [ `/LeetCode`](./LeetCode) |
+| **LeetCode** | 251 | [ `/LeetCode`](./LeetCode) |
 | **Codeforces** | 261 | [ `/Codeforces`](./Codeforces) |
 | **CSES Problemset** | 0 | [ `/CSES`](./CSES) |
 | **GeeksforGeeks** | 0 | [ `/GeeksForGeeks`](./GeeksForGeeks) |
-| **Total Solved** | **511** | [ `submission_history.json`](./submission_history.json) |
+| **Total Solved** | **512** | [ `submission_history.json`](./submission_history.json) |
 
 ## Codeforces Rating Breakdown
 
@@ -100,6 +100,7 @@ Showcasing my Data Structures, Algorithms, and Competitive Programming solutions
 | LeetCode | [Best Time to Buy and Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/) | cpp | [View Solution](./LeetCode/Medium/122-best-time-to-buy-and-sell-stock-ii) |
 | Codeforces | [Bigrams](https://codeforces.com/contest/2242/problem/A) | C++23 (GCC 14-64, msys2) | [View Solution](./Codeforces/2242/A) |
 | LeetCode | [Binary Search](https://leetcode.com/problems/binary-search/) | cpp | [View Solution](./LeetCode/Easy/704-binary-search) |
+| LeetCode | [Binary Search Tree Iterator](https://leetcode.com/problems/binary-search-tree-iterator/) | cpp | [View Solution](./LeetCode/Medium/173-binary-search-tree-iterator) |
 | LeetCode | [Binary Subarrays With Sum](https://leetcode.com/problems/binary-subarrays-with-sum/) | cpp | [View Solution](./LeetCode/Medium/930-binary-subarrays-with-sum) |
 | LeetCode | [Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/) | cpp | [View Solution](./LeetCode/Easy/94-binary-tree-inorder-traversal) |
 | LeetCode | [Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/) | cpp | [View Solution](./LeetCode/Medium/102-binary-tree-level-order-traversal) |
