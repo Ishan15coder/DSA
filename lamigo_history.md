@@ -4,6 +4,8 @@ A complete history of all accepted submissions synced by L'Amigo.
 
 | Date | Platform | Problem | Language |
 | :--- | :--- | :--- | :--- |
+| 2026-11-02 | Leetcode | Recover Binary Search Tree | cpp |
+| 2026-11-02 | Leetcode | Two Sum IV - Input is a BST | cpp |
 | 2026-10-30 | Leetcode | Binary Search Tree Iterator | cpp |
 | 2026-10-30 | Leetcode | Construct Binary Search Tree from Preorder Traversal | cpp |
 | 2026-10-29 | Leetcode | Lowest Common Ancestor of a Binary Search Tree | cpp |
