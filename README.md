@@ -3,7 +3,7 @@
 Showcasing my Data Structures, Algorithms, and Competitive Programming solutions synced automatically by [L'Amigo](https://github.com/FTS18/l-amigo).
 
 <p align="center">
-  <img src="https://img.shields.io/badge/LeetCode-251_Solved-FFA116?style=for-the-badge&logo=leetcode" alt="LeetCode" />
+  <img src="https://img.shields.io/badge/LeetCode-253_Solved-FFA116?style=for-the-badge&logo=leetcode" alt="LeetCode" />
   <img src="https://img.shields.io/badge/Codeforces-261_Solved-1F8ACB?style=for-the-badge&logo=codeforces" alt="Codeforces" />
   <img src="https://img.shields.io/badge/CSES-0_Solved-000000?style=for-the-badge&logo=code" alt="CSES" />
   <img src="https://img.shields.io/badge/GeeksforGeeks-0_Solved-2F8D46?style=for-the-badge&logo=geeksforgeeks" alt="GeeksforGeeks" />
@@ -13,11 +13,11 @@ Showcasing my Data Structures, Algorithms, and Competitive Programming solutions
 
 | Platform | Solved Count | Solutions Tracked |
 | :--- | :---: | :--- |
-| **LeetCode** | 251 | [ `/LeetCode`](./LeetCode) |
+| **LeetCode** | 253 | [ `/LeetCode`](./LeetCode) |
 | **Codeforces** | 261 | [ `/Codeforces`](./Codeforces) |
 | **CSES Problemset** | 0 | [ `/CSES`](./CSES) |
 | **GeeksforGeeks** | 0 | [ `/GeeksForGeeks`](./GeeksForGeeks) |
-| **Total Solved** | **512** | [ `submission_history.json`](./submission_history.json) |
+| **Total Solved** | **514** | [ `submission_history.json`](./submission_history.json) |
 
 ## Codeforces Rating Breakdown
 
@@ -39,9 +39,9 @@ Showcasing my Data Structures, Algorithms, and Competitive Programming solutions
 
 | Difficulty | Solved | Progress Bar |
 | :--- | :---: | :--- |
-| **Easy** | 104 | `[████░░░░░░]` (40.2%) |
-| **Medium** | 142 | `[█████░░░░░]` (54.8%) |
-| **Hard** | 13 | `[█░░░░░░░░░]` (5.0%) |
+| **Easy** | 105 | `[████░░░░░░]` (40.1%) |
+| **Medium** | 144 | `[█████░░░░░]` (55.0%) |
+| **Hard** | 13 | `[░░░░░░░░░░]` (5.0%) |
 
 ## Top LeetCode Topics
 
@@ -49,14 +49,14 @@ Showcasing my Data Structures, Algorithms, and Competitive Programming solutions
 | :--- | :--- |
 | Array | 139 |
 | String | 61 |
-| Hash Table | 51 |
+| Hash Table | 52 |
 | Math | 37 |
-| Two Pointers | 35 |
-| Tree | 32 |
-| Binary Tree | 32 |
+| Two Pointers | 36 |
+| Tree | 35 |
+| Binary Tree | 35 |
 | Binary Search | 30 |
 | Dynamic Programming | 28 |
-| Depth-First Search | 26 |
+| Depth-First Search | 28 |
 
 
 ## Synced Solutions Index
@@ -418,6 +418,7 @@ Showcasing my Data Structures, Algorithms, and Competitive Programming solutions
 | LeetCode | [Rearrange Array Elements by Sign](https://leetcode.com/problems/rearrange-array-elements-by-sign/) | cpp | [View Solution](./LeetCode/Medium/2149-rearrange-array-elements-by-sign) |
 | Codeforces | [Reconnaissance 2](https://codeforces.com/contest/34/problem/A) | C++20 (GCC 13-64) | [View Solution](./Codeforces/34/A) |
 | LeetCode | [Reconstruct Original Digits from English](https://leetcode.com/problems/reconstruct-original-digits-from-english/) | cpp | [View Solution](./LeetCode/Medium/423-reconstruct-original-digits-from-english) |
+| LeetCode | [Recover Binary Search Tree](https://leetcode.com/problems/recover-binary-search-tree/) | cpp | [View Solution](./LeetCode/Unknown/recover-binary-search-tree) |
 | Codeforces | [Red Versus Blue](https://codeforces.com/contest/1659/problem/A) | C++23 (GCC 14-64, msys2) | [View Solution](./Codeforces/1659/A) |
 | Codeforces | [Registration System](https://codeforces.com/contest/4/problem/C) | C++23 (GCC 14-64, msys2) | [View Solution](./Codeforces/4/C) |
 | LeetCode | [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) | cpp | [View Solution](./LeetCode/Easy/26-remove-duplicates-from-sorted-array) |
@@ -545,6 +546,7 @@ Showcasing my Data Structures, Algorithms, and Competitive Programming solutions
 | Codeforces | [Two Permutations](https://codeforces.com/contest/1761/problem/A) | C++20 (GCC 13-64) | [View Solution](./Codeforces/1761/A) |
 | LeetCode | [Two Sum](https://leetcode.com/problems/two-sum/) | cpp | [View Solution](./LeetCode/Easy/1-two-sum) |
 | LeetCode | [Two Sum II - Input Array Is Sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/) | cpp | [View Solution](./LeetCode/Medium/167-two-sum-ii-input-array-is-sorted) |
+| LeetCode | [Two Sum IV - Input is a BST](https://leetcode.com/problems/two-sum-iv-input-is-a-bst/) | cpp | [View Solution](./LeetCode/Easy/653-two-sum-iv-input-is-a-bst) |
 | LeetCode | [Type of Triangle](https://leetcode.com/problems/type-of-triangle/) | cpp | [View Solution](./LeetCode/Easy/3024-type-of-triangle) |
 | Codeforces | [Unconventional Pairs](https://codeforces.com/contest/2149/problem/B) | C++23 (GCC 14-64, msys2) | [View Solution](./Codeforces/2149/B) |
 | Codeforces | [Unit Array](https://codeforces.com/contest/1834/problem/A) | C++20 (GCC 13-64) | [View Solution](./Codeforces/1834/A) |
