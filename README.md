@@ -4,7 +4,7 @@ Showcasing my Data Structures, Algorithms, and Competitive Programming solutions
 
 <p align="center">
   <img src="https://img.shields.io/badge/LeetCode-253_Solved-FFA116?style=for-the-badge&logo=leetcode" alt="LeetCode" />
-  <img src="https://img.shields.io/badge/Codeforces-261_Solved-1F8ACB?style=for-the-badge&logo=codeforces" alt="Codeforces" />
+  <img src="https://img.shields.io/badge/Codeforces-262_Solved-1F8ACB?style=for-the-badge&logo=codeforces" alt="Codeforces" />
   <img src="https://img.shields.io/badge/CSES-0_Solved-000000?style=for-the-badge&logo=code" alt="CSES" />
   <img src="https://img.shields.io/badge/GeeksforGeeks-0_Solved-2F8D46?style=for-the-badge&logo=geeksforgeeks" alt="GeeksforGeeks" />
 </p>
@@ -14,10 +14,10 @@ Showcasing my Data Structures, Algorithms, and Competitive Programming solutions
 | Platform | Solved Count | Solutions Tracked |
 | :--- | :---: | :--- |
 | **LeetCode** | 253 | [ `/LeetCode`](./LeetCode) |
-| **Codeforces** | 261 | [ `/Codeforces`](./Codeforces) |
+| **Codeforces** | 262 | [ `/Codeforces`](./Codeforces) |
 | **CSES Problemset** | 0 | [ `/CSES`](./CSES) |
 | **GeeksforGeeks** | 0 | [ `/GeeksForGeeks`](./GeeksForGeeks) |
-| **Total Solved** | **514** | [ `submission_history.json`](./submission_history.json) |
+| **Total Solved** | **515** | [ `submission_history.json`](./submission_history.json) |
 
 ## Codeforces Rating Breakdown
 
@@ -29,7 +29,7 @@ Showcasing my Data Structures, Algorithms, and Competitive Programming solutions
 | **1400 - 1500** | 3 |
 | **1600 - 1800** | 0 |
 | **1900+** | 0 |
-| **Unrated** | 45 |
+| **Unrated** | 46 |
 
 ## LeetCode Progress Dashboard
 
@@ -227,6 +227,7 @@ Showcasing my Data Structures, Algorithms, and Competitive Programming solutions
 | Codeforces | [Forbidden Integer](https://codeforces.com/contest/1845/problem/A) | C++20 (GCC 13-64) | [View Solution](./Codeforces/1845/A) |
 | Codeforces | [Forked!](https://codeforces.com/contest/1904/problem/A) | C++23 (GCC 14-64, msys2) | [View Solution](./Codeforces/1904/A) |
 | Codeforces | [Fox And Snake](https://codeforces.com/contest/510/problem/A) | C++20 (GCC 13-64) | [View Solution](./Codeforces/510/A) |
+| Codeforces | [Fraction and Six](https://codeforces.com/contest/2278/problem/A) | C++23 (GCC 14-64, msys2) | [View Solution](./Codeforces/2278/A) |
 | Codeforces | [Friends and the Restaurant](https://codeforces.com/contest/1729/problem/D) | C++23 (GCC 14-64, msys2) | [View Solution](./Codeforces/1729/D) |
 | LeetCode | [Frog Jump](https://leetcode.com/problems/frog-jump/) | cpp | [View Solution](./LeetCode/Hard/403-frog-jump) |
 | Codeforces | [Frogs Jump](https://codeforces.com/contest/2272/problem/B) | C++23 (GCC 14-64, msys2) | [View Solution](./Codeforces/2272/B) |
@@ -418,7 +419,7 @@ Showcasing my Data Structures, Algorithms, and Competitive Programming solutions
 | LeetCode | [Rearrange Array Elements by Sign](https://leetcode.com/problems/rearrange-array-elements-by-sign/) | cpp | [View Solution](./LeetCode/Medium/2149-rearrange-array-elements-by-sign) |
 | Codeforces | [Reconnaissance 2](https://codeforces.com/contest/34/problem/A) | C++20 (GCC 13-64) | [View Solution](./Codeforces/34/A) |
 | LeetCode | [Reconstruct Original Digits from English](https://leetcode.com/problems/reconstruct-original-digits-from-english/) | cpp | [View Solution](./LeetCode/Medium/423-reconstruct-original-digits-from-english) |
-| LeetCode | [Recover Binary Search Tree](https://leetcode.com/problems/recover-binary-search-tree/) | cpp | [View Solution](./LeetCode/Unknown/recover-binary-search-tree) |
+| LeetCode | [Recover Binary Search Tree](https://leetcode.com/problems/recover-binary-search-tree/) | cpp | [View Solution](./LeetCode/Medium/99-recover-binary-search-tree) |
 | Codeforces | [Red Versus Blue](https://codeforces.com/contest/1659/problem/A) | C++23 (GCC 14-64, msys2) | [View Solution](./Codeforces/1659/A) |
 | Codeforces | [Registration System](https://codeforces.com/contest/4/problem/C) | C++23 (GCC 14-64, msys2) | [View Solution](./Codeforces/4/C) |
 | LeetCode | [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) | cpp | [View Solution](./LeetCode/Easy/26-remove-duplicates-from-sorted-array) |
