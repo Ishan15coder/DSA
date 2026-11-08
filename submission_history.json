@@ -1,6 +1,17 @@
 [
   {
     "difficulty": "Easy",
+    "id": "397680966",
+    "lang": "C++23 (GCC 14-64, msys2)",
+    "platform": "codeforces",
+    "rating": 0,
+    "statusDisplay": "Accepted",
+    "timestamp": 1794027149000,
+    "title": "Stakes and Shapes",
+    "titleSlug": "2278/B"
+  },
+  {
+    "difficulty": "Easy",
     "id": "397450591",
     "lang": "C++23 (GCC 14-64, msys2)",
     "platform": "codeforces",
@@ -5370,14 +5381,14 @@
     "titleSlug": "valid-anagram"
   },
   {
-    "title": "Stakes and Shapes",
-    "titleSlug": "2278/B",
-    "timestamp": 1794027149000,
+    "title": "Lock and Unlock",
+    "titleSlug": "2278/D",
+    "timestamp": 1794115120000,
     "statusDisplay": "Accepted",
     "lang": "C++23 (GCC 14-64, msys2)",
-    "id": "397680966",
+    "id": "397812868",
     "platform": "codeforces",
-    "difficulty": "Easy",
+    "difficulty": "Medium",
     "rating": 0
   }
 ]
