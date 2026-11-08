@@ -4,7 +4,7 @@ Showcasing my Data Structures, Algorithms, and Competitive Programming solutions
 
 <p align="center">
   <img src="https://img.shields.io/badge/LeetCode-253_Solved-FFA116?style=for-the-badge&logo=leetcode" alt="LeetCode" />
-  <img src="https://img.shields.io/badge/Codeforces-263_Solved-1F8ACB?style=for-the-badge&logo=codeforces" alt="Codeforces" />
+  <img src="https://img.shields.io/badge/Codeforces-264_Solved-1F8ACB?style=for-the-badge&logo=codeforces" alt="Codeforces" />
   <img src="https://img.shields.io/badge/CSES-0_Solved-000000?style=for-the-badge&logo=code" alt="CSES" />
   <img src="https://img.shields.io/badge/GeeksforGeeks-0_Solved-2F8D46?style=for-the-badge&logo=geeksforgeeks" alt="GeeksforGeeks" />
 </p>
@@ -14,10 +14,10 @@ Showcasing my Data Structures, Algorithms, and Competitive Programming solutions
 | Platform | Solved Count | Solutions Tracked |
 | :--- | :---: | :--- |
 | **LeetCode** | 253 | [ `/LeetCode`](./LeetCode) |
-| **Codeforces** | 263 | [ `/Codeforces`](./Codeforces) |
+| **Codeforces** | 264 | [ `/Codeforces`](./Codeforces) |
 | **CSES Problemset** | 0 | [ `/CSES`](./CSES) |
 | **GeeksforGeeks** | 0 | [ `/GeeksForGeeks`](./GeeksForGeeks) |
-| **Total Solved** | **516** | [ `submission_history.json`](./submission_history.json) |
+| **Total Solved** | **517** | [ `submission_history.json`](./submission_history.json) |
 
 ## Codeforces Rating Breakdown
 
@@ -29,7 +29,7 @@ Showcasing my Data Structures, Algorithms, and Competitive Programming solutions
 | **1400 - 1500** | 3 |
 | **1600 - 1800** | 0 |
 | **1900+** | 0 |
-| **Unrated** | 47 |
+| **Unrated** | 48 |
 
 ## LeetCode Progress Dashboard
 
@@ -290,6 +290,7 @@ Showcasing my Data Structures, Algorithms, and Competitive Programming solutions
 | LeetCode | [Linked List Cycle II](https://leetcode.com/problems/linked-list-cycle-ii/) | cpp | [View Solution](./LeetCode/Medium/142-linked-list-cycle-ii) |
 | Codeforces | [Little Elephant and Rozdil](https://codeforces.com/contest/205/problem/A) | C++20 (GCC 13-64) | [View Solution](./Codeforces/205/A) |
 | Codeforces | [Little Girl and Game](https://codeforces.com/contest/276/problem/B) | C++23 (GCC 14-64, msys2) | [View Solution](./Codeforces/276/B) |
+| Codeforces | [Lock and Unlock](https://codeforces.com/contest/2278/problem/D) | C++23 (GCC 14-64, msys2) | [View Solution](./Codeforces/2278/D) |
 | LeetCode | [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/) | cpp | [View Solution](./LeetCode/Easy/14-longest-common-prefix) |
 | LeetCode | [Longest Common Subsequence](https://leetcode.com/problems/longest-common-subsequence/) | cpp | [View Solution](./LeetCode/Medium/1143-longest-common-subsequence) |
 | Codeforces | [Longest Divisors Interval](https://codeforces.com/contest/1855/problem/B) | C++23 (GCC 14-64, msys2) | [View Solution](./Codeforces/1855/B) |
