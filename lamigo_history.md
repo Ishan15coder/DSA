@@ -4,6 +4,7 @@ A complete history of all accepted submissions synced by L'Amigo.
 
 | Date | Platform | Problem | Language |
 | :--- | :--- | :--- | :--- |
+| 2026-11-08 | Codeforces | Lock and Unlock | C++23 (GCC 14-64, msys2) |
 | 2026-11-07 | Codeforces | Stakes and Shapes | C++23 (GCC 14-64, msys2) |
 | 2026-11-05 | Codeforces | Fraction and Six | C++23 (GCC 14-64, msys2) |
 | 2026-11-02 | Leetcode | Recover Binary Search Tree | cpp |
