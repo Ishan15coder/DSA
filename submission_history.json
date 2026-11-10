@@ -1,5 +1,16 @@
 [
   {
+    "difficulty": "Medium",
+    "id": "397812868",
+    "lang": "C++23 (GCC 14-64, msys2)",
+    "platform": "codeforces",
+    "rating": 0,
+    "statusDisplay": "Accepted",
+    "timestamp": 1794115120000,
+    "title": "Lock and Unlock",
+    "titleSlug": "2278/D"
+  },
+  {
     "difficulty": "Easy",
     "id": "397680966",
     "lang": "C++23 (GCC 14-64, msys2)",
@@ -5381,14 +5392,707 @@
     "titleSlug": "valid-anagram"
   },
   {
-    "title": "Lock and Unlock",
-    "titleSlug": "2278/D",
-    "timestamp": 1794115120000,
+    "id": "2185298537",
+    "title": "Binary Search Tree Iterator",
+    "titleSlug": "binary-search-tree-iterator",
+    "timestamp": 1793342949000,
+    "lang": "cpp",
+    "statusDisplay": "Accepted"
+  },
+  {
+    "id": "2185250505",
+    "title": "Construct Binary Search Tree from Preorder Traversal",
+    "titleSlug": "construct-binary-search-tree-from-preorder-traversal",
+    "timestamp": 1793338604000,
+    "lang": "cpp",
+    "statusDisplay": "Accepted"
+  },
+  {
+    "id": "2184529441",
+    "title": "Validate Binary Search Tree",
+    "titleSlug": "validate-binary-search-tree",
+    "timestamp": 1793258818000,
+    "lang": "cpp",
+    "statusDisplay": "Accepted"
+  },
+  {
+    "id": "2184096488",
+    "title": "Validate Binary Search Tree",
+    "titleSlug": "validate-binary-search-tree",
+    "timestamp": 1793206290000,
+    "lang": "cpp",
+    "statusDisplay": "Accepted"
+  },
+  {
+    "id": "2183718289",
+    "title": "Search in a Binary Search Tree",
+    "titleSlug": "search-in-a-binary-search-tree",
+    "timestamp": 1793172444000,
+    "lang": "cpp",
+    "statusDisplay": "Accepted"
+  },
+  {
+    "id": "2181988699",
+    "title": "Construct Binary Tree from Inorder and Postorder Traversal",
+    "titleSlug": "construct-binary-tree-from-inorder-and-postorder-traversal",
+    "timestamp": 1792997378000,
+    "lang": "cpp",
+    "statusDisplay": "Accepted"
+  },
+  {
+    "id": "2180309961",
+    "title": "Construct Binary Tree from Preorder and Inorder Traversal",
+    "titleSlug": "construct-binary-tree-from-preorder-and-inorder-traversal",
+    "timestamp": 1792834343000,
+    "lang": "cpp",
+    "statusDisplay": "Accepted"
+  },
+  {
+    "id": "2180308603",
+    "title": "Construct Binary Tree from Preorder and Inorder Traversal",
+    "titleSlug": "construct-binary-tree-from-preorder-and-inorder-traversal",
+    "timestamp": 1792834208000,
+    "lang": "cpp",
+    "statusDisplay": "Accepted"
+  },
+  {
+    "id": "2179715882",
+    "title": "Flatten Binary Tree to Linked List",
+    "titleSlug": "flatten-binary-tree-to-linked-list",
+    "timestamp": 1792764718000,
+    "lang": "cpp",
+    "statusDisplay": "Accepted"
+  },
+  {
+    "id": "2179693833",
+    "title": "Flatten Binary Tree to Linked List",
+    "titleSlug": "flatten-binary-tree-to-linked-list",
+    "timestamp": 1792763024000,
+    "lang": "cpp",
+    "statusDisplay": "Accepted"
+  },
+  {
+    "id": "2178910516",
+    "title": "Count Complete Tree Nodes",
+    "titleSlug": "count-complete-tree-nodes",
+    "timestamp": 1792681308000,
+    "lang": "cpp",
+    "statusDisplay": "Accepted"
+  },
+  {
+    "id": "2178867732",
+    "title": "All Nodes Distance K in Binary Tree",
+    "titleSlug": "all-nodes-distance-k-in-binary-tree",
+    "timestamp": 1792678123000,
+    "lang": "cpp",
+    "statusDisplay": "Accepted"
+  },
+  {
+    "id": "2177864763",
+    "title": "Lowest Common Ancestor of a Binary Tree",
+    "titleSlug": "lowest-common-ancestor-of-a-binary-tree",
+    "timestamp": 1792580145000,
+    "lang": "cpp",
+    "statusDisplay": "Accepted"
+  },
+  {
+    "id": "2177176004",
+    "title": "Vertical Order Traversal of a Binary Tree",
+    "titleSlug": "vertical-order-traversal-of-a-binary-tree",
+    "timestamp": 1792508898000,
+    "lang": "cpp",
+    "statusDisplay": "Accepted"
+  },
+  {
+    "id": "2177075268",
+    "title": "Binary Tree Zigzag Level Order Traversal",
+    "titleSlug": "binary-tree-zigzag-level-order-traversal",
+    "timestamp": 1792501334000,
+    "lang": "cpp",
+    "statusDisplay": "Accepted"
+  },
+  {
+    "id": "2176152308",
+    "title": "Symmetric Tree",
+    "titleSlug": "symmetric-tree",
+    "timestamp": 1792408020000,
+    "lang": "cpp",
+    "statusDisplay": "Accepted"
+  },
+  {
+    "id": "2176092485",
+    "title": "Diameter of Binary Tree",
+    "titleSlug": "diameter-of-binary-tree",
+    "timestamp": 1792402612000,
+    "lang": "cpp",
+    "statusDisplay": "Accepted"
+  },
+  {
+    "id": "2176087979",
+    "title": "Balanced Binary Tree",
+    "titleSlug": "balanced-binary-tree",
+    "timestamp": 1792402206000,
+    "lang": "cpp",
+    "statusDisplay": "Accepted"
+  },
+  {
+    "id": "2176072080",
+    "title": "Same Tree",
+    "titleSlug": "same-tree",
+    "timestamp": 1792400737000,
+    "lang": "cpp",
+    "statusDisplay": "Accepted"
+  },
+  {
+    "id": "2175470237",
+    "title": "Maximum Depth of Binary Tree",
+    "titleSlug": "maximum-depth-of-binary-tree",
+    "timestamp": 1792334560000,
+    "lang": "cpp",
+    "statusDisplay": "Accepted"
+  },
+  {
+    "id": "2175340719",
+    "title": "Binary Tree Inorder Traversal",
+    "titleSlug": "binary-tree-inorder-traversal",
+    "timestamp": 1792323171000,
+    "lang": "cpp",
+    "statusDisplay": "Accepted"
+  },
+  {
+    "id": "2170511057",
+    "title": "Coin Change II",
+    "titleSlug": "coin-change-ii",
+    "timestamp": 1791829508000,
+    "lang": "cpp",
+    "statusDisplay": "Accepted"
+  },
+  {
+    "id": "2170172567",
+    "title": "Score of Parentheses",
+    "titleSlug": "score-of-parentheses",
+    "timestamp": 1791808350000,
+    "lang": "cpp",
+    "statusDisplay": "Accepted"
+  },
+  {
+    "id": "2169900169",
+    "title": "Frog Jump",
+    "titleSlug": "frog-jump",
+    "timestamp": 1791785470000,
+    "lang": "cpp",
+    "statusDisplay": "Accepted"
+  },
+  {
+    "id": "2169539933",
+    "title": "House Robber",
+    "titleSlug": "house-robber",
+    "timestamp": 1791741111000,
+    "lang": "cpp",
+    "statusDisplay": "Accepted"
+  },
+  {
+    "id": "2164339783",
+    "title": "Next Greater Element I",
+    "titleSlug": "next-greater-element-i",
+    "timestamp": 1791297645000,
+    "lang": "cpp",
+    "statusDisplay": "Accepted"
+  },
+  {
+    "id": "2160219941",
+    "title": "Generate Parentheses",
+    "titleSlug": "generate-parentheses",
+    "timestamp": 1790950634000,
+    "lang": "cpp",
+    "statusDisplay": "Accepted"
+  },
+  {
+    "id": "2147759524",
+    "title": "Reverse Degree of a String",
+    "titleSlug": "reverse-degree-of-a-string",
+    "timestamp": 1789913740000,
+    "lang": "cpp",
+    "statusDisplay": "Accepted"
+  },
+  {
+    "id": "2128699742",
+    "title": "Permutations II",
+    "titleSlug": "permutations-ii",
+    "timestamp": 1788367329000,
+    "lang": "cpp",
+    "statusDisplay": "Accepted"
+  },
+  {
+    "id": "2128666787",
+    "title": "Construct Uniform Parity Array I",
+    "titleSlug": "construct-uniform-parity-array-i",
+    "timestamp": 1788365843000,
+    "lang": "cpp",
+    "statusDisplay": "Accepted"
+  },
+  {
+    "id": "2118283236",
+    "title": "Combination Sum II",
+    "titleSlug": "combination-sum-ii",
+    "timestamp": 1787565620000,
+    "lang": "cpp",
+    "statusDisplay": "Accepted"
+  },
+  {
+    "id": "2113807420",
+    "title": "Combination Sum II",
+    "titleSlug": "combination-sum-ii",
+    "timestamp": 1787221595000,
+    "lang": "cpp",
+    "statusDisplay": "Accepted"
+  },
+  {
+    "id": "2111177485",
+    "title": "Letter Case Permutation",
+    "titleSlug": "letter-case-permutation",
+    "timestamp": 1787043525000,
+    "lang": "cpp",
+    "statusDisplay": "Accepted"
+  },
+  {
+    "title": "Math and Physics",
+    "titleSlug": "2278/C",
+    "timestamp": 1793887649000,
     "statusDisplay": "Accepted",
     "lang": "C++23 (GCC 14-64, msys2)",
-    "id": "397812868",
+    "id": "397482527",
     "platform": "codeforces",
     "difficulty": "Medium",
     "rating": 0
+  },
+  {
+    "title": "K Is Important",
+    "titleSlug": "2268/A",
+    "timestamp": 1793768272000,
+    "statusDisplay": "Accepted",
+    "lang": "C++23 (GCC 14-64, msys2)",
+    "id": "397293313",
+    "platform": "codeforces",
+    "difficulty": "Easy",
+    "rating": 1200
+  },
+  {
+    "title": "Cardboard for Pictures",
+    "titleSlug": "1850/E",
+    "timestamp": 1793368959000,
+    "statusDisplay": "Accepted",
+    "lang": "C++23 (GCC 14-64, msys2)",
+    "id": "396694996",
+    "platform": "codeforces",
+    "difficulty": "Easy",
+    "rating": 1100
+  },
+  {
+    "title": "Phoenix and Gold",
+    "titleSlug": "1515/A",
+    "timestamp": 1793166876000,
+    "statusDisplay": "Accepted",
+    "lang": "C++23 (GCC 14-64, msys2)",
+    "id": "396373289",
+    "platform": "codeforces",
+    "difficulty": "Easy",
+    "rating": 800
+  },
+  {
+    "title": "Phoenix and Beauty",
+    "titleSlug": "1348/B",
+    "timestamp": 1793165273000,
+    "statusDisplay": "Accepted",
+    "lang": "C++23 (GCC 14-64, msys2)",
+    "id": "396371026",
+    "platform": "codeforces",
+    "difficulty": "Medium",
+    "rating": 1400
+  },
+  {
+    "title": "Building an Aquarium",
+    "titleSlug": "1873/E",
+    "timestamp": 1792908255000,
+    "statusDisplay": "Accepted",
+    "lang": "C++23 (GCC 14-64, msys2)",
+    "id": "395944145",
+    "platform": "codeforces",
+    "difficulty": "Easy",
+    "rating": 1100
+  },
+  {
+    "title": "Winner",
+    "titleSlug": "2/A",
+    "timestamp": 1792747528000,
+    "statusDisplay": "Accepted",
+    "lang": "C++23 (GCC 14-64, msys2)",
+    "id": "395675646",
+    "platform": "codeforces",
+    "difficulty": "Medium",
+    "rating": 1500
+  },
+  {
+    "title": "Potions (Easy Version)",
+    "titleSlug": "1526/C1",
+    "timestamp": 1792647860000,
+    "statusDisplay": "Accepted",
+    "lang": "C++23 (GCC 14-64, msys2)",
+    "id": "395537462",
+    "platform": "codeforces",
+    "difficulty": "Medium",
+    "rating": 1500
+  },
+  {
+    "title": "Anna and the Valentine's Day Gift",
+    "titleSlug": "1931/E",
+    "timestamp": 1792220471000,
+    "statusDisplay": "Accepted",
+    "lang": "C++23 (GCC 14-64, msys2)",
+    "id": "394902186",
+    "platform": "codeforces",
+    "difficulty": "Medium",
+    "rating": 1400
+  },
+  {
+    "title": "Shuffle",
+    "titleSlug": "1366/B",
+    "timestamp": 1792216698000,
+    "statusDisplay": "Accepted",
+    "lang": "C++23 (GCC 14-64, msys2)",
+    "id": "394895968",
+    "platform": "codeforces",
+    "difficulty": "Medium",
+    "rating": 1300
+  },
+  {
+    "title": "AND Sorting",
+    "titleSlug": "1682/B",
+    "timestamp": 1792141985000,
+    "statusDisplay": "Accepted",
+    "lang": "C++23 (GCC 14-64, msys2)",
+    "id": "394791810",
+    "platform": "codeforces",
+    "difficulty": "Easy",
+    "rating": 1100
+  },
+  {
+    "title": "Subtract Operation",
+    "titleSlug": "1656/B",
+    "timestamp": 1792083138000,
+    "statusDisplay": "Accepted",
+    "lang": "C++23 (GCC 14-64, msys2)",
+    "id": "394724694",
+    "platform": "codeforces",
+    "difficulty": "Easy",
+    "rating": 1100
+  },
+  {
+    "title": "M-arrays",
+    "titleSlug": "1497/B",
+    "timestamp": 1792068442000,
+    "statusDisplay": "Accepted",
+    "lang": "C++23 (GCC 14-64, msys2)",
+    "id": "394693352",
+    "platform": "codeforces",
+    "difficulty": "Easy",
+    "rating": 1200
+  },
+  {
+    "title": "Perfect Sandwiches",
+    "titleSlug": "2276/A",
+    "timestamp": 1791989251000,
+    "statusDisplay": "Accepted",
+    "lang": "C++23 (GCC 14-64, msys2)",
+    "id": "394541983",
+    "platform": "codeforces",
+    "difficulty": "Easy",
+    "rating": 800
+  },
+  {
+    "title": "Random Teams",
+    "titleSlug": "478/B",
+    "timestamp": 1791953784000,
+    "statusDisplay": "Accepted",
+    "lang": "C++23 (GCC 14-64, msys2)",
+    "id": "394470274",
+    "platform": "codeforces",
+    "difficulty": "Medium",
+    "rating": 1300
+  },
+  {
+    "title": "Omkar and Last Class of Math",
+    "titleSlug": "1372/B",
+    "timestamp": 1791697541000,
+    "statusDisplay": "Accepted",
+    "lang": "C++23 (GCC 14-64, msys2)",
+    "id": "394077084",
+    "platform": "codeforces",
+    "difficulty": "Medium",
+    "rating": 1300
+  },
+  {
+    "title": "Flip the Bits",
+    "titleSlug": "1504/B",
+    "timestamp": 1791618787000,
+    "statusDisplay": "Accepted",
+    "lang": "C++23 (GCC 14-64, msys2)",
+    "id": "393921411",
+    "platform": "codeforces",
+    "difficulty": "Easy",
+    "rating": 1200
+  },
+  {
+    "title": "Virus",
+    "titleSlug": "1704/C",
+    "timestamp": 1791541249000,
+    "statusDisplay": "Accepted",
+    "lang": "C++23 (GCC 14-64, msys2)",
+    "id": "393820321",
+    "platform": "codeforces",
+    "difficulty": "Easy",
+    "rating": 1200
+  },
+  {
+    "title": "Fun with Even Subarrays",
+    "titleSlug": "1631/B",
+    "timestamp": 1791443589000,
+    "statusDisplay": "Accepted",
+    "lang": "C++23 (GCC 14-64, msys2)",
+    "id": "393677000",
+    "platform": "codeforces",
+    "difficulty": "Easy",
+    "rating": 1100
+  },
+  {
+    "title": "Yet Another Card Deck",
+    "titleSlug": "1511/C",
+    "timestamp": 1791434264000,
+    "statusDisplay": "Accepted",
+    "lang": "C++23 (GCC 14-64, msys2)",
+    "id": "393663695",
+    "platform": "codeforces",
+    "difficulty": "Easy",
+    "rating": 1100
+  },
+  {
+    "title": "Difference of GCDs",
+    "titleSlug": "1708/B",
+    "timestamp": 1791310404000,
+    "statusDisplay": "Accepted",
+    "lang": "C++23 (GCC 14-64, msys2)",
+    "id": "393434635",
+    "platform": "codeforces",
+    "difficulty": "Easy",
+    "rating": 1100
+  },
+  {
+    "title": "Sort the Subarray",
+    "titleSlug": "1821/B",
+    "timestamp": 1791191350000,
+    "statusDisplay": "Accepted",
+    "lang": "C++23 (GCC 14-64, msys2)",
+    "id": "393269360",
+    "platform": "codeforces",
+    "difficulty": "Easy",
+    "rating": 1100
+  },
+  {
+    "title": "Paint the Array",
+    "titleSlug": "1618/C",
+    "timestamp": 1791185101000,
+    "statusDisplay": "Accepted",
+    "lang": "C++23 (GCC 14-64, msys2)",
+    "id": "393260548",
+    "platform": "codeforces",
+    "difficulty": "Easy",
+    "rating": 1100
+  },
+  {
+    "title": "Kalindrome Array",
+    "titleSlug": "1610/B",
+    "timestamp": 1790939939000,
+    "statusDisplay": "Accepted",
+    "lang": "C++23 (GCC 14-64, msys2)",
+    "id": "392939773",
+    "platform": "codeforces",
+    "difficulty": "Easy",
+    "rating": 1100
+  },
+  {
+    "title": "Eating Candies",
+    "titleSlug": "1669/F",
+    "timestamp": 1790837583000,
+    "statusDisplay": "Accepted",
+    "lang": "C++23 (GCC 14-64, msys2)",
+    "id": "392797789",
+    "platform": "codeforces",
+    "difficulty": "Easy",
+    "rating": 1100
+  },
+  {
+    "title": "Erase First or Second Letter",
+    "titleSlug": "1917/B",
+    "timestamp": 1790747871000,
+    "statusDisplay": "Accepted",
+    "lang": "C++23 (GCC 14-64, msys2)",
+    "id": "392675289",
+    "platform": "codeforces",
+    "difficulty": "Easy",
+    "rating": 1100
+  },
+  {
+    "title": "Quests",
+    "titleSlug": "1914/C",
+    "timestamp": 1790741505000,
+    "statusDisplay": "Accepted",
+    "lang": "C++23 (GCC 14-64, msys2)",
+    "id": "392669000",
+    "platform": "codeforces",
+    "difficulty": "Easy",
+    "rating": 1100
+  },
+  {
+    "title": "Counting Orders",
+    "titleSlug": "1827/A",
+    "timestamp": 1790495647000,
+    "statusDisplay": "Accepted",
+    "lang": "C++23 (GCC 14-64, msys2)",
+    "id": "392300400",
+    "platform": "codeforces",
+    "difficulty": "Easy",
+    "rating": 1100
+  },
+  {
+    "title": "Maximum Sum",
+    "titleSlug": "1832/B",
+    "timestamp": 1790492205000,
+    "statusDisplay": "Accepted",
+    "lang": "C++23 (GCC 14-64, msys2)",
+    "id": "392294571",
+    "platform": "codeforces",
+    "difficulty": "Easy",
+    "rating": 1100
+  },
+  {
+    "title": "Lunatic Never Content",
+    "titleSlug": "1826/B",
+    "timestamp": 1790442933000,
+    "statusDisplay": "Accepted",
+    "lang": "C++23 (GCC 14-64, msys2)",
+    "id": "392235469",
+    "platform": "codeforces",
+    "difficulty": "Easy",
+    "rating": 1100
+  },
+  {
+    "title": "MEX Multiset",
+    "titleSlug": "2259/D",
+    "timestamp": 1790416967000,
+    "statusDisplay": "Accepted",
+    "lang": "C++23 (GCC 14-64, msys2)",
+    "id": "392144156",
+    "platform": "codeforces",
+    "difficulty": "Easy",
+    "rating": 1200
+  },
+  {
+    "title": "Stone Age Problem",
+    "titleSlug": "1679/B",
+    "timestamp": 1789120744000,
+    "statusDisplay": "Accepted",
+    "lang": "C++23 (GCC 14-64, msys2)",
+    "id": "390293189",
+    "platform": "codeforces",
+    "difficulty": "Easy",
+    "rating": 1200
+  },
+  {
+    "title": "Monocarp's Contest",
+    "titleSlug": "2260/A",
+    "timestamp": 1788878565000,
+    "statusDisplay": "Accepted",
+    "lang": "C++23 (GCC 14-64, msys2)",
+    "id": "389890522",
+    "platform": "codeforces",
+    "difficulty": "Easy",
+    "rating": 800
+  },
+  {
+    "title": "Cat Cycle",
+    "titleSlug": "1487/B",
+    "timestamp": 1786775711000,
+    "statusDisplay": "Accepted",
+    "lang": "C++23 (GCC 14-64, msys2)",
+    "id": "387112218",
+    "platform": "codeforces",
+    "difficulty": "Easy",
+    "rating": 1200
+  },
+  {
+    "title": "Make Them Equal",
+    "titleSlug": "1594/C",
+    "timestamp": 1784095547000,
+    "statusDisplay": "Accepted",
+    "lang": "C++23 (GCC 14-64, msys2)",
+    "id": "382744767",
+    "platform": "codeforces",
+    "difficulty": "Easy",
+    "rating": 1200
+  },
+  {
+    "title": "Dolce Vita",
+    "titleSlug": "1671/C",
+    "timestamp": 1783958545000,
+    "statusDisplay": "Accepted",
+    "lang": "C++23 (GCC 14-64, msys2)",
+    "id": "382434344",
+    "platform": "codeforces",
+    "difficulty": "Easy",
+    "rating": 1200
+  },
+  {
+    "title": "Assembly via Minimums",
+    "titleSlug": "1857/C",
+    "timestamp": 1783576307000,
+    "statusDisplay": "Accepted",
+    "lang": "C++23 (GCC 14-64, msys2)",
+    "id": "381803916",
+    "platform": "codeforces",
+    "difficulty": "Easy",
+    "rating": 1200
+  },
+  {
+    "title": "Sum of Round Numbers",
+    "titleSlug": "1352/A",
+    "timestamp": 1783487526000,
+    "statusDisplay": "Accepted",
+    "lang": "C++23 (GCC 14-64, msys2)",
+    "id": "381675256",
+    "platform": "codeforces",
+    "difficulty": "Easy",
+    "rating": 800
+  },
+  {
+    "title": "Matryoshkas",
+    "titleSlug": "1790/D",
+    "timestamp": 1783151238000,
+    "statusDisplay": "Accepted",
+    "lang": "C++23 (GCC 14-64, msys2)",
+    "id": "381209592",
+    "platform": "codeforces",
+    "difficulty": "Easy",
+    "rating": 1200
+  },
+  {
+    "title": "Dora and Search",
+    "titleSlug": "1793/C",
+    "timestamp": 1783149620000,
+    "statusDisplay": "Accepted",
+    "lang": "C++23 (GCC 14-64, msys2)",
+    "id": "381206816",
+    "platform": "codeforces",
+    "difficulty": "Easy",
+    "rating": 1200
   }
 ]
