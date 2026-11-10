@@ -6,16 +6,26 @@ A complete history of all accepted submissions synced by L'Amigo.
 | :--- | :--- | :--- | :--- |
 | 2026-11-08 | Codeforces | Lock and Unlock | C++23 (GCC 14-64, msys2) |
 | 2026-11-07 | Codeforces | Stakes and Shapes | C++23 (GCC 14-64, msys2) |
+| 2026-11-05 | Codeforces | Math and Physics | C++23 (GCC 14-64, msys2) |
 | 2026-11-05 | Codeforces | Fraction and Six | C++23 (GCC 14-64, msys2) |
+| 2026-11-04 | Codeforces | K Is Important | C++23 (GCC 14-64, msys2) |
 | 2026-11-02 | Leetcode | Recover Binary Search Tree | cpp |
 | 2026-11-02 | Leetcode | Two Sum IV - Input is a BST | cpp |
+| 2026-10-30 | Codeforces | Cardboard for Pictures | C++23 (GCC 14-64, msys2) |
+| 2026-10-30 | Leetcode | Binary Search Tree Iterator | cpp |
 | 2026-10-30 | Leetcode | Binary Search Tree Iterator | cpp |
 | 2026-10-30 | Leetcode | Construct Binary Search Tree from Preorder Traversal | cpp |
+| 2026-10-30 | Leetcode | Construct Binary Search Tree from Preorder Traversal | cpp |
 | 2026-10-29 | Leetcode | Lowest Common Ancestor of a Binary Search Tree | cpp |
+| 2026-10-29 | Leetcode | Validate Binary Search Tree | cpp |
 | 2026-10-29 | Leetcode | Delete Node in a BST | cpp |
 | 2026-10-29 | Leetcode | Validate Binary Search Tree | cpp |
+| 2026-10-28 | Leetcode | Validate Binary Search Tree | cpp |
 | 2026-10-28 | Leetcode | Kth Smallest Element in a BST | cpp |
 | 2026-10-28 | Leetcode | Insert into a Binary Search Tree | cpp |
+| 2026-10-28 | Leetcode | Search in a Binary Search Tree | cpp |
+| 2026-10-28 | Codeforces | Phoenix and Gold | C++23 (GCC 14-64, msys2) |
+| 2026-10-28 | Codeforces | Phoenix and Beauty | C++23 (GCC 14-64, msys2) |
 | 2026-10-28 | Leetcode | Serialize and Deserialize Binary Tree | cpp |
 | 2026-10-27 | Leetcode | Minimum Depth of Binary Tree | cpp |
 | 2026-10-27 | Leetcode | Binary Tree Level Order Traversal II | cpp |
@@ -27,67 +37,116 @@ A complete history of all accepted submissions synced by L'Amigo.
 | 2026-10-26 | Codeforces | Frogs Jump | C++23 (GCC 14-64, msys2) |
 | 2026-10-26 | Codeforces | Maximize One MEX | C++23 (GCC 14-64, msys2) |
 | 2026-10-26 | Leetcode | Serialize and Deserialize Binary Tree | cpp |
+| 2026-10-26 | Leetcode | Construct Binary Tree from Inorder and Postorder Traversal | cpp |
 | 2026-10-26 | Leetcode | Construct Binary Tree from Preorder and Inorder Traversal | cpp |
 | 2026-10-26 | Codeforces | 2D Traveling | C++23 (GCC 14-64, msys2) |
+| 2026-10-25 | Codeforces | Building an Aquarium | C++23 (GCC 14-64, msys2) |
 | 2026-10-24 | Codeforces | Sequence Decreasing | C++23 (GCC 14-64, msys2) |
 | 2026-10-24 | Codeforces | Subset Selecting | C++23 (GCC 14-64, msys2) |
 | 2026-10-24 | Leetcode | Construct Binary Tree from Preorder and Inorder Traversal | cpp |
 | 2026-10-24 | Leetcode | Construct Binary Tree from Preorder and Inorder Traversal | cpp |
+| 2026-10-24 | Leetcode | Construct Binary Tree from Preorder and Inorder Traversal | cpp |
+| 2026-10-24 | Leetcode | Construct Binary Tree from Preorder and Inorder Traversal | cpp |
+| 2026-10-23 | Leetcode | Flatten Binary Tree to Linked List | cpp |
+| 2026-10-23 | Leetcode | Flatten Binary Tree to Linked List | cpp |
 | 2026-10-23 | Leetcode | Flatten Binary Tree to Linked List | cpp |
 | 2026-10-23 | Leetcode | Maximum Width of Binary Tree | cpp |
+| 2026-10-23 | Codeforces | Winner | C++23 (GCC 14-64, msys2) |
 | 2026-10-22 | Leetcode | Count Complete Tree Nodes | cpp |
+| 2026-10-22 | Leetcode | Count Complete Tree Nodes | cpp |
+| 2026-10-22 | Leetcode | All Nodes Distance K in Binary Tree | cpp |
 | 2026-10-22 | Leetcode | Maximum Width of Binary Tree | cpp |
+| 2026-10-22 | Codeforces | Potions (Easy Version) | C++23 (GCC 14-64, msys2) |
 | 2026-10-21 | Leetcode | Maximum Width of Binary Tree | cpp |
+| 2026-10-21 | Leetcode | Lowest Common Ancestor of a Binary Tree | cpp |
 | 2026-10-21 | Leetcode | Lowest Common Ancestor of a Binary Tree | cpp |
 | 2026-10-20 | Leetcode | Binary Tree Right Side View | cpp |
 | 2026-10-20 | Leetcode | Vertical Order Traversal of a Binary Tree | cpp |
+| 2026-10-20 | Leetcode | Vertical Order Traversal of a Binary Tree | cpp |
+| 2026-10-20 | Leetcode | Binary Tree Zigzag Level Order Traversal | cpp |
 | 2026-10-20 | Leetcode | Binary Tree Maximum Path Sum | cpp |
 | 2026-10-19 | Codeforces | Tenzing and Books | C++23 (GCC 14-64, msys2) |
+| 2026-10-19 | Leetcode | Symmetric Tree | cpp |
 | 2026-10-19 | Leetcode | Binary Tree Maximum Path Sum | cpp |
+| 2026-10-19 | Leetcode | Diameter of Binary Tree | cpp |
+| 2026-10-19 | Leetcode | Balanced Binary Tree | cpp |
 | 2026-10-19 | Leetcode | Balanced Binary Tree | cpp |
 | 2026-10-19 | Leetcode | Balanced Binary Tree | cpp |
 | 2026-10-19 | Leetcode | Same Tree | cpp |
+| 2026-10-19 | Leetcode | Same Tree | cpp |
+| 2026-10-18 | Leetcode | Maximum Depth of Binary Tree | cpp |
 | 2026-10-18 | Leetcode | Maximum Depth of Binary Tree | cpp |
 | 2026-10-18 | Leetcode | Binary Tree Level Order Traversal | cpp |
 | 2026-10-18 | Codeforces | Subsequence Addition (Hard Version) | C++23 (GCC 14-64, msys2) |
 | 2026-10-18 | Leetcode | Binary Tree Postorder Traversal | cpp |
+| 2026-10-18 | Leetcode | Binary Tree Inorder Traversal | cpp |
 | 2026-10-18 | Leetcode | Binary Tree Preorder Traversal | cpp |
 | 2026-10-17 | Codeforces | What's the Capital of France? | C++23 (GCC 14-64, msys2) |
 | 2026-10-17 | Codeforces | I Know About a Million Things | C++23 (GCC 14-64, msys2) |
 | 2026-10-17 | Codeforces | Hey, It's Me, Souvlakity | C++23 (GCC 14-64, msys2) |
+| 2026-10-17 | Codeforces | Anna and the Valentine's Day Gift | C++23 (GCC 14-64, msys2) |
+| 2026-10-17 | Codeforces | Shuffle | C++23 (GCC 14-64, msys2) |
 | 2026-10-16 | Codeforces | Coprime | C++23 (GCC 14-64, msys2) |
+| 2026-10-16 | Codeforces | AND Sorting | C++23 (GCC 14-64, msys2) |
+| 2026-10-15 | Codeforces | Subtract Operation | C++23 (GCC 14-64, msys2) |
+| 2026-10-15 | Codeforces | M-arrays | C++23 (GCC 14-64, msys2) |
 | 2026-10-15 | Codeforces | Divide and Equalize | C++23 (GCC 14-64, msys2) |
 | 2026-10-15 | Codeforces | Queue | C++23 (GCC 14-64, msys2) |
 | 2026-10-14 | Codeforces | Subarrays | C++23 (GCC 14-64, msys2) |
 | 2026-10-14 | Codeforces | Replace and Compress | C++23 (GCC 14-64, msys2) |
+| 2026-10-14 | Codeforces | Perfect Sandwiches | C++23 (GCC 14-64, msys2) |
 | 2026-10-14 | Codeforces | Exams | C++23 (GCC 14-64, msys2) |
+| 2026-10-14 | Codeforces | Random Teams | C++23 (GCC 14-64, msys2) |
+| 2026-10-12 | Leetcode | Coin Change II | cpp |
 | 2026-10-12 | Leetcode | Longest Common Subsequence | cpp |
 | 2026-10-12 | Leetcode | Score of Parentheses | cpp |
+| 2026-10-12 | Leetcode | Score of Parentheses | cpp |
 | 2026-10-12 | Leetcode | Frog Jump | cpp |
+| 2026-10-12 | Leetcode | Frog Jump | cpp |
+| 2026-10-11 | Leetcode | House Robber | cpp |
 | 2026-10-11 | Leetcode | Climbing Stairs | cpp |
+| 2026-10-11 | Codeforces | Omkar and Last Class of Math | C++23 (GCC 14-64, msys2) |
 | 2026-10-10 | Codeforces | XOR Problem | C++23 (GCC 14-64, msys2) |
 | 2026-10-10 | Codeforces | MEX Game | C++23 (GCC 14-64, msys2) |
 | 2026-10-10 | Codeforces | Robot Odd Moves | C++23 (GCC 14-64, msys2) |
 | 2026-10-10 | Leetcode | Sliding Window Maximum | cpp |
+| 2026-10-10 | Codeforces | Flip the Bits | C++23 (GCC 14-64, msys2) |
 | 2026-10-09 | Leetcode | Minimum Insertions to Balance a Parentheses String | cpp |
+| 2026-10-09 | Codeforces | Virus | C++23 (GCC 14-64, msys2) |
+| 2026-10-08 | Codeforces | Fun with Even Subarrays | C++23 (GCC 14-64, msys2) |
+| 2026-10-08 | Codeforces | Yet Another Card Deck | C++23 (GCC 14-64, msys2) |
 | 2026-10-07 | Codeforces | Unrequited Love | C++23 (GCC 14-64, msys2) |
 | 2026-10-07 | Codeforces | Did Not Go to Print | C++23 (GCC 14-64, msys2) |
 | 2026-10-07 | Codeforces | In Search of Convenience | C++23 (GCC 14-64, msys2) |
+| 2026-10-06 | Codeforces | Difference of GCDs | C++23 (GCC 14-64, msys2) |
 | 2026-10-06 | Leetcode | Implement Queue using Stacks | cpp |
+| 2026-10-06 | Leetcode | Next Greater Element I | cpp |
 | 2026-10-06 | Leetcode | Daily Temperatures | cpp |
 | 2026-10-06 | Leetcode | Valid Parentheses | cpp |
 | 2026-10-05 | Codeforces | Li Hua and Pattern | C++23 (GCC 14-64, msys2) |
+| 2026-10-05 | Codeforces | Sort the Subarray | C++23 (GCC 14-64, msys2) |
+| 2026-10-05 | Codeforces | Paint the Array | C++23 (GCC 14-64, msys2) |
+| 2026-10-02 | Leetcode | Generate Parentheses | cpp |
+| 2026-10-02 | Codeforces | Kalindrome Array | C++23 (GCC 14-64, msys2) |
+| 2026-10-01 | Codeforces | Eating Candies | C++23 (GCC 14-64, msys2) |
 | 2026-10-01 | Leetcode | Valid Parentheses | cpp |
 | 2026-10-01 | Codeforces | JoJo's Incredible Adventures | C++23 (GCC 14-64, msys2) |
+| 2026-09-30 | Codeforces | Erase First or Second Letter | C++23 (GCC 14-64, msys2) |
+| 2026-09-30 | Codeforces | Quests | C++23 (GCC 14-64, msys2) |
 | 2026-09-29 | Codeforces | Kill Demodogs | C++23 (GCC 14-64, msys2) |
+| 2026-09-27 | Codeforces | Counting Orders | C++23 (GCC 14-64, msys2) |
+| 2026-09-27 | Codeforces | Maximum Sum | C++23 (GCC 14-64, msys2) |
+| 2026-09-26 | Codeforces | Lunatic Never Content | C++23 (GCC 14-64, msys2) |
 | 2026-09-26 | Codeforces | KiaKio and Squared Numbers | C++23 (GCC 14-64, msys2) |
 | 2026-09-26 | Codeforces | SauSaGe Bank | C++23 (GCC 14-64, msys2) |
+| 2026-09-26 | Codeforces | MEX Multiset | C++23 (GCC 14-64, msys2) |
 | 2026-09-25 | Codeforces | GCD Treasury | C++23 (GCC 14-64, msys2) |
 | 2026-09-25 | Codeforces | Fashionable Array | C++23 (GCC 14-64, msys2) |
 | 2026-09-25 | Codeforces | Turn Into a Palindrome | C++23 (GCC 14-64, msys2) |
 | 2026-09-21 | Codeforces | AND, OR, Sort! | C++23 (GCC 14-64, msys2) |
 | 2026-09-21 | Codeforces | Three Piles | C++23 (GCC 14-64, msys2) |
 | 2026-09-21 | Codeforces | Good Contest | C++23 (GCC 14-64, msys2) |
+| 2026-09-20 | Leetcode | Reverse Degree of a String | cpp |
 | 2026-09-20 | Codeforces | Maximum Median | C++23 (GCC 14-64, msys2) |
 | 2026-09-17 | Leetcode | Online Majority Element In Subarray | cpp |
 | 2026-09-15 | Leetcode | Reconstruct Original Digits from English | cpp |
@@ -99,13 +158,17 @@ A complete history of all accepted submissions synced by L'Amigo.
 | 2026-09-12 | Codeforces | Min Max Game | C++23 (GCC 14-64, msys2) |
 | 2026-09-12 | Leetcode | Count the Number of Special Characters II | cpp |
 | 2026-09-11 | Leetcode | Count Vowel Strings in Ranges | cpp |
+| 2026-09-11 | Codeforces | Stone Age Problem | C++23 (GCC 14-64, msys2) |
 | 2026-09-09 | Codeforces | Friends and the Restaurant | C++23 (GCC 14-64, msys2) |
 | 2026-09-08 | Codeforces | Monocarp and Projects | C++23 (GCC 14-64, msys2) |
+| 2026-09-08 | Codeforces | Monocarp's Contest | C++23 (GCC 14-64, msys2) |
 | 2026-09-08 | Codeforces | Dreaming of Freedom | C++23 (GCC 14-64, msys2) |
 | 2026-09-05 | Leetcode | Removing Stars From a String | cpp |
 | 2026-09-05 | Leetcode | Build an Array With Stack Operations | cpp |
 | 2026-09-04 | Leetcode | Total Distance Traveled | cpp |
 | 2026-09-02 | Leetcode | Permutations II | cpp |
+| 2026-09-02 | Leetcode | Permutations II | cpp |
+| 2026-09-02 | Leetcode | Construct Uniform Parity Array I | cpp |
 | 2026-09-02 | Leetcode | Permutations | cpp |
 | 2026-09-01 | Leetcode | Splitting a String Into Descending Consecutive Values | cpp |
 | 2026-09-01 | Leetcode | Split a String Into the Max Number of Unique Substrings | cpp |
@@ -115,14 +178,18 @@ A complete history of all accepted submissions synced by L'Amigo.
 | 2026-08-30 | Leetcode | Palindrome Partitioning | cpp |
 | 2026-08-30 | Leetcode | Combination Sum III | cpp |
 | 2026-08-24 | Leetcode | Generate Parentheses | cpp |
+| 2026-08-24 | Leetcode | Combination Sum II | cpp |
 | 2026-08-24 | Leetcode | Combination Sum | cpp |
 | 2026-08-21 | Leetcode | Combinations | cpp |
+| 2026-08-20 | Leetcode | Combination Sum II | cpp |
 | 2026-08-20 | Leetcode | Subsets II | cpp |
+| 2026-08-18 | Leetcode | Letter Case Permutation | cpp |
 | 2026-08-18 | Leetcode | Find All Anagrams in a String | cpp |
 | 2026-08-17 | Codeforces | Gigantomachy | C++23 (GCC 14-64, msys2) |
 | 2026-08-17 | Codeforces | Creating Abbreviations | C++23 (GCC 14-64, msys2) |
 | 2026-08-17 | Leetcode | Subsets | cpp |
 | 2026-08-15 | Leetcode | Minimum Window Substring | cpp |
+| 2026-08-15 | Codeforces | Cat Cycle | C++23 (GCC 14-64, msys2) |
 | 2026-07-26 | Codeforces | String Construction | C++23 (GCC 14-64, msys2) |
 | 2026-07-26 | Codeforces | Threshold Movement | C++23 (GCC 14-64, msys2) |
 | 2026-07-22 | Leetcode | Asteroid Collision | cpp |
@@ -132,15 +199,21 @@ A complete history of all accepted submissions synced by L'Amigo.
 | 2026-07-20 | Leetcode | Valid Parentheses | cpp |
 | 2026-07-16 | Codeforces | Delete and Concatenate | C++23 (GCC 14-64, msys2) |
 | 2026-07-16 | Codeforces | Who Watches the Watchpig? | C++23 (GCC 14-64, msys2) |
+| 2026-07-15 | Codeforces | Make Them Equal | C++23 (GCC 14-64, msys2) |
 | 2026-07-14 | Codeforces | Stepan and Permutation | C++23 (GCC 14-64, msys2) |
 | 2026-07-14 | Codeforces | Nikita and Books | C++23 (GCC 14-64, msys2) |
 | 2026-07-14 | Codeforces | Iskander and Drawings | C++23 (GCC 14-64, msys2) |
+| 2026-07-13 | Codeforces | Dolce Vita | C++23 (GCC 14-64, msys2) |
 | 2026-07-12 | Codeforces | ezraft and Array | C++23 (GCC 14-64, msys2) |
 | 2026-07-12 | Codeforces | farmpiggie and Subset Sum | C++23 (GCC 14-64, msys2) |
+| 2026-07-09 | Codeforces | Assembly via Minimums | C++23 (GCC 14-64, msys2) |
+| 2026-07-08 | Codeforces | Sum of Round Numbers | C++23 (GCC 14-64, msys2) |
 | 2026-07-06 | Codeforces | Predominant Frequency Division | C++23 (GCC 14-64, msys2) |
 | 2026-07-06 | Codeforces | Bigrams | C++23 (GCC 14-64, msys2) |
 | 2026-07-05 | Codeforces | Simple Strings | C++23 (GCC 14-64, msys2) |
 | 2026-07-05 | Leetcode | Sum of Integers with Maximum Digit Range | cpp |
+| 2026-07-04 | Codeforces | Matryoshkas | C++23 (GCC 14-64, msys2) |
+| 2026-07-04 | Codeforces | Dora and Search | C++23 (GCC 14-64, msys2) |
 | 2026-07-03 | Codeforces | Playing in a Casino | C++23 (GCC 14-64, msys2) |
 | 2026-07-03 | Codeforces | Contrast Value | C++23 (GCC 14-64, msys2) |
 | 2026-06-30 | Codeforces | Good times Good times | C++23 (GCC 14-64, msys2) |
