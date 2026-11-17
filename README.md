@@ -3,8 +3,8 @@
 Showcasing my Data Structures, Algorithms, and Competitive Programming solutions synced automatically by [L'Amigo](https://github.com/FTS18/l-amigo).
 
 <p align="center">
-  <img src="https://img.shields.io/badge/LeetCode-253_Solved-FFA116?style=for-the-badge&logo=leetcode" alt="LeetCode" />
-  <img src="https://img.shields.io/badge/Codeforces-264_Solved-1F8ACB?style=for-the-badge&logo=codeforces" alt="Codeforces" />
+  <img src="https://img.shields.io/badge/LeetCode-262_Solved-FFA116?style=for-the-badge&logo=leetcode" alt="LeetCode" />
+  <img src="https://img.shields.io/badge/Codeforces-305_Solved-1F8ACB?style=for-the-badge&logo=codeforces" alt="Codeforces" />
   <img src="https://img.shields.io/badge/CSES-0_Solved-000000?style=for-the-badge&logo=code" alt="CSES" />
   <img src="https://img.shields.io/badge/GeeksforGeeks-0_Solved-2F8D46?style=for-the-badge&logo=geeksforgeeks" alt="GeeksforGeeks" />
 </p>
@@ -13,23 +13,23 @@ Showcasing my Data Structures, Algorithms, and Competitive Programming solutions
 
 | Platform | Solved Count | Solutions Tracked |
 | :--- | :---: | :--- |
-| **LeetCode** | 253 | [ `/LeetCode`](./LeetCode) |
-| **Codeforces** | 264 | [ `/Codeforces`](./Codeforces) |
+| **LeetCode** | 262 | [ `/LeetCode`](./LeetCode) |
+| **Codeforces** | 305 | [ `/Codeforces`](./Codeforces) |
 | **CSES Problemset** | 0 | [ `/CSES`](./CSES) |
 | **GeeksforGeeks** | 0 | [ `/GeeksForGeeks`](./GeeksForGeeks) |
-| **Total Solved** | **517** | [ `submission_history.json`](./submission_history.json) |
+| **Total Solved** | **567** | [ `submission_history.json`](./submission_history.json) |
 
 ## Codeforces Rating Breakdown
 
 | Rating Bracket | Problems Solved |
 | :--- | :---: |
-| **<= 900** | 125 |
-| **1000 - 1100** | 68 |
-| **1200 - 1300** | 20 |
-| **1400 - 1500** | 3 |
+| **<= 900** | 129 |
+| **1000 - 1100** | 84 |
+| **1200 - 1300** | 35 |
+| **1400 - 1500** | 7 |
 | **1600 - 1800** | 0 |
 | **1900+** | 0 |
-| **Unrated** | 48 |
+| **Unrated** | 50 |
 
 ## LeetCode Progress Dashboard
 
@@ -76,13 +76,17 @@ Showcasing my Data Structures, Algorithms, and Competitive Programming solutions
 | Codeforces | [Add and Divide](https://codeforces.com/contest/1485/problem/A) | C++23 (GCC 14-64, msys2) | [View Solution](./Codeforces/1485/A) |
 | LeetCode | [Add Two Integers](https://leetcode.com/problems/add-two-integers/) | cpp | [View Solution](./LeetCode/Easy/2235-add-two-integers) |
 | LeetCode | [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/) | cpp | [View Solution](./LeetCode/Medium/2-add-two-numbers) |
+| LeetCode | [All Nodes Distance K in Binary Tree](https://leetcode.com/problems/all-nodes-distance-k-in-binary-tree/) | cpp | [View Solution](./LeetCode/Unknown/all-nodes-distance-k-in-binary-tree) |
 | Codeforces | [Alternating Series](https://codeforces.com/contest/2131/problem/B) | C++23 (GCC 14-64, msys2) | [View Solution](./Codeforces/2131/B) |
 | Codeforces | [Ambitious Kid](https://codeforces.com/contest/1866/problem/A) | C++20 (GCC 13-64) | [View Solution](./Codeforces/1866/A) |
 | Codeforces | [An Alternative Way](https://codeforces.com/contest/2241/problem/D) | C++23 (GCC 14-64, msys2) | [View Solution](./Codeforces/2241/D) |
+| Codeforces | [AND Sorting](https://codeforces.com/contest/1682/problem/B) | C++23 (GCC 14-64, msys2) | [View Solution](./Codeforces/1682/B) |
 | Codeforces | [AND, OR, Sort!](https://codeforces.com/contest/2266/problem/C) | C++23 (GCC 14-64, msys2) | [View Solution](./Codeforces/2266/C) |
+| Codeforces | [Anna and the Valentine's Day Gift](https://codeforces.com/contest/1931/problem/E) | C++23 (GCC 14-64, msys2) | [View Solution](./Codeforces/1931/E) |
 | Codeforces | [Array Cloning Technique](https://codeforces.com/contest/1665/problem/B) | C++23 (GCC 14-64, msys2) | [View Solution](./Codeforces/1665/B) |
 | Codeforces | [Array Coloring](https://codeforces.com/contest/1857/problem/A) | C++20 (GCC 13-64) | [View Solution](./Codeforces/1857/A) |
 | Codeforces | [Array merging](https://codeforces.com/contest/1831/problem/B) | C++23 (GCC 14-64, msys2) | [View Solution](./Codeforces/1831/B) |
+| Codeforces | [Assembly via Minimums](https://codeforces.com/contest/1857/problem/C) | C++23 (GCC 14-64, msys2) | [View Solution](./Codeforces/1857/C) |
 | LeetCode | [Assign Cookies](https://leetcode.com/problems/assign-cookies/) | cpp | [View Solution](./LeetCode/Easy/455-assign-cookies) |
 | LeetCode | [Asteroid Collision](https://leetcode.com/problems/asteroid-collision/) | cpp | [View Solution](./LeetCode/Medium/735-asteroid-collision) |
 | Codeforces | [AvtoBus](https://codeforces.com/contest/1679/problem/A) | C++17 (GCC 7-32) | [View Solution](./Codeforces/1679/A) |
@@ -109,6 +113,7 @@ Showcasing my Data Structures, Algorithms, and Competitive Programming solutions
 | LeetCode | [Binary Tree Postorder Traversal](https://leetcode.com/problems/binary-tree-postorder-traversal/) | cpp | [View Solution](./LeetCode/Easy/145-binary-tree-postorder-traversal) |
 | LeetCode | [Binary Tree Preorder Traversal](https://leetcode.com/problems/binary-tree-preorder-traversal/) | cpp | [View Solution](./LeetCode/Easy/144-binary-tree-preorder-traversal) |
 | LeetCode | [Binary Tree Right Side View](https://leetcode.com/problems/binary-tree-right-side-view/) | cpp | [View Solution](./LeetCode/Medium/199-binary-tree-right-side-view) |
+| LeetCode | [Binary Tree Zigzag Level Order Traversal](https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/) | cpp | [View Solution](./LeetCode/Unknown/binary-tree-zigzag-level-order-traversal) |
 | Codeforces | [Bit++](https://codeforces.com/contest/282/problem/A) | C++20 (GCC 13-64) | [View Solution](./Codeforces/282/A) |
 | Codeforces | [Black and White Stripe](https://codeforces.com/contest/1690/problem/D) | C++23 (GCC 14-64, msys2) | [View Solution](./Codeforces/1690/D) |
 | Codeforces | [Blank Space](https://codeforces.com/contest/1829/problem/B) | C++20 (GCC 13-64) | [View Solution](./Codeforces/1829/B) |
@@ -117,10 +122,13 @@ Showcasing my Data Structures, Algorithms, and Competitive Programming solutions
 | Codeforces | [Boy or Girl](https://codeforces.com/contest/236/problem/A) | C++20 (GCC 13-64) | [View Solution](./Codeforces/236/A) |
 | LeetCode | [Build an Array With Stack Operations](https://leetcode.com/problems/build-an-array-with-stack-operations/) | cpp | [View Solution](./LeetCode/Medium/1441-build-an-array-with-stack-operations) |
 | LeetCode | [Build Array from Permutation](https://leetcode.com/problems/build-array-from-permutation/) | cpp | [View Solution](./LeetCode/Easy/1920-build-array-from-permutation) |
+| Codeforces | [Building an Aquarium](https://codeforces.com/contest/1873/problem/E) | C++23 (GCC 14-64, msys2) | [View Solution](./Codeforces/1873/E) |
 | Codeforces | [Buttons](https://codeforces.com/contest/1858/problem/A) | C++20 (GCC 13-64) | [View Solution](./Codeforces/1858/A) |
 | Codeforces | [Buying Shovels](https://codeforces.com/contest/1360/problem/D) | C++23 (GCC 14-64, msys2) | [View Solution](./Codeforces/1360/D) |
 | Codeforces | [Buying Torches](https://codeforces.com/contest/1418/problem/A) | C++23 (GCC 14-64, msys2) | [View Solution](./Codeforces/1418/A) |
 | LeetCode | [Capacity To Ship Packages Within D Days](https://leetcode.com/problems/capacity-to-ship-packages-within-d-days/) | cpp | [View Solution](./LeetCode/Medium/1011-capacity-to-ship-packages-within-d-days) |
+| Codeforces | [Cardboard for Pictures](https://codeforces.com/contest/1850/problem/E) | C++23 (GCC 14-64, msys2) | [View Solution](./Codeforces/1850/E) |
+| Codeforces | [Cat Cycle](https://codeforces.com/contest/1487/problem/B) | C++23 (GCC 14-64, msys2) | [View Solution](./Codeforces/1487/B) |
 | Codeforces | [Cellular Network](https://codeforces.com/contest/702/problem/C) | C++23 (GCC 14-64, msys2) | [View Solution](./Codeforces/702/C) |
 | Codeforces | [Cheap Travel](https://codeforces.com/contest/466/problem/A) | C++23 (GCC 14-64, msys2) | [View Solution](./Codeforces/466/A) |
 | LeetCode | [Check Completeness of a Binary Tree](https://leetcode.com/problems/check-completeness-of-a-binary-tree/) | cpp | [View Solution](./LeetCode/Medium/958-check-completeness-of-a-binary-tree) |
@@ -134,13 +142,16 @@ Showcasing my Data Structures, Algorithms, and Competitive Programming solutions
 | Codeforces | [Coins](https://codeforces.com/contest/1814/problem/A) | C++20 (GCC 13-64) | [View Solution](./Codeforces/1814/A) |
 | Codeforces | [Collecting Game](https://codeforces.com/contest/1904/problem/B) | C++23 (GCC 14-64, msys2) | [View Solution](./Codeforces/1904/B) |
 | LeetCode | [Combination Sum](https://leetcode.com/problems/combination-sum/) | cpp | [View Solution](./LeetCode/Medium/39-combination-sum) |
+| LeetCode | [Combination Sum II](https://leetcode.com/problems/combination-sum-ii/) | cpp | [View Solution](./LeetCode/Unknown/combination-sum-ii) |
 | LeetCode | [Combination Sum III](https://leetcode.com/problems/combination-sum-iii/) | cpp | [View Solution](./LeetCode/Medium/216-combination-sum-iii) |
 | LeetCode | [Combinations](https://leetcode.com/problems/combinations/) | cpp | [View Solution](./LeetCode/Medium/77-combinations) |
 | Codeforces | [Comparison String](https://codeforces.com/contest/1837/problem/B) | C++23 (GCC 14-64, msys2) | [View Solution](./Codeforces/1837/B) |
 | LeetCode | [Concatenate Array With Reverse](https://leetcode.com/problems/concatenate-array-with-reverse/) | cpp | [View Solution](./LeetCode/Easy/3925-concatenate-array-with-reverse) |
 | LeetCode | [Concatenation of Array](https://leetcode.com/problems/concatenation-of-array/) | cpp | [View Solution](./LeetCode/Easy/1929-concatenation-of-array) |
 | LeetCode | [Construct Binary Search Tree from Preorder Traversal](https://leetcode.com/problems/construct-binary-search-tree-from-preorder-traversal/) | cpp | [View Solution](./LeetCode/Medium/1008-construct-binary-search-tree-from-preorder-traversal) |
+| LeetCode | [Construct Binary Tree from Inorder and Postorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-inorder-and-postorder-traversal/) | cpp | [View Solution](./LeetCode/Unknown/construct-binary-tree-from-inorder-and-postorder-traversal) |
 | LeetCode | [Construct Binary Tree from Preorder and Inorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/) | cpp | [View Solution](./LeetCode/Medium/105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| LeetCode | [Construct Uniform Parity Array I](https://leetcode.com/problems/construct-uniform-parity-array-i/) | cpp | [View Solution](./LeetCode/Unknown/construct-uniform-parity-array-i) |
 | LeetCode | [Contains Duplicate II](https://leetcode.com/problems/contains-duplicate-ii/) | cpp | [View Solution](./LeetCode/Easy/219-contains-duplicate-ii) |
 | Codeforces | [Contrast Value](https://codeforces.com/contest/1832/problem/C) | C++23 (GCC 14-64, msys2) | [View Solution](./Codeforces/1832/C) |
 | LeetCode | [Convert Binary Number in a Linked List to Integer](https://leetcode.com/problems/convert-binary-number-in-a-linked-list-to-integer/) | cpp | [View Solution](./LeetCode/Easy/1290-convert-binary-number-in-a-linked-list-to-integer) |
@@ -156,6 +167,7 @@ Showcasing my Data Structures, Algorithms, and Competitive Programming solutions
 | LeetCode | [Count the Number of Special Characters II](https://leetcode.com/problems/count-the-number-of-special-characters-ii/) | cpp | [View Solution](./LeetCode/Medium/3121-count-the-number-of-special-characters-ii) |
 | LeetCode | [Count Unguarded Cells in the Grid](https://leetcode.com/problems/count-unguarded-cells-in-the-grid/) | cpp | [View Solution](./LeetCode/Medium/2257-count-unguarded-cells-in-the-grid) |
 | LeetCode | [Count Vowel Strings in Ranges](https://leetcode.com/problems/count-vowel-strings-in-ranges/) | cpp | [View Solution](./LeetCode/Medium/2559-count-vowel-strings-in-ranges) |
+| Codeforces | [Counting Orders](https://codeforces.com/contest/1827/problem/A) | C++23 (GCC 14-64, msys2) | [View Solution](./Codeforces/1827/A) |
 | Codeforces | [Cover in Water](https://codeforces.com/contest/1900/problem/A) | C++20 (GCC 13-64) | [View Solution](./Codeforces/1900/A) |
 | Codeforces | [Creating Abbreviations](https://codeforces.com/contest/2257/problem/A) | C++23 (GCC 14-64, msys2) | [View Solution](./Codeforces/2257/A) |
 | LeetCode | [Daily Temperatures](https://leetcode.com/problems/daily-temperatures/) | cpp | [View Solution](./LeetCode/Medium/739-daily-temperatures) |
@@ -171,6 +183,7 @@ Showcasing my Data Structures, Algorithms, and Competitive Programming solutions
 | Codeforces | [Destruction of the Dandelion Fields](https://codeforces.com/contest/2148/problem/D) | C++23 (GCC 14-64, msys2) | [View Solution](./Codeforces/2148/D) |
 | LeetCode | [Diameter of Binary Tree](https://leetcode.com/problems/diameter-of-binary-tree/) | cpp | [View Solution](./LeetCode/Easy/543-diameter-of-binary-tree) |
 | Codeforces | [Did Not Go to Print](https://codeforces.com/contest/2275/problem/B) | C++23 (GCC 14-64, msys2) | [View Solution](./Codeforces/2275/B) |
+| Codeforces | [Difference of GCDs](https://codeforces.com/contest/1708/problem/B) | C++23 (GCC 14-64, msys2) | [View Solution](./Codeforces/1708/B) |
 | Codeforces | [Different Divisors](https://codeforces.com/contest/1474/problem/B) | C++23 (GCC 14-64, msys2) | [View Solution](./Codeforces/1474/B) |
 | Codeforces | [Dima and Friends](https://codeforces.com/contest/272/problem/A) | C++20 (GCC 13-64) | [View Solution](./Codeforces/272/A) |
 | Codeforces | [Distinct Split](https://codeforces.com/contest/1791/problem/D) | C++23 (GCC 14-64, msys2) | [View Solution](./Codeforces/1791/D) |
@@ -181,15 +194,19 @@ Showcasing my Data Structures, Algorithms, and Competitive Programming solutions
 | LeetCode | [Divide Two Integers](https://leetcode.com/problems/divide-two-integers/) | cpp | [View Solution](./LeetCode/Medium/29-divide-two-integers) |
 | LeetCode | [Divisible and Non-divisible Sums Difference](https://leetcode.com/problems/divisible-and-non-divisible-sums-difference/) | cpp | [View Solution](./LeetCode/Easy/2894-divisible-and-non-divisible-sums-difference) |
 | Codeforces | [Divisible Permutation](https://codeforces.com/contest/2188/problem/A) | C++23 (GCC 14-64, msys2) | [View Solution](./Codeforces/2188/A) |
+| Codeforces | [Dolce Vita](https://codeforces.com/contest/1671/problem/C) | C++23 (GCC 14-64, msys2) | [View Solution](./Codeforces/1671/C) |
 | Codeforces | [Don't Try to Count](https://codeforces.com/contest/1881/problem/A) | C++20 (GCC 13-64) | [View Solution](./Codeforces/1881/A) |
+| Codeforces | [Dora and Search](https://codeforces.com/contest/1793/problem/C) | C++23 (GCC 14-64, msys2) | [View Solution](./Codeforces/1793/C) |
 | Codeforces | [Doremy's Paint 3](https://codeforces.com/contest/1890/problem/A) | C++20 (GCC 13-64) | [View Solution](./Codeforces/1890/A) |
 | Codeforces | [Double-ended Strings](https://codeforces.com/contest/1506/problem/C) | C++23 (GCC 14-64, msys2) | [View Solution](./Codeforces/1506/C) |
 | Codeforces | [Dreaming of Freedom](https://codeforces.com/contest/1826/problem/C) | C++23 (GCC 14-64, msys2) | [View Solution](./Codeforces/1826/C) |
 | Codeforces | [Duck Surplus](https://codeforces.com/contest/2237/problem/C) | C++23 (GCC 14-64, msys2) | [View Solution](./Codeforces/2237/C) |
+| Codeforces | [Eating Candies](https://codeforces.com/contest/1669/problem/F) | C++23 (GCC 14-64, msys2) | [View Solution](./Codeforces/1669/F) |
 | Codeforces | [Effective Approach](https://codeforces.com/contest/227/problem/B) | C++20 (GCC 13-64) | [View Solution](./Codeforces/227/B) |
 | Codeforces | [Elephant](https://codeforces.com/contest/617/problem/A) | C++20 (GCC 13-64) | [View Solution](./Codeforces/617/A) |
 | Codeforces | [Equal Occurrences](https://codeforces.com/contest/2146/problem/A) | C++23 (GCC 14-64, msys2) | [View Solution](./Codeforces/2146/A) |
 | LeetCode | [Equal Score Substrings](https://leetcode.com/problems/equal-score-substrings/) | cpp | [View Solution](./LeetCode/Easy/3707-equal-score-substrings) |
+| Codeforces | [Erase First or Second Letter](https://codeforces.com/contest/1917/problem/B) | C++23 (GCC 14-64, msys2) | [View Solution](./Codeforces/1917/B) |
 | Codeforces | [Even Modulo Pair](https://codeforces.com/contest/2164/problem/B) | C++23 (GCC 14-64, msys2) | [View Solution](./Codeforces/2164/B) |
 | Codeforces | [Even Odds](https://codeforces.com/contest/318/problem/A) | C++20 (GCC 13-64) | [View Solution](./Codeforces/318/A) |
 | Codeforces | [Everybody Likes Good Arrays!](https://codeforces.com/contest/1777/problem/A) | C++20 (GCC 13-64) | [View Solution](./Codeforces/1777/A) |
@@ -223,6 +240,7 @@ Showcasing my Data Structures, Algorithms, and Competitive Programming solutions
 | LeetCode | [First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string/) | cpp | [View Solution](./LeetCode/Easy/387-first-unique-character-in-a-string) |
 | LeetCode | [Flatten Binary Tree to Linked List](https://leetcode.com/problems/flatten-binary-tree-to-linked-list/) | cpp | [View Solution](./LeetCode/Medium/114-flatten-binary-tree-to-linked-list) |
 | Codeforces | [Flip Flops](https://codeforces.com/contest/2209/problem/A) | C++23 (GCC 14-64, msys2) | [View Solution](./Codeforces/2209/A) |
+| Codeforces | [Flip the Bits](https://codeforces.com/contest/1504/problem/B) | C++23 (GCC 14-64, msys2) | [View Solution](./Codeforces/1504/B) |
 | LeetCode | [Flood Fill](https://leetcode.com/problems/flood-fill/) | cpp | [View Solution](./LeetCode/Easy/733-flood-fill) |
 | Codeforces | [Forbidden Integer](https://codeforces.com/contest/1845/problem/A) | C++20 (GCC 13-64) | [View Solution](./Codeforces/1845/A) |
 | Codeforces | [Forked!](https://codeforces.com/contest/1904/problem/A) | C++23 (GCC 14-64, msys2) | [View Solution](./Codeforces/1904/A) |
@@ -232,6 +250,7 @@ Showcasing my Data Structures, Algorithms, and Competitive Programming solutions
 | LeetCode | [Frog Jump](https://leetcode.com/problems/frog-jump/) | cpp | [View Solution](./LeetCode/Hard/403-frog-jump) |
 | Codeforces | [Frogs Jump](https://codeforces.com/contest/2272/problem/B) | C++23 (GCC 14-64, msys2) | [View Solution](./Codeforces/2272/B) |
 | LeetCode | [Fruit Into Baskets](https://leetcode.com/problems/fruit-into-baskets/) | cpp | [View Solution](./LeetCode/Medium/904-fruit-into-baskets) |
+| Codeforces | [Fun with Even Subarrays](https://codeforces.com/contest/1631/problem/B) | C++23 (GCC 14-64, msys2) | [View Solution](./Codeforces/1631/B) |
 | Codeforces | [Game with Integers](https://codeforces.com/contest/1899/problem/A) | C++20 (GCC 13-64) | [View Solution](./Codeforces/1899/A) |
 | Codeforces | [GCD Partition](https://codeforces.com/contest/1780/problem/B) | C++23 (GCC 14-64, msys2) | [View Solution](./Codeforces/1780/B) |
 | Codeforces | [GCD Treasury](https://codeforces.com/contest/2267/problem/C) | C++23 (GCC 14-64, msys2) | [View Solution](./Codeforces/2267/C) |
@@ -249,6 +268,7 @@ Showcasing my Data Structures, Algorithms, and Competitive Programming solutions
 | Codeforces | [Hexadecimal's theorem](https://codeforces.com/contest/199/problem/A) | C++20 (GCC 13-64) | [View Solution](./Codeforces/199/A) |
 | Codeforces | [Hey, It's Me, Souvlakity](https://codeforces.com/contest/2261/problem/A) | C++23 (GCC 14-64, msys2) | [View Solution](./Codeforces/2261/A) |
 | Codeforces | [Homework](https://codeforces.com/contest/2132/problem/A) | C++23 (GCC 14-64, msys2) | [View Solution](./Codeforces/2132/A) |
+| LeetCode | [House Robber](https://leetcode.com/problems/house-robber/) | cpp | [View Solution](./LeetCode/Unknown/house-robber) |
 | Codeforces | [How Much Does Daytona Cost?](https://codeforces.com/contest/1878/problem/A) | C++20 (GCC 13-64) | [View Solution](./Codeforces/1878/A) |
 | Codeforces | [I Know About a Million Things](https://codeforces.com/contest/2261/problem/C) | C++23 (GCC 14-64, msys2) | [View Solution](./Codeforces/2261/C) |
 | Codeforces | [I Will Definitely Make It](https://codeforces.com/contest/2126/problem/C) | C++20 (GCC 13-64) | [View Solution](./Codeforces/2126/C) |
@@ -271,6 +291,8 @@ Showcasing my Data Structures, Algorithms, and Competitive Programming solutions
 | LeetCode | [Jump Game II](https://leetcode.com/problems/jump-game-ii/) | cpp | [View Solution](./LeetCode/Medium/45-jump-game-ii) |
 | Codeforces | [Jzzhu and Children](https://codeforces.com/contest/450/problem/A) | C++20 (GCC 13-64) | [View Solution](./Codeforces/450/A) |
 | LeetCode | [K Closest Points to Origin](https://leetcode.com/problems/k-closest-points-to-origin/) | cpp | [View Solution](./LeetCode/Medium/973-k-closest-points-to-origin) |
+| Codeforces | [K Is Important](https://codeforces.com/contest/2268/problem/A) | C++23 (GCC 14-64, msys2) | [View Solution](./Codeforces/2268/A) |
+| Codeforces | [Kalindrome Array](https://codeforces.com/contest/1610/problem/B) | C++23 (GCC 14-64, msys2) | [View Solution](./Codeforces/1610/B) |
 | Codeforces | [KiaKio and Squared Numbers](https://codeforces.com/contest/2269/problem/B) | C++23 (GCC 14-64, msys2) | [View Solution](./Codeforces/2269/B) |
 | Codeforces | [Kill Demodogs](https://codeforces.com/contest/1731/problem/B) | C++23 (GCC 14-64, msys2) | [View Solution](./Codeforces/1731/B) |
 | LeetCode | [Koko Eating Bananas](https://leetcode.com/problems/koko-eating-bananas/) | cpp | [View Solution](./LeetCode/Medium/875-koko-eating-bananas) |
@@ -283,6 +305,7 @@ Showcasing my Data Structures, Algorithms, and Competitive Programming solutions
 | Codeforces | [Lasers](https://codeforces.com/contest/2148/problem/B) | C++23 (GCC 14-64, msys2) | [View Solution](./Codeforces/2148/B) |
 | Codeforces | [Left-handers, Right-handers and Ambidexters](https://codeforces.com/contest/950/problem/A) | C++17 (GCC 7-32) | [View Solution](./Codeforces/950/A) |
 | LeetCode | [Lemonade Change](https://leetcode.com/problems/lemonade-change/) | cpp | [View Solution](./LeetCode/Easy/860-lemonade-change) |
+| LeetCode | [Letter Case Permutation](https://leetcode.com/problems/letter-case-permutation/) | cpp | [View Solution](./LeetCode/Unknown/letter-case-permutation) |
 | Codeforces | [Lever](https://codeforces.com/contest/2131/problem/A) | C++23 (GCC 14-64, msys2) | [View Solution](./Codeforces/2131/A) |
 | Codeforces | [Li Hua and Pattern](https://codeforces.com/contest/1797/problem/B) | C++23 (GCC 14-64, msys2) | [View Solution](./Codeforces/1797/B) |
 | Codeforces | [Line Trip](https://codeforces.com/contest/1901/problem/A) | Java 21 | [View Solution](./Codeforces/1901/A) |
@@ -302,7 +325,9 @@ Showcasing my Data Structures, Algorithms, and Competitive Programming solutions
 | LeetCode | [Lowest Common Ancestor of a Binary Search Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/) | cpp | [View Solution](./LeetCode/Medium/235-lowest-common-ancestor-of-a-binary-search-tree) |
 | LeetCode | [Lowest Common Ancestor of a Binary Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/) | cpp | [View Solution](./LeetCode/Medium/236-lowest-common-ancestor-of-a-binary-tree) |
 | Codeforces | [Luke is a Foodie](https://codeforces.com/contest/1704/problem/B) | C++23 (GCC 14-64, msys2) | [View Solution](./Codeforces/1704/B) |
+| Codeforces | [Lunatic Never Content](https://codeforces.com/contest/1826/problem/B) | C++23 (GCC 14-64, msys2) | [View Solution](./Codeforces/1826/B) |
 | Codeforces | [Luntik and Subsequences](https://codeforces.com/contest/1582/problem/B) | C++23 (GCC 14-64, msys2) | [View Solution](./Codeforces/1582/B) |
+| Codeforces | [M-arrays](https://codeforces.com/contest/1497/problem/B) | C++23 (GCC 14-64, msys2) | [View Solution](./Codeforces/1497/B) |
 | Codeforces | [Mainak and Array](https://codeforces.com/contest/1726/problem/A) | C++23 (GCC 14-64, msys2) | [View Solution](./Codeforces/1726/A) |
 | LeetCode | [Majority Element](https://leetcode.com/problems/majority-element/) | cpp | [View Solution](./LeetCode/Easy/169-majority-element) |
 | LeetCode | [Majority Element II](https://leetcode.com/problems/majority-element-ii/) | cpp | [View Solution](./LeetCode/Medium/229-majority-element-ii) |
@@ -311,6 +336,9 @@ Showcasing my Data Structures, Algorithms, and Competitive Programming solutions
 | Codeforces | [Make it Divisible by 25](https://codeforces.com/contest/1593/problem/B) | C++23 (GCC 14-64, msys2) | [View Solution](./Codeforces/1593/B) |
 | Codeforces | [Make It Increasing](https://codeforces.com/contest/1675/problem/B) | C++17 (GCC 7-32) | [View Solution](./Codeforces/1675/B) |
 | Codeforces | [Make It Zero](https://codeforces.com/contest/1869/problem/A) | C++23 (GCC 14-64, msys2) | [View Solution](./Codeforces/1869/A) |
+| Codeforces | [Make Them Equal](https://codeforces.com/contest/1594/problem/C) | C++23 (GCC 14-64, msys2) | [View Solution](./Codeforces/1594/C) |
+| Codeforces | [Math and Physics](https://codeforces.com/contest/2278/problem/C) | C++23 (GCC 14-64, msys2) | [View Solution](./Codeforces/2278/C) |
+| Codeforces | [Matryoshkas](https://codeforces.com/contest/1790/problem/D) | C++23 (GCC 14-64, msys2) | [View Solution](./Codeforces/1790/D) |
 | LeetCode | [Max Consecutive Ones](https://leetcode.com/problems/max-consecutive-ones/) | cpp | [View Solution](./LeetCode/Easy/485-max-consecutive-ones) |
 | LeetCode | [Max Consecutive Ones III](https://leetcode.com/problems/max-consecutive-ones-iii/) | cpp | [View Solution](./LeetCode/Medium/1004-max-consecutive-ones-iii) |
 | Codeforces | [Maximize One MEX](https://codeforces.com/contest/2272/problem/A) | C++23 (GCC 14-64, msys2) | [View Solution](./Codeforces/2272/A) |
@@ -325,6 +353,7 @@ Showcasing my Data Structures, Algorithms, and Competitive Programming solutions
 | LeetCode | [Maximum Points You Can Obtain from Cards](https://leetcode.com/problems/maximum-points-you-can-obtain-from-cards/) | cpp | [View Solution](./LeetCode/Medium/1423-maximum-points-you-can-obtain-from-cards) |
 | LeetCode | [Maximum Product Subarray](https://leetcode.com/problems/maximum-product-subarray/) | cpp | [View Solution](./LeetCode/Medium/152-maximum-product-subarray) |
 | LeetCode | [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/) | cpp | [View Solution](./LeetCode/Medium/53-maximum-subarray) |
+| Codeforces | [Maximum Sum](https://codeforces.com/contest/1832/problem/B) | C++23 (GCC 14-64, msys2) | [View Solution](./Codeforces/1832/B) |
 | LeetCode | [Maximum Width of Binary Tree](https://leetcode.com/problems/maximum-width-of-binary-tree/) | cpp | [View Solution](./LeetCode/Medium/662-maximum-width-of-binary-tree) |
 | LeetCode | [Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/) | cpp | [View Solution](./LeetCode/Hard/4-median-of-two-sorted-arrays) |
 | LeetCode | [Merge Close Characters](https://leetcode.com/problems/merge-close-characters/) | cpp | [View Solution](./LeetCode/Medium/3853-merge-close-characters) |
@@ -333,6 +362,7 @@ Showcasing my Data Structures, Algorithms, and Competitive Programming solutions
 | LeetCode | [Merge Strings Alternately](https://leetcode.com/problems/merge-strings-alternately/) | cpp | [View Solution](./LeetCode/Easy/1768-merge-strings-alternately) |
 | LeetCode | [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/) | cpp | [View Solution](./LeetCode/Easy/21-merge-two-sorted-lists) |
 | Codeforces | [MEX Game](https://codeforces.com/contest/2271/problem/B) | C++23 (GCC 14-64, msys2) | [View Solution](./Codeforces/2271/B) |
+| Codeforces | [MEX Multiset](https://codeforces.com/contest/2259/problem/D) | C++23 (GCC 14-64, msys2) | [View Solution](./Codeforces/2259/D) |
 | Codeforces | [MEX Partition](https://codeforces.com/contest/2160/problem/A) | C++23 (GCC 14-64, msys2) | [View Solution](./Codeforces/2160/A) |
 | Codeforces | [MEX rose](https://codeforces.com/contest/2149/problem/C) | C++23 (GCC 14-64, msys2) | [View Solution](./Codeforces/2149/C) |
 | Codeforces | [MEXor Mixup](https://codeforces.com/contest/1567/problem/B) | C++23 (GCC 14-64, msys2) | [View Solution](./Codeforces/1567/B) |
@@ -355,6 +385,7 @@ Showcasing my Data Structures, Algorithms, and Competitive Programming solutions
 | LeetCode | [Missing Number](https://leetcode.com/problems/missing-number/) | cpp | [View Solution](./LeetCode/Easy/268-missing-number) |
 | Codeforces | [Mocha and Math](https://codeforces.com/contest/1559/problem/A) | C++23 (GCC 14-64, msys2) | [View Solution](./Codeforces/1559/A) |
 | Codeforces | [Monocarp and Projects](https://codeforces.com/contest/2260/problem/B) | C++23 (GCC 14-64, msys2) | [View Solution](./Codeforces/2260/B) |
+| Codeforces | [Monocarp's Contest](https://codeforces.com/contest/2260/problem/A) | C++23 (GCC 14-64, msys2) | [View Solution](./Codeforces/2260/A) |
 | Codeforces | [Monsters](https://codeforces.com/contest/1849/problem/B) | C++23 (GCC 14-64, msys2) | [View Solution](./Codeforces/1849/B) |
 | Codeforces | [Move Brackets](https://codeforces.com/contest/1374/problem/C) | C++23 (GCC 14-64, msys2) | [View Solution](./Codeforces/1374/C) |
 | LeetCode | [Move Zeroes](https://leetcode.com/problems/move-zeroes/) | cpp | [View Solution](./LeetCode/Easy/283-move-zeroes) |
@@ -382,10 +413,12 @@ Showcasing my Data Structures, Algorithms, and Competitive Programming solutions
 | Codeforces | [Odd Grasshopper](https://codeforces.com/contest/1607/problem/B) | C++23 (GCC 14-64, msys2) | [View Solution](./Codeforces/1607/B) |
 | Codeforces | [Odd Queries](https://codeforces.com/contest/1807/problem/D) | C++23 (GCC 14-64, msys2) | [View Solution](./Codeforces/1807/D) |
 | Codeforces | [Olya and Game with Arrays](https://codeforces.com/contest/1859/problem/B) | C++23 (GCC 14-64, msys2) | [View Solution](./Codeforces/1859/B) |
+| Codeforces | [Omkar and Last Class of Math](https://codeforces.com/contest/1372/problem/B) | C++23 (GCC 14-64, msys2) | [View Solution](./Codeforces/1372/B) |
 | Codeforces | [One and Two](https://codeforces.com/contest/1788/problem/A) | C++20 (GCC 13-64) | [View Solution](./Codeforces/1788/A) |
 | LeetCode | [Online Majority Element In Subarray](https://leetcode.com/problems/online-majority-element-in-subarray/) | cpp | [View Solution](./LeetCode/Hard/1157-online-majority-element-in-subarray) |
 | Codeforces | [Only One Digit](https://codeforces.com/contest/2126/problem/A) | C++20 (GCC 13-64) | [View Solution](./Codeforces/2126/A) |
 | Codeforces | [Pacer](https://codeforces.com/contest/2148/problem/C) | C++23 (GCC 14-64, msys2) | [View Solution](./Codeforces/2148/C) |
+| Codeforces | [Paint the Array](https://codeforces.com/contest/1618/problem/C) | C++23 (GCC 14-64, msys2) | [View Solution](./Codeforces/1618/C) |
 | Codeforces | [Paint the Numbers](https://codeforces.com/contest/1209/problem/A) | C++23 (GCC 14-64, msys2) | [View Solution](./Codeforces/1209/A) |
 | LeetCode | [Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list/) | cpp | [View Solution](./LeetCode/Easy/234-palindrome-linked-list) |
 | LeetCode | [Palindrome Number](https://leetcode.com/problems/palindrome-number/) | cpp | [View Solution](./LeetCode/Easy/9-palindrome-number) |
@@ -398,14 +431,18 @@ Showcasing my Data Structures, Algorithms, and Competitive Programming solutions
 | Codeforces | [Pashmak and Flowers](https://codeforces.com/contest/459/problem/B) | C++23 (GCC 14-64, msys2) | [View Solution](./Codeforces/459/B) |
 | Codeforces | [Perfect Number](https://codeforces.com/contest/919/problem/B) | C++23 (GCC 14-64, msys2) | [View Solution](./Codeforces/919/B) |
 | Codeforces | [Perfect Root](https://codeforces.com/contest/2185/problem/A) | C++23 (GCC 14-64, msys2) | [View Solution](./Codeforces/2185/A) |
+| Codeforces | [Perfect Sandwiches](https://codeforces.com/contest/2276/problem/A) | C++23 (GCC 14-64, msys2) | [View Solution](./Codeforces/2276/A) |
 | LeetCode | [Permutation in String](https://leetcode.com/problems/permutation-in-string/) | cpp | [View Solution](./LeetCode/Medium/567-permutation-in-string) |
 | Codeforces | [Permutation Swap](https://codeforces.com/contest/1828/problem/B) | C++23 (GCC 14-64, msys2) | [View Solution](./Codeforces/1828/B) |
 | LeetCode | [Permutations](https://leetcode.com/problems/permutations/) | cpp | [View Solution](./LeetCode/Medium/46-permutations) |
 | LeetCode | [Permutations II](https://leetcode.com/problems/permutations-ii/) | cpp | [View Solution](./LeetCode/Medium/47-permutations-ii) |
 | Codeforces | [Petr and Book](https://codeforces.com/contest/139/problem/A) | C++20 (GCC 13-64) | [View Solution](./Codeforces/139/A) |
+| Codeforces | [Phoenix and Beauty](https://codeforces.com/contest/1348/problem/B) | C++23 (GCC 14-64, msys2) | [View Solution](./Codeforces/1348/B) |
+| Codeforces | [Phoenix and Gold](https://codeforces.com/contest/1515/problem/A) | C++23 (GCC 14-64, msys2) | [View Solution](./Codeforces/1515/A) |
 | Codeforces | [Playing in a Casino](https://codeforces.com/contest/1808/problem/B) | C++23 (GCC 14-64, msys2) | [View Solution](./Codeforces/1808/B) |
 | Codeforces | [Polycarp Recovers the Permutation](https://codeforces.com/contest/1611/problem/C) | C++23 (GCC 14-64, msys2) | [View Solution](./Codeforces/1611/C) |
 | LeetCode | [Populating Next Right Pointers in Each Node](https://leetcode.com/problems/populating-next-right-pointers-in-each-node/) | cpp | [View Solution](./LeetCode/Medium/116-populating-next-right-pointers-in-each-node) |
+| Codeforces | [Potions (Easy Version)](https://codeforces.com/contest/1526/problem/C1) | C++23 (GCC 14-64, msys2) | [View Solution](./Codeforces/1526/C1) |
 | LeetCode | [Pow(x, n)](https://leetcode.com/problems/powx-n/) | cpp | [View Solution](./LeetCode/Medium/50-powx-n) |
 | LeetCode | [Power of Four](https://leetcode.com/problems/power-of-four/) | cpp | [View Solution](./LeetCode/Easy/342-power-of-four) |
 | LeetCode | [Power of Two](https://leetcode.com/problems/power-of-two/) | cpp | [View Solution](./LeetCode/Easy/231-power-of-two) |
@@ -413,9 +450,11 @@ Showcasing my Data Structures, Algorithms, and Competitive Programming solutions
 | Codeforces | [Prefix Max](https://codeforces.com/contest/2185/problem/B) | C++23 (GCC 14-64, msys2) | [View Solution](./Codeforces/2185/B) |
 | Codeforces | [Prepend and Append](https://codeforces.com/contest/1791/problem/C) | C++20 (GCC 13-64) | [View Solution](./Codeforces/1791/C) |
 | Codeforces | [Product of Three Numbers](https://codeforces.com/contest/1294/problem/C) | C++23 (GCC 14-64, msys2) | [View Solution](./Codeforces/1294/C) |
+| Codeforces | [Quests](https://codeforces.com/contest/1914/problem/C) | C++23 (GCC 14-64, msys2) | [View Solution](./Codeforces/1914/C) |
 | Codeforces | [Queue](https://codeforces.com/contest/545/problem/D) | C++23 (GCC 14-64, msys2) | [View Solution](./Codeforces/545/D) |
 | Codeforces | [Race](https://codeforces.com/contest/2112/problem/A) | C++20 (GCC 13-64) | [View Solution](./Codeforces/2112/A) |
 | Codeforces | [Raising Bacteria](https://codeforces.com/contest/579/problem/A) | C++23 (GCC 14-64, msys2) | [View Solution](./Codeforces/579/A) |
+| Codeforces | [Random Teams](https://codeforces.com/contest/478/problem/B) | C++23 (GCC 14-64, msys2) | [View Solution](./Codeforces/478/B) |
 | Codeforces | [Raspberries](https://codeforces.com/contest/1883/problem/C) | C++23 (GCC 14-64, msys2) | [View Solution](./Codeforces/1883/C) |
 | LeetCode | [Rearrange Array Elements by Sign](https://leetcode.com/problems/rearrange-array-elements-by-sign/) | cpp | [View Solution](./LeetCode/Medium/2149-rearrange-array-elements-by-sign) |
 | Codeforces | [Reconnaissance 2](https://codeforces.com/contest/34/problem/A) | C++20 (GCC 13-64) | [View Solution](./Codeforces/34/A) |
@@ -436,6 +475,7 @@ Showcasing my Data Structures, Algorithms, and Competitive Programming solutions
 | Codeforces | [Restricted Sorting](https://codeforces.com/contest/2188/problem/C) | C++23 (GCC 14-64, msys2) | [View Solution](./Codeforces/2188/C) |
 | Codeforces | [Reverse a Permutation](https://codeforces.com/contest/2193/problem/B) | C++23 (GCC 14-64, msys2) | [View Solution](./Codeforces/2193/B) |
 | Codeforces | [Reverse a Substring](https://codeforces.com/contest/1155/problem/A) | C++23 (GCC 14-64, msys2) | [View Solution](./Codeforces/1155/A) |
+| LeetCode | [Reverse Degree of a String](https://leetcode.com/problems/reverse-degree-of-a-string/) | cpp | [View Solution](./LeetCode/Unknown/reverse-degree-of-a-string) |
 | LeetCode | [Reverse Integer](https://leetcode.com/problems/reverse-integer/) | cpp | [View Solution](./LeetCode/Medium/7-reverse-integer) |
 | LeetCode | [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/) | cpp | [View Solution](./LeetCode/Easy/206-reverse-linked-list) |
 | LeetCode | [Reverse String](https://leetcode.com/problems/reverse-string/) | cpp | [View Solution](./LeetCode/Easy/344-reverse-string) |
@@ -474,6 +514,7 @@ Showcasing my Data Structures, Algorithms, and Competitive Programming solutions
 | Codeforces | [Shell Game](https://codeforces.com/contest/777/problem/A) | C++23 (GCC 14-64, msys2) | [View Solution](./Codeforces/777/A) |
 | Codeforces | [Shizuku Hoshikawa and Farm Legs](https://codeforces.com/contest/2171/problem/A) | C++23 (GCC 14-64, msys2) | [View Solution](./Codeforces/2171/A) |
 | Codeforces | [Shoe Shuffling](https://codeforces.com/contest/1691/problem/B) | C++23 (GCC 14-64, msys2) | [View Solution](./Codeforces/1691/B) |
+| Codeforces | [Shuffle](https://codeforces.com/contest/1366/problem/B) | C++23 (GCC 14-64, msys2) | [View Solution](./Codeforces/1366/B) |
 | Codeforces | [Simons and Cakes for Success](https://codeforces.com/contest/2205/problem/B) | C++23 (GCC 14-64, msys2) | [View Solution](./Codeforces/2205/B) |
 | Codeforces | [Simons and Making It Beautiful](https://codeforces.com/contest/2205/problem/A) | C++23 (GCC 14-64, msys2) | [View Solution](./Codeforces/2205/A) |
 | Codeforces | [Simple Strings](https://codeforces.com/contest/665/problem/C) | C++23 (GCC 14-64, msys2) | [View Solution](./Codeforces/665/C) |
@@ -491,6 +532,7 @@ Showcasing my Data Structures, Algorithms, and Competitive Programming solutions
 | LeetCode | [Sort Colors](https://leetcode.com/problems/sort-colors/) | cpp | [View Solution](./LeetCode/Medium/75-sort-colors) |
 | LeetCode | [Sort List](https://leetcode.com/problems/sort-list/) | cpp | [View Solution](./LeetCode/Medium/148-sort-list) |
 | Codeforces | [Sort the Array](https://codeforces.com/contest/451/problem/B) | C++23 (GCC 14-64, msys2) | [View Solution](./Codeforces/451/B) |
+| Codeforces | [Sort the Subarray](https://codeforces.com/contest/1821/problem/B) | C++23 (GCC 14-64, msys2) | [View Solution](./Codeforces/1821/B) |
 | LeetCode | [Spiral Matrix](https://leetcode.com/problems/spiral-matrix/) | cpp | [View Solution](./LeetCode/Medium/54-spiral-matrix) |
 | LeetCode | [Split a String Into the Max Number of Unique Substrings](https://leetcode.com/problems/split-a-string-into-the-max-number-of-unique-substrings/) | cpp | [View Solution](./LeetCode/Medium/1593-split-a-string-into-the-max-number-of-unique-substrings) |
 | LeetCode | [Split Array Largest Sum](https://leetcode.com/problems/split-array-largest-sum/) | cpp | [View Solution](./LeetCode/Hard/410-split-array-largest-sum) |
@@ -500,6 +542,7 @@ Showcasing my Data Structures, Algorithms, and Competitive Programming solutions
 | LeetCode | [Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/) | cpp | [View Solution](./LeetCode/Easy/977-squares-of-a-sorted-array) |
 | Codeforces | [Stakes and Shapes](https://codeforces.com/contest/2278/problem/B) | C++23 (GCC 14-64, msys2) | [View Solution](./Codeforces/2278/B) |
 | Codeforces | [Stepan and Permutation](https://codeforces.com/contest/2244/problem/C) | C++23 (GCC 14-64, msys2) | [View Solution](./Codeforces/2244/C) |
+| Codeforces | [Stone Age Problem](https://codeforces.com/contest/1679/problem/B) | C++23 (GCC 14-64, msys2) | [View Solution](./Codeforces/1679/B) |
 | Codeforces | [Strange Partition](https://codeforces.com/contest/1471/problem/A) | C++23 (GCC 14-64, msys2) | [View Solution](./Codeforces/1471/A) |
 | Codeforces | [String Construction](https://codeforces.com/contest/2250/problem/B) | C++23 (GCC 14-64, msys2) | [View Solution](./Codeforces/2250/B) |
 | Codeforces | [String Task](https://codeforces.com/contest/118/problem/A) | C++20 (GCC 13-64) | [View Solution](./Codeforces/118/A) |
@@ -514,15 +557,18 @@ Showcasing my Data Structures, Algorithms, and Competitive Programming solutions
 | LeetCode | [Subsets](https://leetcode.com/problems/subsets/) | cpp | [View Solution](./LeetCode/Medium/78-subsets) |
 | LeetCode | [Subsets II](https://leetcode.com/problems/subsets-ii/) | cpp | [View Solution](./LeetCode/Medium/90-subsets-ii) |
 | LeetCode | [Substrings of Size Three with Distinct Characters](https://leetcode.com/problems/substrings-of-size-three-with-distinct-characters/) | cpp | [View Solution](./LeetCode/Easy/1876-substrings-of-size-three-with-distinct-characters) |
+| Codeforces | [Subtract Operation](https://codeforces.com/contest/1656/problem/B) | C++23 (GCC 14-64, msys2) | [View Solution](./Codeforces/1656/B) |
 | LeetCode | [Sum of Beauty of All Substrings](https://leetcode.com/problems/sum-of-beauty-of-all-substrings/) | cpp | [View Solution](./LeetCode/Medium/1781-sum-of-beauty-of-all-substrings) |
 | LeetCode | [Sum of Integers with Maximum Digit Range](https://leetcode.com/problems/sum-of-integers-with-maximum-digit-range/) | cpp | [View Solution](./LeetCode/Easy/3982-sum-of-integers-with-maximum-digit-range) |
 | Codeforces | [Sum of Medians](https://codeforces.com/contest/1440/problem/B) | C++23 (GCC 14-64, msys2) | [View Solution](./Codeforces/1440/B) |
+| Codeforces | [Sum of Round Numbers](https://codeforces.com/contest/1352/problem/A) | C++23 (GCC 14-64, msys2) | [View Solution](./Codeforces/1352/A) |
 | LeetCode | [Sum of Subarray Ranges](https://leetcode.com/problems/sum-of-subarray-ranges/) | cpp | [View Solution](./LeetCode/Medium/2104-sum-of-subarray-ranges) |
 | Codeforces | [Supercentral Point](https://codeforces.com/contest/165/problem/A) | C++20 (GCC 13-64) | [View Solution](./Codeforces/165/A) |
 | LeetCode | [Surrounded Regions](https://leetcode.com/problems/surrounded-regions/) | cpp | [View Solution](./LeetCode/Medium/130-surrounded-regions) |
 | Codeforces | [Sushi for Two](https://codeforces.com/contest/1138/problem/A) | C++23 (GCC 14-64, msys2) | [View Solution](./Codeforces/1138/A) |
 | Codeforces | [Suspension](https://codeforces.com/contest/2158/problem/A) | C++23 (GCC 14-64, msys2) | [View Solution](./Codeforces/2158/A) |
 | Codeforces | [Swap and Delete](https://codeforces.com/contest/1913/problem/B) | C++23 (GCC 14-64, msys2) | [View Solution](./Codeforces/1913/B) |
+| LeetCode | [Symmetric Tree](https://leetcode.com/problems/symmetric-tree/) | cpp | [View Solution](./LeetCode/Unknown/symmetric-tree) |
 | Codeforces | [T-primes](https://codeforces.com/contest/230/problem/B) | C++23 (GCC 14-64, msys2) | [View Solution](./Codeforces/230/B) |
 | Codeforces | [Target Practice](https://codeforces.com/contest/1873/problem/C) | C++20 (GCC 13-64) | [View Solution](./Codeforces/1873/C) |
 | LeetCode | [Target Sum](https://leetcode.com/problems/target-sum/) | cpp | [View Solution](./LeetCode/Medium/494-target-sum) |
@@ -536,6 +582,7 @@ Showcasing my Data Structures, Algorithms, and Competitive Programming solutions
 | LeetCode | [Three Consecutive Odds](https://leetcode.com/problems/three-consecutive-odds/) | cpp | [View Solution](./LeetCode/Easy/1550-three-consecutive-odds) |
 | Codeforces | [Three Indices](https://codeforces.com/contest/1380/problem/A) | C++23 (GCC 14-64, msys2) | [View Solution](./Codeforces/1380/A) |
 | Codeforces | [Three Piles](https://codeforces.com/contest/2266/problem/B) | C++23 (GCC 14-64, msys2) | [View Solution](./Codeforces/2266/B) |
+| Codeforces | [Three Piles](https://codeforces.com/contest/2290/problem/A) | C++23 (GCC 14-64, msys2) | [View Solution](./Codeforces/2290/A) |
 | Codeforces | [Threshold Movement](https://codeforces.com/contest/2250/problem/A) | C++23 (GCC 14-64, msys2) | [View Solution](./Codeforces/2250/A) |
 | LeetCode | [Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/) | cpp | [View Solution](./LeetCode/Medium/347-top-k-frequent-elements) |
 | LeetCode | [Total Distance Traveled](https://leetcode.com/problems/total-distance-traveled/) | cpp | [View Solution](./LeetCode/Unknown/total-distance-traveled) |
@@ -563,6 +610,7 @@ Showcasing my Data Structures, Algorithms, and Competitive Programming solutions
 | LeetCode | [Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/) | cpp | [View Solution](./LeetCode/Medium/98-validate-binary-search-tree) |
 | Codeforces | [Vasilije in Cacak](https://codeforces.com/contest/1878/problem/C) | C++23 (GCC 14-64, msys2) | [View Solution](./Codeforces/1878/C) |
 | LeetCode | [Vertical Order Traversal of a Binary Tree](https://leetcode.com/problems/vertical-order-traversal-of-a-binary-tree/) | cpp | [View Solution](./LeetCode/Hard/987-vertical-order-traversal-of-a-binary-tree) |
+| Codeforces | [Virus](https://codeforces.com/contest/1704/problem/C) | C++23 (GCC 14-64, msys2) | [View Solution](./Codeforces/1704/C) |
 | Codeforces | [Walking Master](https://codeforces.com/contest/1806/problem/A) | C++20 (GCC 13-64) | [View Solution](./Codeforces/1806/A) |
 | Codeforces | [Watermelon](https://codeforces.com/contest/4/problem/A) | C++20 (GCC 13-64) | [View Solution](./Codeforces/4/A) |
 | Codeforces | [Way Too Long Words](https://codeforces.com/contest/71/problem/A) | C++20 (GCC 13-64) | [View Solution](./Codeforces/71/A) |
@@ -570,6 +618,7 @@ Showcasing my Data Structures, Algorithms, and Competitive Programming solutions
 | LeetCode | [Weighted Word Mapping](https://leetcode.com/problems/weighted-word-mapping/) | cpp | [View Solution](./LeetCode/Easy/3838-weighted-word-mapping) |
 | Codeforces | [What's the Capital of France?](https://codeforces.com/contest/2261/problem/B) | C++23 (GCC 14-64, msys2) | [View Solution](./Codeforces/2261/B) |
 | Codeforces | [Who Watches the Watchpig?](https://codeforces.com/contest/2245/problem/A) | C++23 (GCC 14-64, msys2) | [View Solution](./Codeforces/2245/A) |
+| Codeforces | [Winner](https://codeforces.com/contest/2/problem/A) | C++23 (GCC 14-64, msys2) | [View Solution](./Codeforces/2/A) |
 | LeetCode | [Word Break](https://leetcode.com/problems/word-break/) | cpp | [View Solution](./LeetCode/Medium/139-word-break) |
 | LeetCode | [Word Ladder](https://leetcode.com/problems/word-ladder/) | cpp | [View Solution](./LeetCode/Hard/127-word-ladder) |
 | Codeforces | [XOR Problem](https://codeforces.com/contest/2271/problem/C) | C++23 (GCC 14-64, msys2) | [View Solution](./Codeforces/2271/C) |
@@ -578,6 +627,7 @@ Showcasing my Data Structures, Algorithms, and Competitive Programming solutions
 | Codeforces | [Yaroslav and Permutations](https://codeforces.com/contest/296/problem/A) | C++23 (GCC 14-64, msys2) | [View Solution](./Codeforces/296/A) |
 | Codeforces | [Yet Another Array Problem](https://codeforces.com/contest/2167/problem/D) | C++23 (GCC 14-64, msys2) | [View Solution](./Codeforces/2167/D) |
 | Codeforces | [Yet Another Black Cell Problem](https://codeforces.com/contest/2272/problem/C) | C++23 (GCC 14-64, msys2) | [View Solution](./Codeforces/2272/C) |
+| Codeforces | [Yet Another Card Deck](https://codeforces.com/contest/1511/problem/C) | C++23 (GCC 14-64, msys2) | [View Solution](./Codeforces/1511/C) |
 | Codeforces | [Young Physicist](https://codeforces.com/contest/69/problem/A) | C++20 (GCC 13-64) | [View Solution](./Codeforces/69/A) |
 | Codeforces | [Your Name](https://codeforces.com/contest/2167/problem/B) | C++23 (GCC 14-64, msys2) | [View Solution](./Codeforces/2167/B) |
 
