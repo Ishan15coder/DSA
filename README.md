@@ -4,7 +4,7 @@ Showcasing my Data Structures, Algorithms, and Competitive Programming solutions
 
 <p align="center">
   <img src="https://img.shields.io/badge/LeetCode-262_Solved-FFA116?style=for-the-badge&logo=leetcode" alt="LeetCode" />
-  <img src="https://img.shields.io/badge/Codeforces-305_Solved-1F8ACB?style=for-the-badge&logo=codeforces" alt="Codeforces" />
+  <img src="https://img.shields.io/badge/Codeforces-307_Solved-1F8ACB?style=for-the-badge&logo=codeforces" alt="Codeforces" />
   <img src="https://img.shields.io/badge/CSES-0_Solved-000000?style=for-the-badge&logo=code" alt="CSES" />
   <img src="https://img.shields.io/badge/GeeksforGeeks-0_Solved-2F8D46?style=for-the-badge&logo=geeksforgeeks" alt="GeeksforGeeks" />
 </p>
@@ -14,10 +14,10 @@ Showcasing my Data Structures, Algorithms, and Competitive Programming solutions
 | Platform | Solved Count | Solutions Tracked |
 | :--- | :---: | :--- |
 | **LeetCode** | 262 | [ `/LeetCode`](./LeetCode) |
-| **Codeforces** | 305 | [ `/Codeforces`](./Codeforces) |
+| **Codeforces** | 307 | [ `/Codeforces`](./Codeforces) |
 | **CSES Problemset** | 0 | [ `/CSES`](./CSES) |
 | **GeeksforGeeks** | 0 | [ `/GeeksForGeeks`](./GeeksForGeeks) |
-| **Total Solved** | **567** | [ `submission_history.json`](./submission_history.json) |
+| **Total Solved** | **569** | [ `submission_history.json`](./submission_history.json) |
 
 ## Codeforces Rating Breakdown
 
@@ -29,7 +29,7 @@ Showcasing my Data Structures, Algorithms, and Competitive Programming solutions
 | **1400 - 1500** | 7 |
 | **1600 - 1800** | 0 |
 | **1900+** | 0 |
-| **Unrated** | 50 |
+| **Unrated** | 52 |
 
 ## LeetCode Progress Dashboard
 
@@ -119,6 +119,7 @@ Showcasing my Data Structures, Algorithms, and Competitive Programming solutions
 | Codeforces | [Blank Space](https://codeforces.com/contest/1829/problem/B) | C++20 (GCC 13-64) | [View Solution](./Codeforces/1829/B) |
 | Codeforces | [Blocked](https://codeforces.com/contest/2220/problem/A) | C++23 (GCC 14-64, msys2) | [View Solution](./Codeforces/2220/A) |
 | Codeforces | [Bogosort](https://codeforces.com/contest/1312/problem/B) | C++23 (GCC 14-64, msys2) | [View Solution](./Codeforces/1312/B) |
+| Codeforces | [Books on a Shelf](https://codeforces.com/contest/2290/problem/C) | C++23 (GCC 14-64, msys2) | [View Solution](./Codeforces/2290/C) |
 | Codeforces | [Boy or Girl](https://codeforces.com/contest/236/problem/A) | C++20 (GCC 13-64) | [View Solution](./Codeforces/236/A) |
 | LeetCode | [Build an Array With Stack Operations](https://leetcode.com/problems/build-an-array-with-stack-operations/) | cpp | [View Solution](./LeetCode/Medium/1441-build-an-array-with-stack-operations) |
 | LeetCode | [Build Array from Permutation](https://leetcode.com/problems/build-array-from-permutation/) | cpp | [View Solution](./LeetCode/Easy/1920-build-array-from-permutation) |
@@ -547,6 +548,7 @@ Showcasing my Data Structures, Algorithms, and Competitive Programming solutions
 | Codeforces | [String Construction](https://codeforces.com/contest/2250/problem/B) | C++23 (GCC 14-64, msys2) | [View Solution](./Codeforces/2250/B) |
 | Codeforces | [String Task](https://codeforces.com/contest/118/problem/A) | C++20 (GCC 13-64) | [View Solution](./Codeforces/118/A) |
 | LeetCode | [String to Integer (atoi)](https://leetcode.com/problems/string-to-integer-atoi/) | cpp | [View Solution](./LeetCode/Medium/8-string-to-integer-atoi) |
+| Codeforces | [Stubborn Pen](https://codeforces.com/contest/2290/problem/B) | C++23 (GCC 14-64, msys2) | [View Solution](./Codeforces/2290/B) |
 | LeetCode | [Subarray Product Less Than K](https://leetcode.com/problems/subarray-product-less-than-k/) | cpp | [View Solution](./LeetCode/Medium/713-subarray-product-less-than-k) |
 | LeetCode | [Subarray Sum Equals K](https://leetcode.com/problems/subarray-sum-equals-k/) | cpp | [View Solution](./LeetCode/Medium/560-subarray-sum-equals-k) |
 | Codeforces | [Subarrays](https://codeforces.com/contest/2276/problem/C) | C++23 (GCC 14-64, msys2) | [View Solution](./Codeforces/2276/C) |
@@ -581,8 +583,8 @@ Showcasing my Data Structures, Algorithms, and Competitive Programming solutions
 | LeetCode | [The Two Sneaky Numbers of Digitville](https://leetcode.com/problems/the-two-sneaky-numbers-of-digitville/) | cpp | [View Solution](./LeetCode/Easy/3289-the-two-sneaky-numbers-of-digitville) |
 | LeetCode | [Three Consecutive Odds](https://leetcode.com/problems/three-consecutive-odds/) | cpp | [View Solution](./LeetCode/Easy/1550-three-consecutive-odds) |
 | Codeforces | [Three Indices](https://codeforces.com/contest/1380/problem/A) | C++23 (GCC 14-64, msys2) | [View Solution](./Codeforces/1380/A) |
-| Codeforces | [Three Piles](https://codeforces.com/contest/2266/problem/B) | C++23 (GCC 14-64, msys2) | [View Solution](./Codeforces/2266/B) |
 | Codeforces | [Three Piles](https://codeforces.com/contest/2290/problem/A) | C++23 (GCC 14-64, msys2) | [View Solution](./Codeforces/2290/A) |
+| Codeforces | [Three Piles](https://codeforces.com/contest/2266/problem/B) | C++23 (GCC 14-64, msys2) | [View Solution](./Codeforces/2266/B) |
 | Codeforces | [Threshold Movement](https://codeforces.com/contest/2250/problem/A) | C++23 (GCC 14-64, msys2) | [View Solution](./Codeforces/2250/A) |
 | LeetCode | [Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/) | cpp | [View Solution](./LeetCode/Medium/347-top-k-frequent-elements) |
 | LeetCode | [Total Distance Traveled](https://leetcode.com/problems/total-distance-traveled/) | cpp | [View Solution](./LeetCode/Unknown/total-distance-traveled) |
