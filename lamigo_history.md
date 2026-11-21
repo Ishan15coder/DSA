@@ -4,6 +4,7 @@ A complete history of all accepted submissions synced by L'Amigo.
 
 | Date | Platform | Problem | Language |
 | :--- | :--- | :--- | :--- |
+| 2026-11-21 | Leetcode | Search in Rotated Sorted Array II | cpp |
 | 2026-11-21 | Leetcode | Search in Rotated Sorted Array | cpp |
 | 2026-11-17 | Codeforces | Books on a Shelf | C++23 (GCC 14-64, msys2) |
 | 2026-11-17 | Codeforces | Stubborn Pen | C++23 (GCC 14-64, msys2) |
