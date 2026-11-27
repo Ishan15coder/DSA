@@ -4,7 +4,7 @@ Showcasing my Data Structures, Algorithms, and Competitive Programming solutions
 
 <p align="center">
   <img src="https://img.shields.io/badge/LeetCode-262_Solved-FFA116?style=for-the-badge&logo=leetcode" alt="LeetCode" />
-  <img src="https://img.shields.io/badge/Codeforces-309_Solved-1F8ACB?style=for-the-badge&logo=codeforces" alt="Codeforces" />
+  <img src="https://img.shields.io/badge/Codeforces-310_Solved-1F8ACB?style=for-the-badge&logo=codeforces" alt="Codeforces" />
   <img src="https://img.shields.io/badge/CSES-0_Solved-000000?style=for-the-badge&logo=code" alt="CSES" />
   <img src="https://img.shields.io/badge/GeeksforGeeks-0_Solved-2F8D46?style=for-the-badge&logo=geeksforgeeks" alt="GeeksforGeeks" />
 </p>
@@ -14,10 +14,10 @@ Showcasing my Data Structures, Algorithms, and Competitive Programming solutions
 | Platform | Solved Count | Solutions Tracked |
 | :--- | :---: | :--- |
 | **LeetCode** | 262 | [ `/LeetCode`](./LeetCode) |
-| **Codeforces** | 309 | [ `/Codeforces`](./Codeforces) |
+| **Codeforces** | 310 | [ `/Codeforces`](./Codeforces) |
 | **CSES Problemset** | 0 | [ `/CSES`](./CSES) |
 | **GeeksforGeeks** | 0 | [ `/GeeksForGeeks`](./GeeksForGeeks) |
-| **Total Solved** | **571** | [ `submission_history.json`](./submission_history.json) |
+| **Total Solved** | **572** | [ `submission_history.json`](./submission_history.json) |
 
 ## Codeforces Rating Breakdown
 
@@ -29,7 +29,7 @@ Showcasing my Data Structures, Algorithms, and Competitive Programming solutions
 | **1400 - 1500** | 7 |
 | **1600 - 1800** | 0 |
 | **1900+** | 0 |
-| **Unrated** | 54 |
+| **Unrated** | 55 |
 
 ## LeetCode Progress Dashboard
 
@@ -236,6 +236,7 @@ Showcasing my Data Structures, Algorithms, and Competitive Programming solutions
 | LeetCode | [Find the Smallest Divisor Given a Threshold](https://leetcode.com/problems/find-the-smallest-divisor-given-a-threshold/) | cpp | [View Solution](./LeetCode/Medium/1283-find-the-smallest-divisor-given-a-threshold) |
 | LeetCode | [Find Words Containing Character](https://leetcode.com/problems/find-words-containing-character/) | cpp | [View Solution](./LeetCode/Easy/2942-find-words-containing-character) |
 | LeetCode | [Find X-Sum of All K-Long Subarrays I](https://leetcode.com/problems/find-x-sum-of-all-k-long-subarrays-i/) | cpp | [View Solution](./LeetCode/Easy/3318-find-x-sum-of-all-k-long-subarrays-i) |
+| Codeforces | [Finding Shapes in the Clouds](https://codeforces.com/contest/2292/problem/C) | C++23 (GCC 14-64, msys2) | [View Solution](./Codeforces/2292/C) |
 | LeetCode | [First Bad Version](https://leetcode.com/problems/first-bad-version/) | cpp | [View Solution](./LeetCode/Easy/278-first-bad-version) |
 | LeetCode | [First Letter to Appear Twice](https://leetcode.com/problems/first-letter-to-appear-twice/) | cpp | [View Solution](./LeetCode/Easy/2351-first-letter-to-appear-twice) |
 | LeetCode | [First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string/) | cpp | [View Solution](./LeetCode/Easy/387-first-unique-character-in-a-string) |
