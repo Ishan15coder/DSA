@@ -4,7 +4,7 @@ Showcasing my Data Structures, Algorithms, and Competitive Programming solutions
 
 <p align="center">
   <img src="https://img.shields.io/badge/LeetCode-262_Solved-FFA116?style=for-the-badge&logo=leetcode" alt="LeetCode" />
-  <img src="https://img.shields.io/badge/Codeforces-308_Solved-1F8ACB?style=for-the-badge&logo=codeforces" alt="Codeforces" />
+  <img src="https://img.shields.io/badge/Codeforces-309_Solved-1F8ACB?style=for-the-badge&logo=codeforces" alt="Codeforces" />
   <img src="https://img.shields.io/badge/CSES-0_Solved-000000?style=for-the-badge&logo=code" alt="CSES" />
   <img src="https://img.shields.io/badge/GeeksforGeeks-0_Solved-2F8D46?style=for-the-badge&logo=geeksforgeeks" alt="GeeksforGeeks" />
 </p>
@@ -14,10 +14,10 @@ Showcasing my Data Structures, Algorithms, and Competitive Programming solutions
 | Platform | Solved Count | Solutions Tracked |
 | :--- | :---: | :--- |
 | **LeetCode** | 262 | [ `/LeetCode`](./LeetCode) |
-| **Codeforces** | 308 | [ `/Codeforces`](./Codeforces) |
+| **Codeforces** | 309 | [ `/Codeforces`](./Codeforces) |
 | **CSES Problemset** | 0 | [ `/CSES`](./CSES) |
 | **GeeksforGeeks** | 0 | [ `/GeeksForGeeks`](./GeeksForGeeks) |
-| **Total Solved** | **570** | [ `submission_history.json`](./submission_history.json) |
+| **Total Solved** | **571** | [ `submission_history.json`](./submission_history.json) |
 
 ## Codeforces Rating Breakdown
 
@@ -29,7 +29,7 @@ Showcasing my Data Structures, Algorithms, and Competitive Programming solutions
 | **1400 - 1500** | 7 |
 | **1600 - 1800** | 0 |
 | **1900+** | 0 |
-| **Unrated** | 53 |
+| **Unrated** | 54 |
 
 ## LeetCode Progress Dashboard
 
@@ -262,6 +262,7 @@ Showcasing my Data Structures, Algorithms, and Competitive Programming solutions
 | Codeforces | [Good Contest](https://codeforces.com/contest/2266/problem/A) | C++23 (GCC 14-64, msys2) | [View Solution](./Codeforces/2266/A) |
 | Codeforces | [Good times Good times](https://codeforces.com/contest/2241/problem/B) | C++23 (GCC 14-64, msys2) | [View Solution](./Codeforces/2241/B) |
 | Codeforces | [Gotta Catch Em' All!](https://codeforces.com/contest/757/problem/A) | C++23 (GCC 14-64, msys2) | [View Solution](./Codeforces/757/A) |
+| Codeforces | [Grapefruit Juice](https://codeforces.com/contest/2292/problem/B) | C++23 (GCC 14-64, msys2) | [View Solution](./Codeforces/2292/B) |
 | Codeforces | [Grasshopper on a Line](https://codeforces.com/contest/1837/problem/A) | C++20 (GCC 13-64) | [View Solution](./Codeforces/1837/A) |
 | LeetCode | [H-Index](https://leetcode.com/problems/h-index/) | cpp | [View Solution](./LeetCode/Medium/274-h-index) |
 | Codeforces | [Halloumi Boxes](https://codeforces.com/contest/1903/problem/A) | C++20 (GCC 13-64) | [View Solution](./Codeforces/1903/A) |
