@@ -4,7 +4,7 @@ Showcasing my Data Structures, Algorithms, and Competitive Programming solutions
 
 <p align="center">
   <img src="https://img.shields.io/badge/LeetCode-262_Solved-FFA116?style=for-the-badge&logo=leetcode" alt="LeetCode" />
-  <img src="https://img.shields.io/badge/Codeforces-307_Solved-1F8ACB?style=for-the-badge&logo=codeforces" alt="Codeforces" />
+  <img src="https://img.shields.io/badge/Codeforces-308_Solved-1F8ACB?style=for-the-badge&logo=codeforces" alt="Codeforces" />
   <img src="https://img.shields.io/badge/CSES-0_Solved-000000?style=for-the-badge&logo=code" alt="CSES" />
   <img src="https://img.shields.io/badge/GeeksforGeeks-0_Solved-2F8D46?style=for-the-badge&logo=geeksforgeeks" alt="GeeksforGeeks" />
 </p>
@@ -14,10 +14,10 @@ Showcasing my Data Structures, Algorithms, and Competitive Programming solutions
 | Platform | Solved Count | Solutions Tracked |
 | :--- | :---: | :--- |
 | **LeetCode** | 262 | [ `/LeetCode`](./LeetCode) |
-| **Codeforces** | 307 | [ `/Codeforces`](./Codeforces) |
+| **Codeforces** | 308 | [ `/Codeforces`](./Codeforces) |
 | **CSES Problemset** | 0 | [ `/CSES`](./CSES) |
 | **GeeksforGeeks** | 0 | [ `/GeeksForGeeks`](./GeeksForGeeks) |
-| **Total Solved** | **569** | [ `submission_history.json`](./submission_history.json) |
+| **Total Solved** | **570** | [ `submission_history.json`](./submission_history.json) |
 
 ## Codeforces Rating Breakdown
 
@@ -29,7 +29,7 @@ Showcasing my Data Structures, Algorithms, and Competitive Programming solutions
 | **1400 - 1500** | 7 |
 | **1600 - 1800** | 0 |
 | **1900+** | 0 |
-| **Unrated** | 52 |
+| **Unrated** | 53 |
 
 ## LeetCode Progress Dashboard
 
@@ -440,6 +440,7 @@ Showcasing my Data Structures, Algorithms, and Competitive Programming solutions
 | Codeforces | [Petr and Book](https://codeforces.com/contest/139/problem/A) | C++20 (GCC 13-64) | [View Solution](./Codeforces/139/A) |
 | Codeforces | [Phoenix and Beauty](https://codeforces.com/contest/1348/problem/B) | C++23 (GCC 14-64, msys2) | [View Solution](./Codeforces/1348/B) |
 | Codeforces | [Phoenix and Gold](https://codeforces.com/contest/1515/problem/A) | C++23 (GCC 14-64, msys2) | [View Solution](./Codeforces/1515/A) |
+| Codeforces | [Picnic for Two](https://codeforces.com/contest/2292/problem/A) | C++23 (GCC 14-64, msys2) | [View Solution](./Codeforces/2292/A) |
 | Codeforces | [Playing in a Casino](https://codeforces.com/contest/1808/problem/B) | C++23 (GCC 14-64, msys2) | [View Solution](./Codeforces/1808/B) |
 | Codeforces | [Polycarp Recovers the Permutation](https://codeforces.com/contest/1611/problem/C) | C++23 (GCC 14-64, msys2) | [View Solution](./Codeforces/1611/C) |
 | LeetCode | [Populating Next Right Pointers in Each Node](https://leetcode.com/problems/populating-next-right-pointers-in-each-node/) | cpp | [View Solution](./LeetCode/Medium/116-populating-next-right-pointers-in-each-node) |
