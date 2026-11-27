@@ -4,6 +4,7 @@ A complete history of all accepted submissions synced by L'Amigo.
 
 | Date | Platform | Problem | Language |
 | :--- | :--- | :--- | :--- |
+| 2026-11-27 | Codeforces | Finding Shapes in the Clouds | C++23 (GCC 14-64, msys2) |
 | 2026-11-27 | Codeforces | Grapefruit Juice | C++23 (GCC 14-64, msys2) |
 | 2026-11-27 | Codeforces | Picnic for Two | C++23 (GCC 14-64, msys2) |
 | 2026-11-21 | Leetcode | Search in Rotated Sorted Array II | cpp |
