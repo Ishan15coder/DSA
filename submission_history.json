@@ -1,6 +1,17 @@
 [
   {
     "difficulty": "Easy",
+    "id": "400026375",
+    "lang": "C++23 (GCC 14-64, msys2)",
+    "platform": "codeforces",
+    "rating": 0,
+    "statusDisplay": "Accepted",
+    "timestamp": 1795791673000,
+    "title": "Grapefruit Juice",
+    "titleSlug": "2292/B"
+  },
+  {
+    "difficulty": "Easy",
     "id": "400022143",
     "lang": "C++23 (GCC 14-64, msys2)",
     "platform": "codeforces",
@@ -6156,14 +6167,14 @@
     "titleSlug": "valid-anagram"
   },
   {
-    "title": "Grapefruit Juice",
-    "titleSlug": "2292/B",
-    "timestamp": 1795791673000,
+    "title": "Finding Shapes in the Clouds",
+    "titleSlug": "2292/C",
+    "timestamp": 1795794758000,
     "statusDisplay": "Accepted",
     "lang": "C++23 (GCC 14-64, msys2)",
-    "id": "400026375",
+    "id": "400049923",
     "platform": "codeforces",
-    "difficulty": "Easy",
+    "difficulty": "Medium",
     "rating": 0
   }
 ]
